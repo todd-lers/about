@@ -53,24 +53,13 @@ body {
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
 
     <div class="topnav">
-      <a class="btn active" href="./">Home</a>
-      <a class="btn" href="./research.html">Research</a>
-      <a class="btn" href="./publications.html">Publications</a>
-      <a class="btn" href="./group.html">Group</a>
+      <a href="./">Home</a>
+      <a href="./research.html">Research</a>
+      <a href="./publications.html">Publications</a>
+      <a href="./group.html">Group</a>
     </div>
 
-    <script>
-// Add active class to the current button (highlight it)
-var header = document.getElementById("topnav");
-var btns = header.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-  var current = document.getElementsByClassName("active");
-  current[0].className = current[0].className.replace(" active", "");
-  this.className += " active";
-  });
-}
-</script>
+
 
           {% if site.show_downloads %}
             <section id="downloads">

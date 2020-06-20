@@ -54,7 +54,7 @@ A. Guardia, J. Baiget, M. Cacho, A. Pérez, M. Ortega-Guerra, W. Nxumalo, S. D. 
 
 ### 2015
 
-1. [Efficient Deprotection of F-BODIPY Derivatives: Removal of BF2 using Brønsted Acids](https://doi.org/10.3762/bjoc.11.6), M. Yu, J. K.-H. Wong, C. Tang, P. Turner, M. H. Todd and P. J. Rutledge, _Beilstein J. Org. Chem._ **2015**, _11_, 37–41. DOI: 10.3762/bjoc.11.6
+1. [Efficient Deprotection of _F_-BODIPY Derivatives: Removal of BF2 using Brønsted Acids](https://doi.org/10.3762/bjoc.11.6), M. Yu, J. K.-H. Wong, C. Tang, P. Turner, M. H. Todd and P. J. Rutledge, _Beilstein J. Org. Chem._ **2015**, _11_, 37–41. DOI: 10.3762/bjoc.11.6
 
 1. [Using Click Chemistry to Tune the Properties and the Fluorescence Response Mechanism of Structurally Similar Probes for Metal Ions](https://doi.org/10.1002/ejic.201402811), S. Ast, S. Kuke, P. J. Rutledge and M. H. Todd, _Eur. J. Inorg. Chem._ **2015**, 58-66. DOI: 10.1002/ejic.201402811
 

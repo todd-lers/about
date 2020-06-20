@@ -5,7 +5,7 @@ layout: default
 
 **Professor Matthew Todd** (Principal Investigator, [LinkedIn](https://www.linkedin.com/in/matthew-todd-81633313/), [Twitter](https://twitter.com/MatToddChem), [Blog](https://intermolecular.wordpress.com/))  
 
-<img src="./group member pix/Meds_for_all.jpg" height="300"> </img>
+<img src="/group member pix/Meds_for_all.jpg" height="300">
 
 Mat Todd was born in Manchester, England. He was educated at Cambridge University where he obtained an MA in Natural Sciences in 1995 and a PhD in organic chemistry (with Chris Abell) in 1999. He was then a Wellcome Trust postdoc at The University of California, Berkeley (99-00), a College Fellow back at New Hall (now Murray Edwards) College, Cambridge University (00-01), a Lecturer in Chemistry at Queen Mary, University of London (01-05) and between 2005 and 2018 was at the School of Chemistry, The University of Sydney where he moved from Lecturer to Associate Professor. He is now Professor and Chair of Drug Discovery at University College London (2018-).
 

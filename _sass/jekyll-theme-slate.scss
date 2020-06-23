@@ -252,7 +252,6 @@ form {
   padding: 20px;
 }
 
-
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
@@ -506,6 +505,11 @@ margin: 0;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
+background-color: #ddd;
+color: black;
+}
+
+.navbar a.active {
 background-color: #4CAF50;
 }
 

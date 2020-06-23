@@ -9,11 +9,11 @@ layout: default
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Fahima Idiris** <br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist at Pharmaron|
 |**Robert Hanson** <br/>[LinkedIn](https://www.linkedin.com/in/robert-hanson-77073611/)|Sabbatical Visitor|2020|Professor at Northeastern University|
 |**Gareth (Bryn) Parry** <br/>[LinkedIn](https://www.linkedin.com/in/gareth-bryn-parry-358204194/)|MSc|2019|
 |**Luxsika Rajendra** <br/>[LinkedIn](https://www.linkedin.com/in/luxsika-rajendra-7b6858151/)|MSc|2019|Clinical Trial Assistant at Medpace|
 |**Manisha Virdi** <br/>[LinkedIn](https://www.linkedin.com/in/manisha-virdi-44251a147/)|MSc|2019|Strategic Account Executive at GlobalData Healthcare|
-|||||[]()|
 
 ## University of Sydney
 

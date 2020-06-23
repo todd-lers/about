@@ -1,11 +1,18 @@
 ---
-layout: default
+layout: profile
 ---
 
-
-**Professor Matthew Todd** (Principal Investigator, [LinkedIn](https://www.linkedin.com/in/matthew-todd-81633313/), [Twitter](https://twitter.com/MatToddChem), [Blog](https://intermolecular.wordpress.com/))  
-
-<img src="./group member pix/Meds_for_all.jpg" height="300">
+  <div class="card">
+    <img src="./pics/group/Meds_for_all.jpg" width="90%">
+    <h4>Professor Matthew Todd</h4>
+    <p class="title">Principal Investigator</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/matthew-todd-81633313/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/MatToddChem"><i class="fa fa-twitter"></i></a>  
+      <a href="https://intermolecular.wordpress.com/"><i class="fa fa-wordpress"></i></a>
+    </div>
+  </div>
 
 Mat Todd was born in Manchester, England. He was educated at Cambridge University where he obtained an MA in Natural Sciences in 1995 and a PhD in organic chemistry (with Chris Abell) in 1999. He was then a Wellcome Trust postdoc at The University of California, Berkeley (99-00), a College Fellow back at New Hall (now Murray Edwards) College, Cambridge University (00-01), a Lecturer in Chemistry at Queen Mary, University of London (01-05) and between 2005 and 2018 was at the School of Chemistry, The University of Sydney where he moved from Lecturer to Associate Professor. He is now Professor and Chair of Drug Discovery at University College London (2018-).
 
@@ -13,28 +20,100 @@ His research interests include the development of new ways to make molecules, pa
 
 He has a significant interest in open science, and how it may be used to accelerate research, with particular emphasis on open source discovery of new medicines. He founded and currently leads several open science consortia such as [Open Source Malaria (OSM)](http://opensourcemalaria.org/) (see the group's research page) and is a founder of a broader [Open Source Pharma](http://www.opensourcepharma.net/) movement. In 2011 he was awarded a New South Wales Scientist of the Year award in the Emerging Research category for his work in open science and in 2012 the OSM consortium was awarded one of three Wellcome Trust/Google/PLoS Accelerating Science Awards. For his open source research, Mat was selected for the Medicine Maker's Power List in [2017](https://themedicinemaker.com/power-list/2017/) and 2018. He is on the Editorial Boards of PLoS One, ChemistryOpen and Nature Scientific Reports. He has been a sabbatical visitor at Stanford, UCSF, the Broad Institute and [Pembroke College, Oxford](https://www.pmb.ox.ac.uk/fellows-staff/profiles/dr-matthew-todd). He lives in Greenwich, London, with his wife and two children. He is related to [Trevor Horn](https://en.wikipedia.org/wiki/Trevor_Horn) and, apparently, [Samuel Crompton](https://en.wikipedia.org/wiki/Samuel_Crompton).
 
-**Dr Fahima Idiris** (Postdoc 2019-, [LinkedIn](https://www.linkedin.com/in/fahima-idiris/))  
+<hr class="rule">
 
-<img src="https://github.com/todd-lers/people/blob/master/wiki%20group%20member%20pix/Fahima%20Idiris.jpg" height="300"> </img>
+<div class="row">
+<div class="column">
+  <div class="card">
+    <img src="./pics/group/Dana_Klug.jpg" class="myimg">
+    <h4>Dr Dana Klug</h4>
+    <p class="title">Postdoc (UCL) <br>2019-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://uk.linkedin.com/in/dana-klug-9829259a"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/dana_klug"><i class="fa fa-twitter"></i></a>  
+    </div>
+  </div>
+</div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/group/Ed_Tse.jpeg" class="myimg">
+    <h4>Edwin Tse</h4>
+    <p class="title">PhD Student (USyd) <br>2016-2019</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/edwin-tse-92144155/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/edwintse_"><i class="fa fa-twitter"></i></a>  
+    </div>
+    </div>
+</div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/group/Paul_King.jpeg" class="myimg">
+    <h4>Paul King</h4>
+    <p class="title">PhD Student (USyd) <br>2017-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/paul-king-00547874/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/someth1ng_au"><i class="fa fa-twitter"></i></a>  
+    </div>
+  </div>
+</div>
+</div>
 
-**Dr Dana Klug** (Postdoc 2019-, [LinkedIn](https://uk.linkedin.com/in/dana-klug-9829259a))
+<div class="row">
+<div class="column">
+  <div class="card">
+    <img src="./pics/group/Tha_Bhebhe.jpg" class="myimg">
+    <h4>Mathamsanqa Bhebhe</h4>
+    <p class="title">PhD Student (USyd) <br>2017-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/mathamsanqa-bhebhe-b53281101/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/MNBhebhe"><i class="fa fa-twitter"></i></a>  
+    </div>
+    </div>
+</div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/group/Marat_Korsik.jpg" class="myimg">
+    <h4>Marat Korsik</h4>
+    <p class="title">PhD Student (USyd) <br>2017-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/marat-korsik-590b64a1/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/marat_korsik"><i class="fa fa-twitter"></i></a>  
+    </div>
+    </div>
+</div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/group/Jamie_Batten.jpg" class="myimg">
+    <h4>Jamie Batten</h4>
+    <p class="title">PhD Student (USyd) <br>2017-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/jamie-michael-batten/"><i class="fa fa-linkedin"></i></a>
+    </div>
+    </div>
+</div>
+</div>
 
-**Ed Tse** (PhD student, [LinkedIn](https://www.linkedin.com/in/edwin-tse-92144155/), Twitter)  
-
-<img src="https://github.com/todd-lers/people/blob/master/wiki%20group%20member%20pix/Ed_Tse.jpg" height="300"> </img>
-
-**Paul King** (PhD student, [LinkedIn](https://www.linkedin.com/in/paul-king-00547874/), Twitter)
-
-<img src="https://github.com/todd-lers/people/blob/master/wiki%20group%20member%20pix/Paul_King.jpeg" height="300"> </img>
-
-**Mathamsanqa Bhebhe** (PhD student, [LinkedIn](https://www.linkedin.com/in/mathamsanqa-bhebhe-b53281101/), Twitter)
-
-<img src="https://github.com/todd-lers/people/blob/master/wiki%20group%20member%20pix/Tha.jpg" height="300"> </img>
-
-**Marat Korsik** (PhD student)
-
-**Jamie Batten** (PhD student, [LinkedIn](https://www.linkedin.com/in/jamie-michael-batten/))
-
-**Dmitrij Melechov** (PhD student, 2019-)  
-
-**Yuhang (Wiesel) Wang** (MRes student 2019-)
+<div class="row">
+<div class="column">
+  <div class="card">
+    <img src="./pics/group/Dmitrij_Melechov.jpg" class="myimg">
+    <h4>Dmitrij Melechov</h4>
+    <p class="title">PhD Student (UCL) <br>2019-present</p>
+    <p></p>
+    </div>
+</div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/group/Yuhang_Wang.jpg" class="myimg">
+    <h4>Yuhang (Wiesel) Wang</h4>
+    <p class="title">MRes Student (USyd) <br>2019-present</p>
+    <p></p>
+    </div>
+</div>
+</div>

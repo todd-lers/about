@@ -8,15 +8,15 @@ This page contains information for current members of the Todd group. Click a se
 
 <div id="accordion">
 <h3>Working Safely</h3>
-  <div markdown="1">
+  <div id="link" markdown="1">
 
-  Everyone in the group (PDRAs and PhD students) will have certain responsibilities to maintain the lab to ensure that we all work as efficiently and safely as possible. A list of lab jobs can be found [<u>here</u>](https://github.com/todd-lers/techops/tree/master/Lab%20Rules) along with some general lab rules and guidance on the use of communal equipment.
+  Everyone in the group (PDRAs and PhD students) will have certain responsibilities to maintain the lab to ensure that we all work as efficiently and safely as possible. A list of lab jobs can be found [here](https://github.com/todd-lers/techops/tree/master/Lab%20Rules) along with some general lab rules and guidance on the use of communal equipment.
 
   **The lab jobs will be reviewed periodically and updated.** _Any issues, contact Fahima._
 
-  [<u>Current waste rota</u>](https://github.com/todd-lers/techops/blob/master/rotas/Waste%20%26%20solvent%20rota%20-%20Jan-Mar%202020.pdf)
+  [Current waste rota](https://github.com/todd-lers/techops/blob/master/rotas/Waste%20%26%20solvent%20rota%20-%20Jan-Mar%202020.pdf)
 
-  [<u>Current consumables rota</u>](https://github.com/todd-lers/techops/blob/master/rotas/Consumables%20rota%20-%20Jan%20-%20Feb%202020.pdf)
+  [Current consumables rota](https://github.com/todd-lers/techops/blob/master/rotas/Consumables%20rota%20-%20Jan%20-%20Feb%202020.pdf)
 
 ## Housekeeping
   It is imperative that communal areas and the apparatus stored within them are left clean for the next person to avoid contamination and risk of injury.
@@ -63,9 +63,9 @@ This page contains information for current members of the Todd group. Click a se
   </div>
 
 <h3>Ordering from Stores and MyFinance</h3>
-  <div markdown="1">
+  <div id="link" markdown="1">
 
-  The SoP stores stock list (sheet 1) and the MyFinance codes for MHT consumables, chemicals and solvents can be found (sheet 2) [<u>here</u>](https://docs.google.com/spreadsheets/d/1tHAEN-7AiHbOAox7VEqo7jfNPbfShzumsx0Yuazv9GM/edit?usp=sharing).
+  The SoP stores stock list (sheet 1) and the MyFinance codes for MHT consumables, chemicals and solvents can be found (sheet 2) [here](https://docs.google.com/spreadsheets/d/1tHAEN-7AiHbOAox7VEqo7jfNPbfShzumsx0Yuazv9GM/edit?usp=sharing).
 
   The MHT consumables and chemicals are **everyone's responsibility**. If something is about to run out please order some more from stores or from MyFinance.
 
@@ -84,7 +84,7 @@ This page contains information for current members of the Todd group. Click a se
   As a lab we will carry out an annual stock take (likely in December) to ensure that the inventory is up to date. It’s the responsibility of those assigned to managing the inventory to coordinate this and advise group members on appropriate locations for chemicals. _This needs to be in line with what’s expected by UCL and the UK in general._
 
 
-  General guidelines for using the inventory system can be found [<u>here</u>](https://github.com/todd-lers/techops/blob/master/Inventory/G25%20Inventory%20guidelines.docx).
+  General guidelines for using the inventory system can be found [here](https://github.com/todd-lers/techops/blob/master/Inventory/G25%20Inventory%20guidelines.docx).
   </div>
 </div>
 
@@ -92,31 +92,31 @@ This page contains information for current members of the Todd group. Click a se
 
 <div id="accordion2">
 <h3>Using the LCMS</h3>
-  <div markdown="1">
+  <div id="link" markdown="1">
 
 ## Using the Analytical LCMS
 
-  A general guide on using the Analytical LCMS in G25 can be found [<u>here</u>](https://github.com/todd-lers/techops/blob/master/LCMS/LCMS-Analytical-Guide.pdf). The guide was prepared by Edwin G. Tse and Paul T. A. King and can be updated by anyone in the group. It serves as a walk through for how to properly use the Analytical LCMS. _This is not a substitute for proper training_.
+  A general guide on using the Analytical LCMS in G25 can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/LCMS-Analytical-Guide.pdf). The guide was prepared by Edwin G. Tse and Paul T. A. King and can be updated by anyone in the group. It serves as a walk through for how to properly use the Analytical LCMS. _This is not a substitute for proper training_.
 
-  A quick introductory slideshow covering proper sample preparation and common courtesy rules can be found [<u>here</u>](https://github.com/todd-lers/techops/blob/master/LCMS/G25%20LCMS.pptx).
+  A quick introductory slideshow covering proper sample preparation and common courtesy rules can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/G25%20LCMS.pptx).
 
 ## Using the Preparative LCMS
 
-  The operation of the preparative LCMS is identical to the analytical LCMS, with the addition of a fraction collector. A general guide on using the preparative instrument can be found [<u>here</u>](https://github.com/todd-lers/techops/blob/master/LCMS/Preparative%20LCMS%20Instructions.docx) and was prepared by Edwin G. Tse. _This is not a substitute for proper training_.
+  The operation of the preparative LCMS is identical to the analytical LCMS, with the addition of a fraction collector. A general guide on using the preparative instrument can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/Preparative%20LCMS%20Instructions.docx) and was prepared by Edwin G. Tse. _This is not a substitute for proper training_.
 
 ## General Troubleshooting
 
-  A list of common issues encountered while using the analytical and preparative LCMS instruments can be found [<u>here</u>](https://github.com/todd-lers/techops/blob/master/LCMS/LCMS%20Troubleshooting.docx). Where the fix is known, the solution is provided. If new issues are encountered while operating the LCMS instruments, it and its solution can be added to this list as a point of reference for the future.
+  A list of common issues encountered while using the analytical and preparative LCMS instruments can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/LCMS%20Troubleshooting.docx). Where the fix is known, the solution is provided. If new issues are encountered while operating the LCMS instruments, it and its solution can be added to this list as a point of reference for the future.
   </div>
 
 <h3>Using the Biotage</h3>
-  <div markdown="1">
+  <div id="link" markdown="1">
 
 ## Biotage Selekt
 
-  Biotage user manual can be found [<u>here</u>](https://github.com/todd-lers/techops/blob/master/Biotage/416183-C%20Selekt%20User%20Manual.pdf).
+  Biotage user manual can be found [here](https://github.com/todd-lers/techops/blob/master/Biotage/416183-C%20Selekt%20User%20Manual.pdf).
 
-  Information on Biotage columns can be found [<u>here</u>](https://github.com/todd-lers/techops/blob/master/Biotage/pps497_-_biotage_sfr_brochure.pdf).
+  Information on Biotage columns can be found [here](https://github.com/todd-lers/techops/blob/master/Biotage/pps497_-_biotage_sfr_brochure.pdf).
 
   **There is no booking system** and you can use the purification system as required, when it is not in use. There are currently 9 racks available.
 
@@ -142,4 +142,41 @@ Current Schedule
 
 ### Chemistry Resources
 
-Useful Web Resources
+<div id="accordion3">
+<h3>Useful Web Resources</h3>
+  <div id="link" markdown="1">
+
+  Fun site for exploring chemistry mechanisms via animations: [Chemtube3d](https://www.chemtube3d.com/)
+
+  A useful online resource for general guidance on laboratory techniques [Not Voodoo](http://chem.chem.rochester.edu/~nvd/)
+
+  An illustrative guide to using a Schlenk Line by Dr. Andryj Borys [Schlenk Line Survival Guide](https://schlenklinesurvivalguide.com/)
+
+  [Organic chemistry lecture notes](http://www.oxfordsynthesiscdt.ox.ac.uk/programme/taught-course/modules.html) developed for the SBM CDT by academics from Oxford Chemistry and their industrial partners which are free to download.
+
+  [Reaxys](https://www.reaxys.com/#/search/quick)
+
+  [ChemSpider](http://www.chemspider.com/)
+
+  [Web of Science](https://wok.mimas.ac.uk/)
+
+  [IUPAC Gold Book](http://goldbook.iupac.org/)
+
+  [Named Reagents](https://www.chem.wisc.edu/areas/reich/handouts/NameReagents/namedreag-cont.htm)
+
+  [Lab Tips and Tricks by ChemistryViews](https://www.chemistryviews.org/subject/organic/searchResults.html?term=tips+and+tricks)
+
+  [Organic Chemistry Portal - Named Reactions](https://www.organic-chemistry.org/namedreactions/)
+
+  [Preparation of Cooling Baths](https://chem.libretexts.org/Ancillary_Materials/Demos%2C_Techniques%2C_and_Experiments/General_Lab_Techniques/Cooling_baths)
+
+  [Evans' pKa Table](http://evans.rc.fas.harvard.edu/pdf/evans_pKa_table.pdf)
+
+  [Common NMR Solvent Impurities](https://pubs.acs.org/doi/pdf/10.1021/om100106e)
+
+  [Spectral Database for Organic Compounds SDBS](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi)
+
+  [Fun old TV episode (Cutting Edge) on the synthesis of natural products](https://www.youtube.com/watch?v=QhzxlcVjJis)
+
+  </div>
+</div>

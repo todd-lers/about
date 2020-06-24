@@ -38,7 +38,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="column">
   <div class="card">
     <img src="./pics/group/Ed_Tse.jpeg" class="myimg">
-    <h4>Edwin Tse</h4>
+    <h4>Dr Edwin Tse</h4>
     <p class="title">PhD Student (USyd) <br>2016-2019</p>
     <p></p>
     <div style="margin: 15px 0;">
@@ -76,7 +76,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Marat_Korsik.jpg" class="myimg">
+    <img src="./pics/group/Marat_Korsik.jpeg" class="myimg">
     <h4>Marat Korsik</h4>
     <p class="title">PhD Student (USyd) <br>2017-present</p>
     <p></p>
@@ -88,7 +88,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Jamie_Batten.jpg" class="myimg">
+    <img src="./pics/group/Jamie_Batten.jpeg" class="myimg">
     <h4>Jamie Batten</h4>
     <p class="title">PhD Student (USyd) <br>2017-present</p>
     <p></p>
@@ -110,10 +110,13 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Yuhang_Wang.jpg" class="myimg">
+    <img src="./pics/group/Yuhang_Wang.jpeg" class="myimg">
     <h4>Yuhang (Wiesel) Wang</h4>
     <p class="title">MRes Student (USyd) <br>2019-present</p>
     <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/wiesel-henson-0202/"><i class="fa fa-linkedin"></i></a>
+    </div>
     </div>
 </div>
 </div>

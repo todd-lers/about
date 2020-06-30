@@ -3,7 +3,7 @@ layout: profile
 ---
 
   <div class="card">
-    <img src="./pics/group/Meds_for_all.jpg" width="90%">
+    <img src="./pics/people/Meds_for_all.jpg" width="90%">
     <h4>Professor Matthew Todd</h4>
     <p class="title">Principal Investigator</p>
     <p></p>
@@ -25,7 +25,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Dana_Klug.jpg" class="myimg">
+    <img src="./pics/people/Dana_Klug.jpg" class="myimg">
     <h4>Dr Dana Klug</h4>
     <p class="title">Postdoc (UCL) <br>2019-present</p>
     <p></p>
@@ -38,7 +38,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Ed_Tse.jpeg" class="myimg">
+    <img src="./pics/people/Ed_Tse.jpeg" class="myimg">
     <h4>Dr Edwin Tse</h4>
     <p class="title">PhD Student (USyd) <br>2016-2019</p>
     <p></p>
@@ -50,7 +50,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Paul_King.jpeg" class="myimg">
+    <img src="./pics/people/Paul_King.jpeg" class="myimg">
     <h4>Paul King</h4>
     <p class="title">PhD Student (USyd) <br>2017-present</p>
     <p></p>
@@ -65,7 +65,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Tha_Bhebhe.jpg" class="myimg">
+    <img src="./pics/people/Tha_Bhebhe.jpg" class="myimg">
     <h4>Mathamsanqa Bhebhe</h4>
     <p class="title">PhD Student (USyd) <br>2017-present</p>
     <p></p>
@@ -77,7 +77,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Marat_Korsik.jpeg" class="myimg">
+    <img src="./pics/people/Marat_Korsik.jpeg" class="myimg">
     <h4>Marat Korsik</h4>
     <p class="title">PhD Student (USyd) <br>2017-present</p>
     <p></p>
@@ -89,7 +89,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Jamie_Batten.jpeg" class="myimg">
+    <img src="./pics/people/Jamie_Batten.jpeg" class="myimg">
     <h4>Jamie Batten</h4>
     <p class="title">PhD Student (USyd) <br>2017-present</p>
     <p></p>
@@ -103,7 +103,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Dmitrij_Melechov.jpg" class="myimg">
+    <img src="./pics/people/Dmitrij_Melechov.jpg" class="myimg">
     <h4>Dmitrij Melechov</h4>
     <p class="title">PhD Student (UCL) <br>2019-present</p>
     <p></p>
@@ -111,7 +111,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/group/Yuhang_Wang.jpeg" class="myimg">
+    <img src="./pics/people/Yuhang_Wang.jpeg" class="myimg">
     <h4>Yuhang (Wiesel) Wang</h4>
     <p class="title">MRes Student (USyd) <br>2019-present</p>
     <p></p>

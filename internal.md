@@ -4,15 +4,112 @@ layout: collapsible
 
 This page contains information for current members of the Todd group. Click a section to expand.
 
-### General Lab Guidance
+### Getting Started
+
+  The following is a checklist of key things to do and documents for new members of the group:
+  - Get a LabArchives account for experimental write-ups (invite from Mat Todd)
+  - Get a Slack account for group communication (invite from Mat Todd)
+  - Get a ChemInventory account for chemical inventory management (invite from Dana Klug)
+  - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and John Day)
+  - Organise and complete NMR training (see Colin James) -- click <a href="./docs/Onboarding/NMR Application Form.doc" download>here</a> to download the NMR application form (also fill out the section on Mass Spectrometry to submit samples for HRMS)
+  - Organise and complete LCMS training (see senior group member/postdoc) -- see below for guides on LCMS usage
+  - Organise and complete the lab safety induction (see Geoff Wells)
+  - Familiarise yourself with COSHH forms for conducting reactions -- click <a href="./docs/Onboarding/COSHH Form.doc" download>here</a> to download the COSHH form template
+  - Complete the Out of Hours form (get it signed by Mat Todd) -- click <a href="./docs/Onboarding/Out of Hours Form.docx" download>here</a> to download the Out of Hours form
+
+### General Guidelines
 
 <div id="accordion">
+<h3>Reaction Numbering</h3>
+  <div id="link" markdown="1">
+  Reactions need to be given a unique identifier. The number takes the following form: **Your Initials X-Y-Z** where **X** is the _reaction type_, **Y** is the _attempt number_ and **Z** is the _page number_ of your lab book where the reaction appears.
+
+<hr class="rule2">
+
+  **_Reaction Type_**
+
+  A reaction type means ‘starting material-arrow-product.’ If you are attempting a certain transformation of a particular starting material to a particular product, then any attempt at that reaction has the same reaction number, regardless of reagents. The reaction also has this number regardless of the outcome. It is the intention that counts. Stereochemistry of products is also important – if the intended stereochemical outcome is different, the reaction has a different number. The numbering of reactions is unique to you, you do not use the same numbers as previous people in the group even if you are repeating their work.
+
+  **_Attempt Number_**
+
+  Attempt number just increases by 1 each time you do the reaction. Screening several different reaction conditions on small scale on the same page of your lab book can be named with ‘A’ ‘B’ ‘C’ after the full name if so desired, rather than exhaustively giving each reaction a different **Y**, so e.g. MHT 1-2-3A, MHT 1-2-3B etc.
+
+  **_Page Number_**
+
+  **Z** is the page number of your lab book where the reaction diagram appears. This number stays the same if the reaction write-up extends over more than one page. In fact it is a good idea to begin each new reaction on the right hand-facing page of the book, allowing overspill at a later date. If you are using an electronic laboratory notebook you can leave out Z.
+
+<hr class="rule2">
+
+  **_Example_**
+
+  The first three reactions in MHT’s lab book are shown below. The first reaction here is the first in the lab book. This transformation is given the number ‘1.’ It is the first attempt at this reaction, and appears on page 1, hence it is called ‘MHT 1-1-1.’ The second reaction is the same transformation (remember, regardless of reagents), so also has **X** = 1. It is the second attempt, and appears on page 3 of the lab book, so has the identifier MHT 1-2-3. The third reaction is a different transformation, so has a different **X**, and this is the first time it has been done, so **Y** = 1, and has been entered on page 5 of the lab book, giving MHT 2-1-5.
+
+  <center><img src="./pics/internal/Reaction_Numbering.png" width="45%"></center>
+
+  <hr class="rule2">
+
+  It is a very good idea to keep a tally at the end of your book where you list each transformation separately together with the identifiers of all the attempts along with the yields in each case. Remember the identifier stays the same even if the yield is 0%.
+
+  For reactions that produce multiple products, and where those products are isolated e.g. by column chromatography, additional numbers may be needed, MHT 1-1-1/1, MHT 1-1-1/2 etc, and the relevant spectra and vials should be labelled as such.
+  </div>
+
+<h3>ELN Write-Up</h3>
+  <div id="link" markdown="1">
+  _Transferring information from old website in progess_.
+
+  Relevant page on the old website can be found [here](https://openwetware.org/wiki/Todd:Guidelines#Lab_Book_Write-up) in the meantime.
+  </div>
+
+<h3>Sample Characterisation</h3>
+  <div id="link" markdown="1">
+  If you want to make a molecule, the first thing to do is check whether it’s been made before. Use SciFinder frequently (often you'll need to use it daily). You can access previously-used methods, characterisation data etc. It’s the most important resource we have. Besides being able to search for literature examples of reactions you may be attempting, it's also a very rapid way to find characterisation data for compounds you're making (from the "experimental properties" link).
+
+  If you want to know how to handle a reagent, check e-EROS online.
+
+  When you use a starting material for the first time, acquire a 1H NMR spectrum of it to check its purity and to compare with your reaction product.
+
+<hr class="rule2">
+
+  In general there are two kinds of characterisation required for molecules before we can publish the work:
+
+  **_For Known Compounds_**
+
+  These are compounds previously synthesised either in the group or by others in the chemical community. For these compounds we require three pieces of characterisation that match the literature (usually a 1H NMR, IR and low resolution mass spectrum). For crystalline solids we need a melting point and a comparison with the literature value, which can count as one of the three pieces of data. For enantiopure or scalemic compounds we require an optical rotation and a comparison with the literature value.
+
+  **_For Novel Compounds_**
+
+  For novel compounds, we require the full level of characterisation. This includes 1H and 13C NMR and IR spectra. We also need a low-resolution mass spectrum. For crystalline solids we require a melting point. If you have distilled a liquid, we require the boiling point. The ‘killer’ bit of characterisation that finishes off the data is either a high-resolution mass spectrum or (better) an elemental (CHN) analysis (not both). For enantiopure or scalemic compounds we require an optical rotation and some indication of the level of enantiopurity - this must come from chiral HPLC or NMR shift reagent analysis.
+
+<hr class="rule2">
+
+  For any compounds that undergo some form of further evaluation (e.g. biological evaluation) we need some assessment of purity, which is usually gained from comparison of melting points (for known compounds) or analytical HPLC analysis (for novel compounds).
+
+  RF values are important for internal purposes, but have questionable reproducibility between labs. Thus while we need these values in lab books and internal reports, we do not generally report them in publications.
+
+  Spectra should be kept in order of their unique identifier in folders. The identifier and structure should be written clearly so that someone browsing the file can locate the appropriate spectrum quickly. Think about the people who will come after you. Generally if you're asked to produce a spectrum, you should be able to find it in a few seconds.
+
+  For NMR spectra, expand regions of interest - typically maybe 3-4 expansions for a 1H, one aromatic and one alkyl for a 13C. For writing up the data you will need the exact _J_ values for each well-defined peak, and an accurate _J_ needs ppm values for the relevant peaks to an accuracy greater than 2 decimal places. You must make sure the integrals for peaks have horizontal start and end lines, so that the values are real. Draw the structure of the molecule on the front page of the spectrum. Assign the peaks. If the spectrum shows a byproduct, draw this structure also. If the spectrum shows an unidentified product, draw the intended reaction and product on the front page, and indicate that the spectrum does not show this product. (It’s all about putting yourself in somebody else’s shoes and asking yourself whether your spectra would be clear to them – no mental notes)
+
+  For publication purposes, we almost always require scanned copies of 1H and 13C NMR spectra for the supporting information. Thus you must examine and assign spectra very carefully to ensure that there are no ‘rogue’ peaks and no large solvent peaks. Obtaining clean NMR spectra and assigning them is the most important skill of the synthetic chemist. Once you've done all the above with your spectrum, you can show it to Mat.
+  </div>
+
+<h3>Experimental Write-Up (for papers/reports/theses/etc.)</h3>
+  <div id="link" markdown="1">
+  _Transferring information from old website in progess_.
+
+  Relevant page on the old website can be found [here](https://openwetware.org/wiki/Todd:Guidelines#Report_Write-up) in the meantime.
+  </div>
+</div>
+
+### General Lab Guidance
+
+<div id="accordion2">
 <h3>Working Safely</h3>
   <div id="link" markdown="1">
 
   Everyone in the group (PDRAs and PhD students) will have certain responsibilities to maintain the lab to ensure that we all work as efficiently and safely as possible. A list of lab jobs can be found [here](https://github.com/todd-lers/techops/tree/master/Lab%20Rules) along with some general lab rules and guidance on the use of communal equipment.
 
-  **The lab jobs will be reviewed periodically and updated.** _Any issues, contact Fahima._
+  **The lab jobs will be reviewed periodically and updated.** _Any issues, contact Dana._
 
   [Current waste rota](https://github.com/todd-lers/techops/blob/master/rotas/Waste%20%26%20solvent%20rota%20-%20Jan-Mar%202020.pdf)
 
@@ -90,7 +187,7 @@ This page contains information for current members of the Todd group. Click a se
 
 ### How-To's and Manuals
 
-<div id="accordion2">
+<div id="accordion3">
 <h3>Using the LCMS</h3>
   <div id="link" markdown="1">
 
@@ -136,13 +233,21 @@ Solvents
 
 ### Grant Codes and Admin
 
+Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to download the contacts list containing who to contact when:
+- encountering issues with instruments that you are unable to fix (i.e. Biotage and LCMS)
+- looking for quotes on lab equipment, etc.
+- you need help with NMR or mass spectrometry instruments in SoP
+- you need to replace the argon cylinder in the lab
+- you need to have hazardous chemical waste (including silica) removed
+- you need a 19F NMR spectra for a sample
+
 ### Group Meetings
 
 Current Schedule
 
 ### Chemistry Resources
 
-<div id="accordion3">
+<div id="accordion4">
 <h3>Useful Web Resources</h3>
   <div id="link" markdown="1">
 

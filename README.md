@@ -13,7 +13,7 @@ All the files used to create the group website can be found in the Code tab abov
 - News = [news.md](https://github.com/todd-lers/about/blob/master/news.md)
 - Internal = [internal.md](https://github.com/todd-lers/about/blob/master/internal.md)
 
-In general, each page can be edited directly by opening the pages .md file and clicking the edit button (pencil icon in the top right). Once the desired edits are made, click the "Commit changes" button. You may need to refresh the website to see the changes (the site updated date should change to reflect this).
+In general, each page can be directly edited by opening the relevant pages .md file and clicking the edit button (pencil icon in the top right). Once the desired edits are made, click the "Commit changes" button. You may need to refresh the website to see the changes (the site updated date should change to reflect this).
 
 The majority of text in the .md files is written in markdown, however certain pages also contain HTML code that enable design elements on those pages.
 
@@ -88,5 +88,5 @@ Within a group, each separate accordian is represented with the following code (
 $$$
   </div>
 ```
-\### = text that appears on the accordian bar (i.e. description of the contents)
+\### = text that appears on the accordian bar (i.e. description of the contents)  
 $$$ = text that appears when expanding the accordion (use markdown for this text)

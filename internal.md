@@ -200,6 +200,10 @@ This page contains information for current members of the Todd group. Click a se
 ## Using the Preparative LCMS
 
   The operation of the preparative LCMS is identical to the analytical LCMS, with the addition of a fraction collector. A general guide on using the preparative instrument can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/Preparative%20LCMS%20Instructions.docx) and was prepared by Edwin G. Tse. _This is not a substitute for proper training_.
+  
+## LCMS Shutdown and Reboot
+
+  The LCMS should only be shut down in the case of extended time away from lab. When rebooting, it is imporant that things are done in the proper order. A quick guide to rebooting can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/LCMS%20reboot.pdf).
 
 ## General Troubleshooting
 

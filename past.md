@@ -77,5 +77,6 @@ layout: default
 |        Name        |Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
 |**Shaimaa <br/>El-Fayyoumy** <br/>[LinkedIn](https://www.linkedin.com/in/shaimaa-el-fayyoumy/)|PhD|2003-07|Technical Sales and Product Manager, <br/>De Monchy International B.V.|
-|**Rabab Toubar** <br/>[LinkedIn](https://www.linkedin.com/in/rabab-toubar-4a8ba716/)|Chevening Scholar, then PhD <br/>at University of Massachusetts Lowell|2003-04|Assistant lecturer at Ain Shams University|
+|**Mohammed Al-Hashimi** <br/>[LinkedIn](https://www.linkedin.com/in/malhashimi/)|Project student|2002-03|Research Associate Professor, <br/>Texas A&M at Qatar|
+|**Rabab Toubar** <br/>[LinkedIn](https://www.linkedin.com/in/rabab-toubar-4a8ba716/)|Chevening Scholar, then PhD <br/>at University of Massachusetts Lowell|2003-04|Assistant Lecturer at Ain Shams University|
 |**Nisarg Pipalia** <br/>[LinkedIn](https://www.linkedin.com/in/nisarg-pipalia-51872b7b/)|MSc|2003-04|Doctor, NHS|

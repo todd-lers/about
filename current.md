@@ -113,10 +113,21 @@ He has a significant interest in open science, and how it may be used to acceler
   <div class="card">
     <img src="./pics/people/Yuhang_Wang.jpeg" class="myimg">
     <h4>Yuhang (Wiesel) Wang</h4>
-    <p class="title">MRes Student (USyd) <br>2019-present</p>
+    <p class="title">MRes Student (UCL) <br>2019-present</p>
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/wiesel-henson-0202/"><i class="fa fa-linkedin"></i></a>
+    </div>
+    </div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Dayang_Usop.JPG" class="myimg">
+    <h4>Dayang Usop</h4>
+    <p class="title">MPharm Student (UCL) <br>2020-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/dayangusop/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/DayangUsop"><i class="fa fa-twitter"></i></a>  
     </div>
     </div>
 </div>

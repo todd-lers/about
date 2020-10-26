@@ -133,3 +133,40 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
 </div>
 </div>
+
+<div class="row">
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Reuben McKay.JPG" class="myimg">
+    <h4>Reuben McKay</h4>
+    <p class="title">MRes Student (UCL) <br>2020-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/reubenmckay/"><i class="fa fa-linkedin"></i></a>
+    </div>
+    </div>
+</div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Giada Sabatino.jpg" class="myimg">
+    <h4>Giada Sabatino</h4>
+    <p class="title">MRes Student (UCL) <br>2020-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/giada-sabatino-77591b19b"><i class="fa fa-linkedin"></i></a>
+    </div>
+    </div>
+  </div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Dayang_Usop.JPG" class="myimg">
+    <h4>Jia Lau</h4>
+    <p class="title">MPharm Student (UCL) <br>2020-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/dayangusop/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/DayangUsop"><i class="fa fa-twitter"></i></a>  
+    </div>
+    </div>
+</div>
+</div>

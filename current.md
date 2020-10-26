@@ -119,6 +119,7 @@ He has a significant interest in open science, and how it may be used to acceler
       <a href="https://www.linkedin.com/in/wiesel-henson-0202/"><i class="fa fa-linkedin"></i></a>
     </div>
     </div>
+  </div>
 <div class="column">
   <div class="card">
     <img src="./pics/people/Dayang_Usop.JPG" class="myimg">

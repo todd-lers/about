@@ -11,7 +11,7 @@ layout: default
 
 1. [tele-Substitution Reactions in the Synthesis of a Promising Class of 1,2,4-Triazolo(4,3-a)pyrazine-Based Antimalarials](https://pubs.acs.org/doi/10.1021/acs.joc.0c01045).     M. Korsik, E. G. Tse, D. G. Smith, W. Lewis, P. J. Rutledge*, and M. H. Todd*, _J. Org. Chem._ **2020** _in press_. DOI: 10.1021/acs.joc.0c01045
 
-1. [Non-Classical Phenyl Bioisosteres as Effective Replacemnets in a Series of Novel Open Source Antimalarials](https://doi.org/10.1021/acs.jmedchem.0c00746). E. G. Tse, S. D. Houston, C. M. Williams, G. P. Savage, L. M. Rendina, I. Hallyburton, M. Anderson, R. Sharma, G. S. Walker, R. S. Obach and M. H. Todd, _J. Med. Chem._ **2020**, _63_, 11585-11601. DOI: 10.1021/acs.jmedchem.0c00746
+1. [Non-Classical Phenyl Bioisosteres as Effective Replacements in a Series of Novel Open Source Antimalarials](https://doi.org/10.1021/acs.jmedchem.0c00746). E. G. Tse, S. D. Houston, C. M. Williams, G. P. Savage, L. M. Rendina, I. Hallyburton, M. Anderson, R. Sharma, G. S. Walker, R. S. Obach and M. H. Todd, _J. Med. Chem._ **2020**, _63_, 11585-11601. DOI: 10.1021/acs.jmedchem.0c00746
 
 1. [Metal Complexes as a Promising Source for New Antibiotics](https://doi.org/10.1039/C9SC06460E), A. Frei, J. Zuegg, A. G. Elliott, M. Baker, S. Braese, C. Brown, F. Chen, C. Dowson, G. Dujardin, N. Jung, A. P. King, A. M. Mansour, M. Massi, J. Moat, H. A. Mohamed, A. K. Renfrew, P. J. Rutledge, P. J. Sadler, M. H. Todd, C. E. Willans, J. J. Wilson, M. A. Cooper and M. A. T. Blaskovich, _Chem. Sci._ **2020**, _11_, 2627-2639. DOI: 10.1039/C9SC06460E
 

@@ -20,7 +20,7 @@ Click a research area to jump to the relevant section below:
 <a name="open_science"></a>
 # Open Science
 
-We live in the age of the internet, one of the most transformative inventions of our time. Computer scientists understood what the internet meant - working together without barriers. Scientists are just catching up. We could collaborate in fantastically productive ways if only we released out secrets.
+We live in the age of the internet, one of the most transformative inventions of our time. Computer scientists understood what the internet meant - working together without barriers. Scientists are just catching up. We could collaborate in more productive ways if only we were less wedded to secrecy.
 
 We have adopted open source principles to experimental lab science. The first project successfully used this idea to find a way of producing the important drug praziquantel (used to treat the dreadful disease [Schistosomiasis](http://en.wikipedia.org/wiki/Schistosomiasis)) as a single enantiomer. All data and ideas were freely shared and anybody could take part. People did - about 30, and the problem was more quickly solved than we could have alone because strangers came along and contributed where they were able to. The science was published [here](http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd.0001260) (check out the awesome links to actual lab notebook pages) and the way we did it was published separately in [Nature Chemistry](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html). The website where it all got started was [The Synaptic Leap](http://www.thesynapticleap.org/node/286) and all the work was described in [an online electronic lab notebook (ELN)](http://www.ourexperiment.org/racemic_pzq).
 
@@ -57,7 +57,7 @@ _Contributions to this project are welcomed._
 
 ### Open Source Antibiotics <a href="https://twitter.com/OSantibiotics"><i class="fa fa-twitter"></i></a>
 
-Mat is also part of the [Open Source Antibiotics](https://github.com/opensourceantibiotics/GeneralTopics) (OSA) consortium which consists of researchers interested in open ways to discover and develop new, inexpensive medicines for bacterial infections. There are currently two series in the OSA consortium.
+We have founded the [Open Source Antibiotics](https://github.com/opensourceantibiotics/GeneralTopics) (OSA) consortium which consists of researchers interested in open ways to discover and develop new, inexpensive medicines for bacterial infections. There are currently two series in the OSA consortium.
 
 **[OSA Series 1](https://github.com/opensourceantibiotics/murligase)** - _Mur ligases_
 
@@ -69,9 +69,18 @@ The focus is the discovery and development of new antibiotics, specifically inhi
 
 The focus is the discovery and development of new antibiotics, specifically the optimisation of a series of molecules discovered at the University of North Carolina Chapel Hill.
 
+This series has been the focus of a number of 2020 [research meetings](https://www.youtube.com/playlist?list=PL0eLxnHhou_k1Upbn5X1mdHBwKMYkRpLH). 
+
 <center><img src="./pics/research/OSA Series 2 Summary.png" width="90%"></center>
 
 ### Open Source Mycetoma <a href="https://twitter.com/MycetOS"><i class="fa fa-twitter"></i></a>
+
+
+### Open Source Pharma <a href="https://twitter.com/opensrcpharma"><i class="fa fa-twitter"></i></a>
+
+We've co-founded a broader open source pharma movement which has been defined by participants from across the public and private sectors, with early backing from Open Society Foundations, The Rockefeller Foundation and Tata Trusts. The idea is to promote more open forms of collaboration towards "Medicines for All". The underlying ideas were discussed at WHO in 2013 ([WHO News Item](https://www.who.int/tdr/news/2013/odd/en/)), and guiding principles were established at a [meeting](https://www.opensourcepharma.net/bellagio.html) in 2014 ([WHO News Item](https://www.who.int/tdr/news/2014/open-source-pharma-mtg/en/)) with further [conferences](https://www.opensourcepharma.net/conferences.html) in 2015 and 2019. The overall approach is described in a short [2017 "Roadmap" paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276) (with more details provided in the longer [supporting information](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276#sec006) document).
+
+(Associated Articles/Media: [2014 Canadian Radio interview "Can open-source pharma cure Ebola and other neglected killers?"](https://www.cbc.ca/player/play/2523952984).
 
 ### Licences
 

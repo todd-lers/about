@@ -26,6 +26,8 @@ We have adopted open source principles to experimental lab science. The first pr
 
 This made us think, what about drug discovery? Could we discover new drugs using an open approach and without patents? So, we started a project to see if this works and we're now driving the Open Source Malaria project, a fully open, borderless, patentless drug discovery project for malaria that aims to discover a compound that will enter Phase I clinical trials. It's a fantastically exciting project made possible by the continual contributions of a scientists around the world.
 
+We've also founded several other consortia, below. All of these generally follow the [Six Laws](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201900565) in how they operate - these laws (which are guidelines, really,for those of you who don't like laws) were derived _post facto_, i.e. from what worked best and was simplest for everyone to understand.
+
 ### Open Source Malaria <a href="https://twitter.com/o_s_m"><i class="fa fa-twitter"></i></a>
 
 Mat founded the **Open Source Malaria (OSM) Consortium** ([Github](https://github.com/OpenSourceMalaria), [Landing Page](http://opensourcemalaria.org/#))
@@ -33,6 +35,8 @@ Mat founded the **Open Source Malaria (OSM) Consortium** ([Github](https://githu
 (A brief note on the Pied Piper role. Open source projects benefit from a coordinator, to guide, assimilate, reach out. This is often referred to as a [Pied Piper](https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin) role, but a _much_ better analogy is the [James Murray](https://en.wikipedia.org/wiki/James_Murray_(lexicographer)) role.)
 
 [YouTube channel](http://www.youtube.com/user/OSDDMalaria) all now old.
+
+In 2019-2020, with funding from EPSRC/AI3SD, OSM ran a predictive modelling competition to figure out whether new methods in artificial intelligence and machine learning could help predict new active molecules in a phenotypic drug discovery project (where we had no detailed structure of the biological target). Here is the [report of the Jan 2020 meeting](https://eprints.soton.ac.uk/438123/) we ran, the [relevant Github repository](https://github.com/OpenSourceMalaria/Series4_PredictiveModel) and the [preprint](https://chemrxiv.org/articles/preprint/An_Open_Drug_Discovery_Competition_Experimental_Validation_of_Predictive_Models_in_a_Series_of_Novel_Antimalarials/13194755).
 
 ### Open Source Tuberculosis <a href="https://twitter.com/opensourcetb"><i class="fa fa-twitter"></i></a>
 

@@ -5,9 +5,17 @@ layout: default
 [ORCID ID 0000-0001-7096-4751](https://orcid.org/0000-0001-7096-4751)  
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=a8lzGHEAAAAJ)
 
+### 2021
+
+1. [Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes: Cytotoxicity, Cellular Accumulation, and Fluorescence Distributions in 2D and 3D Cell Culture Models](https://doi.org/10.1007/s00775-020-01847-3), A, T. S. Lo, N. S. Bryce, A. V. Klein, M. H. Todd and T. W. Hambley, _J. Biol. Inorg. Chem._ **2021** in press.
+
+1. [Copper(II) Complexes of _N_-Propargyl Cyclam Ligands Reveal a Range of Coordination Modes and Colours, and Unexpected Reactivity](http://dx.doi.org/10.1039/d0dt03736b), A. J. Counsell, M. Yu, M. Shi, A. T. Jones, J. M. Batten, P. Turner, M. H. Todd, P. J. Rutledge, _Dalton Trans._ **2021**, in press.
+(2021) 
+
+
 ### 2020
 
-1. [Open science approaches to COVID-19](https://f1000research.com/articles/9-1043). E. G. Tse, D. M. Klug and M. H. Todd, _F1000Research_ **2020** 9:1043. DOI: 10.12688/f1000research.26084.1
+1. [Open Science Approaches to COVID-19](https://f1000research.com/articles/9-1043). E. G. Tse, D. M. Klug and M. H. Todd, _F1000Research_ **2020** 9:1043. DOI: 10.12688/f1000research.26084.1
 
 1. [tele-Substitution Reactions in the Synthesis of a Promising Class of 1,2,4-Triazolo(4,3-a)pyrazine-Based Antimalarials](https://pubs.acs.org/doi/10.1021/acs.joc.0c01045).     M. Korsik, E. G. Tse, D. G. Smith, W. Lewis, P. J. Rutledge*, and M. H. Todd*, _J. Org. Chem._ **2020** _in press_. DOI: 10.1021/acs.joc.0c01045
 

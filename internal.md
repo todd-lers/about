@@ -245,6 +245,12 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - you need to have hazardous chemical waste (including silica) removed
 - you need a 19F NMR spectra for a sample
 
+Useful codes:  
+Core: Project Number: 549163, Award Number: 156780. 
+Discretionary: Project Number: 549163, Award Number: 156780. 
+Dmitrij: Project Number: 552026, Award Number: 156780, Task 100. 
+Yuhang: Project Number: 564082, Award Number: 177365, Task 100. 
+
 ### Group Meetings
 
 Current Schedule

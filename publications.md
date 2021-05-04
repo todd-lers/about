@@ -12,6 +12,8 @@ layout: default
 1. [Copper(II) Complexes of _N_-Propargyl Cyclam Ligands Reveal a Range of Coordination Modes and Colours, and Unexpected Reactivity](http://dx.doi.org/10.1039/d0dt03736b), A. J. Counsell, M. Yu, M. Shi, A. T. Jones, J. M. Batten, P. Turner, M. H. Todd, P. J. Rutledge, _Dalton Trans._ **2021**, in press.
 (2021) 
 
+1. Molecular Docking with Open Access Software: A Laboratory Handbook and Workflow for Chemistry and Pharmacy Masters’ Students. B. Clent, Y. Wang, H. Britton, F. Otto, C. Swain, M. H. Todd, J. Wilden, A. Tabor, _J. Chem. Ed._ **2021**, in press.
+
 
 ### 2020
 

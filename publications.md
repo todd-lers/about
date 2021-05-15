@@ -19,7 +19,7 @@ layout: default
 
 1. [Open Science Approaches to COVID-19](https://f1000research.com/articles/9-1043). E. G. Tse, D. M. Klug and M. H. Todd, _F1000Research_ **2020** 9:1043. DOI: 10.12688/f1000research.26084.1
 
-1. [tele-Substitution Reactions in the Synthesis of a Promising Class of 1,2,4-Triazolo(4,3-a)pyrazine-Based Antimalarials](https://pubs.acs.org/doi/10.1021/acs.joc.0c01045).     M. Korsik, E. G. Tse, D. G. Smith, W. Lewis, P. J. Rutledge*, and M. H. Todd*, _J. Org. Chem._ **2020** _in press_. DOI: 10.1021/acs.joc.0c01045
+1. [tele-Substitution Reactions in the Synthesis of a Promising Class of 1,2,4-Triazolo(4,3-a)pyrazine-Based Antimalarials](https://pubs.acs.org/doi/10.1021/acs.joc.0c01045).     M. Korsik, E. G. Tse, D. G. Smith, W. Lewis, P. J. Rutledge*, and M. H. Todd*, _J. Org. Chem._ **2020**, 85, 13438-13452. DOI: 10.1021/acs.joc.0c01045
 
 1. [Non-Classical Phenyl Bioisosteres as Effective Replacements in a Series of Novel Open Source Antimalarials](https://doi.org/10.1021/acs.jmedchem.0c00746). E. G. Tse, S. D. Houston, C. M. Williams, G. P. Savage, L. M. Rendina, I. Hallyburton, M. Anderson, R. Sharma, G. S. Walker, R. S. Obach and M. H. Todd, _J. Med. Chem._ **2020**, _63_, 11585-11601. DOI: 10.1021/acs.jmedchem.0c00746
 

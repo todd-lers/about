@@ -14,6 +14,8 @@ layout: default
 
 1. Molecular Docking with Open Access Software: A Laboratory Handbook and Workflow for Chemistry and Pharmacy Masters’ Students. B. Clent, Y. Wang, H. Britton, F. Otto, C. Swain, M. H. Todd, J. Wilden, A. Tabor, _J. Chem. Ed._ **2021**, in press.
 
+1. There is No Market for New Antibiotics: This Allows an Open Approach to Research and Development, D. M. Klug, F. I. M. Idiris, M. A. T. Blaskovich, F. von Delft, C. G. Dowson, C. Kirchhelle, A. P. Roberts, A. C. Singer and M. H. Todd, _Wellcome Open Res._ **2021**, in press.
+
 
 ### 2020
 

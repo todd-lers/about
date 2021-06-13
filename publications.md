@@ -14,7 +14,7 @@ layout: default
 
 1. Molecular Docking with Open Access Software: A Laboratory Handbook and Workflow for Chemistry and Pharmacy Masters’ Students. B. Clent, Y. Wang, H. Britton, F. Otto, C. Swain, M. H. Todd, J. Wilden, A. Tabor, _J. Chem. Ed._ **2021**, in press.
 
-1. There is No Market for New Antibiotics: This Allows an Open Approach to Research and Development, D. M. Klug, F. I. M. Idiris, M. A. T. Blaskovich, F. von Delft, C. G. Dowson, C. Kirchhelle, A. P. Roberts, A. C. Singer and M. H. Todd, _Wellcome Open Res._ **2021**, in press.
+1. [There is No Market for New Antibiotics: This Allows an Open Approach to Research and Development](https://wellcomeopenresearch.org/articles/6-146/v1), D. M. Klug, F. I. M. Idiris, M. A. T. Blaskovich, F. von Delft, C. G. Dowson, C. Kirchhelle, A. P. Roberts, A. C. Singer and M. H. Todd, _Wellcome Open Res._ **2021**, 6:146. DOI: 10.12688/wellcomeopenres.16847.1
 
 1. A Critical Overview of Computational Approaches Employed for COVID-19 Drug Discovery, E. N. Muratov, R. Amaro, C. H. Andrade, N. Brown, S. Ekins, D. Fourches, O. Isayev, D. Kozakov, J. Medina-Franco, K. M. Merz, T. I. Oprea, V. Poroikov, G. Schneider, M. H. Todd, A. Varnek, D. A. Winkler, A. Zakharov, A. Cherkasov and A. Tropsha, _Chem. Soc. Rev._ **2021**, in press.
 

@@ -14,7 +14,7 @@ layout: default
 1. [Copper(II) Complexes of _N_-Propargyl Cyclam Ligands Reveal a Range of Coordination Modes and Colours, and Unexpected Reactivity](http://dx.doi.org/10.1039/d0dt03736b), A. J. Counsell, M. Yu, M. Shi, A. T. Jones, J. M. Batten, P. Turner, M. H. Todd, P. J. Rutledge, _Dalton Trans._ **2021**, in press.
 (2021) 
 
-1. Molecular Docking with Open Access Software: A Laboratory Handbook and Workflow for Chemistry and Pharmacy Masters’ Students. B. Clent, Y. Wang, H. Britton, F. Otto, C. Swain, M. H. Todd, J. Wilden, A. Tabor, _J. Chem. Ed._ **2021**, in press.
+1. Molecular Docking with Open Access Software: A Laboratory Handbook and Workflow for Chemistry and Pharmacy Masters’ Students. B. Clent, Y. Wang, H. Britton, F. Otto, C. Swain, M. H. Todd, J. Wilden, A. Tabor, _J. Chem. Ed._ **2021**, [in press](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00289).
 
 1. [There is No Market for New Antibiotics: This Allows an Open Approach to Research and Development](https://wellcomeopenresearch.org/articles/6-146/v1), D. M. Klug, F. I. M. Idiris, M. A. T. Blaskovich, F. von Delft, C. G. Dowson, C. Kirchhelle, A. P. Roberts, A. C. Singer and M. H. Todd, _Wellcome Open Res._ **2021**, 6:146. DOI: 10.12688/wellcomeopenres.16847.1
 

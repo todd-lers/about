@@ -7,7 +7,7 @@ layout: default
 
 ### 2021
 
-1. An Open Drug Discovery Competition: Experimental Validation of Predictive Models in a Series of Novel Antimalarials, E. G. Tse, L. Aithani, M. Anderson, J. Cardoso-Silva, G. Cincilla, G. J. Conduit, M. Galushka, D. Guan, I. Hallyburton, B. W. J. Irwin, K. Kirk, A. M. Lehane, J. C. R. Lindblom, R. Lui, S. Matthews, J. McCulloch, A. Motion, H. L. Ng, M. Öeren, M. N. Robertson, V. Spadavecchio, V. A. Tatsis, W. P. van Hoorn, A. D. Wade, T. M. Whitehead, P. Willis and M. H. Todd, _J. Med. Chem._ **2021**, in press. ([Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/60c751a59abda283a4f8dc53))
+1. [An Open Drug Discovery Competition: Experimental Validation of Predictive Models in a Series of Novel Antimalarials](https://doi.org/10.1021/acs.jmedchem.1c00313), E. G. Tse, L. Aithani, M. Anderson, J. Cardoso-Silva, G. Cincilla, G. J. Conduit, M. Galushka, D. Guan, I. Hallyburton, B. W. J. Irwin, K. Kirk, A. M. Lehane, J. C. R. Lindblom, R. Lui, S. Matthews, J. McCulloch, A. Motion, H. L. Ng, M. Öeren, M. N. Robertson, V. Spadavecchio, V. A. Tatsis, W. P. van Hoorn, A. D. Wade, T. M. Whitehead, P. Willis and M. H. Todd, _J. Med. Chem._ **2021**, in press. DOI: 10.1021/acs.jmedchem.1c00313 ([Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/60c751a59abda283a4f8dc53))
 
 1. [Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes: Cytotoxicity, Cellular Accumulation, and Fluorescence Distributions in 2D and 3D Cell Culture Models](https://doi.org/10.1007/s00775-020-01847-3), A, T. S. Lo, N. S. Bryce, A. V. Klein, M. H. Todd and T. W. Hambley, _J. Biol. Inorg. Chem._ **2021** in press.
 

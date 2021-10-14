@@ -23,35 +23,31 @@ This page contains information for current members of the Todd group. Click a se
 <div id="accordion">
 <h3>Reaction Numbering</h3>
   <div id="link" markdown="1">
-  Reactions need to be given a unique identifier. The number takes the following form: **Your Initials X-Y-Z** where **X** is the _reaction type_, **Y** is the _attempt number_ and **Z** is the _page number_ of your lab book where the reaction appears.
+  Reactions need to be given a unique identifier. The number takes the following form: **YourInitialsX-Y** where **X** is the _reaction type_ and **Y** is the _attempt number_.
 
 <hr class="rule2">
 
   **_Reaction Type_**
 
-  A reaction type means ‘starting material-arrow-product.’ If you are attempting a certain transformation of a particular starting material to a particular product, then any attempt at that reaction has the same reaction number, regardless of reagents. The reaction also has this number regardless of the outcome. It is the intention that counts. Stereochemistry of products is also important – if the intended stereochemical outcome is different, the reaction has a different number. The numbering of reactions is unique to you, you do not use the same numbers as previous people in the group even if you are repeating their work.
+  A reaction type means ‘starting material-arrow-product.’ If you are attempting a certain transformation of a particular starting material to a particular product, then any attempt at that reaction has the same reaction number, _regardless of reagents/conditions_. The reaction has this number _regardless of the outcome_. It is the intention that counts. Stereochemistry of products is important – if the intended stereochemical outcome is different, the reaction has a different number. The numbering of reactions is unique to you, you do not use the same numbers as previous people in the group even if you are repeating their work.
 
   **_Attempt Number_**
 
   Attempt number just increases by 1 each time you do the reaction. Screening several different reaction conditions on small scale on the same page of your lab book can be named with ‘A’ ‘B’ ‘C’ after the full name if so desired, rather than exhaustively giving each reaction a different **Y**, so e.g. MHT 1-2-3A, MHT 1-2-3B etc.
 
-  **_Page Number_**
-
-  **Z** is the page number of your lab book where the reaction diagram appears. This number stays the same if the reaction write-up extends over more than one page. In fact it is a good idea to begin each new reaction on the right hand-facing page of the book, allowing overspill at a later date. If you are using an electronic laboratory notebook you can leave out Z.
-
 <hr class="rule2">
 
   **_Example_**
 
-  The first three reactions in MHT’s lab book are shown below. The first reaction here is the first in the lab book. This transformation is given the number ‘1.’ It is the first attempt at this reaction, and appears on page 1, hence it is called ‘MHT 1-1-1.’ The second reaction is the same transformation (remember, regardless of reagents), so also has **X** = 1. It is the second attempt, and appears on page 3 of the lab book, so has the identifier MHT 1-2-3. The third reaction is a different transformation, so has a different **X**, and this is the first time it has been done, so **Y** = 1, and has been entered on page 5 of the lab book, giving MHT 2-1-5.
+  The first three reactions in MHT’s lab book are shown below. The first reaction here is the first in the lab book. This transformation is given the number ‘1.’ It is the first attempt at this reaction, so it is called ‘MHT1-1.’ (_ignore the third number - scheme needs fixing_) The second reaction is the same transformation (remember, regardless of reagents), so also has **X** = 1. It is the second attempt so has the identifier MHT1-2. The third reaction is a different transformation, so has a different **X**, and this is the first time it has been done, so **Y** = 1, giving MHT2-1.
 
   <center><img src="./pics/internal/Reaction_Numbering.png" width="45%"></center>
 
   <hr class="rule2">
 
-  It is a very good idea to keep a tally at the end of your book where you list each transformation separately together with the identifiers of all the attempts along with the yields in each case. Remember the identifier stays the same even if the yield is 0%.
+  It is a very good idea to keep a tally where you list each transformation separately together with the identifiers of all the attempts along with the yields in each case. Remember the identifier stays the same even if the yield is 0%. If you keep your ELN ordered and tidy, you may be able to use it to provide this.
 
-  For reactions that produce multiple products, and where those products are isolated e.g. by column chromatography, additional numbers may be needed, MHT 1-1-1/1, MHT 1-1-1/2 etc, and the relevant spectra and vials should be labelled as such.
+  For reactions that produce multiple products, and where those products are isolated e.g. by column chromatography, additional numbers may be needed, MHT1-1-1, MHT1-1-2 etc, and the relevant spectra and vials should be labelled as such.
   </div>
 
 <h3>ELN Write-Up</h3>

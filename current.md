@@ -11,6 +11,7 @@ layout: profile
       <a href="https://www.linkedin.com/in/matthew-todd-81633313/"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/MatToddChem"><i class="fa fa-twitter"></i></a>  
       <a href="https://intermolecular.wordpress.com/"><i class="fa fa-wordpress"></i></a>
+      <a href="https://en.wikipedia.org/wiki/Matthew_Todd_(chemist)"><i class="fa fa-wikipedia-w"></i></a>
     </div>
   </div>
 

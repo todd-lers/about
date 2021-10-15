@@ -43,7 +43,7 @@ layout: default
 |**Katrina Badiola** <br/>[LinkedIn](https://www.linkedin.com/in/katrina-badiola-3a949a47)|Honours|2013|PhD, University of Oxford|
 |**Murray Robertson** <br/>[LinkedIn](https://www.linkedin.com/in/murray-robertson-58b32939)|Postdoctoral Fellow|2011-13|Research Fellow, University of Strathclyde|
 |**Mingfeng Yu** <br/>[LinkedIn](https://www.linkedin.com/in/mingfeng-felix-yu-b8591636/)|PhD|2009-13|Postdoctoral Fellow, University of South Australia|
-|**Nilupa Amarasinghe** <br/>[LinkedIn](https://www.linkedin.com/in/nilupa-amarasinghe-9476b515/)|PhD|2009-13|Senior Lecturer, University of Peradeniya|
+|**Nilupa Amarasinghe** <br/>[LinkedIn](https://www.linkedin.com/in/nilupa-amarasinghe-9476b515/)|PhD|2009-13|Senior Lecturer, [University of Peradeniya](http://ahs.pdn.ac.lk/dept_and_unit/Pharmacy_/acd_staff/DrNilupaAmarasinghe)|
 |**Althea Tsang** <br/>[LinkedIn](https://www.linkedin.com/in/althea-tsang-145a3382/)|PhD|2009-13|Patent Attorney at [Davies Collison Cave]((http://www.davies.com.au/people/althea-tsang))|
 |**Patrick Crisologo**|Honours (w/ Peter Rutledge)|2013||
 |**Matin Dean** <br/>[LinkedIn](https://www.linkedin.com/in/matin-dean-17891984/)|Graduate Diploma|2012|Science Teacher, Narrabundah College|

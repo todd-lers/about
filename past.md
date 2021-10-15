@@ -57,7 +57,7 @@ layout: default
 |**Matthew Tarnowski** <br/>[LinkedIn](https://www.linkedin.com/in/matt-tarnowski/)|TSP Undergraduate|2012|PhD, University of Bristol|
 |**Angus Jones**|Graduate Diploma (w/ Peter Rutledge)|2011-12||
 |**Michael Woelfle** <br/>[LinkedIn](https://www.linkedin.com/in/michael-w%C3%B6lfle-03118b33)|Postdoctoral Fellow|2009-2011|Process Expert & Validation Expert, Novartis|
-|**Ahamed Muneer**|PhD|2007-11|Postdoctoral Fellow, KU Leuven|
+|**Ahamed Muneer**|PhD|2007-11|Senior Research Fellow, [SAHMRI](https://www.sahmri.org/)|
 |**Zoe Hungerford**|Undergraduate|2011||
 |**Jack Orford** <br/>[LinkedIn](https://www.linkedin.com/in/jackorford/)|Honours (w/ Peter Rutledge)|2011|Associate, Davis Polk & Wardwell LLP|
 |**Cyril Tang** <br/>[LinkedIn](https://www.linkedin.com/in/cyril-tang-65665462/)|TSP Undergraduate (w/ Peter Rutledge)||Junior Doctor, Hunter New England Local Health District|

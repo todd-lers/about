@@ -11,23 +11,22 @@ layout: default
 
 1. [An Open Drug Discovery Competition: Experimental Validation of Predictive Models in a Series of Novel Antimalarials](https://doi.org/10.1021/acs.jmedchem.1c00313), E. G. Tse, L. Aithani, M. Anderson, J. Cardoso-Silva, G. Cincilla, G. J. Conduit, M. Galushka, D. Guan, I. Hallyburton, B. W. J. Irwin, K. Kirk, A. M. Lehane, J. C. R. Lindblom, R. Lui, S. Matthews, J. McCulloch, A. Motion, H. L. Ng, M. Öeren, M. N. Robertson, V. Spadavecchio, V. A. Tatsis, W. P. van Hoorn, A. D. Wade, T. M. Whitehead, P. Willis and M. H. Todd, _J. Med. Chem._ **2021**, in press. DOI: 10.1021/acs.jmedchem.1c00313 ([Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/60c751a59abda283a4f8dc53))
 
-1. [Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes: Cytotoxicity, Cellular Accumulation, and Fluorescence Distributions in 2D and 3D Cell Culture Models](https://doi.org/10.1007/s00775-020-01847-3), A, T. S. Lo, N. S. Bryce, A. V. Klein, M. H. Todd and T. W. Hambley, _J. Biol. Inorg. Chem._ **2021** in press.
+1. [Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes: Cytotoxicity, Cellular Accumulation, and Fluorescence Distributions in 2D and 3D Cell Culture Models](https://doi.org/10.1007/s00775-020-01847-3), A, T. S. Lo, N. S. Bryce, A. V. Klein, M. H. Todd and T. W. Hambley, _J. Biol. Inorg. Chem._ **2021**, _26_, 217-233. DOI: 10.1007/s00775-020-01847-3
 
-1. [Copper(II) Complexes of _N_-Propargyl Cyclam Ligands Reveal a Range of Coordination Modes and Colours, and Unexpected Reactivity](http://dx.doi.org/10.1039/d0dt03736b), A. J. Counsell, M. Yu, M. Shi, A. T. Jones, J. M. Batten, P. Turner, M. H. Todd, P. J. Rutledge, _Dalton Trans._ **2021**, in press.
-(2021) 
+1. [Copper(II) Complexes of _N_-Propargyl Cyclam Ligands Reveal a Range of Coordination Modes and Colours, and Unexpected Reactivity](http://dx.doi.org/10.1039/d0dt03736b), A. J. Counsell, M. Yu, M. Shi, A. T. Jones, J. M. Batten, P. Turner, M. H. Todd and P. J. Rutledge, _Dalton Trans._ **2021**, _50_, 3931-3942. DOI: 10.1039/D0DT03736B
 
-1. Molecular Docking with Open Access Software: A Laboratory Handbook and Workflow for Chemistry and Pharmacy Masters’ Students. B. Clent, Y. Wang, H. Britton, F. Otto, C. Swain, M. H. Todd, J. Wilden, A. Tabor, _J. Chem. Ed._ **2021**, [in press](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00289).
+1. [Molecular Docking with Open Access Software: Development of an Online Laboratory Handbook and Remote Workflow for Chemistry and Pharmacy Master's Students to Undertake Computer-Aided Drug Design](https://doi.org/10.1021/acs.jchemed.1c00289). B. Clent, Y. Wang, H. Britton, F. Otto, C. Swain, M. H. Todd, J. Wilden and A. Tabor, _J. Chem. Ed._ **2021**, _98_, 2899-2905. DOI: 10.1021/acs.jchemed.1c00289
 
 1. [There is No Market for New Antibiotics: This Allows an Open Approach to Research and Development](https://wellcomeopenresearch.org/articles/6-146/v1), D. M. Klug, F. I. M. Idiris, M. A. T. Blaskovich, F. von Delft, C. G. Dowson, C. Kirchhelle, A. P. Roberts, A. C. Singer and M. H. Todd, _Wellcome Open Res._ **2021**, 6:146. DOI: 10.12688/wellcomeopenres.16847.1
 
-1. A Critical Overview of Computational Approaches Employed for COVID-19 Drug Discovery, E. N. Muratov, R. Amaro, C. H. Andrade, N. Brown, S. Ekins, D. Fourches, O. Isayev, D. Kozakov, J. Medina-Franco, K. M. Merz, T. I. Oprea, V. Poroikov, G. Schneider, M. H. Todd, A. Varnek, D. A. Winkler, A. Zakharov, A. Cherkasov and A. Tropsha, _Chem. Soc. Rev._ **2021**, in press.
+1. [A Critical Overview of Computational Approaches Employed for COVID-19 Drug Discovery](https://doi.org/10.1039/D0CS01065K), E. N. Muratov, R. Amaro, C. H. Andrade, N. Brown, S. Ekins, D. Fourches, O. Isayev, D. Kozakov, J. Medina-Franco, K. M. Merz, T. I. Oprea, V. Poroikov, G. Schneider, M. H. Todd, A. Varnek, D. A. Winkler, A. Zakharov, A. Cherkasov and A. Tropsha, _Chem. Soc. Rev._ **2021**, _50_, 9121-9151. DOI: 10.1039/D0CS01065K
 
 
 ### 2020
 
 1. [Open Science Approaches to COVID-19](https://f1000research.com/articles/9-1043). E. G. Tse, D. M. Klug and M. H. Todd, _F1000Research_ **2020** 9:1043. DOI: 10.12688/f1000research.26084.1
 
-1. [tele-Substitution Reactions in the Synthesis of a Promising Class of 1,2,4-Triazolo(4,3-a)pyrazine-Based Antimalarials](https://pubs.acs.org/doi/10.1021/acs.joc.0c01045).     M. Korsik, E. G. Tse, D. G. Smith, W. Lewis, P. J. Rutledge*, and M. H. Todd*, _J. Org. Chem._ **2020**, 85, 13438-13452. DOI: 10.1021/acs.joc.0c01045
+1. [tele-Substitution Reactions in the Synthesis of a Promising Class of 1,2,4-Triazolo(4,3-a)pyrazine-Based Antimalarials](https://pubs.acs.org/doi/10.1021/acs.joc.0c01045).     M. Korsik, E. G. Tse, D. G. Smith, W. Lewis, P. J. Rutledge, and M. H. Todd, _J. Org. Chem._ **2020**, 85, 13438-13452. DOI: 10.1021/acs.joc.0c01045
 
 1. [Non-Classical Phenyl Bioisosteres as Effective Replacements in a Series of Novel Open Source Antimalarials](https://doi.org/10.1021/acs.jmedchem.0c00746). E. G. Tse, S. D. Houston, C. M. Williams, G. P. Savage, L. M. Rendina, I. Hallyburton, M. Anderson, R. Sharma, G. S. Walker, R. S. Obach and M. H. Todd, _J. Med. Chem._ **2020**, _63_, 11585-11601. DOI: 10.1021/acs.jmedchem.0c00746
 

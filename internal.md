@@ -9,12 +9,12 @@ This page contains information for current members of the Todd group. Click a se
   The following is a checklist of key things to do and documents for new members of the group:
   - Get a LabArchives account for experimental write-ups (invite from Mat Todd)
   - Get a Slack account for group communication (invite from Mat Todd)
-  - Get a ChemInventory account for chemical inventory management (invite from Dana Klug)
-  - Join G25 MS Team (invite from Dana Klug)
+  - Get a ChemInventory account for chemical inventory management (invite from postdoc)
+  - Join the G25 MS Team (invite from Dana Klug)
   - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and John Day)
   - Organise and complete NMR training (see Emmanuel Samuel) -- click <a href="./docs/Onboarding/NMR Application Form.doc" download>here</a> to download the NMR application form (also fill out the section on Mass Spectrometry to submit samples for HRMS)
   - Organise and complete LCMS training (see senior group member/postdoc) -- see below for guides on LCMS usage
-  - Organise and complete the lab safety induction (see Geoff Wells)
+  - Organise and complete the lab safety induction (see Geoff Wells or Jamie Leitch)
   - Familiarise yourself with Risk Assessment forms for conducting reactions (on MS Teams)
   - Complete the Out of Hours form (get it signed by Mat Todd) -- click <a href="./docs/Onboarding/Out of Hours Form.docx" download>here</a> to download the Out of Hours form
 
@@ -197,7 +197,7 @@ This page contains information for current members of the Todd group. Click a se
 ## Using the Preparative LCMS
 
   The operation of the preparative LCMS is identical to the analytical LCMS, with the addition of a fraction collector. A general guide on using the preparative instrument can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/Preparative%20LCMS%20Instructions.docx) and was prepared by Edwin G. Tse. _This is not a substitute for proper training_.
-  
+
 ## LCMS Shutdown and Reboot
 
   The LCMS should only be shut down in the case of extended time away from lab. When rebooting, it is imporant that things are done in the proper order. A quick guide to rebooting can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/LCMS%20reboot.pdf).
@@ -246,8 +246,8 @@ Useful codes:
 - Core: Project Number: 549163, Award Number: 156780.  
 - Discretionary: Project Number: 549163, Award Number: 156780.  
 - Dmitrij: Project Number: 552026, Award Number: 156780, Task 100.  
-- Yuhang: Project Number: 564082, Award Number: 177365, Task 100. 
-- Tom: Project: 566966, Award: 180330 
+- Yuhang: Project Number: 564082, Award Number: 177365, Task 100.
+- Tom: Project: 566966, Award: 180330
 
 ### Group Meetings
 
@@ -288,6 +288,8 @@ Current Schedule
   [Common NMR Solvent Impurities](https://pubs.acs.org/doi/pdf/10.1021/om100106e)
 
   [Spectral Database for Organic Compounds SDBS](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi)
+
+  [TLC Stain Recipes](https://www.chemistry.mcmaster.ca/adronov/resources/Stains_for_Developing_TLC_Plates.pdf)
 
   [Fun old TV episode (Cutting Edge) on the synthesis of natural products](https://www.youtube.com/watch?v=QhzxlcVjJis)
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: profile
 ---
 # Todd Group Alumni
 
@@ -9,16 +9,20 @@ layout: default
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
-|**Fahima Idiris** <br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist at Pharmaron|
-|**Robert Hanson** <br/>[LinkedIn](https://www.linkedin.com/in/robert-hanson-77073611/)|Sabbatical Visitor|2020|Professor at Northeastern University|
+|**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2020|
+|**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2020|PhD, Hochschule für Life Sciences FHNW|
+|**Fahima Idiris** <br/><img src="./pics/people/Fahima Idiris.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist, Pharmaron|
+|**Robert Hanson** <br/>[LinkedIn](https://www.linkedin.com/in/robert-hanson-77073611/)|Sabbatical Visitor|2020|Professor, Northeastern University|
 |**Gareth (Bryn) Parry** <br/>[LinkedIn](https://www.linkedin.com/in/gareth-bryn-parry-358204194/)|MSc|2019|
-|**Luxsika Rajendra** <br/>[LinkedIn](https://www.linkedin.com/in/luxsika-rajendra-7b6858151/)|MSc|2019|Clinical Trial Assistant at Medpace|
-|**Manisha Virdi** <br/>[LinkedIn](https://www.linkedin.com/in/manisha-virdi-44251a147/)|MSc|2019|Strategic Account Executive at GlobalData Healthcare|
+|**Luxsika Rajendra** <br/>[LinkedIn](https://www.linkedin.com/in/luxsika-rajendra-7b6858151/)|MSc|2019|Clinical Trial Assistant, Medpace|
+|**Manisha Virdi** <br/>[LinkedIn](https://www.linkedin.com/in/manisha-virdi-44251a147/)|MSc|2019|Strategic Solutions Associate, GLG|
 
 ## University of Sydney
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Marat Korsik** <br/><img src="./pics/people/Marat_Korsik.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/marat-korsik-590b64a1/)|PhD|2017-2021|Organics Analyst, National Measurement Institute Australia|
+|**Paul King** <br/><img src="./pics/people/Paul_King.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/paul-king-00547874/)|PhD|2017-2020|Validation Associate, Global Medical Solutions|
 |**Julius Adamson**|Honours|2018||
 |**Nicholas Smith**|Honours|2018||
 |**David Smith** <br/>[LinkedIn](https://www.linkedin.com/in/david-smith-8366325a/)|Postdoctoral Fellow|2017–18|Lecturer, Federation University Australia|

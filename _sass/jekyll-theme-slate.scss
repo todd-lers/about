@@ -283,6 +283,13 @@ Full-Width Styles
 }
 
 #header_wrap {
+  background: url('../images/MHT Banner small.jpg') #212121;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+#header_wrapS {
   background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
@@ -296,11 +303,16 @@ Full-Width Styles
 }
 
 #project_title {
-  margin: 0;
+  margin: 5;
+  padding-left: 10px;
   color: #fff;
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
+  background: url() #333333;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
 }
 
 #project_tagline {

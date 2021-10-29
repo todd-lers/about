@@ -12,6 +12,7 @@ layout: profile
       <a href="https://twitter.com/MatToddChem"><i class="fa fa-twitter"></i></a>  
       <a href="https://intermolecular.wordpress.com/"><i class="fa fa-wordpress"></i></a>
       <a href="https://en.wikipedia.org/wiki/Matthew_Todd_(chemist)"><i class="fa fa-wikipedia-w"></i></a>
+      <a href="#"><i class="fa fa-envelope"></i></a>
     </div>
   </div>
 
@@ -46,6 +47,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/edwin-tse-92144155/"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/edwintse_"><i class="fa fa-twitter"></i></a>  
+      <a href="#"><i class="fa fa-envelope"></i></a>
     </div>
     </div>
 </div>

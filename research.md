@@ -86,6 +86,8 @@ We've co-founded a broader open source pharma movement which has been defined by
 
 (Associated Articles/Media: [2014 Canadian Radio interview "Can open-source pharma cure Ebola and other neglected killers?"](https://www.cbc.ca/player/play/2523952984).
 
+There are many other possible means of funding open models of drug discovery. One is [blockchain](https://medium.com/molecule-blog/an-open-bazaar-for-drug-development-molecule-protocol-a47978dd914). Another, that we're involved in, is the use of existing market instruments like regulatory data exclusivity - see our company [M4ID](https://www.m4idpharma.com/). 
+
 ### Licences
 
 There is no adequate licence to cover entire open source drug discovery projects. Open Source Malaria and others use the CC-BY licence. [Data should abide by the FAIR principles](https://www.nature.com/articles/d41586-019-01720-7). [Linking those who generate data with the downstream use of that data](https://www.nature.com/articles/d41586-019-01715-4) (for credit) might be desirable.

@@ -88,7 +88,7 @@ We've co-founded a broader open source pharma movement which has been defined by
 
 There are many and repeated calls for different ways to discover and develop medicines, in particular for better panedemic preparedness (e.g. [here](https://blogs.bmj.com/bmj/2021/04/01/preparing-for-the-next-pandemic-requires-public-health-focused-industrial-policy/))
 
-There are many other possible means of funding open models of drug discovery. One is [blockchain](https://medium.com/molecule-blog/an-open-bazaar-for-drug-development-molecule-protocol-a47978dd914). Another, that we're involved in, is the use of existing market instruments like regulatory data exclusivity - see our company [M4ID](https://www.m4idpharma.com/). 
+There are many other possible means of funding open models of drug discovery. One is [blockchain](https://medium.com/molecule-blog/an-open-bazaar-for-drug-development-molecule-protocol-a47978dd914). Another, that we're involved in, is the use of existing market instruments like regulatory data exclusivity - see our company [M4ID](https://www.m4idpharma.com/). One wonders whether some of [the methods for funding open source software](https://github.com/nayafia/lemonade-stand/blob/master/README.md) might be translatable to drug discovery.
 
 ### Licences
 

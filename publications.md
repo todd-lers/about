@@ -7,7 +7,7 @@ layout: default
 
 ### 2021
 
-1. [Platinum Binding Preferences Dominate the Binding of Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes to DNA](https://doi.org/10.1039/D1DT03539H), A. T. S. Lo, J. K. Chen, V. Murray, M. H. Todd and T. W. Hambley, _Dalton Trans._ **2021**, _50_, 17945-17952. DOI: 10.1039/D1DT03539H
+1. [Platinum Binding Preferences Dominate the Binding of Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes to DNA](https://doi.org/10.1039/D1DT03539H), A. T. S. Lo, J. K. Chen, V. Murray, M. H. Todd and T. W. Hambley, _Dalton Trans._ **2021**, _50_, 17945-17952. DOI: 10.1039/D1DT03539H. _Selected as a Dalton Transactions HOT article._
 
 1. CACHE (Critical Assessment of Computational Hit-finding Experiments): A Public-private Partnership Benchmarking Initiative to Enable the Development of Computational Methods for Hit-finding, S. Ackloo, R. Al-awar, R. E. Amaro, C. H. Arrowsmith, H. Azevedo, R. A. Batey, Y. Bengio, U. A. K. Betz, C. G. Bologa, J. D. Chodera, W. D. Cornell, I. Dunham, G. F. Ecker, K. Edfeldt, A. M. Edwards, M. K. Gilson, C. R. Gordijo, G. Hessler, A. Hillisch, A. Hogner, J. J. Irwin, J. M. Jansen, D. Kuhn, A. R. Leach, A. A. Lee, U. Lessel, J. Moult, I. Muegge, T. I. Oprea, B. G. Perry, P. Riley, K. S. Saikatendu, V. Santhakumar, M. Schapira, C. Scholten, M. H. Todd, M. Vedadi, A. Volkamer, T. M. Willson, _Nat. Rev. Chem._ in press [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/6168ba62f718dfc39bdee0db), DOI: 10.33774/chemrxiv-2021-rzq4n. 
 

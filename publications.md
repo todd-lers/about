@@ -5,6 +5,10 @@ layout: default
 [ORCID ID 0000-0001-7096-4751](https://orcid.org/0000-0001-7096-4751)  
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=a8lzGHEAAAAJ)
 
+### 2022
+
+1. Screening the Pandemic Response Box Identified Benzimidazole Carbamates, Olorofim and Ravuconazole as Promising Drug Candidates for the Treatment of Eumycetoma, _PLoS NTD_ **2022**, _in press_. DOI: 
+
 ### 2021
 
 1. [Platinum Binding Preferences Dominate the Binding of Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes to DNA](https://doi.org/10.1039/D1DT03539H), A. T. S. Lo, J. K. Chen, V. Murray, M. H. Todd and T. W. Hambley, _Dalton Trans._ **2021**, _50_, 17945-17952. DOI: 10.1039/D1DT03539H. _Selected as a Dalton Transactions HOT article._

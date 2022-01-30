@@ -53,7 +53,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/.jpeg" class="myimg">
+    <center><img src="./pics/Tom rome.PNG" width="90%"></center>
     <h4>Thomas Knight</h4>
     <p class="title">PhD Student (UCL) <br>2021-present</p>
     <p></p>

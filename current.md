@@ -60,6 +60,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/thomas-knight-340784151/"><i class="fa fa-linkedin"></i></a>  
       <a href="https://twitter.com/tommbk97"><i class="fa fa-twitter"></i></a>
+      <a href="#"><i class="fa fa-envelope"></i></a>
     </div>
   </div>
 </div>

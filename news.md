@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+**Feb 3rd 2022** Tom and Mat featured in a [Chemistry World article](https://www.chemistryworld.com/opinion/a-call-for-open-science-student-leaders/4015107.article) about the [Sir James Murray Student Champion](https://github.com/mattodd/blog/issues/6) concept.
 
 **Mar 26th 2020** Mat is named in the [Medicine Maker 2020 Power List](https://themedicinemaker.com/power-list/2020).
 

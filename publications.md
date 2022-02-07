@@ -7,7 +7,7 @@ layout: default
 
 ### 2022
 
-1. Screening the Pandemic Response Box Identified Benzimidazole Carbamates, Olorofim and Ravuconazole as Promising Drug Candidates for the Treatment of Eumycetoma, _PLoS NTD_ **2022**, _in press_. DOI: 
+1. [Screening the Pandemic Response Box Identified Benzimidazole Carbamates, Olorofim and Ravuconazole as Promising Drug Candidates for the Treatment of Eumycetoma](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010159), W. Lim, B. Nyuykonge, K. Eadie, M. Konings, J. Smeets, A. Fahal, A. Bonifaz, M. Todd, B. Perry, K. Samby, J. Burrows, A. Verbon and W. van de Sande _PLoS NTD_ **2022**, _in press_. DOI: 10.1371/journal.pntd.0010159
 
 ### 2021
 

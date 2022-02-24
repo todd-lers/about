@@ -243,8 +243,8 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - you need a 19F NMR spectra for a sample
 
 Useful codes:  
-- Core: Project Number: 549163, Award Number: 156780.  
-- Discretionary: Project Number: 549163, Award Number: 156780.  
+- Core: Project Number: 549163, Award Number: 156780 <-- don't use this from now on for consumables.  
+- Discretionary: Project Number: 549163, Award Number: 156782.  
 - Dmitrij: Project Number: 552026, Award Number: 156780, Task 100.  
 - Yuhang: Project Number: 564082, Award Number: 177365, Task 100.
 - Tom: Project: 566966, Award: 180330

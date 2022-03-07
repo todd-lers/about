@@ -27,13 +27,13 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Dana_Klug.jpg" class="myimg">
-    <h4>Dr Dana Klug</h4>
-    <p class="title">Postdoc (UCL) <br>2019-present</p>
+    <img src="./pics/people/Daniel Gedder Silva.jpeg" class="myimg">
+    <h4>Dr Daniel Silva</h4>
+    <p class="title">Postdoc (UCL) <br>2022-present</p>
     <p></p>
     <div style="margin: 15px 0;">
-      <a href="https://uk.linkedin.com/in/dana-klug-9829259a"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/dana_klug"><i class="fa fa-twitter"></i></a>
+      <a href="https://br.linkedin.com/in/daniel-gedder-73700529"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/danielgedder"><i class="fa fa-twitter"></i></a>
       <a href="#"><i class="fa fa-envelope"></i></a>  
     </div>
   </div>

@@ -24,7 +24,22 @@ He has a significant interest in open science, and how it may be used to acceler
 
 <hr class="rule">
 
+<h2>Postdoctoral Research Associates</h2>
+
 <div class="row">
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Ed_Tse3.jpg" class="myimg">
+    <h4>Dr Edwin Tse</h4>
+    <p class="title">Postdoc (UCL) <br>2021-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/edwin-tse-92144155/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/edwintse_"><i class="fa fa-twitter"></i></a>  
+      <a href="#"><i class="fa fa-envelope"></i></a>
+    </div>
+    </div>
+</div>
 <div class="column">
   <div class="card">
     <img src="./pics/people/Daniel Gedder Silva.jpeg" class="myimg">
@@ -38,33 +53,9 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
   </div>
 </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Ed_Tse.jpeg" class="myimg">
-    <h4>Dr Edwin Tse</h4>
-    <p class="title">Postdoc (UCL) <br>2021-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/edwin-tse-92144155/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/edwintse_"><i class="fa fa-twitter"></i></a>  
-      <a href="#"><i class="fa fa-envelope"></i></a>
-    </div>
-    </div>
 </div>
-<div class="column">
-  <div class="card">
-     <img src="./pics/people/Tom rome.jpg" class="myimg">
-    <h4>Thomas Knight</h4>
-    <p class="title">PhD Student (UCL) <br>2021-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/thomas-knight-340784151/"><i class="fa fa-linkedin"></i></a>  
-      <a href="https://twitter.com/tommbk97"><i class="fa fa-twitter"></i></a>
-      <a href="#"><i class="fa fa-envelope"></i></a>
-    </div>
-  </div>
-</div>
-</div>
+
+<h2>PhD Students</h2>
 
 <div class="row">
 <div class="column">
@@ -81,20 +72,6 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Jamie_Batten.jpeg" class="myimg">
-    <h4>Jamie Batten</h4>
-    <p class="title">PhD Student (USyd) <br>2017-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/jamie-michael-batten/"><i class="fa fa-linkedin"></i></a>
-    </div>
-    </div>
-</div>
-</div>
-
-<div class="row">
-<div class="column">
-  <div class="card">
     <img src="./pics/people/Dmitrij_Melechov.jpg" class="myimg">
     <h4>Dmitrij Melechov</h4>
     <p class="title">PhD Student (UCL) <br>2019-present</p>
@@ -109,9 +86,58 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/wiesel-henson-0202/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/ericwan59398945"><i class="fa fa-twitter"></i></a>
     </div>
     </div>
   </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+       <img src="./pics/people/Tom_Knight.jpg" class="myimg">
+      <h4>Thomas Knight</h4>
+      <p class="title">PhD Student (UCL) <br>2021-present</p>
+      <p></p>
+      <div style="margin: 15px 0;">
+        <a href="https://www.linkedin.com/in/thomas-knight-340784151/"><i class="fa fa-linkedin"></i></a>  
+        <a href="https://twitter.com/tommbk97"><i class="fa fa-twitter"></i></a>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+       <img src="./pics/people/" class="myimg">
+      <h4>Yinuo Wang</h4>
+      <p class="title">PhD Student (UCL) <br>2022-present</p>
+      <p></p>
+      <div style="margin: 15px 0;">
+        <a href="https://www.linkedin.com/in/yinuo-wang-849277171/"><i class="fa fa-linkedin"></i></a>  
+      </div>
+    </div>
+  </div>
+</div>
+
+<h2>Visiting Students</h2>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+       <img src="./pics/people/Kato_Leonard.jpg" class="myimg">
+      <h4>Kato Leonard</h4>
+      <p class="title">Erasmus+ Trainee (UCL) <br>2021-present</p>
+      <p></p>
+      <div style="margin: 15px 0;">
+        <a href="https://www.linkedin.com/in/kato-leonard-075982209/"><i class="fa fa-linkedin"></i></a>  
+        <a href="https://twitter.com/katoleonard"><i class="fa fa-twitter"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h2>MPharm Students</h2>
+
+<div class="row">
 <div class="column">
   <div class="card">
     <img src="./pics/people/Dayang_Usop.JPG" class="myimg">
@@ -124,9 +150,6 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
     </div>
 </div>
-</div>
-
-<div class="row">
 <div class="column">
   <div class="card">
     <img src="./pics/people/Jia Lau.jpg" class="myimg">
@@ -135,15 +158,4 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     </div>
 </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/.jpeg" class="myimg">
-    <h4>Jemima Haque</h4>
-    <p class="title"> <br>2021-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/jemima-haque-34a1911b2/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
-    </div>
-    </div>
-  </div>
 </div>

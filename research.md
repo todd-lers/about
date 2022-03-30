@@ -73,7 +73,7 @@ The focus is the discovery and development of new antibiotics, specifically inhi
 
 The focus is the discovery and development of new antibiotics, specifically the optimisation of a series of molecules discovered at the University of North Carolina Chapel Hill.
 
-This series has been the focus of a number of 2020 [research meetings](https://www.youtube.com/playlist?list=PL0eLxnHhou_k1Upbn5X1mdHBwKMYkRpLH). 
+This series has been the focus of a number of 2020 [research meetings](https://www.youtube.com/playlist?list=PL0eLxnHhou_k1Upbn5X1mdHBwKMYkRpLH).
 
 <center><img src="./pics/research/OSA Series 2 Summary.png" width="90%"></center>
 

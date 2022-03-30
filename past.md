@@ -9,6 +9,7 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Jemima Haque** [LinkedIn](https://www.linkedin.com/in/jemima-haque-34a1911b2/)||2021|
 |**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2020|
 |**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2020|PhD, Hochschule für Life Sciences FHNW|
 |**Fahima Idiris** <br/><img src="./pics/people/Fahima Idiris.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist, Pharmaron|
@@ -22,6 +23,7 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Jamie Batten** <br/><img src="./pics/people/Jamie_Batten.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/jamie-michael-batten/)|PhD|2017-2021|Lead Chemistry Teacher, Matrix Education|
 |**Marat Korsik** <br/><img src="./pics/people/Marat_Korsik.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/marat-korsik-590b64a1/)|PhD|2017-2021|Organics Analyst, National Measurement Institute Australia|
 |**Paul King** <br/><img src="./pics/people/Paul_King.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/paul-king-00547874/)|PhD|2017-2020|Validation Associate, Global Medical Solutions|
 |**Julius Adamson**|Honours|2018||

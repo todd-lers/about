@@ -107,7 +107,7 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
   <div class="column">
     <div class="card">
-       <img src="./pics/people/" class="myimg">
+       <img src="./pics/people/Yinuo_Wang.png" class="myimg">
       <h4>Yinuo Wang</h4>
       <p class="title">PhD Student (UCL) <br>2022-present</p>
       <p></p>

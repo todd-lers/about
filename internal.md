@@ -243,13 +243,14 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - you need a 19F NMR spectra for a sample
 
 Useful codes:  
-- Core: Project Number: 549163, Award Number: 156780 <-- don't use this from now on for consumables.  
-- Discretionary: Project Number: 549163, Award Number: 156782.  
-- Dmitrij: Project Number: 552026, Award Number: 156780, Task 100.  
-- Yuhang: Project Number: 564082, Award Number: 177365, Task 100.
-- Tom: Project: 566966, Award: 180330
-- Daniel: Project Number: 570934, Award Number: 184398, Task 100
-- Antibiotics UK: Project 568406 Award 183633
+- Core: Project 549163, Award 156780 <-- don't use this from now on for consumables.  
+- Discretionary: Project 549163, Award 156782.  
+- Dmitrij: Project 552026, Award 156780, Task 100.  
+- Yuhang: Project 564082, Award 177365, Task 100.
+- Tom: Project: 566966, Award 180330
+- Daniel: Project 570934, Award 184398, Task 100
+- Antibiotics UK: Project 568406, Award 183633
+- EPSRC/IAA/KEIF Generative (Ed): Project 571160, Award 174591
 
 ### Group Meetings
 

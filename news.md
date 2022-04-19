@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+**Mar 28th 2022** Mat is awarded £10,000 from the Rosetrees Trust following a successful application for funding led by the open science non-profit, Ersilia.io. The project will allow iterative design-synthesis-test cycles for the leading project in Open Source Malaria, where new potential antimalarials will be designed using Ersilia's AI/ML methods and evaluated in blood stage potency assays.
+
+**Mar 28th 2022** Mat is awarded $250K from the Bill and Melinda Gates Foundation and the Structural Genomics Consortium as part of an $5M consortium aimed at finding new non-hormonal female contraceptives. This major open science initiative, running for three years, will have project champions across UCL, Toronto, University of North Carolina Chapel Hill, Frankfurt, McGill and Karolinska. The UCL team's job is to find potent, selective, cell-penetrant inhibitors of phospholipase C zeta 1, an under-explored target central to human fertilisation. [Science details](https://github.com/StructuralGenomicsConsortium/CNP5-PLCZ1)
+
+**Feb 14th 2022** Mat wins £35,604 from the EPSRC Impact Acceleration Account/Knowledge Exchange and Innovation Funding scheme to run an AI/ML open science challenge to find new starting points for antibiotics. With Brooks Paige (Turing Institute) and Peter Coveney (Chemistry), a protein target is being provided, and AI/ML researchers who use "generative" methods for molecule generation can predict compounds that will bind that protein. Mat's lab will make or buy the molecules, which will be evaluated at the University of Warwick, with all data being shared in real time. You can find details [here](https://github.com/opensourceantibiotics/murligase/issues/69)
+
 **Feb 3rd 2022** Tom and Mat featured in a [Chemistry World article](https://www.chemistryworld.com/opinion/a-call-for-open-science-student-leaders/4015107.article) about the [Sir James Murray Student Champion](https://github.com/mattodd/blog/issues/6) concept.
 
 **Mar 26th 2020** Mat is named in the [Medicine Maker 2020 Power List](https://themedicinemaker.com/power-list/2020).

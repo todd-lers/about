@@ -104,10 +104,12 @@ This page contains information for current members of the Todd group. Click a se
 <h3>Writing Accurately vs Writing Well</h3>
   <div id="link" markdown="1">
 
-    When you join a lab, you will have been through a lot of education. You may feel that you can write. Most lab scientists are quickly disabused of this idea. Writing science is hard. You will find that your writing goes through a very large number of edits. Don't freak out. Don't lose confidence. We're always students of writing.
+When you join a lab, you will have been through a lot of education. You may feel that you can write. Most lab scientists are quickly disabused of this idea. Writing science is hard. You will find that your writing goes through a very large number of edits. Don't freak out. Don't lose confidence. We're always students of writing.
     When you write something, the first thing to ensure is that it's error free. You can't be making little tiny errors that will distract your reader, like speling mistakes or annoying   spaces where there shouldn't be any or repetition of words where words are not needed because words have appeared where edits should have been made. Generally speaking, don't submit anything for anyone to read (particularly Mat) if there are any simple errors in the document (i.e. things that Word can find and highlight). You may ask yourself "why do little tiny errors matter? Surely it's the substance of the writing, not the little things?" No. Errors are distracting and their presence suggests to the reader that the work has not been well thought through. It will appear cobbled together. The reader starts to doubt the quality of what they are reading.
     The second thing to do when you're writing something is to make sure that the content is meaningful and correct. Sentences should appear in a logical order. Paragraphs should have a coherent theme, with new paragraphs being used for new thoughts. References should be used correctly (see elsewhere for more on this). Statements should be made that can be backed up with data. Words should be used precisely. 
     The third thing to do is to make sure it's interesting. There is no law that says that science should be dull to read. To convey the excitement of what you are doing you should make it interesting to read. To achieve this requires a lot of practice, training and editing. It is an aim for a PhD student to construct an interesting thesis.
+
+  </div>
     
 <div id="accordion2">
 <h3>Consider Your Audience</h3>
@@ -117,6 +119,8 @@ When you write, think about who is going to read it. How you write changes depen
     Once you have a clear idea of your reader, you will be able to pitch the complexity and jargon suitably. There's no need to explain what a molecule is to a same-level stranger. But you might need to explain what a Minisci reaction is, or an alanine scan or a gametocyte. 
     Don't try to be too clever. Don't feel the need to include complicated terms in order to sound impressive. If your same-level stranger would not understand it, explain it. There is nothing more likely to switch your reader off than feeling confused by jargon.
     There may be times you need to alter your writing because you're doing something for a different audience. When writing grant proposals, you can often assume a higher level of knowledge by your audience (at least for the technical bits). When writing for a general audience (e.g. a general science magazine) you may need to simplify things further.
+    
+  </div>
     
 ### General Lab Guidance
 

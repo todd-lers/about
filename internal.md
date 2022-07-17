@@ -329,5 +329,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 
   [Fun old TV episode (Cutting Edge) on the synthesis of natural products](https://www.youtube.com/watch?v=QhzxlcVjJis)
 
+  [Connected Papers](https://www.connectedpapers.com/) - Very useful for doing lit searches.                                     
+                                         
   </div>
 </div>

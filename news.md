@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+**June 7th 2022** Mat contributed to a report on open data sharing practices during the COVID pandemic, that was [published today](https://zenodo.org/record/6620854#.YtknTZDMI-Q) by Wellcome, UKRI and the Bill and Melinda Gates Foundation.
+
 **May 20th 2022** The group receives about £2M from the National Institutes of Health as part of a $63M award to an antiviral drug discovery centre, [READDI-AViDD](https://uncnews.unc.edu/2022/05/20/unc-chapel-hill-receives-65m-from-nih-for-antiviral-drug-development-center/), based at the University of North Carolina, Chapel Hill. Mat's group will work on the medicinal chemistry of multiple projects and will share all findings publicly in real time, in line with the group's open science principles. The aim is to work together to improve our pandemic preparedness. [UCL news item](https://www.ucl.ac.uk/lifesciences-faculty/news/2022/jun/professor-matthew-todd-and-professor-robin-ketteler-awarded-grant)
 
 **Mar 28th 2022** Mat is awarded £10,000 from the Rosetrees Trust following a successful application for funding led by the open science non-profit, Ersilia.io. The project will allow iterative design-synthesis-test cycles for the leading project in Open Source Malaria, where new potential antimalarials will be designed using Ersilia's AI/ML methods and evaluated in blood stage potency assays.

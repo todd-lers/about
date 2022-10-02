@@ -24,6 +24,11 @@ layout: profile
 |**Fahima Idiris** <br/><img src="./pics/people/Fahima Idiris.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist, Pharmaron|
 |**Dana Klug** <br/><img src="./pics/people/Dana_Klug.jpg" class="myimga"><br/>[LinkedIn](https://uk.linkedin.com/in/dana-klug-9829259a)|Postdoctoral Fellow|2019-2022|Medicinal Chemistry Project Leader, Arvinas|
 |**Robert Hanson** <br/>[LinkedIn](https://www.linkedin.com/in/robert-hanson-77073611/)|Sabbatical Visitor|2020|Professor, Northeastern University|
+|**Stephanie Deegan**|MSc|2020|
+|**Ranu Gurung**|MSc|2020|
+|**Khushbu (Khush) Srivastava**|MSc|2020|
+|**Saleni Pravin Kumar**|MSc|2020|
+|**Neeracha ("Natt") Phungkuamchob**|MSc|2020|
 |**Gareth (Bryn) Parry** <br/>[LinkedIn](https://www.linkedin.com/in/gareth-bryn-parry-358204194/)|MSc|2019|
 |**Luxsika Rajendra** <br/>[LinkedIn](https://www.linkedin.com/in/luxsika-rajendra-7b6858151/)|MSc|2019|Clinical Trial Assistant, Medpace|
 |**Manisha Virdi** <br/>[LinkedIn](https://www.linkedin.com/in/manisha-virdi-44251a147/)|MSc|2019|Strategic Solutions Associate, GLG|

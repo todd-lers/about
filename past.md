@@ -11,8 +11,9 @@ layout: profile
 |:------:|:------:|:------:|:------:|
 |**Kato Leonard** <br/><img src="./pics/people/Kato_Leonard.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/kato-leonard-075982209/) [Twitter](https://twitter.com/katoleonard)|Erasmus|2021-2022|
 |**Jemima Haque** [LinkedIn](https://www.linkedin.com/in/jemima-haque-34a1911b2/)||2021|
-|**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2020|
-|**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2020|PhD, Hochschule für Life Sciences FHNW|
+|**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2021|
+|**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2021|PhD, Hochschule für Life Sciences FHNW|
+|**Annika Ranta**|MSc|2021|
 |**Dayang Usop** <br/><img src="./pics/people/Dayang_Usop.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/dayangusop/) [Twitter](https://twitter.com/DayangUsop)|MPharm|2020-2021|
 |**Jia Lau** <br/><img src="./pics/people/Jia Lau.jpg" class="myimga"><br/>|MPharm|2020-2021|
 |**Fahima Idiris** <br/><img src="./pics/people/Fahima Idiris.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist, Pharmaron|

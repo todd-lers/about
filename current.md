@@ -130,44 +130,8 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
 </div>
 
-<h2>Visiting Students</h2>
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-       <img src="./pics/people/Kato_Leonard.jpg" class="myimg">
-      <h4>Kato Leonard</h4>
-      <p class="title">Erasmus+ Trainee (UCL) <br>2021-present</p>
-      <p></p>
-      <div style="margin: 15px 0;">
-        <a href="https://www.linkedin.com/in/kato-leonard-075982209/"><i class="fa fa-linkedin"></i></a>  
-        <a href="https://twitter.com/katoleonard"><i class="fa fa-twitter"></i></a>
-      </div>
-    </div>
-  </div>
-</div>
+<h2>MRes Students</h2>
 
 <h2>MPharm Students</h2>
 
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Dayang_Usop.JPG" class="myimg">
-    <h4>Dayang Usop</h4>
-    <p class="title">MPharm Student (UCL) <br>2020-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/dayangusop/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/DayangUsop"><i class="fa fa-twitter"></i></a>  
-    </div>
-    </div>
-</div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Jia Lau.jpg" class="myimg">
-    <h4>Jia Lau</h4>
-    <p class="title">MPharm Student (UCL) <br>2020-present</p>
-    <p></p>
-    </div>
-</div>
-</div>
+

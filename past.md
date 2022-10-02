@@ -14,6 +14,11 @@ layout: profile
 |**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2021|
 |**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2021|PhD, Hochschule für Life Sciences FHNW|
 |**Annika Ranta**|MSc|2021|
+|**Wing Yin ("Jasmine") Tse**|MSc|2021|
+|**Mohammed ("Abid") Zaman**|MSc|2021|
+|**Shuoping Rao**|MSc|2021|
+|**Hu Hong**|MSc|2021|
+|**Mary Baffo**|MSc|2021|
 |**Dayang Usop** <br/><img src="./pics/people/Dayang_Usop.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/dayangusop/) [Twitter](https://twitter.com/DayangUsop)|MPharm|2020-2021|
 |**Jia Lau** <br/><img src="./pics/people/Jia Lau.jpg" class="myimga"><br/>|MPharm|2020-2021|
 |**Fahima Idiris** <br/><img src="./pics/people/Fahima Idiris.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist, Pharmaron|

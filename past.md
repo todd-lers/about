@@ -13,6 +13,7 @@ layout: profile
 |**Jemima Haque** [LinkedIn](https://www.linkedin.com/in/jemima-haque-34a1911b2/)||2021|
 |**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2020|
 |**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2020|PhD, Hochschule für Life Sciences FHNW|
+|**Dayang Usop** <br/><img src="./pics/people/Dayang_Usop.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/dayangusop/) [Twitter](https://twitter.com/DayangUsop)|MPharm|2020-2021|
 |**Fahima Idiris** <br/><img src="./pics/people/Fahima Idiris.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist, Pharmaron|
 |**Dana Klug** <br/><img src="./pics/people/Dana_Klug.jpg" class="myimga"><br/>[LinkedIn](https://uk.linkedin.com/in/dana-klug-9829259a)|Postdoctoral Fellow|2019-2022|Medicinal Chemistry Project Leader, Arvinas|
 |**Robert Hanson** <br/>[LinkedIn](https://www.linkedin.com/in/robert-hanson-77073611/)|Sabbatical Visitor|2020|Professor, Northeastern University|

@@ -53,6 +53,18 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
   </div>
 </div>
+  <div class="column">
+  <div class="card">
+    <img src="./pics/people/EveCarter.JPG" class="myimg">
+    <h4>Dr Eve Carter</h4>
+    <p class="title">Postdoc (UCL) <br>2022-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/eve-carter-a59576153/"><i class="fa fa-linkedin"></i></a>
+      <a href="#"><i class="fa fa-envelope"></i></a>  
+    </div>
+  </div>
+</div>
 </div>
 
 <h2>PhD Students</h2>

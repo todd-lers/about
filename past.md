@@ -9,9 +9,11 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Jemima Haque** [LinkedIn](https://www.linkedin.com/in/jemima-haque-34a1911b2/)||2021|
 |**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2020|
-|**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2020|PhD, Hochschule für Life Sciences FHNW|
-|**Fahima Idiris** <br/><img src="./pics/people/Fahima Idiris.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist, Pharmaron|
+|**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2020|PhD, Hochschule für Life Sciences FHNW|
+|**Fahima Idiris** <br/><img src="./pics/people/Fahima Idiris.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist, Pharmaron|
+|**Dana Klug** <br/><img src="./pics/people/Dana_Klug.jpg" class="myimga"><br/>[LinkedIn](https://uk.linkedin.com/in/dana-klug-9829259a)|Postdoctoral Fellow|2019-2022|Medicinal Chemistry Project Leader, Arvinas|
 |**Robert Hanson** <br/>[LinkedIn](https://www.linkedin.com/in/robert-hanson-77073611/)|Sabbatical Visitor|2020|Professor, Northeastern University|
 |**Gareth (Bryn) Parry** <br/>[LinkedIn](https://www.linkedin.com/in/gareth-bryn-parry-358204194/)|MSc|2019|
 |**Luxsika Rajendra** <br/>[LinkedIn](https://www.linkedin.com/in/luxsika-rajendra-7b6858151/)|MSc|2019|Clinical Trial Assistant, Medpace|
@@ -21,17 +23,18 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Jamie Batten** <br/><img src="./pics/people/Jamie_Batten.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/jamie-michael-batten/)|PhD|2017-2021|Lead Chemistry Teacher, Matrix Education|
 |**Marat Korsik** <br/><img src="./pics/people/Marat_Korsik.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/marat-korsik-590b64a1/)|PhD|2017-2021|Organics Analyst, National Measurement Institute Australia|
-|**Paul King** <br/><img src="./pics/people/Paul_King.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/paul-king-00547874/)|PhD|2017-2020|Validation Associate, Global Medical Solutions|
-|**Julius Adamson**|Honours|2018||
-|**Nicholas Smith**|Honours|2018||
+|**Paul King** <br/><img src="./pics/people/Paul_King.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/paul-king-00547874/)|PhD|2017-2020|Chemist, Epichem|
+|**Julius Adamson**|Honours|2018|PhD, The University of Sydney|
+|**Nicholas Smith**|Honours|2018|PhD, The University of Sydney|
 |**David Smith** <br/>[LinkedIn](https://www.linkedin.com/in/david-smith-8366325a/)|Postdoctoral Fellow|2017–18|Lecturer, Federation University Australia|
 |**Conor Graham** <br/>[LinkedIn](https://www.linkedin.com/in/conor-graham/)|Honours|2017|Business and Technology Integration Associate, Accenture|
-|**Malcolm Spain** <br/>[LinkedIn](https://www.linkedin.com/in/malcolm-spain-79121817/)|Postdoctoral Fellow|2015–17|Research Scientist II, Vertex Pharmaceuticals|
+|**Malcolm Spain** <br/>[LinkedIn](https://www.linkedin.com/in/malcolm-spain-79121817/)|Postdoctoral Fellow|2015–17|Senior Scientist I, Sosei Heptares|
 |**Sebastien Dath**|Honours|2017||
-|**Hung Phat Duong** <br/>[LinkedIn](https://www.linkedin.com/in/hung-phat-duong-98a4b918b/)|Honours|2017||
+|**Hung Phat Duong** <br/>[LinkedIn](https://www.linkedin.com/in/hung-phat-duong-98a4b918b/)|Honours|2017|PhD, The University of Sydney|
 |**Ryan Macdonald**|Visiting Student <br/>(University of Southampton)|2017||
-|**Christopher Brown** <br/>[LinkedIn](https://www.linkedin.com/in/christopher-brown-9a8291145/)|Honours|2016||
+|**Christopher Brown** <br/>[LinkedIn](https://www.linkedin.com/in/christopher-brown-9a8291145/)|Honours|2016|Medical Writer, McCann Health Australia|
 |**Frank Jiang**|Honours|2016||
 |**Alice Motion** (née Williamson) <br/>[Personal Website](http://alicemotion.com/), [Wikipedia](https://en.wikipedia.org/wiki/Alice_Motion)|Postdoctoral Fellow|2012-16|[Associate Professor, University of Sydney](https://www.sydney.edu.au/science/about/our-people/academic-staff/alice-motion.html)|
 |**Haochuan Mao** <br/>[LinkedIn](https://www.linkedin.com/in/haochuan-mao-a14031173/)|Visiting Student <br/>(Nanjing University)|2016|PhD, Wasielewski Group, Northwestern University|
@@ -68,7 +71,7 @@ layout: profile
 |**Thiru Thirukkumaran**|MSc|||
 |**Victor Sun**|Honours|2009||
 |**Laura White**|TSP Undergraduate|||
-|**Yu Heng Lau** <br/>[LinkedIn](https://www.linkedin.com/in/yuhenglau/)|Honours|2009|Lecturer, University of Sydney|
+|**Yu Heng Lau** <br/>[LinkedIn](https://www.linkedin.com/in/yuhenglau/)|Honours|2009|Lecturer, The University of Sydney|
 |**Tomasz Wyczesany**|PhD|2004-8|Honorary Research Associate, University of Sydney, and Development Chemist, Alpha Chemical|
 |**Taliesha Paine** <br/>[LinkedIn](https://www.linkedin.com/in/taliesha-paine-193607a0)|Honours|2007-8|Medical Science Liaison, Otsuka|
 |**Milena Milewska**|Honours|2007||

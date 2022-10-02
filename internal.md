@@ -18,7 +18,7 @@ This page contains information for current members of the Todd group. Click a se
   - Familiarise yourself with Risk Assessment forms for conducting reactions (on MS Teams)
   - Complete the Out of Hours form (get it signed by Mat Todd) -- click <a href="./docs/Onboarding/Out of Hours Form.docx" download>here</a> to download the Out of Hours form
 
-### General Guidelines
+### General Experimental Write-up Guidelines
 
 <div id="accordion">
 <h3>Reaction Numbering</h3>
@@ -98,9 +98,33 @@ This page contains information for current members of the Todd group. Click a se
   </div>
 </div>
 
-### General Lab Guidance
+### General Writing Advice
 
 <div id="accordion2">
+<h3>Writing Accurately vs Writing Well</h3>
+  <div id="link" markdown="1">
+
+When you join a lab, you will have been through a lot of education. You may feel that you can write. Most lab scientists are quickly disabused of this idea. Writing science is hard. You will find that your writing goes through a very large number of edits. Don't freak out. Don't lose confidence. We're always students of writing.
+    When you write something, the first thing to ensure is that it's error free. You can't be making little tiny errors that will distract your reader, like speling mistakes or annoying   spaces where there shouldn't be any or repetition of words where words are not needed because words have appeared where edits should have been made. Generally speaking, don't submit anything for anyone to read (particularly Mat) if there are any simple errors in the document (i.e. things that Word can find and highlight). You may ask yourself "why do little tiny errors matter? Surely it's the substance of the writing, not the little things?" No. Errors are distracting and their presence suggests to the reader that the work has not been well thought through. It will appear cobbled together. The reader starts to doubt the quality of what they are reading.
+    The second thing to do when you're writing something is to make sure that the content is meaningful and correct. Sentences should appear in a logical order. Paragraphs should have a coherent theme, with new paragraphs being used for new thoughts. References should be used correctly (see elsewhere for more on this). Statements should be made that can be backed up with data. Words should be used precisely.
+    The third thing to do is to make sure it's interesting. There is no law that says that science should be dull to read. To convey the excitement of what you are doing you should make it interesting to read. To achieve this requires a lot of practice, training and editing. It is an aim for a PhD student to construct an interesting thesis.
+
+  </div>
+
+<h3>Consider Your Audience</h3>
+  <div id="link" markdown="1">
+
+When you write, think about who is going to read it. How you write changes depending on your audience. For most student reports and theses your audience is someone of your level of education (e.g. another undergrad, or grad student) who is trained in your broad scientific discipline (chemistry) but who is totally unfamiliar with your project. We can call this a "same-level stranger."
+    Once you have a clear idea of your reader, you will be able to pitch the complexity and jargon suitably. There's no need to explain what a molecule is to a same-level stranger. But you might need to explain what a Minisci reaction is, or an alanine scan or a gametocyte.
+    Don't try to be too clever. Don't feel the need to include complicated terms in order to sound impressive. If your same-level stranger would not understand it, explain it. There is nothing more likely to switch your reader off than feeling confused by jargon.
+    There may be times you need to alter your writing because you're doing something for a different audience. When writing grant proposals, you can often assume a higher level of knowledge by your audience (at least for the technical bits). When writing for a general audience (e.g. a general science magazine) you may need to simplify things further.
+
+  </div>
+</div>
+
+### General Lab Guidance
+
+<div id="accordion3">
 <h3>Working Safely</h3>
   <div id="link" markdown="1">
 
@@ -173,7 +197,7 @@ This page contains information for current members of the Todd group. Click a se
 
   It is essential to manage reagents correctly to not adversely affect your chemistry or that of others.
 
-  All new compounds should be added onto **Quartzy** immediately and assigned a suitable sub-location. **If you don't have access to Quartzy please contact _Dana_. or _Fahima_.** All empty reagent bottles should be removed from the inventory before disposal. Empty bottles, or reagents that have been deemed unusable should be labelled as such, removed from the database and disposed of. – **This is the responsibility of everyone in the lab**.
+  All new compounds should be added onto **ChemInventory** immediately and assigned a suitable sub-location. **If you don't have access to ChemInventory please contact _Ed_ or _Jamie_.** All empty reagent bottles should be removed from the inventory before disposal. Empty bottles, or reagents that have been deemed unusable should be labelled as such, removed from the database and disposed of. – **This is the responsibility of everyone in the lab**.
 
   As a lab we will carry out an annual stock take (likely in December) to ensure that the inventory is up to date. It’s the responsibility of those assigned to managing the inventory to coordinate this and advise group members on appropriate locations for chemicals. _This needs to be in line with what’s expected by UCL and the UK in general._
 
@@ -184,7 +208,7 @@ This page contains information for current members of the Todd group. Click a se
 
 ### How-To's and Manuals
 
-<div id="accordion3">
+<div id="accordion4">
 <h3>Using the LCMS</h3>
   <div id="link" markdown="1">
 
@@ -216,7 +240,9 @@ This page contains information for current members of the Todd group. Click a se
 
   Information on Biotage columns can be found [here](https://github.com/todd-lers/techops/blob/master/Biotage/pps497_-_biotage_sfr_brochure.pdf).
 
-  **There is no booking system** and you can use the purification system as required, when it is not in use. There are currently 9 racks available.
+  Write down your name and type of purification (i.e. normal or reversed phase) on the table affixed to the fumehood sash. Only write down your name if you are ready to run your purification, otherwise wait until you are closer to being ready.
+
+  **There is no booking system** and you can use the purification system as required, when it is not in use. There are currently 12 racks available.
 
   **Please don’t keep racks and tubes in your fumehood for prolonged periods of time.** Combine your fractions as soon as possible after doing a column and clean the tubes thoroughly, finishing with **several acetone rinses**. Alternatively, transfer your tubes to a normal test tube rack (return later) and return the empty Biotage rack. **Make sure there is no permanent marker on the tubes or on the rack.** To ensure that the tubes dry quickly for the next user, place them upside down onto tissue on the bench or place them in the large drying cabinet at the back of the lab, before returning them to the Biotage or the designated cupboard.
 
@@ -224,13 +250,17 @@ This page contains information for current members of the Todd group. Click a se
 
   There are many methods of **loading** (i.e. liquid and dry) and you would have been sent a guide on this (_speak to Fahima if you haven't_). Once the silica has reached its lifetime (i.e. you start to see gaps between the silica and the frit) you can remove the frit and dispose of the silica. The empty cartridge can then be refilled as required.
 
-  **If you need training on the instrument - contact Fahima or Dana.**
+  **If you need training on the instrument - contact the person in charge.**
   </div>
 </div>
 
 ### Rotas
 
 Solvents
+
+### Group Meetings
+
+Current Schedule
 
 ### Grant Codes and Admin
 
@@ -242,21 +272,27 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - you need to have hazardous chemical waste (including silica) removed
 - you need a 19F NMR spectra for a sample
 
-Useful codes:  
-- Core: Project Number: 549163, Award Number: 156780 <-- don't use this from now on for consumables.  
-- Discretionary: Project Number: 549163, Award Number: 156782.  
-- Dmitrij: Project Number: 552026, Award Number: 156780, Task 100.  
-- Yuhang: Project Number: 564082, Award Number: 177365, Task 100.
-- Tom: Project: 566966, Award: 180330
-- Antibiotics UK: Project 568406 Award 183633
+<div id="accordion5">
+<h3>Project Codes</h3>
+  <div id="link" markdown="1">
 
-### Group Meetings
+- Core: Project 549163, Award 156780 <-- don't use this from now on for consumables.  
+- Discretionary: Project 549163, Award 156782.  
+- Dmitrij: Project 552026, Award 156780, Task 100.  
+- Yuhang: Project 564082, Award 177365, Task 100.
+- Tom: Project: 566966, Award 180330
+- Daniel: Project 570934, Award 184398, Task 100
+- Antibiotics UK: Project 568406, Award 183633
+- EPSRC/IAA/KEIF Generative (Ed): Project 571160, Award 174591
+- Yinuo: Project 571228, Award 177365, Task 100
+- Gates/SGC Contraceptives grant: Project 572553, Award 184940
 
-Current Schedule
+</div>
+</div>
 
 ### Chemistry Resources
 
-<div id="accordion4">
+<div id="accordion6">
 <h3>Useful Web Resources</h3>
   <div id="link" markdown="1">
 
@@ -294,5 +330,7 @@ Current Schedule
 
   [Fun old TV episode (Cutting Edge) on the synthesis of natural products](https://www.youtube.com/watch?v=QhzxlcVjJis)
 
+  [Connected Papers](https://www.connectedpapers.com/) - Very useful for doing lit searches.                                     
+                                         
   </div>
 </div>

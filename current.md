@@ -130,7 +130,7 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
    <div class="column">
     <div class="card">
-       <img src="./pics/people/" class="myimg">
+       <img src="./pics/people/KangpingLiu.JPG" class="myimg">
       <h4>Kangping Liu</h4>
       <p class="title">PhD Student (UCL) <br>2023-present</p>
       <p></p>

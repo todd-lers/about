@@ -9,12 +9,31 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Kato Leonard** <br/><img src="./pics/people/Kato_Leonard.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/kato-leonard-075982209/) [Twitter](https://twitter.com/katoleonard)|Erasmus|2021-2022|
+|**Joshua Wyatt**|MSc|2022|
+|**Isabella Sportini**|MSc|2022|
+|**Faisal Rshaidat**|MSc|2022|
+|**Costanza Alciati**|MSc|2022|
+|**Manisha Kuttetira**|MSc|2022|
 |**Jemima Haque** [LinkedIn](https://www.linkedin.com/in/jemima-haque-34a1911b2/)||2021|
-|**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2020|
-|**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2020|PhD, Hochschule für Life Sciences FHNW|
+|**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2021|
+|**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2021|PhD, Hochschule für Life Sciences FHNW|
+|**Annika Ranta**|MSc|2021|
+|**Wing Yin ("Jasmine") Tse**|MSc|2021|
+|**Mohammed ("Abid") Zaman**|MSc|2021|
+|**Shuoping Rao**|MSc|2021|
+|**Hu Hong**|MSc|2021|
+|**Mary Baffo**|MSc|2021|
+|**Dayang Usop** <br/><img src="./pics/people/Dayang_Usop.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/dayangusop/) [Twitter](https://twitter.com/DayangUsop)|MPharm|2020-2021|
+|**Jia Lau** <br/><img src="./pics/people/Jia Lau.jpg" class="myimga"><br/>|MPharm|2020-2021|
 |**Fahima Idiris** <br/><img src="./pics/people/Fahima Idiris.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/fahima-idiris/)|Postdoctoral Fellow|2019-2020|Associate Principal Chemist, Pharmaron|
 |**Dana Klug** <br/><img src="./pics/people/Dana_Klug.jpg" class="myimga"><br/>[LinkedIn](https://uk.linkedin.com/in/dana-klug-9829259a)|Postdoctoral Fellow|2019-2022|Medicinal Chemistry Project Leader, Arvinas|
 |**Robert Hanson** <br/>[LinkedIn](https://www.linkedin.com/in/robert-hanson-77073611/)|Sabbatical Visitor|2020|Professor, Northeastern University|
+|**Stephanie Deegan**|MSc|2020|
+|**Ranu Gurung**|MSc|2020|
+|**Khushbu (Khush) Srivastava**|MSc|2020|
+|**Saleni Pravin Kumar**|MSc|2020|
+|**Neeracha ("Natt") Phungkuamchob**|MSc|2020|
 |**Gareth (Bryn) Parry** <br/>[LinkedIn](https://www.linkedin.com/in/gareth-bryn-parry-358204194/)|MSc|2019|
 |**Luxsika Rajendra** <br/>[LinkedIn](https://www.linkedin.com/in/luxsika-rajendra-7b6858151/)|MSc|2019|Clinical Trial Assistant, Medpace|
 |**Manisha Virdi** <br/>[LinkedIn](https://www.linkedin.com/in/manisha-virdi-44251a147/)|MSc|2019|Strategic Solutions Associate, GLG|

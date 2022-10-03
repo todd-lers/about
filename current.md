@@ -53,6 +53,18 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
   </div>
 </div>
+  <div class="column">
+  <div class="card">
+    <img src="./pics/people/EveCarter.JPG" class="myimg">
+    <h4>Dr Eve Carter</h4>
+    <p class="title">Postdoc (UCL) <br>2022-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/eve-carter-a59576153/"><i class="fa fa-linkedin"></i></a>
+      <a href="#"><i class="fa fa-envelope"></i></a>  
+    </div>
+  </div>
+</div>
 </div>
 
 <h2>PhD Students</h2>
@@ -116,20 +128,42 @@ He has a significant interest in open science, and how it may be used to acceler
       </div>
     </div>
   </div>
+   <div class="column">
+    <div class="card">
+       <img src="./pics/people/" class="myimg">
+      <h4>Kangping Liu</h4>
+      <p class="title">PhD Student (UCL) <br>2023-present</p>
+      <p></p>
+      <div style="margin: 15px 0;">
+        <a href=""><i class="fa fa-linkedin"></i></a>  
+      </div>
+    </div>
+  </div>
 </div>
 
-<h2>Visiting Students</h2>
+<h2>MRes Students</h2>
 
 <div class="row">
   <div class="column">
     <div class="card">
-       <img src="./pics/people/Kato_Leonard.jpg" class="myimg">
-      <h4>Kato Leonard</h4>
-      <p class="title">Erasmus+ Trainee (UCL) <br>2021-present</p>
+       <img src="./pics/people/" class="myimg">
+      <h4>Sanjana Thomas</h4>
+      <p class="title">MRes Student (UCL Chem) <br>2022-present</p>
       <p></p>
       <div style="margin: 15px 0;">
-        <a href="https://www.linkedin.com/in/kato-leonard-075982209/"><i class="fa fa-linkedin"></i></a>  
-        <a href="https://twitter.com/katoleonard"><i class="fa fa-twitter"></i></a>
+        <a href=""><i class="fa fa-linkedin"></i></a>  
+        <a href=""><i class="fa fa-twitter"></i></a>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+       <img src="./pics/people/" class="myimg">
+      <h4>Guanghao Xu</h4>
+      <p class="title">MRes Student (UCL Chem) <br>2022-present</p>
+      <p></p>
+      <div style="margin: 15px 0;">
+        <a href=""><i class="fa fa-linkedin"></i></a>  
       </div>
     </div>
   </div>
@@ -138,24 +172,28 @@ He has a significant interest in open science, and how it may be used to acceler
 <h2>MPharm Students</h2>
 
 <div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Dayang_Usop.JPG" class="myimg">
-    <h4>Dayang Usop</h4>
-    <p class="title">MPharm Student (UCL) <br>2020-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/dayangusop/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/DayangUsop"><i class="fa fa-twitter"></i></a>  
+  <div class="column">
+    <div class="card">
+       <img src="./pics/people/" class="myimg">
+      <h4>Ju Hyeong Kim (Andy)</h4>
+      <p class="title">MPharm Student (UCL) <br>2022-present</p>
+      <p></p>
+      <div style="margin: 15px 0;">
+        <a href=""><i class="fa fa-linkedin"></i></a>  
+        <a href=""><i class="fa fa-twitter"></i></a>
+      </div>
     </div>
+  </div>
+  <div class="column">
+    <div class="card">
+       <img src="./pics/people/" class="myimg">
+      <h4>Yewon Oh</h4>
+      <p class="title">MPharm Student (UCL) <br>2022-present</p>
+      <p></p>
+      <div style="margin: 15px 0;">
+        <a href=""><i class="fa fa-linkedin"></i></a>  
+      </div>
     </div>
+  </div>
 </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Jia Lau.jpg" class="myimg">
-    <h4>Jia Lau</h4>
-    <p class="title">MPharm Student (UCL) <br>2020-present</p>
-    <p></p>
-    </div>
-</div>
-</div>
+

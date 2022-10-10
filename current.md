@@ -158,7 +158,7 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
   <div class="column">
     <div class="card">
-       <img src="./pics/people/" class="myimg">
+       <img src="./pics/people/GuanghaoXu.jpeg" class="myimg">
       <h4>Guanghao Xu (Andy)</h4>
       <p class="title">MRes Student (UCL Chem) <br>2022-present</p>
       <p></p>

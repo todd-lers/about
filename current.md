@@ -169,7 +169,7 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
     <div class="column">
     <div class="card">
-       <img src="./pics/people/" class="myimg">
+       <img src="./pics/people/YiweiWang.jpeg" class="myimg">
       <h4>Yiwei Wang</h4>
       <p class="title">MRes Student (UCL Pharmacy) <br>2022-present</p>
       <p></p>

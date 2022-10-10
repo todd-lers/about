@@ -130,7 +130,7 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
    <div class="column">
     <div class="card">
-       <img src="./pics/people/" class="myimg">
+       <img src="./pics/people/KangpingLiu.JPG" class="myimg">
       <h4>Kangping Liu</h4>
       <p class="title">PhD Student (UCL) <br>2023-present</p>
       <p></p>
@@ -159,11 +159,23 @@ He has a significant interest in open science, and how it may be used to acceler
   <div class="column">
     <div class="card">
        <img src="./pics/people/" class="myimg">
-      <h4>Guanghao Xu</h4>
+      <h4>Guanghao Xu (Andy)</h4>
       <p class="title">MRes Student (UCL Chem) <br>2022-present</p>
       <p></p>
       <div style="margin: 15px 0;">
         <a href=""><i class="fa fa-linkedin"></i></a>  
+      </div>
+    </div>
+  </div>
+    <div class="column">
+    <div class="card">
+       <img src="./pics/people/" class="myimg">
+      <h4>Yiwei Wang</h4>
+      <p class="title">MRes Student (UCL Pharmacy) <br>2022-present</p>
+      <p></p>
+      <div style="margin: 15px 0;">
+        <a href=""><i class="fa fa-linkedin"></i></a>  
+        <a href=""><i class="fa fa-twitter"></i></a>
       </div>
     </div>
   </div>

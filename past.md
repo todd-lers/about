@@ -11,7 +11,7 @@ layout: profile
 |:------:|:------:|:------:|:------:|
 |**Kato Leonard** <br/><img src="./pics/people/Kato_Leonard.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/kato-leonard-075982209/) [Twitter](https://twitter.com/katoleonard)|Erasmus|2021-2022|
 |**Joshua Wyatt**|MSc|2022|
-|**Isabella Sportini**|MSc|2022|
+|**Isabella Sportelli**|MSc|2022|
 |**Faisal Rshaidat**|MSc|2022|
 |**Costanza Alciati**|MSc|2022|
 |**Manisha Kuttetira**|MSc|2022|

@@ -21,7 +21,7 @@ layout: profile
 |**Annika Ranta**|MSc|2021|
 |**Wing Yin ("Jasmine") Tse**|MSc|2021|
 |**Mohammed ("Abid") Zaman**|MSc|2021|
-|**Shuoping Rao**|MSc|2021|
+|**Shuoping Rao** <br/><img src="./pics/people/ShuopingRao.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/shuoping-rao-428995175/)|MSc|2021|Investment Analyst at K2 Venture|
 |**Hu Hong**|MSc|2021|
 |**Mary Baffo**|MSc|2021|
 |**Dayang Usop** <br/><img src="./pics/people/Dayang_Usop.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/dayangusop/) [Twitter](https://twitter.com/DayangUsop)|MPharm|2020-2021|

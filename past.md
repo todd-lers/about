@@ -11,11 +11,11 @@ layout: profile
 |:------:|:------:|:------:|:------:|
 |**Kato Leonard** <br/><img src="./pics/people/Kato_Leonard.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/kato-leonard-075982209/) [Twitter](https://twitter.com/katoleonard)|Erasmus|2021-2022|
 |**Joshua Wyatt**|MSc|2022|
-|**Isabella Sportini**|MSc|2022|
+|**Isabella Sportelli**|MSc|2022|
 |**Faisal Rshaidat**|MSc|2022|
 |**Costanza Alciati**|MSc|2022|
 |**Manisha Kuttetira**|MSc|2022|
-|**Jemima Haque** [LinkedIn](https://www.linkedin.com/in/jemima-haque-34a1911b2/)||2021|
+|**Jemima Haque** [LinkedIn](https://www.linkedin.com/in/jemima-haque-34a1911b2/)|Volunteer|2021|
 |**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2021|
 |**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2021|PhD, Hochschule für Life Sciences FHNW|
 |**Annika Ranta**|MSc|2021|

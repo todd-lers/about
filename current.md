@@ -146,7 +146,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
   <div class="column">
     <div class="card">
-       <img src="./pics/people/" class="myimg">
+       <img src="./pics/people/SanjanaThomas.jpg" class="myimg">
       <h4>Sanjana Thomas</h4>
       <p class="title">MRes Student (UCL Chem) <br>2022-present</p>
       <p></p>

@@ -1,0 +1,17 @@
+current directory: /Users/apple/Documents/GitHub/about/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+/Users/apple/.rubies/ruby-3.1.2/bin/ruby -I /Users/apple/.rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20221014-87961-g5texa.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/apple/Documents/GitHub/about/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /Users/apple/Documents/GitHub/about/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/apple/Documents/GitHub/about/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20221014-87961-awbc3z

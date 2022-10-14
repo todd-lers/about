@@ -92,7 +92,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Yuhang_Wang.jpeg" class="myimg">
+    <img src="./pics/people/Yuhang_Wang2.jpg" class="myimg">
     <h4>Yuhang (Wiesel) Wang</h4>
     <p class="title">PhD Student (UCL) <br>2019-present</p>
     <p></p>
@@ -119,7 +119,7 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
   <div class="column">
     <div class="card">
-       <img src="./pics/people/Yinuo_Wang.png" class="myimg">
+       <img src="./pics/people/Yinuo_Wang2.jpg" class="myimg">
       <h4>Yinuo Wang</h4>
       <p class="title">PhD Student (UCL) <br>2022-present</p>
       <p></p>
@@ -208,4 +208,3 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
   </div>
 </div>
-

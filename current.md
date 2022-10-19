@@ -12,7 +12,8 @@ layout: profile
       <a href="https://twitter.com/MatToddChem"><i class="fa fa-twitter"></i></a>  
       <a href="https://intermolecular.wordpress.com/"><i class="fa fa-wordpress"></i></a>
       <a href="https://en.wikipedia.org/wiki/Matthew_Todd_(chemist)"><i class="fa fa-wikipedia-w"></i></a>
-      <a href="#"><i class="fa fa-envelope"></i></a>
+      <a href="https://github.com/mattodd"><i class="fa fa-github"></i></a>
+      <a href="mailto:matthew.todd@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
   </div>
 
@@ -36,7 +37,8 @@ He has a significant interest in open science, and how it may be used to acceler
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/edwin-tse-92144155/"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/edwintse_"><i class="fa fa-twitter"></i></a>  
-      <a href="#"><i class="fa fa-envelope"></i></a>
+      <a href="https://github.com/edwintse"><i class="fa fa-github"></i></a>
+      <a href="mailto:edwin.tse@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
     </div>
 </div>
@@ -49,7 +51,8 @@ He has a significant interest in open science, and how it may be used to acceler
     <div style="margin: 15px 0;">
       <a href="https://br.linkedin.com/in/daniel-gedder-73700529"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/danielgedder"><i class="fa fa-twitter"></i></a>
-      <a href="#"><i class="fa fa-envelope"></i></a>  
+      <a href="https://github.com/danielgedder"><i class="fa fa-github"></i></a>
+      <a href="mailto:ucnvdgs@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
     </div>
   </div>
 </div>
@@ -61,7 +64,8 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/eve-carter-a59576153/"><i class="fa fa-linkedin"></i></a>
-      <a href="#"><i class="fa fa-envelope"></i></a>  
+      <a href="https://github.com/EveCarter"><i class="fa fa-github"></i></a>
+      <a href="mailto:eve.carter@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
     </div>
   </div>
 </div>
@@ -78,7 +82,8 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/mathamsanqa-bhebhe-b53281101/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/MNBhebhe"><i class="fa fa-twitter"></i></a>  
+      <a href="https://twitter.com/MNBhebhe"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/mbhebhe"><i class="fa fa-github"></i></a>
     </div>
     </div>
 </div>
@@ -88,6 +93,10 @@ He has a significant interest in open science, and how it may be used to acceler
     <h4>Dmitrij Melechov</h4>
     <p class="title">PhD Student (UCL) <br>2019-present</p>
     <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://github.com/dmitrij176"><i class="fa fa-github"></i></a>
+      <a href="mailto:dmitrij.melechov.17@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+    </div>
     </div>
 </div>
 <div class="column">
@@ -99,6 +108,8 @@ He has a significant interest in open science, and how it may be used to acceler
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/wiesel-henson-0202/"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/ericwan59398945"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/Yuhang-CADD"><i class="fa fa-github"></i></a>
+      <a href="mailto:yuhang.wang.19@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
     </div>
   </div>
@@ -114,6 +125,8 @@ He has a significant interest in open science, and how it may be used to acceler
       <div style="margin: 15px 0;">
         <a href="https://www.linkedin.com/in/thomas-knight-340784151/"><i class="fa fa-linkedin"></i></a>  
         <a href="https://twitter.com/tommbk97"><i class="fa fa-twitter"></i></a>
+        <a href="https://github.com/TomkUCL"><i class="fa fa-github"></i></a>
+        <a href="mailto:thomas.knight.21@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
       </div>
     </div>
   </div>
@@ -124,7 +137,9 @@ He has a significant interest in open science, and how it may be used to acceler
       <p class="title">PhD Student (UCL) <br>2022-present</p>
       <p></p>
       <div style="margin: 15px 0;">
-        <a href="https://www.linkedin.com/in/yinuo-wang-849277171/"><i class="fa fa-linkedin"></i></a>  
+        <a href="https://www.linkedin.com/in/yinuo-wang-849277171/"><i class="fa fa-linkedin"></i></a>
+        <a href="https://github.com/yinuowang0812"><i class="fa fa-github"></i></a>
+        <a href="mailto:yinuo.wang.20@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
       </div>
     </div>
   </div>
@@ -135,7 +150,7 @@ He has a significant interest in open science, and how it may be used to acceler
       <p class="title">PhD Student (UCL) <br>2023-present</p>
       <p></p>
       <div style="margin: 15px 0;">
-        <a href=""><i class="fa fa-linkedin"></i></a>  
+        <a href="https://github.com/KangpingL"><i class="fa fa-github"></i></a>
       </div>
     </div>
   </div>
@@ -150,10 +165,6 @@ He has a significant interest in open science, and how it may be used to acceler
       <h4>Sanjana Thomas</h4>
       <p class="title">MRes Student (UCL Chem) <br>2022-present</p>
       <p></p>
-      <div style="margin: 15px 0;">
-        <a href=""><i class="fa fa-linkedin"></i></a>  
-        <a href=""><i class="fa fa-twitter"></i></a>
-      </div>
     </div>
   </div>
   <div class="column">
@@ -162,9 +173,6 @@ He has a significant interest in open science, and how it may be used to acceler
       <h4>Guanghao Xu (Andy)</h4>
       <p class="title">MRes Student (UCL Chem) <br>2022-present</p>
       <p></p>
-      <div style="margin: 15px 0;">
-        <a href=""><i class="fa fa-linkedin"></i></a>  
-      </div>
     </div>
   </div>
     <div class="column">
@@ -173,10 +181,6 @@ He has a significant interest in open science, and how it may be used to acceler
       <h4>Yiwei Wang</h4>
       <p class="title">MRes Student (UCL Pharmacy) <br>2022-present</p>
       <p></p>
-      <div style="margin: 15px 0;">
-        <a href=""><i class="fa fa-linkedin"></i></a>  
-        <a href=""><i class="fa fa-twitter"></i></a>
-      </div>
     </div>
   </div>
 </div>
@@ -190,10 +194,6 @@ He has a significant interest in open science, and how it may be used to acceler
       <h4>Ju Hyeong Kim (Andy)</h4>
       <p class="title">MPharm Student (UCL) <br>2022-present</p>
       <p></p>
-      <div style="margin: 15px 0;">
-        <a href=""><i class="fa fa-linkedin"></i></a>  
-        <a href=""><i class="fa fa-twitter"></i></a>
-      </div>
     </div>
   </div>
   <div class="column">
@@ -202,9 +202,6 @@ He has a significant interest in open science, and how it may be used to acceler
       <h4>Yewon Oh</h4>
       <p class="title">MPharm Student (UCL) <br>2022-present</p>
       <p></p>
-      <div style="margin: 15px 0;">
-        <a href=""><i class="fa fa-linkedin"></i></a>  
-      </div>
     </div>
   </div>
 </div>

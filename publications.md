@@ -7,6 +7,8 @@ layout: default
 
 ### 2022
 
+1. Perphenazine-macrocycle Conjugates Rapidly Sequester the Aβ42 Monomer and Prevent Formation of Toxic Oligomers and Amyloid, Ball, Sarah; Adamson, Julius; Sullivan, Michael; Zimmermann, Manuela; Lo, Victor; Sanz-Hernandez, Maximo; Jiang, Xiaofan; Kwan, Ann; Mckenzie, Andre; Werry, Eryn; Knowles, Tuomas; Kassiou, Michael; Meisl, Georg; Todd, Matthew; Rutledge, Peter; Sunde, Margaret, ACS Chemical Neuroscience, **2022**, _in press_.
+
 1. Metallaphotoredox-Catalyzed Decarboxylative sp3–sp3 Coupling with Iso(thio)chroman and Tetrahydroisoquinoline Cores, P. A. King, P. J. Rutledge and M. H. Todd, _submitted_. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/62ab247f1fdc34fd493beda4).
 
 1. [CACHE (Critical Assessment of Computational Hit-finding Experiments): A Public-private Partnership Benchmarking Initiative to Enable the Development of Computational Methods for Hit-finding](https://doi.org/10.1038/s41570-022-00363-z), S. Ackloo, R. Al-awar, R. E. Amaro, C. H. Arrowsmith, H. Azevedo, R. A. Batey, Y. Bengio, U. A. K. Betz, C. G. Bologa, J. D. Chodera, W. D. Cornell, I. Dunham, G. F. Ecker, K. Edfeldt, A. M. Edwards, M. K. Gilson, C. R. Gordijo, G. Hessler, A. Hillisch, A. Hogner, J. J. Irwin, J. M. Jansen, D. Kuhn, A. R. Leach, A. A. Lee, U. Lessel, J. Moult, I. Muegge, T. I. Oprea, B. G. Perry, P. Riley, K. S. Saikatendu, V. Santhakumar, M. Schapira, C. Scholten, M. H. Todd, M. Vedadi, A. Volkamer, T. M. Willson, _Nat. Rev. Chem._ **2022**, DOI: 10.1038/s41570-022-00363-z ([Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/6168ba62f718dfc39bdee0db), DOI: 10.33774/chemrxiv-2021-rzq4n.)

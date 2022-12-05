@@ -286,6 +286,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - EPSRC/IAA/KEIF Generative (Ed): Project 571160, Award 174591
 - Yinuo: Project 571228, Award 177365, Task 100
 - Gates/SGC Contraceptives grant: Project 572553, Award 184940
+- Chemistry MRes Student Spending: Project 574868, Award 177365
 
 </div>
 </div>

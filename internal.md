@@ -287,6 +287,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - Yinuo: Project 571228, Award 177365, Task 100
 - Gates/SGC Contraceptives grant: Project 572553, Award 184940
 - Chemistry MRes Student Spending: Project 574868, Award 177365
+- READDI-AViDD: Project 575169 (SoP) or 575170 (LMCB), Award 185702
 
 </div>
 </div>

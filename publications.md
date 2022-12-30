@@ -7,7 +7,7 @@ layout: default
 
 ### 2022
 
-1. Perphenazine-macrocycle Conjugates Rapidly Sequester the Aβ42 Monomer and Prevent Formation of Toxic Oligomers and Amyloid, S. Ball, J. Adamson, M. Sullivan, M. Zimmermann, V. Lo, M. Sanz-Hernandez, X. Jiang, A. Kwan, A. Mckenzie, E. Werry, T. Knowles, M. Kassiou, G. Meisl, M. H. Todd, P. J. Rutledge, M. Sunde, ACS Chem. Neurosci. **2022**, _in press_.
+1. [Perphenazine-macrocycle Conjugates Rapidly Sequester the Aβ42 Monomer and Prevent Formation of Toxic Oligomers and Amyloid](https://pubs.acs.org/doi/abs/10.1021/acschemneuro.2c00498), S. R. Ball, J. S. P. Adamson, M. A. Sullivan, M. R. Zimmermann, V. Lo, M. Sanz-Hernandez, X. Jiang, A. H. Kwan, A. D. J. McKenzie, E. L. Werry, T. P. J. Knowles, M. Kassiou, G. Meisl, M. H. Todd, P. J. Rutledge, M. Sunde, _ACS Chem. Neurosci._ **2022**, _in press_. DOI: 10.1021/acschemneuro.2c00498
 
 1. Metallaphotoredox-Catalyzed Decarboxylative sp3–sp3 Coupling with Iso(thio)chroman and Tetrahydroisoquinoline Cores, P. A. King, P. J. Rutledge and M. H. Todd, _submitted_. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/62ab247f1fdc34fd493beda4).
 

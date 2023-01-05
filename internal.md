@@ -72,6 +72,11 @@ This is the most useful assay for reaction completion you will ever use. There a
 Let’s say you install a sensor on either side of the Sydney Harbour Bridge. Over the course of an hour it counts 1000 cars entering the bridge. The sensor the other side counts 750 cars coming off. You'd worry, right? So if have a gram of reagents in a chemical reaction, and you're expecting a 100% yield of product of 800 mg, and you isolate, from your crude reaction mixture, 350 mg you should similarly worry. You should be wondering where the mass has gone. This is the *mass balance*. If you're asked how a chemical reaction went, the first thing to describe is the approximate mass balance. Until you have some sense of where the mass has all gone, you don't have a good sense of the reaction outcome. You should certainly not be throwing anything away until this is sorted out. Naturally there will be some loss (reactant byproducts into the aqueous etc) but you should not routinely be losing lots of mass.
   </div>
 
+<h3>What Else Did You Get?</h3>
+  <div id="link" markdown="1">
+Related to the crucial concept of mass balance is having a clear sense of what else has been formed in a reaction besides the product you want. If your product yield is below about 60% you will be asked (by me, by others, by your thesis examiners etc) "what else did you get?" You need to be able to say something about where the rest of the mass went, e.g. "two other products were also formed that accounted for the remaining mass balance, but I'm not sure what they are yet" or "45% of the starting material was also reclaimed." To not know this is to miss a crucial aspect of doing the experiment beyond making a molecule: _Finding Out What Happened_. If you don't know what else happened, it's quite hard to improve the reaction next time: it makes a big difference to what you do next time if there's starting material left vs. if all the starting material was converted to something else.
+  </div>  
+  
 </div>
 
 ### General Experimental Write-up Guidelines

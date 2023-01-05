@@ -105,8 +105,11 @@ This page contains information for current members of the Todd group. Click a se
   <div id="link" markdown="1">
 
 When you join a lab, you will have been through a lot of education. You may feel that you can write. Most lab scientists are quickly disabused of this idea. Writing science is hard. You will find that your writing goes through a very large number of edits. Don't freak out. Don't lose confidence. We're always students of writing.
+    
     When you write something, the first thing to ensure is that it's error free. You can't be making little tiny errors that will distract your reader, like speling mistakes or annoying   spaces where there shouldn't be any or repetition of words where words are not needed because words have appeared where edits should have been made. Generally speaking, don't submit anything for anyone to read (particularly Mat) if there are any simple errors in the document (i.e. things that Word can find and highlight). You may ask yourself "why do little tiny errors matter? Surely it's the substance of the writing, not the little things?" No. Errors are distracting and their presence suggests to the reader that the work has not been well thought through. It will appear cobbled together. The reader starts to doubt the quality of what they are reading.
+    
     The second thing to do when you're writing something is to make sure that the content is meaningful and correct. Sentences should appear in a logical order. Paragraphs should have a coherent theme, with new paragraphs being used for new thoughts. References should be used correctly (see elsewhere for more on this). Statements should be made that can be backed up with data. Words should be used precisely.
+    
     The third thing to do is to make sure it's interesting. There is no law that says that science should be dull to read. To convey the excitement of what you are doing you should make it interesting to read. To achieve this requires a lot of practice, training and editing. It is an aim for a PhD student to construct an interesting thesis.
 
   </div>
@@ -115,9 +118,56 @@ When you join a lab, you will have been through a lot of education. You may feel
   <div id="link" markdown="1">
 
 When you write, think about who is going to read it. How you write changes depending on your audience. For most student reports and theses your audience is someone of your level of education (e.g. another undergrad, or grad student) who is trained in your broad scientific discipline (chemistry) but who is totally unfamiliar with your project. We can call this a "same-level stranger."
+    
     Once you have a clear idea of your reader, you will be able to pitch the complexity and jargon suitably. There's no need to explain what a molecule is to a same-level stranger. But you might need to explain what a Minisci reaction is, or an alanine scan or a gametocyte.
+    
     Don't try to be too clever. Don't feel the need to include complicated terms in order to sound impressive. If your same-level stranger would not understand it, explain it. There is nothing more likely to switch your reader off than feeling confused by jargon.
+    
     There may be times you need to alter your writing because you're doing something for a different audience. When writing grant proposals, you can often assume a higher level of knowledge by your audience (at least for the technical bits). When writing for a general audience (e.g. a general science magazine) you may need to simplify things further.
+
+  </div>
+  
+<h3>Writing Living Papers (As You Go Along)</h3>
+  <div id="link" markdown="1">
+
+This section is about a way of writing up your work as you go along, to improve your ability to plan your research and accelerate the submission of your papers. The upshot is: you need to be leading the writing of at least one so-called "living paper" at any one time.
+
+During the course of a research project it can become easy to drown in experiments and data. You get caught up in finishing short-term goals and sometimes it's easy to neglect thinking about the big picture - the "Why am I doing this research?" or "What is my big aim?".
+
+On the other hand, when you write up papers or write your thesis, the story of your project - why you did it and what's the impact - needs to be very clear. It's often the case that when you write up your work you realise that there are additional questions that need answering, or additional controls that were needed (which is why people writing up often need to come back into lab!).
+
+So on the one hand you are busy in lab with the minutiae but on the other hand you need to keep clear in your mind the bigger picture. The need for these two ways of thinking is sometimes called "[the rat's head and the ox's neck](http://futureofcio.blogspot.com/2012/03/miyamoto-musashis-five-rings-of.html)".
+
+Now, we try to mitigate against this. You write interim reports. You present your work at group meetings, or at conferences. You chat about your work with others. All of these things help you to re-evaluate what you're doing and why, essentially checking that the whole project is going in the right direction, that you've not overlooked something obvious, that you're asking the most meaningful questions. There's no better way to learn than to teach.
+
+But frequently it's the act of *writing* your research down that helps your brain engage with the project the best. When you write what you've done, you really need to present it in the very best light, in a way that is maximally robust and defensible. When you write an introduction, you're forced to ensure you're up to date with the literature. When you write the experimental, you're forced to ensure your data can support your conclusions. When you write the R&D, you have to engage with your research project's story, and to make sure the whole thing makes complete sense.
+
+At the same time, to progress in your career, and to demonstrate your productivity and scientific abilities, you need to publish papers.
+
+So to combine these things, you need to create a written description of your project's current status and have it on the boil at all times. In other words, you need to be writing "living papers" - a description of where you're up to in the form of a paper that is, when you've completed a piece of work, ready to submit to a journal. Rather than waiting for the end of a phase of experimental work before writing it up, you maintain a paper _as you go along_.
+
+In the group's open projects, each Github repository has a place to do this - the "Story So Far" on the wiki. This is an excellent (low-tech) place to write up where the project is up to. It's the most valuable thing we write for project outsiders - people who want to know where we're up to. We're constantly being asked for this by potential contributors.
+
+Alternatively, we can use Google Docs, which are perhaps better for defined pieces or work. Ultimately it doesn't matter which we use, since we can of course cross-reference them. But we want to minimise work, so we should pick one rather than the other.
+
+A living paper contains the features of any paper:
+- A working title.
+- Your name and address, and the names of any other contributors to the research.
+- An abstract (though this is often easier to write at the end)
+- A couple of paragraphs of intro, setting the scene for the work and its justification, and ending with a clear research question
+- R&D
+- A conclusion
+- References
+- Experimental (this can be a separate document if it's v bulky)
+
+Obviously the thing about living papers is that _all the above changes over time_. Data are added in, diagrams change, conclusions change. There are new subsections needed as a result of new data.
+
+Each lab member needs something like this. You might find you need more than one - projects are often written up as multiple papers, each with a separate theme and research question.
+
+For the early stages of paper writing, you could do a lot worse than consult [George Whitesides' very nice discussion of what a paper is](https://intra.ece.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf). You'll notice he says "A paper is not just an archival device for storing a completed research program; it is also a structure for planning your research in progress".
+
+So, practical steps. Start a Google Doc or start contributing to a relevant Github wiki page. Share that with Mat so that you're on the same page. Start setting aside some time for writing regularly - if a week goes by and you've not looked at the paper, then you're neglecting it. Keep your diagrams/figures somewhere convenient with a sensible naming convention, so that you can easily update them as you need to. Importantly, you can link to pages in your ELN if you wish to, as a way to maintain a link between data you mention in the paper and where the data came from, or are kept. Make the Google Doc public ("anyone with the link can view") and put (between authors and abstract) this: "The licence for this living paper is CC-BY-4,0, meaning you can use anything contained in this paper for any purpose, provided you cite this paper".
+
 
   </div>
 </div>

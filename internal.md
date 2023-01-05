@@ -18,6 +18,52 @@ This page contains information for current members of the Todd group. Click a se
   - Familiarise yourself with Risk Assessment forms for conducting reactions (on MS Teams)
   - Complete the Out of Hours form (get it signed by Mat Todd) -- click <a href="./docs/Onboarding/Out of Hours Form.docx" download>here</a> to download the Out of Hours form
 
+### Research Mentoring and Advice
+
+<div id="accordion">
+<h3>Meetings and Reviews</h3>
+  <div id="link" markdown="1">
+
+All students have weekly meetings with Mat in the lab. We have weekly group meetings during semester. Everyone should play an active role in any online open meetings relevant to their projects. Your lab co-workers are all fantastic sources of inspiration and ideas. All of these help with reviewing your progress, thinking about your objectives and devising experiments.
+    
+It's also important to have periodic strategy meetings where we examine the last few months' work and set targets for the coming few months. The timings of these meetings are set, approximately, by UCL Research Log. For these meetings you should come prepared with a maximum of three Powerpoint slides covering:
+
+1) Key achievements in the review period
+2) Challenges/Roadblocks you've faced
+3) Aims for the next period (these can include big new things, not just the logical, incremental things).
+
+We'll discuss these together and set aims you're happy with. We'll cover other things, such as 
+
+1) How to best structure your working day
+2) Reading wider than your project
+3) Writing up your data and thesis accurately
+4) Preparing now for your career aims
+5) How to make your project open source
+6) Any other help or inputs you need to make your project fun, fascinating and productive.   
+ 
+  </div>
+  
+<h3>Ways of Working</h3>
+  <div id="link" markdown="1">
+
+Everyone has different ways of working. There are few rules.
+    
+Some people like the early morning, some people are night owls. Some people enjoy long hours, some people don’t. I’ve seen people put in long hours and get little done, and I’ve seen people do short, regimented hours (for example because of caring responsibilities) and be extraordinarily focussed and productive. I will never check on your hours, but it's my job to check on what you’ve achieved and what you’ve thought about in a given timeframe. There are some general things that can be said about working hours:
+
+1) Lots of people have found that it can be productive to come in to lab and get an experiment going first thing, so that it can be doing its magic while you’re doing everything else you need to do, and so that the experiment can be monitored during the day and action taken (like a workup/column) the same day. If you find you're coming in to lab and immediately starting to think about lunch, you might want to change something.
+
+2) You should keep re-examining whether your working day is working for you. Are you in a good place with your schedule, or might you need to re-examine? It can be easy to get stuck in a rut if you’re not careful. Mix things up.
+
+3) You have access to a real-life science lab! Of the kind that maybe you dreamed about when you were little. It’s really amazing. You can do novel science any day of the week. You can run experiments of your own design. You, with your own hands, can make molecules that have never existed in the universe before. You can answer fundamental scientific questions all on your own. *Don’t take this for granted*. Before you know it, your project will be over and you may never again have such freedom. Use the time you have as fully as you can before it’s over.
+
+4) The lab is a communal place. It works best by people sharing expertise, papers and ideas. This happens best in person, not on WhatsApp. This means that it helps to be around lab when other people are around. If you notice that lots of people are in between 8 and 6, and you come in at 7pm, you might be missing out. If you don’t keep similar hours to others, it also makes lab maintenance harder, since it helps if you’re around to fix the piece of kit you’re responsible for when it’s broken, not hours after it’s broken. That said, the lab is available 24/7. With the right training, and if you’re following all the right safety protocols, you can work whenever you like. If you’re excited by your cool science, don’t fear that working weekends is weird. It’s really not. (Remember, Mat will never check to make sure you’re doing this).
+
+5) You live in a competitive world. If you want to get a job in science, or research, you need clear evidence of your awesome abilities, and that almost always means authorship on some good papers. You can increase your chances of getting those good papers by devising and carrying out lots of good, thoughtful experiments. Putting in lots of hours in lab does not guarantee success, but it helps to make it more likely. Often you will find that work goes in bursts - there can be periods of intense activity when you need to finish a set of key experiments and the momentum you generate in those times can be very satisfying. And then there are quieter periods where you can reflect, read, plan and write. You should mix the graft with the thought to make sure that your PhD is fun, fascinating and productive. 
+ 
+  </div>
+  
+</div>
+
 ### General Experimental Write-up Guidelines
 
 <div id="accordion">

@@ -234,7 +234,9 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
   [Current consumables rota](https://github.com/todd-lers/techops/blob/master/rotas/Consumables%20rota%20-%20Jan%20-%20Feb%202020.pdf)
 
-## Housekeeping
+<h3>Housekeeping</h3>
+  <div id="link" markdown="1">
+    
   It is imperative that communal areas and the apparatus stored within them are left clean for the next person to avoid contamination and risk of injury.
 
   **Glassware** is limited so promptly clear up after yourself, particularly with more specialist equipment such as columns and don’t hoard items you’re not using on a daily basis.
@@ -258,8 +260,10 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
   **Floor/bench space** – The floor space should be kept completely clear. Everything (including solvent Winchesters when in use) should be placed on the bench and not stored on the floor or on stools.
 
   **Sharps** – Needles must never be left around unprotected. Do not resheath needles. Dispose of them directly or store in a small vial for reuse if necessary.
+  </div>
 
-## Waste Disposal
+<h3>Waste Disposal</h3>
+  <div id="link" markdown="1">
 
   In general, small amounts of waste (acetone washings, used silica, sharps etc.) can be contained and stored in individual fumehoods and then transferred to the dedicated storage area. However, for particularly hazardous waste, you may need to quench these if appropriate and move them to the final storage area and arrange for their disposal.
 
@@ -272,8 +276,10 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
   * **Hazardous waste** – Filled containers of silica waste need to be appropriately labelled and disposal arranged. This is done through stores and is the responsibility of the person allocated to hazardous waste disposal. Very toxic waste and heavy metals (e.g. Pd, Cu, Ni) need to be transferred to clearly marked containers and their disposal arranged via stores. For commonly used heavy metals (i.e. Pd), waste containers can be stored in the waste fumehood rather than individual areas.
 
   * **Glass bins**– Glass waste is put into one of the designated bins. Once full these need to be closed, sealed with tape and taken outside.
+  </div> 
 
-## Lab Shut-Down
+<h3>Lab Shutdown</h3>
+  <div id="link" markdown="1">
 
   At the end of the day, everyone needs to ensure that their area is shut down before leaving. The last person to leave should double check that the UV lamps, Biotage, rotavaps, pumps and hi-vacs are turned off. Fume hood sashes should be closed when leaving the lab - at any time of day.
   </div>

@@ -66,6 +66,12 @@ Some people like the early morning, some people are night owls. Some people enjo
   <div id="link" markdown="1">
 This is the most useful assay for reaction completion you will ever use. There are lots of guides online about how best to do a TLC. Remember that the chamber the plate is in needs to be saturated with solvent vapour (so put a filter paper in there), and the baseline needs to be above the level of solvent. Always do TLCs with multiple lanes (starting materials, reaction mixture and co-spots). Your spots should be small, and ideally applied with glass spotters, not plastic ones (in case plasticisers leak out). The ideal Rf values for distinguishing spots from each other and for accuracy are between values of 0.1 and 0.5. Rf values above 0.7 are useless, since spots run into each other and the Rfs just aren't accurate (because of solvent evaporation from the top of the plate). To translate a TLC into a chromatographic separation, you want your desired spot to have an Rf of 0.3-0.4. If you can separate spots on a TLC by 0.1 you should be able to isolate those spots 100% pure by either a manual column or the Biotage, with no mixed fractions. With experience you’ll get this number down from 0.1 to 0.05. Use TLC before LCMS.
   </div>
+
+<h3>Mass Balance</h3>
+  <div id="link" markdown="1">
+Let’s say you install a sensor on either side of the Sydney Harbour Bridge. Over the course of an hour it counts 1000 cars entering the bridge. The sensor the other side counts 750 cars coming off. You'd worry, right? So if have a gram of reagents in a chemical reaction, and you're expecting a 100% yield of product of 800 mg, and you isolate, from your crude reaction mixture, 350 mg you should similarly worry. You should be wondering where the mass has gone. This is the *mass balance*. If you're asked how a chemical reaction went, the first thing to describe is the approximate mass balance. Until you have some sense of where the mass has all gone, you don't have a good sense of the reaction outcome. You should certainly not be throwing anything away until this is sorted out. Naturally there will be some loss (reactant byproducts into the aqueous etc) but you should not routinely be losing lots of mass.
+  </div>
+
 </div>
 
 ### General Experimental Write-up Guidelines

@@ -25,14 +25,14 @@ This page contains information for current members of the Todd group. Click a se
   <div id="link" markdown="1">
 
 All students have weekly meetings with Mat in the lab. We have weekly group meetings during semester. Everyone should play an active role in any online open meetings relevant to their projects. Your lab co-workers are all fantastic sources of inspiration and ideas. All of these help with reviewing your progress, thinking about your objectives and devising experiments.
-    
+
 It's also important to have periodic strategy meetings where we examine the last few months' work and set targets for the coming few months. The timings of these meetings are set, approximately, by UCL Research Log. For these meetings you should come prepared with a maximum of three Powerpoint slides covering:
 
 1) Key achievements in the review period
 2) Challenges/Roadblocks you've faced
 3) Aims for the next period (these can include big new things, not just the logical, incremental things).
 
-We'll discuss these together and set aims you're happy with. We'll cover other things, such as 
+We'll discuss these together and set aims you're happy with. We'll cover other things, such as
 
 1) How to best structure your working day
 2) Reading wider than your project
@@ -40,14 +40,14 @@ We'll discuss these together and set aims you're happy with. We'll cover other t
 4) Preparing now for your career aims
 5) How to make your project open source
 6) Any other help or inputs you need to make your project fun, fascinating and productive.   
- 
+
   </div>
-  
+
 <h3>Ways of Working</h3>
   <div id="link" markdown="1">
 
 Everyone has different ways of working. There are few rules.
-    
+
 Some people like the early morning, some people are night owls. Some people enjoy long hours, some people don’t. I’ve seen people put in long hours and get little done, and I’ve seen people do short, regimented hours (for example because of caring responsibilities) and be extraordinarily focussed and productive. I will never check on your hours, but it's my job to check on what you’ve achieved and what you’ve thought about in a given timeframe. There are some general things that can be said about working hours:
 
 1) Lots of people have found that it can be productive to come in to lab and get an experiment going first thing, so that it can be doing its magic while you’re doing everything else you need to do, and so that the experiment can be monitored during the day and action taken (like a workup/column) the same day. If you find you're coming in to lab and immediately starting to think about lunch, you might want to change something.
@@ -58,8 +58,8 @@ Some people like the early morning, some people are night owls. Some people enjo
 
 4) The lab is a communal place. It works best by people sharing expertise, papers and ideas. This happens best in person, not on WhatsApp. This means that it helps to be around lab when other people are around. If you notice that lots of people are in between 8 and 6, and you come in at 7pm, you might be missing out. If you don’t keep similar hours to others, it also makes lab maintenance harder, since it helps if you’re around to fix the piece of kit you’re responsible for when it’s broken, not hours after it’s broken. That said, the lab is available 24/7. With the right training, and if you’re following all the right safety protocols, you can work whenever you like. If you’re excited by your cool science, don’t fear that working weekends is weird. It’s really not. (Remember, Mat will never check to make sure you’re doing this).
 
-5) You live in a competitive world. If you want to get a job in science, or research, you need clear evidence of your awesome abilities, and that almost always means authorship on some good papers. You can increase your chances of getting those good papers by devising and carrying out lots of good, thoughtful experiments. Putting in lots of hours in lab does not guarantee success, but it helps to make it more likely. Often you will find that work goes in bursts - there can be periods of intense activity when you need to finish a set of key experiments and the momentum you generate in those times can be very satisfying. And then there are quieter periods where you can reflect, read, plan and write. You should mix the graft with the thought to make sure that your PhD is fun, fascinating and productive. 
- 
+5) You live in a competitive world. If you want to get a job in science, or research, you need clear evidence of your awesome abilities, and that almost always means authorship on some good papers. You can increase your chances of getting those good papers by devising and carrying out lots of good, thoughtful experiments. Putting in lots of hours in lab does not guarantee success, but it helps to make it more likely. Often you will find that work goes in bursts - there can be periods of intense activity when you need to finish a set of key experiments and the momentum you generate in those times can be very satisfying. And then there are quieter periods where you can reflect, read, plan and write. You should mix the graft with the thought to make sure that your PhD is fun, fascinating and productive.
+
   </div>
 
 <h3>Thin Layer Chromatography</h3>
@@ -76,12 +76,12 @@ Let’s say you install a sensor on either side of the Sydney Harbour Bridge. Ov
   <div id="link" markdown="1">
 Related to the crucial concept of mass balance is having a clear sense of what else has been formed in a reaction besides the product you want. If your product yield is below about 60% you will be asked (by me, by others, by your thesis examiners etc) "what else did you get?" You need to be able to say something about where the rest of the mass went, e.g. "two other products were also formed that accounted for the remaining mass balance, but I'm not sure what they are yet" or "45% of the starting material was also reclaimed." To not know this is to miss a crucial aspect of doing the experiment beyond making a molecule: _Finding Out What Happened_. If you don't know what else happened, it's quite hard to improve the reaction next time: it makes a big difference to what you do next time if there's starting material left vs. if all the starting material was converted to something else.
   </div>  
-  
+
 </div>
 
 ### General Experimental Write-up Guidelines
 
-<div id="accordion">
+<div id="accordion2">
 <h3>Reaction Numbering</h3>
   <div id="link" markdown="1">
   Reactions need to be given a unique identifier. The number takes the following form: **YourInitialsX-Y** where **X** is the _reaction type_ and **Y** is the _attempt number_.
@@ -161,16 +161,16 @@ Related to the crucial concept of mass balance is having a clear sense of what e
 
 ### General Writing Advice
 
-<div id="accordion2">
+<div id="accordion3">
 <h3>Writing Accurately vs Writing Well</h3>
   <div id="link" markdown="1">
 
 When you join a lab, you will have been through a lot of education. You may feel that you can write. Most lab scientists are quickly disabused of this idea. Writing science is hard. You will find that your writing goes through a very large number of edits. Don't freak out. Don't lose confidence. We're always students of writing.
-    
+
 When you write something, the first thing to ensure is that it's error free. You can't be making little tiny errors that will distract your reader, like speling mistakes or annoying   spaces where there shouldn't be any or repetition of words where words are not needed because words have appeared where edits should have been made. Generally speaking, don't submit anything for anyone to read (particularly Mat) if there are any simple errors in the document (i.e. things that Word can find and highlight). You may ask yourself "why do little tiny errors matter? Surely it's the substance of the writing, not the little things?" No. Errors are distracting and their presence suggests to the reader that the work has not been well thought through. It will appear cobbled together. The reader starts to doubt the quality of what they are reading.
-    
+
 The second thing to do when you're writing something is to make sure that the content is meaningful and correct. Sentences should appear in a logical order. Paragraphs should have a coherent theme, with new paragraphs being used for new thoughts. References should be used correctly (see elsewhere for more on this). Statements should be made that can be backed up with data. Words should be used precisely.
-    
+
 The third thing to do is to make sure it's interesting. There is no law that says that science should be dull to read. To convey the excitement of what you are doing you should make it interesting to read. To achieve this requires a lot of practice, training and editing. It is an aim for a PhD student to construct an interesting thesis.
 
   </div>
@@ -179,15 +179,15 @@ The third thing to do is to make sure it's interesting. There is no law that say
   <div id="link" markdown="1">
 
 When you write, think about who is going to read it. How you write changes depending on your audience. For most student reports and theses your audience is someone of your level of education (e.g. another undergrad, or grad student) who is trained in your broad scientific discipline (chemistry) but who is totally unfamiliar with your project. We can call this a "same-level stranger."
-    
+
 Once you have a clear idea of your reader, you will be able to pitch the complexity and jargon suitably. There's no need to explain what a molecule is to a same-level stranger. But you might need to explain what a Minisci reaction is, or an alanine scan or a gametocyte.
-    
+
 Don't try to be too clever. Don't feel the need to include complicated terms in order to sound impressive. If your same-level stranger would not understand it, explain it. There is nothing more likely to switch your reader off than feeling confused by jargon.
-    
+
 There may be times you need to alter your writing because you're doing something for a different audience. When writing grant proposals, you can often assume a higher level of knowledge by your audience (at least for the technical bits). When writing for a general audience (e.g. a general science magazine) you may need to simplify things further.
 
   </div>
-  
+
 <h3>Writing Living Papers (As You Go Along)</h3>
   <div id="link" markdown="1">
 
@@ -228,7 +228,7 @@ Each lab member needs something like this. You might find you need more than one
 For the early stages of paper writing, you could do a lot worse than consult [George Whitesides' very nice discussion of what a paper is](https://intra.ece.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf). You'll notice he says "A paper is not just an archival device for storing a completed research program; it is also a structure for planning your research in progress".
 
 So, practical steps. Start a Google Doc or start contributing to a relevant Github wiki page. Share that with Mat so that you're on the same page. Start setting aside some time for writing regularly - if a week goes by and you've not looked at the paper, then you're neglecting it. Keep your diagrams/figures somewhere convenient with a sensible naming convention, so that you can easily update them as you need to. Importantly, you can link to pages in your ELN if you wish to, as a way to maintain a link between data you mention in the paper and where the data came from, or are kept. Make the Google Doc public ("anyone with the link can view") and put (between authors and abstract) this: "The licence for this living paper is CC-BY-4,0, meaning you can use anything contained in this paper for any purpose, provided you cite this paper".
-    
+
 Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not in the short term, but in the medium term (because it will help you plan) and the long term (because it will accelerate your being able to submit peer-reviewed publications).
 
 
@@ -237,7 +237,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ### General Lab Guidance
 
-<div id="accordion3">
+<div id="accordion4">
 <h3>Working Safely</h3>
   <div id="link" markdown="1">
 
@@ -249,9 +249,11 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
   [Current consumables rota](https://github.com/todd-lers/techops/blob/master/rotas/Consumables%20rota%20-%20Jan%20-%20Feb%202020.pdf)
 
+  </div>
+
 <h3>Housekeeping</h3>
   <div id="link" markdown="1">
-    
+
   It is imperative that communal areas and the apparatus stored within them are left clean for the next person to avoid contamination and risk of injury.
 
   **Glassware** is limited so promptly clear up after yourself, particularly with more specialist equipment such as columns and don’t hoard items you’re not using on a daily basis.
@@ -291,7 +293,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
   * **Hazardous waste** – Filled containers of silica waste need to be appropriately labelled and disposal arranged. This is done through stores and is the responsibility of the person allocated to hazardous waste disposal. Very toxic waste and heavy metals (e.g. Pd, Cu, Ni) need to be transferred to clearly marked containers and their disposal arranged via stores. For commonly used heavy metals (i.e. Pd), waste containers can be stored in the waste fumehood rather than individual areas.
 
   * **Glass bins**– Glass waste is put into one of the designated bins. Once full these need to be closed, sealed with tape and taken outside.
-  </div> 
+  </div>
 
 <h3>Lab Shutdown</h3>
   <div id="link" markdown="1">
@@ -327,7 +329,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ### How-To's and Manuals
 
-<div id="accordion4">
+<div id="accordion5">
 <h3>Using the LCMS</h3>
   <div id="link" markdown="1">
 
@@ -391,7 +393,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - you need to have hazardous chemical waste (including silica) removed
 - you need a 19F NMR spectra for a sample
 
-<div id="accordion5">
+<div id="accordion6">
 <h3>Project Codes</h3>
   <div id="link" markdown="1">
 
@@ -413,7 +415,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 
 ### Chemistry Resources
 
-<div id="accordion6">
+<div id="accordion7">
 <h3>Useful Web Resources</h3>
   <div id="link" markdown="1">
 
@@ -452,6 +454,6 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
   [Fun old TV episode (Cutting Edge) on the synthesis of natural products](https://www.youtube.com/watch?v=QhzxlcVjJis)
 
   [Connected Papers](https://www.connectedpapers.com/) - Very useful for doing lit searches.                                     
-                                         
+
   </div>
 </div>

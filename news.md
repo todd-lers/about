@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 **June 7th 2022** Mat contributed to a report on open data sharing practices during the COVID pandemic, that was [published today](https://zenodo.org/record/6620854#.YtknTZDMI-Q) by Wellcome, UKRI and the Bill and Melinda Gates Foundation.
 
 **May 20th 2022** The group receives about £2M from the National Institutes of Health as part of a $63M award to an antiviral drug discovery centre, [READDI-AViDD](https://uncnews.unc.edu/2022/05/20/unc-chapel-hill-receives-65m-from-nih-for-antiviral-drug-development-center/), based at the University of North Carolina, Chapel Hill. Mat's group will work on the medicinal chemistry of multiple projects and will share all findings publicly in real time, in line with the group's open science principles. The aim is to work together to improve our pandemic preparedness. [UCL news item](https://www.ucl.ac.uk/lifesciences-faculty/news/2022/jun/professor-matthew-todd-and-professor-robin-ketteler-awarded-grant)

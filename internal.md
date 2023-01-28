@@ -102,7 +102,7 @@ Related to the crucial concept of mass balance is having a clear sense of what e
 
   The first three reactions in MHT’s lab book are shown below. The first reaction here is the first in the lab book. This transformation is given the number ‘1.’ It is the first attempt at this reaction, so it is called ‘MHT1-1.’ (_ignore the third number - scheme needs fixing_) The second reaction is the same transformation (remember, regardless of reagents), so also has **X** = 1. It is the second attempt so has the identifier MHT1-2. The third reaction is a different transformation, so has a different **X**, and this is the first time it has been done, so **Y** = 1, giving MHT2-1. Notice that there is no space between "MHT" and the first "1" - this helps with searching.
 
-  <center><img src="./pics/internal/Reaction_Numbering.png" width="45%"></center>
+  <center><img src="./pics/internal/Reaction Numbering v2.png" width="45%"></center>
 
   <hr class="rule2">
 

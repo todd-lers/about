@@ -121,7 +121,7 @@ As a scientist, it is very important that you have a strong sense of when accura
     
 - Mismatch. Ensure measured and calculated accuracies match. If you weigh something to an accuracy of 3 significant figures, report the number of moles to the same level of accuracy (e.g. 1.30 mmol - not 1.304658 mol) since otherwise you're _inventing precision_ - here the calculated value is more precise than you have measured, which is impossible. If Mat ever writes "accuracy mismatch" on your writing, he's talking about this, and you should check for other examples of this sin in your work.
     
-- Consistency: Be consistent with accuracy. Thus within one preparation (but not necessarily within one report/thesis/paper) amounts should usually be reported with consistent accuracy. Typically this means reporting masses to three significant figures (e.g. 354 mg). Not doing this is a form of mismatch, since highly accurate measurements of one thing are made irrelevant by less accurate measurements of another thing. There are rare exceptions.
+- Consistency: Be consistent with accuracy. Thus within one preparation (but not necessarily within one report/thesis/paper) amounts should usually be reported with consistent accuracy. Typically this means reporting masses to three significant figures (e.g. 354 mg). Not doing this is a form of mismatch, since highly accurate measurements of one thing are made irrelevant by less accurate measurements of another thing. There are rare exceptions (like the concentration of work-up reagents, mentioned above, which do not impact the accuracy of your yield).
     
   _Transferring further information from old website in progess_.
 

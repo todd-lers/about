@@ -115,7 +115,7 @@ Related to the crucial concept of mass balance is having a clear sense of what e
   
    **Accuracy**
     
-    As a scientist, it is very important that you have a strong sense of when accuracy in measurement is needed and when it is meaningful. Consider three things in particular:
+As a scientist, it is very important that you have a strong sense of when accuracy in measurement is needed and when it is meaningful. Consider three things in particular:
     
 - The Sanity Check. Is what you're saying meaningful? Is the level of accuracy you are reporting really justified? Reporting concentrations of solutions used in work-up to three significant figures is clearly unnecessary, since nobody cares, e.g 0.5 N HCl is fine for a work-up, 0.507 N HCl is silly unless the solution is being used as a reagent. Never trust anyone who reports journal impact factors to three decimal places.
     

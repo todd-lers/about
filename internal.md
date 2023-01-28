@@ -198,6 +198,18 @@ There may be times you need to alter your writing because you're doing something
 
   </div>
 
+
+<h3>An Important Point about Correctly Referencing the Literature</h3>
+  <div id="link" markdown="1">
+
+You reference (or "cite") a paper so that your reader can get more details about the statement you've just made. You don't cite a paper so that your reader is taken to the paper where you got that statement from.
+
+So for example, let's say that at the beginning of your report or thesis, you want to say "Acetyl CoA is a molecule that plays an important role in many biological processes." A statement like this really needs a reference. There are three options for you. The first is to reference a review which is on the subject of acetyl CoA and its role in biological processes. The second is to reference some major research paper, or series of papers, which have demonstrated that acetyl CoA is involved in biological processes, and which have been cited by others many times. The third is to reference a research paper which has in it the sentence "Acetyl CoA is a molecule that plays an important role in many biological processes" because that covers your ass. What's the best thing to do? 1 is better than 2, and you should NEVER do 3. The purpose is to direct the reader to a bigger source of information. If you did 3, and just reference some other paper that says something similar to what you're saying, then the reader has not been directed to a more comprehensive source, and has to go one step back, and look at the references in the paper you've cited in order to find more information.
+
+If this is surprising or confusing to you, go and read the first few paragraphs of any research paper. Look at the references that are included there. They will be richer, bigger sources of information. They will not be references to other small research papers that just say the same thing.
+
+  </div>
+  
 <h3>Writing Living Papers (As You Go Along)</h3>
   <div id="link" markdown="1">
 

@@ -90,25 +90,24 @@ Related to the crucial concept of mass balance is having a clear sense of what e
 
   **_Reaction Type_**
 
-  A reaction type means ‘starting material-arrow-product.’ If you are attempting a certain transformation of a particular starting material to a particular product, then any attempt at that reaction has the same reaction number, _regardless of reagents/conditions_. The reaction has this number _regardless of the outcome_. It is the intention that counts. Stereochemistry of products is important – if the intended stereochemical outcome is different, the reaction has a different number. The numbering of reactions is unique to you, you do not use the same numbers as previous people in the group even if you are repeating their work.
+  A reaction type means ‘starting material-arrow-product.’ If you are attempting a certain transformation of a particular starting material to a particular product, then any attempt at that reaction has the same reaction number, _regardless of reagents/conditions_. The reaction has this number _regardless of the outcome_. It is the intention that counts. Stereochemistry of products is important – if the intended stereochemical outcome is different, the reaction has a different number. The numbering of reactions is unique to you; you do not use the same numbers as previous people in the group even if you are repeating their work.
 
   **_Attempt Number_**
 
-  Attempt number just increases by 1 each time you do the reaction. Screening several different reaction conditions on small scale on the same page of your lab book can be named with ‘A’ ‘B’ ‘C’ after the full name if so desired, rather than exhaustively giving each reaction a different **Y**, so e.g. MHT 1-2-3A, MHT 1-2-3B etc.
+  Attempt number just increases by 1 each time you do the reaction. Screening several different reaction conditions on small scale on the same page of your lab book can be named with ‘A’ ‘B’ ‘C’ after the full name if so desired, rather than exhaustively giving each reaction a different **Y**, so e.g. MHT1-2-3A, MHT1-2-3B etc. For reactions that produce multiple products, and where those products are isolated _e.g._ by column chromatography, additional numbers may be needed, MHT1-1-1, MHT1-1-2 etc, and the relevant spectra and vials should be labelled as such.
 
 <hr class="rule2">
 
   **_Example_**
 
-  The first three reactions in MHT’s lab book are shown below. The first reaction here is the first in the lab book. This transformation is given the number ‘1.’ It is the first attempt at this reaction, so it is called ‘MHT1-1.’ (_ignore the third number - scheme needs fixing_) The second reaction is the same transformation (remember, regardless of reagents), so also has **X** = 1. It is the second attempt so has the identifier MHT1-2. The third reaction is a different transformation, so has a different **X**, and this is the first time it has been done, so **Y** = 1, giving MHT2-1.
+  The first three reactions in MHT’s lab book are shown below. The first reaction here is the first in the lab book. This transformation is given the number ‘1.’ It is the first attempt at this reaction, so it is called ‘MHT1-1.’ (_ignore the third number - scheme needs fixing_) The second reaction is the same transformation (remember, regardless of reagents), so also has **X** = 1. It is the second attempt so has the identifier MHT1-2. The third reaction is a different transformation, so has a different **X**, and this is the first time it has been done, so **Y** = 1, giving MHT2-1. Notice that there is no space between "MHT" and the first "1" - this helps with searching.
 
   <center><img src="./pics/internal/Reaction_Numbering.png" width="45%"></center>
 
   <hr class="rule2">
 
-  It is a very good idea to keep a tally where you list each transformation separately together with the identifiers of all the attempts along with the yields in each case. Remember the identifier stays the same even if the yield is 0%. If you keep your ELN ordered and tidy, you may be able to use it to provide this.
+  It is very useful to be able to find each example of each transformation, along with the yields. We used to have to keep tallies of this, but if you keep your ELN ordered and tidy, you should easily be able to find all the relevant attempts of a particular reaction.
 
-  For reactions that produce multiple products, and where those products are isolated e.g. by column chromatography, additional numbers may be needed, MHT1-1-1, MHT1-1-2 etc, and the relevant spectra and vials should be labelled as such.
   </div>
 
 <h3>ELN Write-Up</h3>

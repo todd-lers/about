@@ -5,11 +5,15 @@ layout: default
 [ORCID ID 0000-0001-7096-4751](https://orcid.org/0000-0001-7096-4751)  
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=a8lzGHEAAAAJ)
 
-### 2022
+### 2023
 
-1. [Perphenazine-macrocycle Conjugates Rapidly Sequester the Aβ42 Monomer and Prevent Formation of Toxic Oligomers and Amyloid](https://pubs.acs.org/doi/abs/10.1021/acschemneuro.2c00498), S. R. Ball, J. S. P. Adamson, M. A. Sullivan, M. R. Zimmermann, V. Lo, M. Sanz-Hernandez, X. Jiang, A. H. Kwan, A. D. J. McKenzie, E. L. Werry, T. P. J. Knowles, M. Kassiou, G. Meisl, M. H. Todd, P. J. Rutledge, M. Sunde, _ACS Chem. Neurosci._ **2022**, _in press_. DOI: 10.1021/acschemneuro.2c00498
+1. Structure-property Optimization of a Series of Imidazopyridines for Visceral Leishmaniasis, M. Dichiara, Q. J. Simpson, A. Quotadamo, H. B. Jalani, A. X. Huang, C. C. Millard, D. M. Klug, E. G. Tse, M. H. Todd, D. Gedder, F. da Silva Emery, J. E. Carlson, S.-L. Zheng, M. Vleminckx, A. Matheeussen, G. Caljon, M. P. Pollastri, P. Sjö, B. Perry, L. Ferrins, _ACS Infect. Dis._ **2023**, _submitted_ (id-2023-000406).
+
+1. [Perphenazine-macrocycle Conjugates Rapidly Sequester the Aβ42 Monomer and Prevent Formation of Toxic Oligomers and Amyloid](https://pubs.acs.org/doi/abs/10.1021/acschemneuro.2c00498), S. R. Ball, J. S. P. Adamson, M. A. Sullivan, M. R. Zimmermann, V. Lo, M. Sanz-Hernandez, X. Jiang, A. H. Kwan, A. D. J. McKenzie, E. L. Werry, T. P. J. Knowles, M. Kassiou, G. Meisl, M. H. Todd, P. J. Rutledge, M. Sunde, _ACS Chem. Neurosci._ **2023**, _14_, 87-98. DOI: 10.1021/acschemneuro.2c00498
 
 1. Metallaphotoredox-Catalyzed Decarboxylative sp3–sp3 Coupling with Iso(thio)chroman and Tetrahydroisoquinoline Cores, P. A. King, P. J. Rutledge and M. H. Todd, _submitted_. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/62ab247f1fdc34fd493beda4).
+
+### 2022
 
 1. [CACHE (Critical Assessment of Computational Hit-finding Experiments): A Public-private Partnership Benchmarking Initiative to Enable the Development of Computational Methods for Hit-finding](https://doi.org/10.1038/s41570-022-00363-z), S. Ackloo, R. Al-awar, R. E. Amaro, C. H. Arrowsmith, H. Azevedo, R. A. Batey, Y. Bengio, U. A. K. Betz, C. G. Bologa, J. D. Chodera, W. D. Cornell, I. Dunham, G. F. Ecker, K. Edfeldt, A. M. Edwards, M. K. Gilson, C. R. Gordijo, G. Hessler, A. Hillisch, A. Hogner, J. J. Irwin, J. M. Jansen, D. Kuhn, A. R. Leach, A. A. Lee, U. Lessel, J. Moult, I. Muegge, T. I. Oprea, B. G. Perry, P. Riley, K. S. Saikatendu, V. Santhakumar, M. Schapira, C. Scholten, M. H. Todd, M. Vedadi, A. Volkamer, T. M. Willson, _Nat. Rev. Chem._ **2022**, DOI: 10.1038/s41570-022-00363-z ([Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/6168ba62f718dfc39bdee0db), DOI: 10.33774/chemrxiv-2021-rzq4n.)
 

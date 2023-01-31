@@ -431,6 +431,8 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - Gates/SGC Contraceptives grant: Project 572553, Award 184940
 - Chemistry MRes Student Spending: Project 574868, Award 177365
 - READDI-AViDD: Project 575169 (SoP) or 575170 (LMCB), Award 185702
+- Kangping: Project 575864, Award 177365, Task 100
+- Mohsen: Project 575863, Award 177365, Task 100
 
 </div>
 </div>

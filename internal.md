@@ -112,17 +112,17 @@ Related to the crucial concept of mass balance is having a clear sense of what e
 
 <h3>ELN Write-Up</h3>
   <div id="link" markdown="1">
-  
+
    **Accuracy**
-    
+
 As a scientist, it is very important that you have a strong sense of when accuracy in measurement is needed and when it is meaningful. Consider three things in particular:
-    
+
 - The Sanity Check. Is what you're saying meaningful? Is the level of accuracy you are reporting really justified? Reporting concentrations of solutions used in work-up to three significant figures is clearly unnecessary, since nobody cares, e.g 0.5 N HCl is fine for a work-up, 0.507 N HCl is silly unless the solution is being used as a reagent. Never trust anyone who reports journal impact factors to three decimal places.
-    
+
 - Mismatch. Ensure measured and calculated accuracies match. If you weigh something to an accuracy of 3 significant figures, report the number of moles to the same level of accuracy (e.g. 1.30 mmol - not 1.304658 mol) since otherwise you're _inventing precision_ - here the calculated value is more precise than you have measured, which is impossible. If Mat ever writes "accuracy mismatch" on your writing, he's talking about this, and you should check for other examples of this sin in your work.
-    
+
 - Consistency: Be consistent with accuracy. Thus within one preparation (but not necessarily within one report/thesis/paper) amounts should usually be reported with consistent accuracy. Typically this means reporting masses to three significant figures (e.g. 354 mg). Not doing this is a form of mismatch, since highly accurate measurements of one thing are made irrelevant by less accurate measurements of another thing. There are rare exceptions (like the concentration of work-up reagents, mentioned above, which do not impact the accuracy of your yield).
-    
+
   _Transferring further information from old website in progess_.
 
   Relevant page on the old website can be found [here](https://openwetware.org/wiki/Todd:Guidelines#Lab_Book_Write-up) in the meantime.
@@ -167,6 +167,7 @@ As a scientist, it is very important that you have a strong sense of when accura
 
   Relevant page on the old website can be found [here](https://openwetware.org/wiki/Todd:Guidelines#Report_Write-up) in the meantime.
   </div>
+  </div>
 </div>
 
 ### General Writing Advice
@@ -209,7 +210,7 @@ So for example, let's say that at the beginning of your report or thesis, you wa
 If this is surprising or confusing to you, go and read the first few paragraphs of any research paper. Look at the references that are included there. They will be richer, bigger sources of information. They will not be references to other small research papers that just say the same thing.
 
   </div>
-  
+
 <h3>Writing Living Papers (As You Go Along)</h3>
   <div id="link" markdown="1">
 

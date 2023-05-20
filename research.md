@@ -28,6 +28,8 @@ This made us think, what about drug discovery? Could we discover new drugs using
 
 We've also founded several other consortia, below. All of these generally follow the [Six Laws](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201900565) in how they operate - these laws (which are guidelines, really,for those of you who don't like laws) were derived _post facto_, i.e. from what worked best and was simplest for everyone to understand.
 
+We need a good place to capture all the discussion that the idea of open source drug discovery has created (it's a lot) but some examples will be collated here, like [this](https://itsfoss.com/open-source-impact-on-science/) and [this](https://rbharath.github.io/why-should-drug-discovery-be-open-source/).
+
 ### Open Source Malaria <a href="https://twitter.com/o_s_m"><i class="fa fa-twitter"></i></a>
 
 Mat founded the **Open Source Malaria (OSM) Consortium** ([Github](https://github.com/OpenSourceMalaria), [Landing Page](http://opensourcemalaria.org/#))

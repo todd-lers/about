@@ -434,6 +434,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - READDI-AViDD: Project 575169 (SoP) or 575170 (LMCB), Award 185702
 - Kangping: Project 575864, Award 177365, Task 100
 - Mohsen: Project 575863, Award 177365, Task 100
+- Shared G25 Consumables: Project 577764, Award 156780, Task 100 (except for ISD projects (Tasks 2001, 2002C and 2002R) and buildings projects which are linked to Task 1000)
 
 </div>
 </div>

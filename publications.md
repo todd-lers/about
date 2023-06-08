@@ -7,7 +7,9 @@ layout: default
 
 ### 2023
 
-1. Structure-property Optimization of a Series of Imidazopyridines for Visceral Leishmaniasis, M. Dichiara, Q. J. Simpson, A. Quotadamo, H. B. Jalani, A. X. Huang, C. C. Millard, D. M. Klug, E. G. Tse, M. H. Todd, D. Gedder, F. da Silva Emery, J. E. Carlson, S.-L. Zheng, M. Vleminckx, A. Matheeussen, G. Caljon, M. P. Pollastri, P. Sjö, B. Perry, L. Ferrins, _ACS Infect. Dis._ **2023**, _submitted_ (id-2023-000406).
+1. Open Source Antibiotics - Simple Diarylimidazoles are Potent Against Methicillin Resistant Staphylococcus Aureus, D. M. Klug, E. G. Tse, D. G. Silva, Y. Cao, S. A. Charman, J. Chauhan, E. Crighton, M. Dichiara, C. Drake, D. Drewry, F. da Silva Emery, L. Ferrins, L. Graves, E. Hopkins, T. A. C. Kresina, Á. Lorente-Macías, B. Perry, R. Phipps, B. Quiroga, A. Quotadamo, G. Sabatino, A. Sama, A. Schätzlein, Q. J. Simpson, J. Steele, J. Shanu-Wilson, P. Sjö, P. Stapleton, C. Swain, A. Vaideanu, H. Xie, W. Zuercher, M. H. Todd, _ACS Infect. Dis._ **2023**, _submitted_. 
+
+1. Structure-property Optimization of a Series of Imidazopyridines for Visceral Leishmaniasis, M. Dichiara, Q. J. Simpson, A. Quotadamo, H. B. Jalani, A. X. Huang, C. C. Millard, D. M. Klug, E. G. Tse, M. H. Todd, D. Gedder, F. da Silva Emery, J. E. Carlson, S.-L. Zheng, M. Vleminckx, A. Matheeussen, G. Caljon, M. P. Pollastri, P. Sjö, B. Perry, L. Ferrins, _ACS Infect. Dis._ **2023**, _in press_ (id-2023-000406).
 
 1. [Perphenazine-macrocycle Conjugates Rapidly Sequester the Aβ42 Monomer and Prevent Formation of Toxic Oligomers and Amyloid](https://pubs.acs.org/doi/abs/10.1021/acschemneuro.2c00498), S. R. Ball, J. S. P. Adamson, M. A. Sullivan, M. R. Zimmermann, V. Lo, M. Sanz-Hernandez, X. Jiang, A. H. Kwan, A. D. J. McKenzie, E. L. Werry, T. P. J. Knowles, M. Kassiou, G. Meisl, M. H. Todd, P. J. Rutledge, M. Sunde, _ACS Chem. Neurosci._ **2023**, _14_, 87-98. DOI: 10.1021/acschemneuro.2c00498
 

@@ -13,6 +13,10 @@ layout: default
 
 1. [Perphenazine-macrocycle Conjugates Rapidly Sequester the Aβ42 Monomer and Prevent Formation of Toxic Oligomers and Amyloid](https://pubs.acs.org/doi/abs/10.1021/acschemneuro.2c00498), S. R. Ball, J. S. P. Adamson, M. A. Sullivan, M. R. Zimmermann, V. Lo, M. Sanz-Hernandez, X. Jiang, A. H. Kwan, A. D. J. McKenzie, E. L. Werry, T. P. J. Knowles, M. Kassiou, G. Meisl, M. H. Todd, P. J. Rutledge, M. Sunde, _ACS Chem. Neurosci._ **2023**, _14_, 87-98. DOI: 10.1021/acschemneuro.2c00498
 
+1. [Antifungal Activity of Natural Naphthoquinones and Anthraquinones against _Madurella mycetomatis_](https://onlinelibrary.wiley.com/doi/full/10.1002/cbdv.202300151), J. Ma, M. H. Todd, W. W. J. van de Sande and B. Biersack, _Chem. Biodiversity_ **2023**, _20_, e202300151. DOI: 10.1002/cbdv.202300151
+
+1. Target 2035–an Update on Private Sector Contributions, S. Ackloo, A. A. Antolin, J. M. Bartolome, H. Beck, A. N Bullock, U. A. K. Betz, J. Böttcher, P. J. Brown, M. Chaturvedi, A. Crisp,  D. Daniels,  J. Dreher, K. Edfeldt, A. M. Edwards, U. Egner, J. Elkins, C. Fischer, T. Glendorf, S. Goldberg, I. V. Hartung, A. Hillisch, E. Homan, S. Knapp, M. Koester, A. Kraemer, J. Llaveria, U. Lessel, S. Lindemann, L. Linderoth, H. Matsui, M. Michel, F. Montel, A. Mueller-Fahrnow, S, Mueller, D. R. Owen, K. S. Saikatendu, V. Santhakumar, W. Sanderson, C. Scholten, M. Schapira, S. Sharma, B. Shireman, M. Sundström, M. H. Todd, C. Tredup, J. Veneble, T. M. Willson, and C. H Arrowsmith, _RSC Med. Chem._ **2023**, _advance article_. DOI: 10.1039/D2MD00441K
+
 1. Metallaphotoredox-Catalyzed Decarboxylative sp3–sp3 Coupling with Iso(thio)chroman and Tetrahydroisoquinoline Cores, P. A. King, P. J. Rutledge and M. H. Todd, _submitted_. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/62ab247f1fdc34fd493beda4).
 
 ### 2022

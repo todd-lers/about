@@ -28,6 +28,8 @@ This made us think, what about drug discovery? Could we discover new drugs using
 
 We've also founded several other consortia, below. All of these generally follow the [Six Laws](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201900565) in how they operate - these laws (which are guidelines, really,for those of you who don't like laws) were derived _post facto_, i.e. from what worked best and was simplest for everyone to understand.
 
+We need a good place to capture all the discussion that the idea of open source drug discovery has created (it's a lot) but some examples will be collated here, like [this](https://itsfoss.com/open-source-impact-on-science/) and [this](https://rbharath.github.io/why-should-drug-discovery-be-open-source/).
+
 ### Open Source Malaria <a href="https://twitter.com/o_s_m"><i class="fa fa-twitter"></i></a>
 
 Mat founded the **Open Source Malaria (OSM) Consortium** ([Github](https://github.com/OpenSourceMalaria), [Landing Page](http://opensourcemalaria.org/#))
@@ -128,10 +130,12 @@ In response to the price hike of HIV/AIDS drug, pyrimethamine (Daraprim), by Tur
 <a name="automated_synthesis_planning"></a>
 # Automated Synthesis Planning
 
+This is an area we'd love to do more of, ever since [Mat's original review of the field](https://pubs.rsc.org/en/content/articlelanding/2005/CS/b104620a) way back when.
+
 [Alphachem](https://arxiv.org/abs/1702.00020). [Prediction of reaction outcomes](http://pubs.acs.org/doi/full/10.1021/acscentsci.7b00064), [Neural networks for reaction prediction](http://pubs.acs.org/doi/pdf/10.1021/acscentsci.6b00219)
 
 Machine Learning and AI: [AI assistants in chemistry](http://pubs.acs.org/doi/abs/10.1021/acs.accounts.7b00009), [Reaction prediction based on knowledge graph of chemistry](http://onlinelibrary.wiley.com/doi/10.1002/chem.201604556/full)
 
-[Chematica](https://www.sciencedirect.com/science/article/pii/S2451929418300639)
+[Chematica](https://www.sciencedirect.com/science/article/pii/S2451929418300639). [Tim Cernak's very cool combination of software and molecular graph editing](https://www.science.org/doi/10.1126/science.ade8459).
 
 Impact of AI in Drug Discovery: [Neural networks for generation of libraries](http://pubs.acs.org/doi/abs/10.1021/acs.accounts.6b00613)

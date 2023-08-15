@@ -102,7 +102,7 @@ Related to the crucial concept of mass balance is having a clear sense of what e
 
   The first three reactions in MHT’s lab book are shown below. The first reaction here is the first in the lab book. This transformation is given the number ‘1.’ It is the first attempt at this reaction, so it is called ‘MHT1-1.’ (_ignore the third number - scheme needs fixing_) The second reaction is the same transformation (remember, regardless of reagents), so also has **X** = 1. It is the second attempt so has the identifier MHT1-2. The third reaction is a different transformation, so has a different **X**, and this is the first time it has been done, so **Y** = 1, giving MHT2-1. Notice that there is no space between "MHT" and the first "1" - this helps with searching.
 
-  <center><img src="./pics/internal/Reaction_Numbering.png" width="45%"></center>
+  <center><img src="./pics/internal/Reaction Numbering v2.png" width="45%"></center>
 
   <hr class="rule2">
 
@@ -112,7 +112,18 @@ Related to the crucial concept of mass balance is having a clear sense of what e
 
 <h3>ELN Write-Up</h3>
   <div id="link" markdown="1">
-  _Transferring information from old website in progess_.
+
+   **Accuracy**
+
+As a scientist, it is very important that you have a strong sense of when accuracy in measurement is needed and when it is meaningful. Consider three things in particular:
+
+- The Sanity Check. Is what you're saying meaningful? Is the level of accuracy you are reporting really justified? Reporting concentrations of solutions used in work-up to three significant figures is clearly unnecessary, since nobody cares, e.g 0.5 N HCl is fine for a work-up, 0.507 N HCl is silly unless the solution is being used as a reagent. Never trust anyone who reports journal impact factors to three decimal places.
+
+- Mismatch. Ensure measured and calculated accuracies match. If you weigh something to an accuracy of 3 significant figures, report the number of moles to the same level of accuracy (e.g. 1.30 mmol - not 1.304658 mol) since otherwise you're _inventing precision_ - here the calculated value is more precise than you have measured, which is impossible. If Mat ever writes "accuracy mismatch" on your writing, he's talking about this, and you should check for other examples of this sin in your work.
+
+- Consistency: Be consistent with accuracy. Thus within one preparation (but not necessarily within one report/thesis/paper) amounts should usually be reported with consistent accuracy. Typically this means reporting masses to three significant figures (e.g. 354 mg). Not doing this is a form of mismatch, since highly accurate measurements of one thing are made irrelevant by less accurate measurements of another thing. There are rare exceptions (like the concentration of work-up reagents, mentioned above, which do not impact the accuracy of your yield).
+
+  _Transferring further information from old website in progess_.
 
   Relevant page on the old website can be found [here](https://openwetware.org/wiki/Todd:Guidelines#Lab_Book_Write-up) in the meantime.
   </div>
@@ -156,6 +167,7 @@ Related to the crucial concept of mass balance is having a clear sense of what e
 
   Relevant page on the old website can be found [here](https://openwetware.org/wiki/Todd:Guidelines#Report_Write-up) in the meantime.
   </div>
+  </div>
 </div>
 
 ### General Writing Advice
@@ -184,6 +196,18 @@ Once you have a clear idea of your reader, you will be able to pitch the complex
 Don't try to be too clever. Don't feel the need to include complicated terms in order to sound impressive. If your same-level stranger would not understand it, explain it. There is nothing more likely to switch your reader off than feeling confused by jargon.
 
 There may be times you need to alter your writing because you're doing something for a different audience. When writing grant proposals, you can often assume a higher level of knowledge by your audience (at least for the technical bits). When writing for a general audience (e.g. a general science magazine) you may need to simplify things further.
+
+  </div>
+
+
+<h3>An Important Point about Correctly Referencing the Literature</h3>
+  <div id="link" markdown="1">
+
+You reference (or "cite") a paper so that your reader can get more details about the statement you've just made. You don't cite a paper so that your reader is taken to the paper where you got that statement from.
+
+So for example, let's say that at the beginning of your report or thesis, you want to say "Acetyl CoA is a molecule that plays an important role in many biological processes." A statement like this really needs a reference. There are three options for you. The first is to reference a review which is on the subject of acetyl CoA and its role in biological processes. The second is to reference some major research paper, or series of papers, which have demonstrated that acetyl CoA is involved in biological processes, and which have been cited by others many times. The third is to reference a research paper which has in it the sentence "Acetyl CoA is a molecule that plays an important role in many biological processes" because that covers your ass. What's the best thing to do? 1 is better than 2, and you should NEVER do 3. The purpose is to direct the reader to a bigger source of information. If you did 3, and just reference some other paper that says something similar to what you're saying, then the reader has not been directed to a more comprehensive source, and has to go one step back, and look at the references in the paper you've cited in order to find more information.
+
+If this is surprising or confusing to you, go and read the first few paragraphs of any research paper. Look at the references that are included there. They will be richer, bigger sources of information. They will not be references to other small research papers that just say the same thing.
 
   </div>
 
@@ -408,6 +432,9 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - Gates/SGC Contraceptives grant: Project 572553, Award 184940
 - Chemistry MRes Student Spending: Project 574868, Award 177365
 - READDI-AViDD: Project 575169 (SoP) or 575170 (LMCB), Award 185702
+- Kangping: Project 575864, Award 177365, Task 100
+- Mohsen: Project 575863, Award 177365, Task 100
+- Shared G25 Consumables: Project 577764, Award 156780, Task 100 (except for ISD projects (Tasks 2001, 2002C and 2002R) and buildings projects which are linked to Task 1000)
 
 </div>
 </div>

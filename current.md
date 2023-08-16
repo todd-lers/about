@@ -180,10 +180,12 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/mohsenalamoudi"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/Mo777sen"><i class="fa fa-twitter"></i></a>
     </div>
     </div>
 </div>
 </div>
+
 
 <h2>MRes Students</h2>
 

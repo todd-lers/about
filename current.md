@@ -154,6 +154,7 @@ He has a significant interest in open science, and how it may be used to acceler
         <a href="https://www.linkedin.com/in/yinuo-wang-849277171/"><i class="fa fa-linkedin"></i></a>
         <a href="https://github.com/yinuowang0812"><i class="fa fa-github"></i></a>
         <a href="mailto:yinuo.wang.20@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+        <a href="https://twitter.com/yinuo_w"><i class="fa fa-twitter"></i></a>
       </div>
     </div>
   </div>

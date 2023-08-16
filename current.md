@@ -53,8 +53,47 @@ He has a significant interest in open science, and how it may be used to acceler
       <a href="https://github.com/EveCarter"><i class="fa fa-github"></i></a>
       <a href="mailto:eve.carter@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
     </div>
-  </div>
+    </div>
 </div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Alvaro Magalhaes.jpg" class="myimg" />
+    <h4>Dr Alvaro Magalhaes</h4>
+    <p class="title">Postdoc (UCL) <br />2023-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/alvaro-magalhaes/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://github.com/alvaro-magalhaes"><i class="fa fa-github"></i></a>
+      <a href="mailto:a.magalhaes@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
+      <a href="https://twitter.com/alvarofmagalha"><i class="fa fa-twitter"></i></a>
+    </div>
+    </div>
+</div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Rebecka Isaksson.jpg" class="myimg" />
+    <h4>Dr Rebecka Isaksson</h4>
+    <p class="title">Postdoc (UCL) <br />2023-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/rebecka-isaksson-74418618/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:r.isaksson@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
+      <a href="https://twitter.com/IsakssonRebecka"><i class="fa fa-twitter"></i></a>
+    </div>
+    </div>
+  </div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Hadia Almahli.jpg" class="myimg" />
+    <h4>Dr Hadia Almahli</h4>
+    <p class="title">Postdoc (UCL) <br />2023-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/hadia-almahli-09588656/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:h.almahli@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
+      <a href="https://twitter.com/HAlmahli"><i class="fa fa-twitter"></i></a>
+    </div>
+    </div>
 </div>
 
 <h2>PhD Students</h2>
@@ -215,3 +254,16 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
   </div>
 </div>
+
+
+<h2>MSc Students</h2>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+       <img src="./pics/people/Zhaohang Feng.jpg" class="myimg">
+      <h4>Zhaohang Feng</h4>
+      <p class="title">MSc Student (UCL) <br>2023-present</p>
+      <p></p>
+    </div>
+  </div>

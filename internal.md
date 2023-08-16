@@ -12,11 +12,11 @@ This page contains information for current members of the Todd group. Click a se
   - Get a ChemInventory account for chemical inventory management (invite from postdoc)
   - Join the G25 MS Team (invite from postdoc)
   - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and John Day)
-  - Organise and complete NMR training (see Emmanuel Samuel) -- click <a href="./docs/Onboarding/NMR Application Form.doc" download>here</a> to download the NMR application form (also fill out the section on Mass Spectrometry to submit samples for HRMS)
+  - Organise and complete NMR training (see NMR facility manager, Nikita Harvey)
   - Organise and complete LCMS training (see senior group member/postdoc) -- see below for guides on LCMS usage
   - Organise and complete the lab safety induction (see Eve Carter)
   - Familiarise yourself with Risk Assessment forms for conducting reactions (on MS Teams)
-  - Complete the Out of Hours form (get it signed by Mat Todd) -- click <a href="./docs/Onboarding/Out of Hours Form.docx" download>here</a> to download the Out of Hours form
+  - Complete the Out of Hours form (ask Justine Newson) and get it signed by Mat Todd
 
 ### Research Mentoring and Advice
 

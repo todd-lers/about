@@ -30,20 +30,6 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Ed_Tse3.jpg" class="myimg">
-    <h4>Dr Edwin Tse</h4>
-    <p class="title">Postdoc (UCL) <br>2021-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/edwin-tse-92144155/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/edwintse_"><i class="fa fa-twitter"></i></a>  
-      <a href="https://github.com/edwintse"><i class="fa fa-github"></i></a>
-      <a href="mailto:edwin.tse@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
-    </div>
-</div>
-<div class="column">
-  <div class="card">
     <img src="./pics/people/EveCarter.JPG" class="myimg">
     <h4>Dr Eve Carter</h4>
     <p class="title">Postdoc (UCL) <br>2022-present</p>

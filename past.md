@@ -9,6 +9,7 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Edwin Tse** <br/><img src="./pics/people/Ed_Tse3.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/edwin-tse-92144155/"><i class="fa fa-linkedin"></i></a> <a href="https://twitter.com/edwintse_"><i class="fa fa-twitter"></i></a>|Postdoctoral Fellow|2021-2023|Postdoctoral Research Fellow at UNC|
 |**Daniel Gedder Silva** <br/><img src="./pics/people/Daniel Gedder Silva.jpeg" class="myimga"> <br/><a href="https://br.linkedin.com/in/daniel-gedder-73700529"><i class="fa fa-linkedin"></i></a> <a href="https://twitter.com/danielgedder"><i class="fa fa-twitter"></i></a>|Postdoctoral Fellow|2022-2023|
 |**Kato Leonard** <br/><img src="./pics/people/Kato_Leonard.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/kato-leonard-075982209/"><i class="fa fa-linkedin"></i></a> <a href="https://twitter.com/katoleonard"><i class="fa fa-twitter"></i></a>|Erasmus|2021-2022|Advanced MSc in Plant Biotechnology, Ghent University|
 |**Joshua Wyatt** <br/><a href="https://www.linkedin.com/in/joshuawyatt98"><i class="fa fa-linkedin"></i></a>|MSc|2022| Associate Consultant, Eradigm Consulting|

@@ -49,9 +49,9 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/alvaro-magalhaes/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://twitter.com/alvarofmagalha"><i class="fa fa-twitter"></i></a>
       <a href="https://github.com/alvaro-magalhaes"><i class="fa fa-github"></i></a>
       <a href="mailto:a.magalhaes@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
-      <a href="https://twitter.com/alvarofmagalha"><i class="fa fa-twitter"></i></a>
     </div>
     </div>
 </div>
@@ -63,8 +63,8 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/rebecka-isaksson-74418618/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
+       <a href="https://twitter.com/IsakssonRebecka"><i class="fa fa-twitter"></i></a>
       <a href="mailto:r.isaksson@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
-      <a href="https://twitter.com/IsakssonRebecka"><i class="fa fa-twitter"></i></a>
     </div>
     </div>
   </div>
@@ -76,8 +76,8 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/hadia-almahli-09588656/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:h.almahli@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
       <a href="https://twitter.com/HAlmahli"><i class="fa fa-twitter"></i></a>
+      <a href="mailto:h.almahli@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
     </div>
     </div>
 </div>
@@ -152,9 +152,9 @@ He has a significant interest in open science, and how it may be used to acceler
       <p></p>
       <div style="margin: 15px 0;">
         <a href="https://www.linkedin.com/in/yinuo-wang-849277171/"><i class="fa fa-linkedin"></i></a>
+        <a href="https://twitter.com/yinuo_w"><i class="fa fa-twitter"></i></a>
         <a href="https://github.com/yinuowang0812"><i class="fa fa-github"></i></a>
         <a href="mailto:yinuo.wang.20@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-        <a href="https://twitter.com/yinuo_w"><i class="fa fa-twitter"></i></a>
       </div>
     </div>
   </div>
@@ -166,6 +166,7 @@ He has a significant interest in open science, and how it may be used to acceler
       <p></p>
       <div style="margin: 15px 0;">
         <a href="https://github.com/KangpingL"><i class="fa fa-github"></i></a>
+        <a href="mailto:kangping.liu.21@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
       </div>
     </div>
   </div>
@@ -181,6 +182,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/mohsenalamoudi"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/Mo777sen"><i class="fa fa-twitter"></i></a>
+      <a href="mailto:mohsen.alamoudi.22@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
     </div>
 </div>

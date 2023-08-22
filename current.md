@@ -192,7 +192,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/wellingtondasilva1804/"><i class="fa fa-linkedin"></i></a>
-      <a href=""><i class="fa fa-linkedin"></i></a>
+      <a href="https://github.com/wellingtondasilva1804"><i class="fa fa-github"></i></a>
       <a href="mailto:wellington.silva@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
     </div>

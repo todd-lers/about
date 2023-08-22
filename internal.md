@@ -18,7 +18,7 @@ This page contains information for current members of the Todd group. Click a se
   - Familiarise yourself with Risk Assessment forms for conducting reactions (on MS Teams)
   - Complete the Out of Hours form (ask Justine Newson) and get it signed by Mat Todd
   - Complete safety training with Cory Beckwith
-  - Complete online training (list of courses [here]() for PhD students and [here]() for staff, plus [liquid nitrogen](https://www.ucl.ac.uk/safety-services/policies/2022/dec/liquid-nitrogen-workplace) and [gas cylinders](https://www.ucl.ac.uk/safety-services/policies/2022/nov/using-gas-cylinders-safely-within-universities-training) if you will be in the lab)
+  - Complete online training (list of courses [here](https://www.grad.ucl.ac.uk/essinfo/training-for-doctoral-students/) for PhD students and [here](https://www.ucl.ac.uk/human-resources/organisational-development/training-inductions-and-leadership/mandatory-training) for staff, plus [liquid nitrogen](https://www.ucl.ac.uk/safety-services/policies/2022/dec/liquid-nitrogen-workplace) and [gas cylinders](https://www.ucl.ac.uk/safety-services/policies/2022/nov/using-gas-cylinders-safely-within-universities-training) if you will be in the lab)
 
 
 ### Research Mentoring and Advice

@@ -181,10 +181,9 @@ He has a significant interest in open science, and how it may be used to acceler
       <a href="https://twitter.com/Mo777sen"><i class="fa fa-twitter"></i></a>
       <a href="mailto:mohsen.alamoudi.22@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
-    </div>
+  </div>
 </div>
-</div>
-<div class="column">
+  <div class="column">
   <div class="card">
     <img src="./pics/people/Wellington_TheToddGroup.jpg"  class="myimg">
     <h4>Wellington da Silv</h4>

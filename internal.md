@@ -7,16 +7,18 @@ This page contains information for current members of the Todd group. Click a se
 ### Getting Started
 
   The following is a checklist of key things to do and documents for new members of the group:
+  
   - Get a LabArchives account for experimental write-ups (invite from Mat Todd)
-  - Get a Slack account for group communication (invite from Mat Todd)
   - Get a ChemInventory account for chemical inventory management (invite from postdoc)
   - Join the G25 MS Team (invite from postdoc)
-  - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and John Day)
+  - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and Fiona Marquet)
   - Organise and complete NMR training (see NMR facility manager, Nikita Harvey)
   - Organise and complete LCMS training (see senior group member/postdoc) -- see below for guides on LCMS usage
   - Organise and complete the lab safety induction (see Eve Carter)
   - Familiarise yourself with Risk Assessment forms for conducting reactions (on MS Teams)
   - Complete the Out of Hours form (ask Justine Newson) and get it signed by Mat Todd
+  - Complete safety training with Cory Beckwith
+  - Complete online training (list of courses here for PhD students and here for staff, plus liquid nitrogen and gas cylinders if you will be in the lab)
 
 ### Research Mentoring and Advice
 

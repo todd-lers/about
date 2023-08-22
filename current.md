@@ -169,11 +169,8 @@ He has a significant interest in open science, and how it may be used to acceler
         <a href="mailto:kangping.liu.21@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
       </div>
     </div>
-  </div>
 </div>
-
-<div class="row">
-<div class="column">
+  <div class="column">
   <div class="card">
     <img src="./pics/people/Mohsen_Alamoudi.jpg" class="myimg">
     <h4>Mohsen Alamoudi</h4>
@@ -189,13 +186,13 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Wellington da Silva.jpeg"  class="myimg">
+    <img src="./pics/people/Wellington_TheToddGroup.jpg"  class="myimg">
     <h4>Wellington da Silv</h4>
     <p class="title">PhD Student <br>2023-present</p>
     <p></p>
     <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/wellingtondasilva1804/"><i class="fa fa-linkedin"></i></a>
       <a href=""><i class="fa fa-linkedin"></i></a>
-      <a href=""><i class="fa fa-twitter"></i></a>
       <a href="mailto:wellington.silva@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
     </div>

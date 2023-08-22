@@ -186,7 +186,7 @@ He has a significant interest in open science, and how it may be used to acceler
   <div class="column">
   <div class="card">
     <img src="./pics/people/Wellington_TheToddGroup.jpg"  class="myimg">
-    <h4>Wellington da Silv</h4>
+    <h4>Wellington da Silva</h4>
     <p class="title">PhD Student <br>2023-present</p>
     <p></p>
     <div style="margin: 15px 0;">

@@ -30,7 +30,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/people/EveCarter.JPG" class="myimg">
+    <img src="./pics/people/Eve.jpg" class="myimg">
     <h4>Dr Eve Carter</h4>
     <p class="title">Postdoc (UCL) <br>2022-present</p>
     <p></p>

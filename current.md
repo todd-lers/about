@@ -80,6 +80,16 @@ He has a significant interest in open science, and how it may be used to acceler
       <a href="mailto:h.almahli@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
     </div>
     </div>
+  </div>
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Xin.jpg" class="myimg" />
+    <h4>Dr Xin Qiu</h4>
+    <p class="title">Postdoc (UCL) <br />2023-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/昕-xin-邱-qiu-804a1314a/"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:ucnvqiu@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
 </div>
 </div>
 

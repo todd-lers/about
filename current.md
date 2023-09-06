@@ -128,7 +128,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="column">
   <div class="card">
     <img src="./pics/people/Yuhang_Wang2.jpg" class="myimg">
-    <h4>Yuhang (Wiesel) Wang</h4>
+    <h4>Yuhang Wang</h4>
     <p class="title">PhD Student (UCL) <br>2019-present</p>
     <p></p>
     <div style="margin: 15px 0;">

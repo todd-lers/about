@@ -10,7 +10,7 @@ This page contains information for current members of the Todd group. Click a se
   
   - Get a LabArchives account for experimental write-ups (invite from Mat Todd)
   - Get a ChemInventory account for chemical inventory management (invite from postdoc)
-  - Join the G25 MS Team (invite from postdoc)
+  - Join the G25 MS Team (invite from postdoc), read through carefully Risk assessments and Standard Operating Procedures. 
   - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and Fiona Marquet)
   - Organise and complete NMR training (see NMR facility manager, Nikita Harvey)
   - Organise and complete LCMS training (see senior group member/postdoc) -- see below for guides on LCMS usage

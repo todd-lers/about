@@ -103,8 +103,8 @@ He has a significant interest in open science, and how it may be used to acceler
       <a href="https://www.linkedin.com/in/guilherme-fernandes-40400a93/"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/guiiiifelipe"><i class="fa fa-twitter"></i></a>
       <a href="mailto:guilherme.fernandes@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
-      /div>
-    </div>
+      </div>
+      </div>
   </div>
 <div class="column">
   <div class="card">

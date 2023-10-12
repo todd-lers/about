@@ -114,8 +114,6 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="mailto:e.ngandung@ucl.ac.uk"><i class="fa fa-envelope"></i></a> 
-      </div>
-      </div>
      </div>
    </div>
   </div>

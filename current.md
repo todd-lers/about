@@ -109,7 +109,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="column">
   <div class="card">
     <img src="./pics/people/Evan1.png" class="myimg" />
-    <h4>Dr Evan Mainsah Ngandung</h4>
+    <h4>Dr Evans Mainsah Ngandung</h4>
     <p class="title">Postdoc (UCL) <br />2023-present</p>
     <p></p>
     <div style="margin: 15px 0;">

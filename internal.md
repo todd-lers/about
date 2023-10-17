@@ -361,7 +361,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ## Using the Analytical LCMS
 
-  A general guide on using the Analytical LCMS in G25 can be found [here](1LCMS-guide.pdf). The guide was prepared by Edwin G. Tse and Paul T. A. King and can be updated by anyone in the group. It serves as a walk-through for how to properly use the Analytical LCMS. _This is not a substitute for proper training_. _Please check the lab job table to find the proper person to train you._
+  A general guide on using the Analytical LCMS in G25 can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-guide.pdf). The guide was prepared by Edwin G. Tse and Paul T. A. King and can be updated by anyone in the group. It serves as a walk-through for how to properly use the Analytical LCMS. _This is not a substitute for proper training_. _Please check the lab job table to find the proper person to train you._
 
 [here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-Sample-Prep.docx) is the LCMS sample preparation guide. 
 

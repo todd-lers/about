@@ -383,6 +383,8 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ## Biotage Selekt
 
+  A general guide on using the Biotage Selekt in G25 can be found [here](). The guide was prepared by Yuhang Wang and Eve Carter and can be updated by anyone in the group. 
+
   Biotage user manual can be found [here](https://github.com/todd-lers/techops/blob/master/Biotage/416183-C%20Selekt%20User%20Manual.pdf).
 
   Information on Biotage columns can be found [here](https://github.com/todd-lers/techops/blob/master/Biotage/pps497_-_biotage_sfr_brochure.pdf).

@@ -429,7 +429,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - Discretionary: Project 549163, Award 156782.  
 - Dmitrij: Project 552026, Award 156780, Task 100.  
 - Yuhang: Project 564082, Award 177365, Task 100.
-- Tom: Project: 566966, Award 180330
+- Tom: Project: 566966, Award 180330. Now use 531853.100.156535 and quote "T.Knight (566966)"
 - Daniel: Project 570934, Award 184398, Task 100
 - Antibiotics UK: Project 568406, Award 183633
 - EPSRC/IAA/KEIF Generative (Ed): Project 571160, Award 174591

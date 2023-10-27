@@ -165,9 +165,7 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
   </div>
 </div>
-
-<div class="row">
-  <div class="column">
+ <div class="column">
     <div class="card">
        <img src="./pics/people/Tom_Knight.jpg" class="myimg">
       <h4>Thomas Knight</h4>

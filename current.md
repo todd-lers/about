@@ -278,15 +278,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <h2>MPharm Students</h2>
 
 <div class="row">
-  <div class="column">
-    <div class="card">
-       <img src="./pics/people/" class="myimg">
-      <h4>Ju Hyeong Kim (Andy)</h4>
-      <p class="title">MPharm Student (UCL) <br>2022-present</p>
-      <p></p>
-    </div>
-  </div>
-  <div class="column">
+<div class="column">
     <div class="card">
        <img src="./pics/people/" class="myimg">
       <h4>Yewon Oh</h4>

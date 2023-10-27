@@ -9,8 +9,8 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
-|**Yewon Oh** <br/></i></a>|MPharm Student (UCL)|2022-2023|
-|**Ju Hyeong Kim (Andy)** <br/></i></a>|MPharm Student (UCL)|2022-2023|
+|**Yewon Oh** <br/>|MPharm Student (UCL)|2022-2023|
+|**Ju Hyeong Kim (Andy)** <br/>|MPharm Student (UCL)|2022-2023|
 |**Zhaohang Feng** <br/><img src="./pics/people/Zhaohang Feng.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/yiwei-wang-65aab6251"><i class="fa fa-linkedin"></i></a>|MRes Student (UCL Pharmacy)|2022-2023|
 |**Yiwei Wang** <br/><img src="./pics/people/YiweiWang.jpeg" class="myimga"> <br/><a href="https://www.linkedin.com/in/yiwei-wang-65aab6251"><i class="fa fa-linkedin"></i></a>|MRes Student (UCL Pharmacy)|2022-2023|
 |**Guanghao Xu (Andy)** <br/><img src="./pics/people/GuanghaoXu.jpeg" class="myimga"> <br/><a href="https://www.linkedin.com/in/guanghao-xu-228083253"><i class="fa fa-linkedin"></i></a>|MRes Student (UCL Chem)|2022-2023|

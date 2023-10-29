@@ -140,19 +140,6 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Tha_Bhebhe.jpg" class="myimg">
-    <h4>Mathamsanqa Bhebhe</h4>
-    <p class="title">PhD Student (USyd) <br>2017-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/mathamsanqa-bhebhe-b53281101/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/MNBhebhe"><i class="fa fa-twitter"></i></a>
-      <a href="https://github.com/mbhebhe"><i class="fa fa-github"></i></a>
-    </div>
-    </div>
-</div>
-<div class="column">
-  <div class="card">
     <img src="./pics/people/Dmitrij_Melechov.jpg" class="myimg">
     <h4>Dmitrij Melechov</h4>
     <p class="title">PhD Student (UCL) <br>2019-present</p>
@@ -178,9 +165,7 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
   </div>
 </div>
-
-<div class="row">
-  <div class="column">
+ <div class="column">
     <div class="card">
        <img src="./pics/people/Tom_Knight.jpg" class="myimg">
       <h4>Thomas Knight</h4>
@@ -291,15 +276,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <h2>MPharm Students</h2>
 
 <div class="row">
-  <div class="column">
-    <div class="card">
-       <img src="./pics/people/" class="myimg">
-      <h4>Ju Hyeong Kim (Andy)</h4>
-      <p class="title">MPharm Student (UCL) <br>2022-present</p>
-      <p></p>
-    </div>
-  </div>
-  <div class="column">
+<div class="column">
     <div class="card">
        <img src="./pics/people/" class="myimg">
       <h4>Yewon Oh</h4>

@@ -13,12 +13,12 @@ NULLCMD = :
 #### Start of system configuration section. ####
 
 srcdir = .
-topdir = /Users/apple/.rubies/ruby-3.1.2/include/ruby-3.1.0
+topdir = /Users/yinuo/.rubies/ruby-3.1.3/include/ruby-3.1.0
 hdrdir = $(topdir)
-arch_hdrdir = /Users/apple/.rubies/ruby-3.1.2/include/ruby-3.1.0/x86_64-darwin21
+arch_hdrdir = /Users/yinuo/.rubies/ruby-3.1.3/include/ruby-3.1.0/arm64-darwin22
 PATH_SEPARATOR = :
 VPATH = $(srcdir):$(arch_hdrdir)/ruby:$(hdrdir)/ruby
-prefix = $(DESTDIR)/Users/apple/.rubies/ruby-3.1.2
+prefix = $(DESTDIR)/Users/yinuo/.rubies/ruby-3.1.3
 rubysitearchprefix = $(rubylibprefix)/$(sitearch)
 rubyarchprefix = $(rubylibprefix)/$(arch)
 rubylibprefix = $(libdir)/$(RUBY_BASE_NAME)
@@ -32,8 +32,8 @@ rubyhdrdir = $(includedir)/$(RUBY_VERSION_NAME)
 vendorarchdir = $(vendorlibdir)/$(sitearch)
 vendorlibdir = $(vendordir)/$(ruby_version)
 vendordir = $(rubylibprefix)/vendor_ruby
-sitearchdir = $(DESTDIR)./.gem.20221014-87961-bmboq6
-sitelibdir = $(DESTDIR)./.gem.20221014-87961-bmboq6
+sitearchdir = $(sitelibdir)/$(sitearch)
+sitelibdir = $(sitedir)/$(ruby_version)
 sitedir = $(rubylibprefix)/site_ruby
 rubyarchdir = $(rubylibdir)/$(arch)
 rubylibdir = $(rubylibprefix)/$(ruby_version)
@@ -88,10 +88,10 @@ CCDLFLAGS = -fno-common
 CFLAGS   = $(CCDLFLAGS) $(cflags)  -pipe $(ARCH_FLAG)
 INCFLAGS = -I. -I$(arch_hdrdir) -I$(hdrdir)/ruby/backward -I$(hdrdir) -I$(srcdir)
 DEFS     = 
-CPPFLAGS = -DBUILD_FOR_RUBY -DOS_UNIX  -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -I/usr/local/opt/libyaml/include -I/usr/local/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT $(DEFS) $(cppflags)
+CPPFLAGS = -DBUILD_FOR_RUBY -DOS_UNIX -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/gdbm/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT $(DEFS) $(cppflags)
 CXXFLAGS = $(CCDLFLAGS) -fdeclspec $(ARCH_FLAG)
-ldflags  = -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/gdbm/lib
-dldflags = -Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/gdbm/lib 
+ldflags  = -L. -fstack-protector-strong -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -L/usr/local/lib
+dldflags = -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib -Wl,-multiply_defined,suppress -Wl,-undefined,dynamic_lookup -bundle_loader '$(BUILTRUBY)'
 ARCH_FLAG = 
 DLDFLAGS = $(ldflags) $(dldflags) $(ARCH_FLAG)
 LDSHARED = $(CXX) -dynamic -bundle
@@ -106,11 +106,12 @@ RUBY_VERSION_NAME = $(RUBY_BASE_NAME)-$(ruby_version)
 RUBYW_BASE_NAME = rubyw
 RUBY_BASE_NAME = ruby
 
-arch = x86_64-darwin21
+arch = arm64-darwin22
 sitearch = $(arch)
 ruby_version = 3.1.0
 ruby = $(bindir)/$(RUBY_BASE_NAME)
 RUBY = $(ruby)
+BUILTRUBY = $(bindir)/$(RUBY_BASE_NAME)
 ruby_headers = $(hdrdir)/ruby.h $(hdrdir)/ruby/backward.h $(hdrdir)/ruby/ruby.h $(hdrdir)/ruby/defines.h $(hdrdir)/ruby/missing.h $(hdrdir)/ruby/intern.h $(hdrdir)/ruby/st.h $(hdrdir)/ruby/subst.h $(arch_hdrdir)/ruby/config.h
 
 RM = rm -f
@@ -126,8 +127,8 @@ TOUCH = exit >
 #### End of system configuration section. ####
 
 preload = 
-libpath = . $(libdir) /usr/local/opt/openssl@1.1/lib /usr/local/opt/readline/lib /usr/local/opt/libyaml/lib /usr/local/opt/gdbm/lib
-LIBPATH =  -L. -L$(libdir) -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/gdbm/lib
+libpath = . $(libdir) /opt/homebrew/opt/openssl@1.1/lib /opt/homebrew/opt/readline/lib /opt/homebrew/opt/libyaml/lib /opt/homebrew/opt/gdbm/lib
+LIBPATH =  -L. -L$(libdir) -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/gdbm/lib
 DEFFILE = 
 
 CLEANFILES = mkmf.log

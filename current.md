@@ -32,7 +32,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="" class="myimg">
+    <img src="./pics/people/Fiona1.jpg" class="myimg">
     <h4>Fiona Marquet</h4>
     <p class="title">Executive Assistant (UCL) <br>2022-present</p>
     <p></p>

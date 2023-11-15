@@ -260,7 +260,7 @@ He has a significant interest in open science, and how it may be used to acceler
   <div class="card">
     <img src="./pics/people/Margo Valentine.jpg" class="myimg">
     <h4>Margo Valentine</h4>
-    <p class="title">MRes Student (UCL) <br>2019-present</p>
+    <p class="title">MRes Student (UCL) <br>2023-present</p>
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/margarita-valentine-765903235/"><i class="fa fa-linkedin"></i></a>

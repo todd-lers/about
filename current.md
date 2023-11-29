@@ -27,7 +27,7 @@ He has a significant interest in open science, and how it may be used to acceler
 
 <hr class="rule">
 
-<h2>Research Assistant</h2>
+<h2>Executive Assistant</h2>
 
 <div class="row">
 <div class="column">

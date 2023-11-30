@@ -9,6 +9,14 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Yewon Oh** <br/>|MPharm Student (UCL)|2022-2023|
+|**Ju Hyeong Kim (Andy)** <br/>|MPharm Student (UCL)|2022-2023|
+|**Zhaohang Feng** <br/><img src="./pics/people/Zhaohang Feng.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/yiwei-wang-65aab6251"><i class="fa fa-linkedin"></i></a>|MRes Student (UCL Pharmacy)|2022-2023|
+|**Yiwei Wang** <br/><img src="./pics/people/YiweiWang.jpeg" class="myimga"> <br/><a href="https://www.linkedin.com/in/yiwei-wang-65aab6251"><i class="fa fa-linkedin"></i></a>|MRes Student (UCL Pharmacy)|2022-2023|
+|**Guanghao Xu (Andy)** <br/><img src="./pics/people/GuanghaoXu.jpeg" class="myimga"> <br/><a href="https://www.linkedin.com/in/guanghao-xu-228083253"><i class="fa fa-linkedin"></i></a>|MRes Student (UCL Chem)|2022-2023|
+|**Sanjana Thomas** <br/><img src="./pics/people/SanjanaThomas.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/sanjana-thomas-580b0a19b"><i class="fa fa-linkedin"></i></a>|MRes Student (UCL Chem)|2022-2023|
+|**Mathamsanqa Bhebhe** <br/><img src="./pics/people/Tha_Bhebhe.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/mathamsanqa-bhebhe-b53281101/"><i class="fa fa-linkedin"></i></a> <a href="https://twitter.com/MNBhebhe"><i class="fa fa-twitter"></i></a>|PhD|2017-2022|
+|**Edwin Tse** <br/><img src="./pics/people/Ed_Tse3.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/edwin-tse-92144155/"><i class="fa fa-linkedin"></i></a> <a href="https://twitter.com/edwintse_"><i class="fa fa-twitter"></i></a>|Postdoctoral Fellow|2021-2023|Postdoctoral Research Fellow at UNC|
 |**Daniel Gedder Silva** <br/><img src="./pics/people/Daniel Gedder Silva.jpeg" class="myimga"> <br/><a href="https://br.linkedin.com/in/daniel-gedder-73700529"><i class="fa fa-linkedin"></i></a> <a href="https://twitter.com/danielgedder"><i class="fa fa-twitter"></i></a>|Postdoctoral Fellow|2022-2023|
 |**Kato Leonard** <br/><img src="./pics/people/Kato_Leonard.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/kato-leonard-075982209/"><i class="fa fa-linkedin"></i></a> <a href="https://twitter.com/katoleonard"><i class="fa fa-twitter"></i></a>|Erasmus|2021-2022|Advanced MSc in Plant Biotechnology, Ghent University|
 |**Joshua Wyatt** <br/><a href="https://www.linkedin.com/in/joshuawyatt98"><i class="fa fa-linkedin"></i></a>|MSc|2022| Associate Consultant, Eradigm Consulting|

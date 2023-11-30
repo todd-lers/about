@@ -7,16 +7,19 @@ This page contains information for current members of the Todd group. Click a se
 ### Getting Started
 
   The following is a checklist of key things to do and documents for new members of the group:
+  
   - Get a LabArchives account for experimental write-ups (invite from Mat Todd)
-  - Get a Slack account for group communication (invite from Mat Todd)
   - Get a ChemInventory account for chemical inventory management (invite from postdoc)
-  - Join the G25 MS Team (invite from Dana Klug)
-  - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and John Day)
-  - Organise and complete NMR training (see Emmanuel Samuel) -- click <a href="./docs/Onboarding/NMR Application Form.doc" download>here</a> to download the NMR application form (also fill out the section on Mass Spectrometry to submit samples for HRMS)
+  - Join the G25 MS Team (invite from postdoc), read through carefully Risk assessments and Standard Operating Procedures. 
+  - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and Fiona Marquet) The guide on ordering is [here](https://docs.google.com/document/d/1xiQK2DAcGyJrknU-gTitQe31noiIFy5B0Vwbp6lttw0/edit).
+  - Organise and complete NMR training (see NMR facility manager, Nikita Harvey)
   - Organise and complete LCMS training (see senior group member/postdoc) -- see below for guides on LCMS usage
-  - Organise and complete the lab safety induction (see Geoff Wells or Jamie Leitch)
+  - Organise and complete the lab safety induction (see Eve Carter)
   - Familiarise yourself with Risk Assessment forms for conducting reactions (on MS Teams)
-  - Complete the Out of Hours form (get it signed by Mat Todd) -- click <a href="./docs/Onboarding/Out of Hours Form.docx" download>here</a> to download the Out of Hours form
+  - Complete the Out of Hours form (ask Justine Newson) and get it signed by Mat Todd
+  - Complete safety training with Cory Beckwith
+  - Complete online training (list of courses [here](https://www.grad.ucl.ac.uk/essinfo/training-for-doctoral-students/) for PhD students and [here](https://www.ucl.ac.uk/human-resources/organisational-development/training-inductions-and-leadership/mandatory-training) for staff, plus [liquid nitrogen](https://www.ucl.ac.uk/safety-services/policies/2022/dec/liquid-nitrogen-workplace) and [gas cylinders](https://www.ucl.ac.uk/safety-services/policies/2022/nov/using-gas-cylinders-safely-within-universities-training) if you will be in the lab)
+
 
 ### Research Mentoring and Advice
 
@@ -358,9 +361,9 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ## Using the Analytical LCMS
 
-  A general guide on using the Analytical LCMS in G25 can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/LCMS-Analytical-Guide.pdf). The guide was prepared by Edwin G. Tse and Paul T. A. King and can be updated by anyone in the group. It serves as a walk through for how to properly use the Analytical LCMS. _This is not a substitute for proper training_.
+  A general guide on using the Analytical LCMS in G25 can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-guide.pdf). The guide was prepared by Edwin G. Tse and Paul T. A. King and can be updated by anyone in the group. It serves as a walk-through for how to properly use the Analytical LCMS. _This is not a substitute for proper training_. _Please check the lab job table to find the proper person to train you._
 
-  A quick introductory slideshow covering proper sample preparation and common courtesy rules can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/G25%20LCMS.pptx).
+[here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-Sample-Prep.docx) is the LCMS sample preparation guide. 
 
 ## Using the Preparative LCMS
 
@@ -379,6 +382,8 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
   <div id="link" markdown="1">
 
 ## Biotage Selekt
+
+  A general guide on using the Biotage Selekt in G25 can be found [here](https://docs.google.com/document/d/1DukynjPTQzADJwQ9lo0frDW3HpUIo0nuCj1LMpddTkA/edit). The guide was prepared by Yuhang Wang and can be updated by anyone in the group. 
 
   Biotage user manual can be found [here](https://github.com/todd-lers/techops/blob/master/Biotage/416183-C%20Selekt%20User%20Manual.pdf).
 
@@ -424,7 +429,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - Discretionary: Project 549163, Award 156782.  
 - Dmitrij: Project 552026, Award 156780, Task 100.  
 - Yuhang: Project 564082, Award 177365, Task 100.
-- Tom: Project: 566966, Award 180330
+- Tom: Project: 566966, Award 180330. Now use 531853.100.156535 and quote "T.Knight (566966)"
 - Daniel: Project 570934, Award 184398, Task 100
 - Antibiotics UK: Project 568406, Award 183633
 - EPSRC/IAA/KEIF Generative (Ed): Project 571160, Award 174591
@@ -435,6 +440,8 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - Kangping: Project 575864, Award 177365, Task 100
 - Mohsen: Project 575863, Award 177365, Task 100
 - Shared G25 Consumables: Project 577764, Award 156780, Task 100 (except for ISD projects (Tasks 2001, 2002C and 2002R) and buildings projects which are linked to Task 1000)
+- Evans Mainsah AREF Fellowship: Project 579579, Award 187158
+- PBC Dept (only for Mat, who keeps forgetting what this is): 502704.100.156780
 
 </div>
 </div>

@@ -424,13 +424,26 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
   </div>
 </div>
 
-### Rotas
-
-Solvents
 
 ### Group Meetings
 
-Current Schedule
+<div id="accordion7">
+<h3>How We Do It</h3>
+  <div id="link" markdown="1">
+
+Where: M1 (etc), in person. When: Fridays 1pm (mostly). Fiona will send Outlook invites.
+
+**Health and Safety/Lab Operations**. These meetings provide an excellent chance for us to talk about lab or admin issues that affect us all. We’ll start each meeting with this.
+
+**Research Updates**: A description of where your project is up to. Minimise background and previous work (one slide maximum). Be clear on your long- and short-term aims. Describe key challenges you’re facing in more detail. Work hard on making clear, attractive slides. Include necessary references on each relevant slide, not at the end. Send your deck to Mat after the meeting, or upload directly to Github. 20 minutes, with 10 mins for any extra discussion. People should ask questions during the presentation. At the end, the Devil’s Advocate (DA – the person doing next week’s update) should lead any remaining questions.
+
+**Lit Club**: A description of three recent papers published within a year. Two slides maximum (no animations) per paper. Include the citation and author names. Get across the key idea and key result of the paper – don’t get lost in the details or just paste in all the tables and diagrams. Pick any papers from any Nature of Science journal (i.e., including Nature Chem, Chem Bio, Science Translational Medicine etc), JACS, Angewandte, Chemical Science, ACS Central Science or PNAS. The papers do not have to be relevant to your work, or relevant to anything in the group. Pick papers because you find them interesting. 10 minutes, including questions. The Devil’s Advocate (DA – the person doing next week’s lit club) should lead the questions.
+
+**MiniProblem**: If it’s your turn, distribute (by email, immediately after the previous meeting) a short problem or two or three on synthetic or medicinal chemistry. People should come prepared to discuss the solutions on a whiteboard. 10 minutes.
+
+
+  </div>
+</div>
 
 ### Grant Codes and Admin
 
@@ -442,7 +455,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - you need to have hazardous chemical waste (including silica) removed
 - you need a 19F NMR spectra for a sample
 
-<div id="accordion7">
+<div id="accordion8">
 <h3>Project Codes</h3>
   <div id="link" markdown="1">
 
@@ -469,7 +482,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 
 ### Chemistry Resources
 
-<div id="accordion8">
+<div id="accordion9">
 <h3>Useful Web Resources</h3>
   <div id="link" markdown="1">
 

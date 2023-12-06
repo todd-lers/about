@@ -477,7 +477,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - Evans Mainsah AREF Fellowship: Project 579579, Award 187158
 - PBC Dept (only for Mat, who keeps forgetting what this is): 502704.100.156780
 
-</div>
+  </div>
 </div>
 
 ### Chemistry Resources

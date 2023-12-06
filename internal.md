@@ -7,10 +7,10 @@ This page contains information for current members of the Todd group. Click a se
 ### Getting Started
 
   The following is a checklist of key things to do and documents for new members of the group:
-  
+
   - Get a LabArchives account for experimental write-ups (invite from Mat Todd)
   - Get a ChemInventory account for chemical inventory management (invite from postdoc)
-  - Join the G25 MS Team (invite from postdoc), read through carefully Risk assessments and Standard Operating Procedures. 
+  - Join the G25 MS Team (invite from postdoc), read through carefully Risk assessments and Standard Operating Procedures.
   - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and Fiona Marquet) The guide on ordering is [here](https://docs.google.com/document/d/1xiQK2DAcGyJrknU-gTitQe31noiIFy5B0Vwbp6lttw0/edit).
   - Organise and complete NMR training (see NMR facility manager, Nikita Harvey)
   - Organise and complete LCMS training (see senior group member/postdoc) -- see below for guides on LCMS usage
@@ -169,13 +169,34 @@ As a scientist, it is very important that you have a strong sense of when accura
   _Transferring information from old website in progess_.
 
   Relevant page on the old website can be found [here](https://openwetware.org/wiki/Todd:Guidelines#Report_Write-up) in the meantime.
+
   </div>
+  </div>
+</div>
+
+### Checklist of Common Little Errors
+
+<div id="accordion3">
+<h3>Weird hidden formatting</h3>
+  <div id="link" markdown="1">
+
+Sometimes there is formatting in Word that you can't see. You can reveal formatting if you click the little backwards "P" that looks like this in Word Home Bar:
+
+  <center><img src="./pics/internal/Attachment 2.png" width="20%"></center>
+
+
+This can show that you've double spaces and other things. In particular it can reveal a spacing SNAFU that arises often when you copy from a non-Word source into Word, where the spaces appear as little blue circles, like this:
+
+  <center><img src="./pics/internal/Attachment 1.png" width="65%"></center>
+
+These can mess up spacing of your text and you should replace them with regular spaces. Usually if you paste into a simple text editor and then copy from that to Word, these odd spaces aren't carried over.
+
   </div>
 </div>
 
 ### General Writing Advice
 
-<div id="accordion3">
+<div id="accordion4">
 <h3>Writing Accurately vs Writing Well</h3>
   <div id="link" markdown="1">
 
@@ -263,13 +284,13 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ### General Lab Guidance
 
-<div id="accordion4">
+<div id="accordion5">
 <h3>Working Safely</h3>
   <div id="link" markdown="1">
 
   Everyone in the group (PDRAs and PhD students) will have certain responsibilities to maintain the lab to ensure that we all work as efficiently and safely as possible. A list of lab jobs can be found [here](https://github.com/todd-lers/techops/tree/master/Lab%20Rules) along with some general lab rules and guidance on the use of communal equipment.
 
-  **The lab jobs will be reviewed periodically and updated.** _Any issues, contact Dana._
+  **The lab jobs will be reviewed periodically and updated.** _Any issues, contact Eve._
 
   [Current waste rota](https://github.com/todd-lers/techops/blob/master/rotas/Waste%20%26%20solvent%20rota%20-%20Jan-Mar%202020.pdf)
 
@@ -355,7 +376,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ### How-To's and Manuals
 
-<div id="accordion5">
+<div id="accordion6">
 <h3>Using the LCMS</h3>
   <div id="link" markdown="1">
 
@@ -363,7 +384,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
   A general guide on using the Analytical LCMS in G25 can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-guide.pdf). The guide was prepared by Edwin G. Tse and Paul T. A. King and can be updated by anyone in the group. It serves as a walk-through for how to properly use the Analytical LCMS. _This is not a substitute for proper training_. _Please check the lab job table to find the proper person to train you._
 
-[here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-Sample-Prep.docx) is the LCMS sample preparation guide. 
+[here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-Sample-Prep.docx) is the LCMS sample preparation guide.
 
 ## Using the Preparative LCMS
 
@@ -383,7 +404,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ## Biotage Selekt
 
-  A general guide on using the Biotage Selekt in G25 can be found [here](https://docs.google.com/document/d/1DukynjPTQzADJwQ9lo0frDW3HpUIo0nuCj1LMpddTkA/edit). The guide was prepared by Yuhang Wang and can be updated by anyone in the group. 
+  A general guide on using the Biotage Selekt in G25 can be found [here](https://docs.google.com/document/d/1DukynjPTQzADJwQ9lo0frDW3HpUIo0nuCj1LMpddTkA/edit). The guide was prepared by Yuhang Wang and can be updated by anyone in the group.
 
   Biotage user manual can be found [here](https://github.com/todd-lers/techops/blob/master/Biotage/416183-C%20Selekt%20User%20Manual.pdf).
 
@@ -421,7 +442,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 - you need to have hazardous chemical waste (including silica) removed
 - you need a 19F NMR spectra for a sample
 
-<div id="accordion6">
+<div id="accordion7">
 <h3>Project Codes</h3>
   <div id="link" markdown="1">
 
@@ -448,7 +469,7 @@ Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to downlo
 
 ### Chemistry Resources
 
-<div id="accordion7">
+<div id="accordion8">
 <h3>Useful Web Resources</h3>
   <div id="link" markdown="1">
 

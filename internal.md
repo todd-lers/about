@@ -177,7 +177,7 @@ As a scientist, it is very important that you have a strong sense of when accura
 ### Checklist of Common Little Errors
 
 <div id="accordion3">
-<h3>Weird hidden formatting</h3>
+<h3>Weird Hidden Formatting</h3>
   <div id="link" markdown="1">
 
 Sometimes there is formatting in Word that you can't see. You can reveal formatting if you click the little backwards "P" that looks like this in Word Home Bar:

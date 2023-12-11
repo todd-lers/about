@@ -2,7 +2,7 @@
 layout: collapsible
 ---
 
-This page contains information for current members of the Todd group. Click a section to expand.
+**This page contains information for current members of the Todd group. Click a section to expand.**
 
 ### Getting Started
 

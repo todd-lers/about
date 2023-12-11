@@ -431,51 +431,51 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 <h3>How We Do It</h3>
   <div id="link" markdown="1">
 
-Where: M1 (etc), in person. When: Fridays 1pm (mostly). Fiona will send Outlook invites.
+  Where: M1 (etc), in person. When: Fridays 1pm (mostly). Usually 60 to 90 mins. Fiona will send Outlook invites.
 
-**Health and Safety/Lab Operations**. These meetings provide an excellent chance for us to talk about lab or admin issues that affect us all. We’ll start each meeting with this.
+  **Health and Safety/Lab Operations**. These meetings provide an excellent chance for us to talk about lab or admin issues that affect us all. We’ll start each meeting with this.
 
-**Research Updates**: A description of where your project is up to. Minimise background and previous work (one slide maximum). Be clear on your long- and short-term aims. Describe key challenges you’re facing in more detail. Work hard on making clear, attractive slides. Include necessary references on each relevant slide, not at the end. Send your deck to Mat after the meeting, or upload directly to Github. 20 minutes, with 10 mins for any extra discussion. People should ask questions during the presentation. At the end, the Devil’s Advocate (DA – the person doing next week’s update) should lead any remaining questions.
+  **Research Updates**: A description of where your project is up to. Minimise background and previous work (one slide maximum). Be clear on your long- and short-term aims. Describe key challenges you’re facing in more detail. Work hard on making clear, attractive slides. Include necessary references on each relevant slide, not at the end. Send your deck to Mat after the meeting, or upload directly to Github. 20 minutes, with 10 mins for any extra discussion. People should ask questions during the presentation. At the end, the Devil’s Advocate (DA – the person doing next week’s update) should lead any remaining questions.
 
-**Lit Club**: A description of three recent papers published within a year. Two slides maximum (no animations) per paper. Include the citation and author names. Get across the key idea and key result of the paper – don’t get lost in the details or just paste in all the tables and diagrams. Pick any papers from any Nature of Science journal (i.e., including Nature Chem, Chem Bio, Science Translational Medicine etc), JACS, Angewandte, Chemical Science, ACS Central Science or PNAS. The papers do not have to be relevant to your work, or relevant to anything in the group. Pick papers because you find them interesting. 10 minutes, including questions. The Devil’s Advocate (DA – the person doing next week’s lit club) should lead the questions.
+  **Lit Club**: A description of three recent papers published within a year. Two slides maximum (no animations) per paper. Include the citation and author names. Get across the key idea and key result of the paper – don’t get lost in the details or just paste in all the tables and diagrams. Pick any papers from any Nature of Science journal (i.e., including Nature Chem, Chem Bio, Science Translational Medicine etc), JACS, Angewandte, Chemical Science, ACS Central Science or PNAS. The papers do not have to be relevant to your work, or relevant to anything in the group. Pick papers because you find them interesting. 10 minutes, including questions. The Devil’s Advocate (DA – the person doing next week’s lit club) should lead the questions.
 
-**MiniProblem**: If it’s your turn, distribute (by email, immediately after the previous meeting) a short problem or two or three on synthetic or medicinal chemistry. People should come prepared to discuss the solutions on a whiteboard. 10 minutes.
-
+  **MiniProblem**: If it’s your turn, distribute (by email, immediately after the previous meeting) a short problem or two or three on synthetic or medicinal chemistry. People should come prepared to discuss the solutions on a whiteboard. 10 minutes.
 
   </div>
 </div>
 
 ### Grant Codes and Admin
 
-Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to download the contacts list containing who to contact when:
-- encountering issues with instruments that you are unable to fix (i.e. Biotage and LCMS)
-- looking for quotes on lab equipment, etc.
-- you need help with NMR or mass spectrometry instruments in SoP
-- you need to replace the argon cylinder in the lab
-- you need to have hazardous chemical waste (including silica) removed
-- you need a 19F NMR spectra for a sample
+  Please ask **current postdocs** for more information when:
+
+  - encountering issues with instruments that you are unable to fix (i.e. Biotage and LCMS)
+  - looking for quotes on lab equipment, etc.
+  - you need help with NMR or mass spectrometry instruments in SoP
+  - you need to replace the argon cylinder in the lab
+  - you need to have hazardous chemical waste (including silica) removed
+  - you need a 19F NMR spectra for a sample
 
 <div id="accordion8">
-<h3>Project Codes</h3>
+  <h3>Project Codes</h3>
   <div id="link" markdown="1">
 
-- Core: Project 549163, Award 156780 <-- don't use this from now on for consumables.  
-- Discretionary: Project 549163, Award 156782.  
-- Dmitrij: Project 552026, Award 156780, Task 100.  
-- Yuhang: Project 564082, Award 177365, Task 100.
-- Tom: Project: 566966, Award 180330. Now use 531853.100.156535 and quote "T.Knight (566966)"
-- Daniel: Project 570934, Award 184398, Task 100
-- Antibiotics UK: Project 568406, Award 183633
-- EPSRC/IAA/KEIF Generative (Ed): Project 571160, Award 174591
-- Yinuo: Project 571228, Award 177365, Task 100
-- Gates/SGC Contraceptives grant: Project 572553, Award 184940
-- Chemistry MRes Student Spending: Project 574868, Award 177365
-- READDI-AViDD: Project 575169 (SoP) or 575170 (LMCB), Award 185702
-- Kangping: Project 575864, Award 177365, Task 100
-- Mohsen: Project 575863, Award 177365, Task 100
-- Shared G25 Consumables: Project 577764, Award 156780, Task 100 (except for ISD projects (Tasks 2001, 2002C and 2002R) and buildings projects which are linked to Task 1000)
-- Evans Mainsah AREF Fellowship: Project 579579, Award 187158
-- PBC Dept (only for Mat, who keeps forgetting what this is): 502704.100.156780
+  - Core: Project 549163, Award 156780 <-- don't use this from now on for consumables.  
+  - Discretionary: Project 549163, Award 156782.  
+  - Dmitrij: Project 552026, Award 156780, Task 100.  
+  - Yuhang: Project 564082, Award 177365, Task 100.
+  - Tom: Project: 566966, Award 180330. Now use 531853.100.156535 and quote "T.Knight (566966)"
+  - Daniel: Project 570934, Award 184398, Task 100
+  - Antibiotics UK: Project 568406, Award 183633
+  - EPSRC/IAA/KEIF Generative (Ed): Project 571160, Award 174591
+  - Yinuo: Project 571228, Award 177365, Task 100
+  - Gates/SGC Contraceptives grant: Project 572553, Award 184940
+  - Chemistry MRes Student Spending: Project 574868, Award 177365
+  - READDI-AViDD: Project 575169 (SoP) or 575170 (LMCB), Award 185702
+  - Kangping: Project 575864, Award 177365, Task 100
+  - Mohsen: Project 575863, Award 177365, Task 100
+  - Shared G25 Consumables: Project 577764, Award 156780, Task 100 (except for ISD projects (Tasks 2001, 2002C and 2002R) and buildings projects which are linked to Task 1000)
+  - Evans Mainsah AREF Fellowship: Project 579579, Award 187158
+  - PBC Dept (only for Mat, who keeps forgetting what this is): 502704.100.156780
 
   </div>
 </div>

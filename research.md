@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: collapsible
 ---
 We are most known for the [Open Source Malaria](http://opensourcemalaria.org/#) project, our [open science](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html) work more generally and for the use of [click-derived triazoles in chemical sensing](http://dx.doi.org/10.1039/C0CS00143K). However, there are plenty of other projects that interest us.
 
@@ -18,6 +18,7 @@ Click a research area to jump to the relevant section below:
 <hr class="rule">
 
 <a name="open_science"></a>
+
 # Open Science
 
 We live in the age of the internet, one of the most transformative inventions of our time. Computer scientists understood what the internet meant - working together without barriers. Scientists are just catching up. We could collaborate in more productive ways if only we were less wedded to secrecy.
@@ -30,6 +31,55 @@ We've also founded several other consortia, below. All of these generally follow
 
 We need a good place to capture all the discussion that the idea of open source drug discovery has created (it's a lot) but some examples will be collated here, like [this](https://itsfoss.com/open-source-impact-on-science/) and [this](https://rbharath.github.io/why-should-drug-discovery-be-open-source/).
 
+### Licences
+
+There is no adequate licence to cover entire open source drug discovery projects. Open Source Malaria and others use the CC-BY licence. [Data should abide by the FAIR principles](https://www.nature.com/articles/d41586-019-01720-7). [Linking those who generate data with the downstream use of that data](https://www.nature.com/articles/d41586-019-01715-4) (for credit) might be desirable.
+
+### Non-profit Pharmaceutical Synthesis
+
+[General article](https://nonprofitquarterly.org/the-new-nonprofit-pharmaceutical-world-whats-up-with-that/). [CivicaRx](https://civicarx.org/media/).
+
+### Projects:
+
+<div id="accordion">
+<h2>Open Source Anti-Virus</h2>
+  <div id="link" markdown="1">
+
+
+  </div>
+</div>
+
+<div id="accordion2">
+<h2>Open Source Antibiotics</h2>
+  <div id="link" markdown="1">
+
+
+### Open Source Antibiotics <a href="https://twitter.com/OSantibiotics"><i class="fa fa-twitter"></i></a>
+
+We have founded the [Open Source Antibiotics](https://github.com/opensourceantibiotics/GeneralTopics) (OSA) consortium which consists of researchers interested in open ways to discover and develop new, inexpensive medicines for bacterial infections. There are currently two series in the OSA consortium.
+
+**[OSA Series 1](https://github.com/opensourceantibiotics/murligase)** - _Mur ligases_
+
+The focus is the discovery and development of new antibiotics, specifically inhibitors of the Mur ligase enzymes using a fragment based approach.
+
+<center><img src="./pics/research/OSA Series 1 Summary.png" width="90%"></center>
+
+**[OSA Series 2](https://github.com/opensourceantibiotics/Series-2-Diarylimidazoles)** - _Diarylimidazoles_
+
+The focus is the discovery and development of new antibiotics, specifically the optimisation of a series of molecules discovered at the University of North Carolina Chapel Hill.
+
+This series has been the focus of a number of 2020 [research meetings](https://www.youtube.com/playlist?list=PL0eLxnHhou_k1Upbn5X1mdHBwKMYkRpLH).
+
+<center><img src="./pics/research/OSA Series 2 Summary.png" width="90%"></center>
+
+
+  </div>
+</div>
+
+<div id="accordion3">
+<h2>Open Source Malaria</h2>
+  <div id="link" markdown="1">
+
 ### Open Source Malaria <a href="https://twitter.com/o_s_m"><i class="fa fa-twitter"></i></a>
 
 Mat founded the **Open Source Malaria (OSM) Consortium** ([Github](https://github.com/OpenSourceMalaria), [Landing Page](http://opensourcemalaria.org/#))
@@ -39,6 +89,43 @@ Mat founded the **Open Source Malaria (OSM) Consortium** ([Github](https://githu
 [YouTube channel](http://www.youtube.com/user/OSDDMalaria) all now old.
 
 In 2019-2020, with funding from EPSRC/AI3SD, OSM ran a predictive modelling competition to figure out whether new methods in artificial intelligence and machine learning could help predict new active molecules in a phenotypic drug discovery project (where we had no detailed structure of the biological target). Here is the [report of the Jan 2020 meeting](https://eprints.soton.ac.uk/438123/) we ran, the [relevant Github repository](https://github.com/OpenSourceMalaria/Series4_PredictiveModel) and the [preprint](https://chemrxiv.org/articles/preprint/An_Open_Drug_Discovery_Competition_Experimental_Validation_of_Predictive_Models_in_a_Series_of_Novel_Antimalarials/13194755).
+
+  </div>
+</div>
+
+<div id="accordion4">
+<h2>Open Source Mycetoma</h2>
+  <div id="link" markdown="1">
+
+
+### Open Source Mycetoma <a href="https://twitter.com/MycetOS"><i class="fa fa-twitter"></i></a>
+
+
+  </div>
+</div>
+
+<div id="accordion5">
+<h2>Open Source Pharma</h2>
+  <div id="link" markdown="1">
+
+
+### Open Source Pharma <a href="https://twitter.com/opensrcpharma"><i class="fa fa-twitter"></i></a>
+
+We've co-founded a broader open source pharma movement which has been defined by participants from across the public and private sectors, with early backing from Open Society Foundations, The Rockefeller Foundation and Tata Trusts. The idea is to promote more open forms of collaboration towards "Medicines for All". The underlying ideas were discussed at WHO in 2013 ([Is Open Source Drug Discovery Practical?](https://www.youtube.com/playlist?list=PLyNnVQbuVDGUoKnHcazuExFE5aCaTtn8V), [WHO News Item](https://www.who.int/tdr/news/2013/odd/en/)), and guiding principles were established at a [meeting](https://www.opensourcepharma.net/bellagio.html) in 2014 ([WHO News Item](https://www.who.int/tdr/news/2014/open-source-pharma-mtg/en/)) with further [conferences](https://www.opensourcepharma.net/conferences.html) in 2015 and 2019. The overall approach is described in a short [2017 "Roadmap" paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276) (with more details provided in the longer [supporting information](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276#sec006) document).
+
+(Associated Articles/Media: [2014 Canadian Radio interview "Can open-source pharma cure Ebola and other neglected killers?"](https://www.cbc.ca/player/play/2523952984).
+
+There are many and repeated calls for different ways to discover and develop medicines, in particular for better panedemic preparedness (e.g. [here](https://blogs.bmj.com/bmj/2021/04/01/preparing-for-the-next-pandemic-requires-public-health-focused-industrial-policy/))
+
+There are many other possible means of funding open models of drug discovery. One is [blockchain](https://medium.com/molecule-blog/an-open-bazaar-for-drug-development-molecule-protocol-a47978dd914). Another, that we're involved in, is the use of existing market instruments like regulatory data exclusivity - see our company [M4ID](https://www.m4idpharma.com/). One wonders whether some of [the methods for funding open source software](https://github.com/nayafia/lemonade-stand/blob/master/README.md) might be translatable to drug discovery.
+
+  </div>
+</div>
+
+
+<div id="accordion6">
+<h2>Open Source Tuberculosis</h2>
+  <div id="link" markdown="1">
 
 ### Open Source Tuberculosis <a href="https://twitter.com/opensourcetb"><i class="fa fa-twitter"></i></a>
 
@@ -61,44 +148,20 @@ as a selective inhibitor of non-replicating _M.tb_ (NR IC90 = 2.01 μM). This pr
 
 _Contributions to this project are welcomed._
 
-### Open Source Antibiotics <a href="https://twitter.com/OSantibiotics"><i class="fa fa-twitter"></i></a>
+  </div>
+</div>
 
-We have founded the [Open Source Antibiotics](https://github.com/opensourceantibiotics/GeneralTopics) (OSA) consortium which consists of researchers interested in open ways to discover and develop new, inexpensive medicines for bacterial infections. There are currently two series in the OSA consortium.
+<div id="accordion7">
+<h2>PLCζ1 and ABHD2</h2>
+  <div id="link" markdown="1">
 
-**[OSA Series 1](https://github.com/opensourceantibiotics/murligase)** - _Mur ligases_
-
-The focus is the discovery and development of new antibiotics, specifically inhibitors of the Mur ligase enzymes using a fragment based approach.
-
-<center><img src="./pics/research/OSA Series 1 Summary.png" width="90%"></center>
-
-**[OSA Series 2](https://github.com/opensourceantibiotics/Series-2-Diarylimidazoles)** - _Diarylimidazoles_
-
-The focus is the discovery and development of new antibiotics, specifically the optimisation of a series of molecules discovered at the University of North Carolina Chapel Hill.
-
-This series has been the focus of a number of 2020 [research meetings](https://www.youtube.com/playlist?list=PL0eLxnHhou_k1Upbn5X1mdHBwKMYkRpLH).
-
-<center><img src="./pics/research/OSA Series 2 Summary.png" width="90%"></center>
-
-### Open Source Mycetoma <a href="https://twitter.com/MycetOS"><i class="fa fa-twitter"></i></a>
+  </div>
+</div>
 
 
-### Open Source Pharma <a href="https://twitter.com/opensrcpharma"><i class="fa fa-twitter"></i></a>
 
-We've co-founded a broader open source pharma movement which has been defined by participants from across the public and private sectors, with early backing from Open Society Foundations, The Rockefeller Foundation and Tata Trusts. The idea is to promote more open forms of collaboration towards "Medicines for All". The underlying ideas were discussed at WHO in 2013 ([Is Open Source Drug Discovery Practical?](https://www.youtube.com/playlist?list=PLyNnVQbuVDGUoKnHcazuExFE5aCaTtn8V), [WHO News Item](https://www.who.int/tdr/news/2013/odd/en/)), and guiding principles were established at a [meeting](https://www.opensourcepharma.net/bellagio.html) in 2014 ([WHO News Item](https://www.who.int/tdr/news/2014/open-source-pharma-mtg/en/)) with further [conferences](https://www.opensourcepharma.net/conferences.html) in 2015 and 2019. The overall approach is described in a short [2017 "Roadmap" paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276) (with more details provided in the longer [supporting information](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276#sec006) document).
 
-(Associated Articles/Media: [2014 Canadian Radio interview "Can open-source pharma cure Ebola and other neglected killers?"](https://www.cbc.ca/player/play/2523952984).
-
-There are many and repeated calls for different ways to discover and develop medicines, in particular for better panedemic preparedness (e.g. [here](https://blogs.bmj.com/bmj/2021/04/01/preparing-for-the-next-pandemic-requires-public-health-focused-industrial-policy/))
-
-There are many other possible means of funding open models of drug discovery. One is [blockchain](https://medium.com/molecule-blog/an-open-bazaar-for-drug-development-molecule-protocol-a47978dd914). Another, that we're involved in, is the use of existing market instruments like regulatory data exclusivity - see our company [M4ID](https://www.m4idpharma.com/). One wonders whether some of [the methods for funding open source software](https://github.com/nayafia/lemonade-stand/blob/master/README.md) might be translatable to drug discovery.
-
-### Licences
-
-There is no adequate licence to cover entire open source drug discovery projects. Open Source Malaria and others use the CC-BY licence. [Data should abide by the FAIR principles](https://www.nature.com/articles/d41586-019-01720-7). [Linking those who generate data with the downstream use of that data](https://www.nature.com/articles/d41586-019-01715-4) (for credit) might be desirable.
-
-### Non-profit Pharmaceutical Synthesis
-
-[General article](https://nonprofitquarterly.org/the-new-nonprofit-pharmaceutical-world-whats-up-with-that/). [CivicaRx](https://civicarx.org/media/).
+<hr class="rule">
 
 <a name="synthetic_methodology"></a>
 # Synthetic Methodology
@@ -106,6 +169,12 @@ There is no adequate licence to cover entire open source drug discovery projects
 The group's motto is _To make the right molecule in the right place at the right time_. While nobody understands what this means it is crucial that we know how to make molecules. The group is mainly interested in developing methods for the construction of new bonds in small molecules, i.e. the development of ways of making bonds that cannot currently be made.
 
 New project in Late Stage Functionalisation. Relevant to this: [Late stage azidation](http://pubs.acs.org/doi/full/10.1021/acscentsci.6b00214), [catalyst-controlled site-selective bond activation](http://pubs.acs.org/doi/abs/10.1021/acs.accounts.6b00546).
+
+
+
+
+<hr class="rule">
+
 
 <a name="asymmetric_catalysis"></a>
 # Asymmetric Catalysis
@@ -115,6 +184,10 @@ One of the most value but difficult things an organic chemist can do is to selec
 Catalyst prediction: [2017 review](http://pubs.acs.org/doi/abs/10.1021/acs.accounts.6b00555), [Use of noncovalent interactions](http://pubs.acs.org/doi/abs/10.1021/acs.accounts.6b00613), [Computational catalyst design](http://pubs.acs.org/doi/abs/10.1021/acs.accounts.6b00606)
 
 Autocatalysis: [speculations on ways of symmetry-breaking in synthesis](http://onlinelibrary.wiley.com/doi/10.1002/chem.201404534/abstract)
+
+
+<hr class="rule">
+
 
 <a name="chemical_education"></a>
 # Chemical Education
@@ -126,6 +199,11 @@ We also like chemical animations. We like getting students involved with making 
 In response to the price hike of HIV/AIDS drug, pyrimethamine (Daraprim), by Turing Pharmaceuticals, we helped a small team of high school students from Sydney Grammar School to synthesise the drug. The team produced 3.7 grams of Daraprim for $US20, which would be worth between $US35,000 and $US110,000 in the United States based on hiked prices. This received significant media attention and was featured on ABC, BBC, CNN, The Guardian, and Time.
 
 [ALTC teaching project blog](http://altc.ourexperiment.org/blog_project)
+
+
+<hr class="rule">
+
+
 
 <a name="automated_synthesis_planning"></a>
 # Automated Synthesis Planning

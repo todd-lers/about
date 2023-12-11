@@ -42,9 +42,14 @@ There is no adequate licence to cover entire open source drug discovery projects
 ### Projects:
 
 <div id="accordion">
-<h2>Open Source Anti-Virus</h2>
+<h2>Open Source Antivirus</h2>
   <div id="link" markdown="1">
 
+  READDI-AViDD Pipeline is up to date [here](https://docs.google.com/spreadsheets/d/1V8cX5bVjVRNazExtO6E8YCDZtm8nlSFoL-nHTYfqbeE/edit#gid=0).
+
+  The Structural Genomics Consortium (SGC) is collaborating with the Rapidly Emerging Antiviral Drug Development Initiative (READDI) to identify orally-available small molecular drugs that can treat and prevent viral infections. The collaboration is funded by the National Institute of Health (NIH) through the [READDI-AViDD project](https://readdi.org/stories/readdi-receives-65m-grant-from-nih-to-establish-an-antiviral-drug-discovery-avidd-center/), specifically focused on viruses with potential for large global negative impact.
+
+  The collaboration is driven by identification and isolation of viral target proteins and establishing assays to conduct high-throughput screening of various commercial and non-commercial libraries. The aim is to identify hits that can act as starting points for further medicinal chemistry development, that can eventually lead to new drugs we can use to combat viral infections that have potential to spread widely globally. All generated data is available online and updated regularly.
 
   </div>
 </div>
@@ -154,6 +159,11 @@ _Contributions to this project are welcomed._
 <div id="accordion7">
 <h2>PLCζ1 and ABHD2</h2>
   <div id="link" markdown="1">
+
+  The wikis are [here](https://github.com/StructuralGenomicsConsortium/CNP5-PLCZ1/wiki) for PLCz1 and [here](https://github.com/StructuralGenomicsConsortium/CNP6-ABHD2/wiki) for ABHD2.
+
+  Contraceptives allow informed choices about family planning. Research into non-hormonal contraceptives is important due to concerns over the safety and side effects of current hormonal methods. Two protein targets being investigated by the SGC at UCL are phospholipase C zeta 1 (PLCζ1) and α/β Hydrolase Domain 2 (ABHD2). The aim of this research is to develop small molecule chemical probes for these targets.
+
 
   </div>
 </div>

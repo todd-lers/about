@@ -100,6 +100,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/rebecka-isaksson-74418618/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
        <a href="https://twitter.com/IsakssonRebecka"><i class="fa fa-twitter"></i></a>
+       <a href="https://github.com/RebeckaIsaksson"><i class="fa fa-github"></i></a>
       <a href="mailto:r.isaksson@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
     </div>
@@ -113,6 +114,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/hadia-almahli-09588656/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/HAlmahli"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/HadiaAmahli"><i class="fa fa-github"></i></a>
       <a href="mailto:h.almahli@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
     </div>
@@ -125,6 +127,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/昕-xin-邱-qiu-804a1314a/"><i class="fa fa-linkedin"></i></a>
+      <a href="https://github.com/qxsml"><i class="fa fa-github"></i></a>
       <a href="mailto:ucnvqiu@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
       </div>
       </div>
@@ -138,6 +141,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/guilherme-fernandes-40400a93/"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/guiiiifelipe"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/gfsfernandes"><i class="fa fa-github"></i></a>
       <a href="mailto:guilherme.fernandes@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
       </div>
       </div>
@@ -149,6 +153,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <p class="title">Postdoc (UCL) <br />2023-present</p>
     <p></p>
     <div style="margin: 15px 0;">
+      <a href="https://github.com/evansmainsah"><i class="fa fa-github"></i></a>
       <a href="mailto:e.ngandung@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
       </div>
       </div>

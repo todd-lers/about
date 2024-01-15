@@ -61,6 +61,23 @@ He has a significant interest in open science, and how it may be used to acceler
    </div>
  </div>
 
+<h2>Visiting Scientist</h2>
+
+<div class="row">
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Nicola.jpeg" class="myimg">
+    <h4>Dr Nicola Burgess-Brown</h4>
+    <p class="title">Visiting Scientist <br>2024-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/nicola-burgess-brown-6488487/"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:n.burgess-brown@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
+      </div>
+    </div>
+   </div>
+ </div>
+
 <h2>Postdoctoral Research Associates</h2>
 
 <div class="row">

@@ -5,6 +5,11 @@ layout: default
 [ORCID ID 0000-0001-7096-4751](https://orcid.org/0000-0001-7096-4751)  
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=a8lzGHEAAAAJ)
 
+### 2024
+
+1. Reaction Hijacking Inhibition of _Plasmodium falciparum_ Asparagine tRNA Synthetase, S. C. Xie, Y. Wang, C. J. Morton, R. D. Metcalfe, C. Dogovski, C. F. A. Pasaje, E. Dunn, M. R. Luth, K. Kumpornsin, E. S Istvan, J. S. Park, K. J. Fairhurst, N. Ketprasit, T. Yeo, O. Yildirim, M. N. Bhebhe, D. M. Klug, P. J. Rutledge, L. C. Godoy, S. Dey, M. L. De
+Souza, J. L. Siqueira-Neto, Y. Du, T. Puhalovich, M. Amini, G. Shami, D. Loesbanluechai, S. Nie, N. Williamson, G. P. Jana, B. C. Maity, P. Thomson, T. Foley, D. S. Tan, J. C. Niles, B. W. Han, D. E Goldberg, J. Burrows, D. A. Fidock, M. C. S. Lee, E. A. Winzeler, M. D. W. Griffin, M. H. Todd and L. Tilley, _Nature Comms_. **2024** _in press_.
+
 ### 2023
 
 1. [Open Source Antibiotics - Simple Diarylimidazoles are Potent Against Methicillin Resistant Staphylococcus Aureus](https://pubs.acs.org/doi/10.1021/acsinfecdis.3c00286), D. M. Klug, E. G. Tse, D. G. Silva, Y. Cao, S. A. Charman, J. Chauhan, E. Crighton, M. Dichiara, C. Drake, D. Drewry, F. da Silva Emery, L. Ferrins, L. Graves, E. Hopkins, T. A. C. Kresina, Á. Lorente-Macías, B. Perry, R. Phipps, B. Quiroga, A. Quotadamo, G. Sabatino, A. Sama, A. Schätzlein, Q. J. Simpson, J. Steele, J. Shanu-Wilson, P. Sjö, P. Stapleton, C. Swain, A. Vaideanu, H. Xie, W. Zuercher, M. H. Todd, _ACS Infect. Dis._ **2023**, _in press_. DOI: 10.1021/acsinfecdis.3c00286. 

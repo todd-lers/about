@@ -50,7 +50,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="column">
   <div class="card">
     <img src="./pics/people/.jpg" class="myimg">
-    <h4>Ben Rowsell</h4>
+    <h4>Dr Ben Rowsell</h4>
     <p class="title">Lab Manager (UCL) <br>2023-present</p>
     <p></p>
     <div style="margin: 15px 0;">
@@ -311,7 +311,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/people/.jpg" class="myimg">
+    <img src="./pics/people/K.Lister_photo.jpg" class="myimg">
     <h4>Katie Lister</h4>
     <p class="title">Research Assistant in Protein Science <br>2023-present</p>
     <p></p>

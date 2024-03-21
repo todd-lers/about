@@ -78,6 +78,23 @@ He has a significant interest in open science, and how it may be used to acceler
    </div>
  </div>
 
+<h2>Project Manager</h2>
+
+<div class="row">
+<div class="column">
+  <div class="card">
+    <img src="" class="myimg">
+    <h4>Dr Rahman Saleem </h4>
+    <p class="title">READDI-AViDD Project Manager <br>2024-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/rahman-shah-zaib-saleem-b0984734/?originalSubdomain=pk"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:r.saleem@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
+      </div>
+    </div>
+   </div>
+ </div>
+ 
 <h2>Postdoctoral Research Associates</h2>
 
 <div class="row">
@@ -289,6 +306,22 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
 </div>
 
+<h2>Research Assistant</h2>
+
+<div class="row">
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/.jpg" class="myimg">
+    <h4>Katie Lister</h4>
+    <p class="title">Research Assistant in Protein Science <br>2023-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/katieplister/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:k.lister@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+     </div>
+   </div>
+  </div>
+</div>
 
 <h2>MRes Students</h2>
 

@@ -83,7 +83,7 @@ He has a significant interest in open science, and how it may be used to acceler
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="" class="myimg">
+    <img src="./pics/people/RSaleem.jpg" class="myimg">
     <h4>Dr Rahman Saleem </h4>
     <p class="title">READDI-AViDD Project Manager <br>2024-present</p>
     <p></p>

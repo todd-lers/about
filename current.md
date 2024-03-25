@@ -127,7 +127,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Rebecka Isaksson2.jpg" class="myimg" />
+    <img src="./pics/people/Rebecka_Isaksson2.jpg" class="myimg" />
     <h4>Dr Rebecka Isaksson</h4>
     <p class="title">Postdoc (UCL) <br />2023-present</p>
     <p></p>

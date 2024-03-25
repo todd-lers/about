@@ -127,7 +127,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Rebecka Isaksson.jpg" class="myimg" />
+    <img src="./pics/people/Rebecka Isaksson2.jpg" class="myimg" />
     <h4>Dr Rebecka Isaksson</h4>
     <p class="title">Postdoc (UCL) <br />2023-present</p>
     <p></p>
@@ -168,7 +168,7 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Gui.png" class="myimg" />
+    <img src="./pics/people/Gui2.png" class="myimg" />
     <h4>Dr Guilherme Fernandes</h4>
     <p class="title">Postdoc (UCL) <br />2023-present</p>
     <p></p>
@@ -194,7 +194,7 @@ He has a significant interest in open science, and how it may be used to acceler
   </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Jelena.jpeg" class="myimg" />
+    <img src="./pics/people/Jelena2.jpeg" class="myimg" />
     <h4>Dr Jelena (Habjanič) Thies</h4>
     <p class="title">Postdoc (UCL) <br />2023-present</p>
     <p></p>
@@ -226,7 +226,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Yuhang_Wang2.jpg" class="myimg">
+    <img src="./pics/people/Yuhang_Wang3.jpg" class="myimg">
     <h4>Yuhang Wang</h4>
     <p class="title">PhD Student (UCL) <br>2019-present</p>
     <p></p>
@@ -280,7 +280,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
   <div class="column">
   <div class="card">
-    <img src="./pics/people/Mohsen_Alamoudi.jpg" class="myimg">
+    <img src="./pics/people/Mohsen_Alamoudi2.jpg" class="myimg">
     <h4>Mohsen Alamoudi</h4>
     <p class="title">PhD Student (UCL) <br>2023-present</p>
     <p></p>

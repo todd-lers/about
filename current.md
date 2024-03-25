@@ -54,7 +54,7 @@ He has a significant interest in open science, and how it may be used to acceler
     <p class="title">Lab Manager (UCL) <br>2023-present</p>
     <p></p>
     <div style="margin: 15px 0;">
-      <a href=""><i class="fa fa-linkedin"></i></a>
+      <a href="https://uk.linkedin.com/in/ben-rowsell"><i class="fa fa-linkedin"></i></a>
       <a href="mailto:b.rowsell@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
       </div>
     </div>

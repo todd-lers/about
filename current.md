@@ -78,14 +78,14 @@ He has a significant interest in open science, and how it may be used to acceler
    </div>
  </div>
 
-<h2>Project Manager</h2>
+<h2>Project Coordinator</h2>
 
 <div class="row">
 <div class="column">
   <div class="card">
     <img src="./pics/people/RSaleem.jpg" class="myimg">
     <h4>Dr Rahman Saleem </h4>
-    <p class="title">READDI-AViDD Project Manager <br>2024-present</p>
+    <p class="title">READDI-AViDD Project Coordinator <br>2024-present</p>
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/rahman-shah-zaib-saleem-b0984734/?originalSubdomain=pk"><i class="fa fa-linkedin"></i></a>

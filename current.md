@@ -325,18 +325,3 @@ He has a significant interest in open science, and how it may be used to acceler
 
 <h2>MRes Students</h2>
 
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Margo Valentine.jpg" class="myimg">
-    <h4>Margo Valentine</h4>
-    <p class="title">MRes Student (UCL) <br>2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/margarita-valentine-765903235/"><i class="fa fa-linkedin"></i></a>
-      <a href=""><i class="fa fa-github"></i></a>
-      <a href="mailto:mailto:margarita.valentine.23@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-     </div>
-   </div>
-  </div>
-</div>

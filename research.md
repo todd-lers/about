@@ -98,7 +98,7 @@ OSM-S-106, a thienopyrimidine-based sulfonamide in OSM3 series, has shown promis
 Based on the paper mentioned above, we naturally became curious about the activity of other amino acid derivatives of the molecule. It's likely that Yinuo's PhD will focus on synthesizing a complete set of such adducts to share with the community. The most recent proline adduct (MMV2240865) has shown promising results, with an activity of 3 nM against the 3D7 strain. 
 You can find the details here: (https://github.com/OpenSourceMalaria/Series3/issues/35).
 
-<center><img src="./pics/research/OSM3 intro1.jpeg" width="90%"></center>
+<center><img src="./pics/research/OSM3 intro1.jpeg"></center>
 
 (A brief note on the Pied Piper role. Open source projects benefit from a coordinator, to guide, assimilate, reach out. This is often referred to as a [Pied Piper](https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin) role, but a _much_ better analogy is the [James Murray](https://en.wikipedia.org/wiki/James_Murray_(lexicographer)) role.)
 

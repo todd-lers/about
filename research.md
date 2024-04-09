@@ -91,14 +91,14 @@ Malaria is a debilitating disease with more than 230 million infections and half
 
 Mat founded the **Open Source Malaria (OSM) Consortium** ([Github](https://github.com/OpenSourceMalaria), [Landing Page](http://opensourcemalaria.org/#))
 
-<center><img src="./pics/research/OSM molecules.png" width="90%"></center>
+<center><img src="./pics/research/OSM molecules.png" width="110%"></center>
 
 OSM-S-106, a thienopyrimidine-based sulfonamide in OSM3 series, has shown promise due to its potency, solubility, low toxicity, and low molecular weight. Our recent studies have demonstrated that OSM-S-106 targets Plasmodium falciparum asparagine tRNA synthetase (PfAsnRS) through a “reaction hijacking” mechanism in which the molecule reacts with the tRNA-amino acid adduct to create a new asparagine adduct of OSM-S-106 (https://www.nature.com/articles/s41467-024-45224-z). We are now modifying OSM-S-106 by altering a single atom to see how this change in geometry affects its potency. The current issue has been published here: (https://github.com/OpenSourceMalaria/Series3/issues/36).
 
 Based on the paper mentioned above, we naturally became curious about the activity of other amino acid derivatives of the molecule. It's likely that Yinuo's PhD will focus on synthesizing a complete set of such adducts to share with the community. The most recent proline adduct (MMV2240865) has shown promising results, with an activity of 3 nM against the 3D7 strain. 
 You can find the details here: (https://github.com/OpenSourceMalaria/Series3/issues/35).
 
-<center><img src="./pics/research/OSM3 intro1.jpeg"></center>
+<center><img src="./pics/research/OSM3 intro1.jpeg" width="90%"></center>
 
 (A brief note on the Pied Piper role. Open source projects benefit from a coordinator, to guide, assimilate, reach out. This is often referred to as a [Pied Piper](https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin) role, but a _much_ better analogy is the [James Murray](https://en.wikipedia.org/wiki/James_Murray_(lexicographer)) role.)
 

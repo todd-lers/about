@@ -7,8 +7,8 @@ layout: default
 
 ### 2024
 
-1. Reaction Hijacking Inhibition of _Plasmodium falciparum_ Asparagine tRNA Synthetase, S. C. Xie, Y. Wang, C. J. Morton, R. D. Metcalfe, C. Dogovski, C. F. A. Pasaje, E. Dunn, M. R. Luth, K. Kumpornsin, E. S Istvan, J. S. Park, K. J. Fairhurst, N. Ketprasit, T. Yeo, O. Yildirim, M. N. Bhebhe, D. M. Klug, P. J. Rutledge, L. C. Godoy, S. Dey, M. L. De
-Souza, J. L. Siqueira-Neto, Y. Du, T. Puhalovich, M. Amini, G. Shami, D. Loesbanluechai, S. Nie, N. Williamson, G. P. Jana, B. C. Maity, P. Thomson, T. Foley, D. S. Tan, J. C. Niles, B. W. Han, D. E Goldberg, J. Burrows, D. A. Fidock, M. C. S. Lee, E. A. Winzeler, M. D. W. Griffin, M. H. Todd and L. Tilley, _Nature Comms_. **2024** _in press_.
+1. [Reaction Hijacking Inhibition of _Plasmodium falciparum_ Asparagine tRNA Synthetase] (https://www.nature.com/articles/s41467-024-45224-z), S. C. Xie, Y. Wang, C. J. Morton, R. D. Metcalfe, C. Dogovski, C. F. A. Pasaje, E. Dunn, M. R. Luth, K. Kumpornsin, E. S Istvan, J. S. Park, K. J. Fairhurst, N. Ketprasit, T. Yeo, O. Yildirim, M. N. Bhebhe, D. M. Klug, P. J. Rutledge, L. C. Godoy, S. Dey, M. L. De
+Souza, J. L. Siqueira-Neto, Y. Du, T. Puhalovich, M. Amini, G. Shami, D. Loesbanluechai, S. Nie, N. Williamson, G. P. Jana, B. C. Maity, P. Thomson, T. Foley, D. S. Tan, J. C. Niles, B. W. Han, D. E Goldberg, J. Burrows, D. A. Fidock, M. C. S. Lee, E. A. Winzeler, M. D. W. Griffin, M. H. Todd and L. Tilley, _Nature Comms_. **2024** _in press_. DOI: 10.1038/s41467-024-45224-z
 
 ### 2023
 

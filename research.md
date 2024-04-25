@@ -61,7 +61,7 @@ There is no adequate licence to cover entire open source drug discovery projects
 
 ### Open Source Antibiotics <a href="https://twitter.com/OSantibiotics"><i class="fa fa-twitter"></i></a>
 
-We have founded the [Open Source Antibiotics](https://github.com/opensourceantibiotics/GeneralTopics) (OSA) consortium which consists of researchers interested in open ways to discover and develop new, inexpensive medicines for bacterial infections. There are currently two series in the OSA consortium.
+We founded the [Open Source Antibiotics](https://github.com/opensourceantibiotics/GeneralTopics) (OSA) consortium to apply our open source way of working to the discovery of new, inexpensive medicines for bacterial infections. There are currently two series in the OSA consortium.
 
 **[OSA Series 1](https://github.com/opensourceantibiotics/murligase)** - _Mur ligases_
 
@@ -71,12 +71,11 @@ The focus is the discovery and development of new antibiotics, specifically inhi
 
 **[OSA Series 2](https://github.com/opensourceantibiotics/Series-2-Diarylimidazoles)** - _Diarylimidazoles_
 
-The focus is the discovery and development of new antibiotics, specifically the optimisation of a series of molecules discovered at the University of North Carolina Chapel Hill.
-
-This series has been the focus of a number of 2020 [research meetings](https://www.youtube.com/playlist?list=PL0eLxnHhou_k1Upbn5X1mdHBwKMYkRpLH).
+This project involved the optimisation of a series of molecules discovered at the University of North Carolina Chapel Hill and has been [published](https://pubs.acs.org/doi/10.1021/acsinfecdis.3c00286). The molecules are easy to make and show promise against MRSA. We worked completely openly (for example, recording our [research meetings](https://www.youtube.com/playlist?list=PL0eLxnHhou_k1Upbn5X1mdHBwKMYkRpLH). The core funding, arising from a grant from Pharmalliance, successfully elicited contributions from talented external groups, including the private sector - Hypha drug discovery. Sharing of molecules with other groups ensured we could extract additional value from them in [other projects](https://pubs.acs.org/doi/10.1021/acsinfecdis.3c00040).
 
 <center><img src="./pics/research/OSA Series 2 Summary.png" width="90%"></center>
 
+If you have a series you'd like to explore in this way - perhaps something you've paused, or something you'd like to get off the ground - get in touch.
 
   </div>
 </div>

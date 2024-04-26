@@ -73,7 +73,7 @@ The focus is the discovery and development of new antibiotics, specifically inhi
 
 This project involved the optimisation of a series of molecules discovered at the University of North Carolina Chapel Hill and has been [published](https://pubs.acs.org/doi/10.1021/acsinfecdis.3c00286). The molecules are easy to make and show promise against MRSA. We worked completely openly (for example, recording our [research meetings](https://www.youtube.com/playlist?list=PL0eLxnHhou_k1Upbn5X1mdHBwKMYkRpLH). The core funding, arising from a grant from Pharmalliance, successfully elicited contributions from talented external groups, including the private sector - Hypha drug discovery. Sharing of molecules with other groups ensured we could extract additional value from them in [other projects](https://pubs.acs.org/doi/10.1021/acsinfecdis.3c00040).
 
-<center><img src="./pics/research/OSA Series 2 Summary.png" width="90%"></center>
+<center><img src="./pics/research/OSA2_graphical_abstract.jpg" width="90%"></center>
 
 If you have a series you'd like to explore in this way - perhaps something you've paused, or something you'd like to get off the ground - get in touch.
 

@@ -2,6 +2,9 @@
 layout: default
 ---
 
+**May 28th 2024** Today we said farewell to BVGH Fellow Evans Mainsah, and look forward to visiting him in his home town of Buea, Cameroon, where he is seeking new medicines for the treatment of river blindness (onchocerciasis).
+
+
 **Oct 26th 2023** An Open Science Award. The [MycetOS](https://github.com/OpenSourceMycetoma) drug discovery project, founded by Mat, was awarded the [Open Research prize by the Erasmus University of Rotterdam](https://www.eur.nl/en/news/winners-announced-eur-open-and-responsible-science-awards). The project uses open-source research methods to find new potential treatments for the neglected tropical disease, mycetoma, without secrecy or patents. Contributors to the project include Mat's PhD student Dmitrij Melechov, staff at Erasmus University and the Drugs for Neglected Diseases initiative and many others, such as the UK school children who have made new candidate molecules and, most recently, a cohort of our very own MSc Drug Discovery students in the School of Pharmacy in 2023.
 
 **June 7th 2022** Mat contributed to a report on open data sharing practices during the COVID pandemic, that was [published today](https://zenodo.org/record/6620854#.YtknTZDMI-Q) by Wellcome, UKRI and the Bill and Melinda Gates Foundation.

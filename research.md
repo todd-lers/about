@@ -69,6 +69,15 @@ The focus is the discovery and development of new antibiotics, specifically inhi
 
 <center><img src="./pics/research/OSA Series 1 Summary.png" width="90%"></center>
 
+
+OSA Series 1 project focused on structural modifications of a potent MurC inhibitor AZ5595, [developed by AstraZeneca through a lead modification campaign](https://pubs.acs.org/doi/10.1021/cb500360c). Despite having single digit nanomolar activities against Eco and Pae MurC, it suffered from permeability issues and bacterial efflux mechanisms, and thereby failed to translate such potency to antibacterial activity against wild-types.
+
+Initially, we brought in the eNRTy rules from [Hergenrother’s](https://www.nature.com/articles/nature22308) [team](https://pubs.acs.org/doi/full/10.1021/acsinfecdis.0c00715): replacing the alcohol group in AZ5595 (and other potent derivatives) with amine, guanidinium or pyridinium groups as well as introducing strengthened rigidity (less rotational bonds) in pursuit of a better accumulation in bacteria.
+
+Considering Mur ligases share a highly conserved active site across enzyme types and bacterial species, further multi-targeting modifications (bioisostere replacement, ligand growing, and scaffold hopping) were implemented in hope of obtaining better binding interactions (especially targeting the active site helix which originally binds the ADP phosphate group) and improved binding pocket compatibility (reduce the potential steric clashes with Mur ligase C-terminus). [Learn more here](https://onlinelibrary.wiley.com/doi/full/10.1111/mmi.12758).
+
+<center><img src="./pics/research/open_source_antibiotics_series_1_mur_ligases.jpeg" width="90%"></center>
+
 **[OSA Series 2](https://github.com/opensourceantibiotics/Series-2-Diarylimidazoles)** - _Diarylimidazoles_
 
 This project involved the optimisation of a series of molecules discovered at the University of North Carolina Chapel Hill and has been [published](https://pubs.acs.org/doi/10.1021/acsinfecdis.3c00286). The molecules are easy to make and show promise against MRSA. We worked completely openly (for example, recording our [research meetings](https://www.youtube.com/playlist?list=PL0eLxnHhou_k1Upbn5X1mdHBwKMYkRpLH). The core funding, arising from a grant from Pharmalliance, successfully elicited contributions from talented external groups, including the private sector - Hypha drug discovery. Sharing of molecules with other groups ensured we could extract additional value from them in [other projects](https://pubs.acs.org/doi/10.1021/acsinfecdis.3c00040).

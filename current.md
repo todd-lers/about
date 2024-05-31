@@ -180,7 +180,6 @@ His lab motto is _To make the right molecule in the right place at the right tim
       </div>
       </div>
   </div>
-  </div>
 <div class="column">
   <div class="card">
     <img src="./pics/people/wenjie.jpg" class="myimg" />
@@ -201,12 +200,10 @@ His lab motto is _To make the right molecule in the right place at the right tim
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/jelenathies/"><i class="fa fa-linkedin"></i></a>
       <a href="mailto:j.habjanic@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-     </div>
-   </div>
+      </div>
+    </div>
   </div>
 </div>
-
-
 
 <h2>PhD Students</h2>
 

@@ -9,7 +9,8 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
-|**Dr Evans Mainsah Ngandung** <br/><img src="./pics/people/Evan1.png" class="myimga"> <br/>|Postdoctoral Research Associate (UCL Pharmacy)|2023-2024|University of Buea|
+|**Dr Evans Mainsah Ngandung** <br/><img src="./pics/people/Evan1.png" class="myimga"> <br/>|Postdoctoral Research Associate (UCL Pharmacy)|2023-2024|Department of Chemistry and ANDI Centre of Excellence for Onchocerciasis Drug Research,
+University of Buea|
 |**Yewon Oh** <br/>|MPharm Student (UCL)|2022-2023|
 |**Ju Hyeong Kim (Andy)** <br/>|MPharm Student (UCL)|2022-2023|
 |**Zhaohang Feng** <br/><img src="./pics/people/Zhaohang Feng.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/yiwei-wang-65aab6251"><i class="fa fa-linkedin"></i></a>|MRes Student (UCL Pharmacy)|2022-2023|

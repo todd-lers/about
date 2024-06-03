@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**June 3rd 2024** Yinuo has been awarded a grant from the UCL FLS Conference Fund to present her research at the XXVIII EFMC International Symposium on Medicinal Chemistry in September.
+**June 3rd 2024** Yinuo has been awarded from the UCL FLS Conference Fund to present her research at the XXVIII EFMC International Symposium on Medicinal Chemistry in September.
 
 **May 21st 2024** Today we said farewell to BVGH Fellow Evans Mainsah, and look forward to visiting him in his home town of Buea, Cameroon, where he is seeking new medicines for the treatment of river blindness (onchocerciasis).
 <center><img src="./pics/people/goodbye_evans.png" width="90%"></center>

@@ -9,6 +9,7 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Wellington Da Silva** <br/><img src="./pics/people/Wellington_TheToddGroup.jpg" class="myimga"> <br/>|Visiting Researcher (UCL Pharmacy)|2023-2024|PhD Student, University of Campinas|
 |**Dr Evans Mainsah Ngandung** <br/><img src="./pics/people/Evan1.png" class="myimga"> <br/>|Postdoctoral Research Associate (UCL Pharmacy)|2023-2024|Department of Chemistry and ANDI Centre of Excellence for Onchocerciasis Drug Research, University of Buea|
 |**Yewon Oh** <br/>|MPharm Student (UCL)|2022-2023|
 |**Ju Hyeong Kim (Andy)** <br/>|MPharm Student (UCL)|2022-2023|

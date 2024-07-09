@@ -287,18 +287,6 @@ His lab motto is _To make the right molecule in the right place at the right tim
     </div>
   </div>
 </div>
-  <div class="column">
-  <div class="card">
-    <img src="./pics/people/Wellington_TheToddGroup.jpg"  class="myimg">
-    <h4>Wellington da Silva</h4>
-    <p class="title">PhD Student (University of Campinas) <br>2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/wellingtondasilva1804/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://github.com/wellingtondasilva1804"><i class="fa fa-github"></i></a>
-      <a href="mailto:wellington.silva@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-    </div>
   </div>
 </div>
 

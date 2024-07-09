@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+**July 8th 2024** In line with our strong commitment to sustainability, we are pleased to announce that we have received the LEAF Bronze Award. Learn more about the UCL LEAF programme [here](https://www.ucl.ac.uk/sustainable/take-action/staff-action/leaf-laboratory-efficiency-assessment-framework).
+
 **June 3rd 2024** Yinuo has been awarded from the UCL FLS Conference Fund to present her research at the XXVIII EFMC International Symposium on Medicinal Chemistry in September.
 
 **May 21st 2024** Today we said farewell to BVGH Fellow Evans Mainsah, and look forward to visiting him in his home town of Buea, Cameroon, where he is seeking new medicines for the treatment of river blindness (onchocerciasis).

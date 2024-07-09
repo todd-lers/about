@@ -3,7 +3,7 @@ layout: default
 ---
 **July 8th 2024** In line with our strong commitment to sustainability, we are pleased to announce that we have received the LEAF Bronze Award. Learn more about the UCL LEAF programme [here](https://www.ucl.ac.uk/sustainable/take-action/staff-action/leaf-laboratory-efficiency-assessment-framework).
 
-**July 6th 2024** Yinuo had a fantastic time at the ULLA  Summer School 2024 in Leiden University  — Shaping the Future of Drug Research: From Design to Therapy! It was an amazing week of scientific courses and a great opportunity to network with a diverse range of PhD students from 10 different universities.
+**July 6th 2024** Yinuo had a fantastic time at the ULLA  Summer School 2024 in Leiden University  — Shaping the Future of Drug Research: From Design to Therapy! It was an amazing week of talks and a great opportunity to network with a diverse range of PhD students from 10 different universities.
 <center><img src="./pics/Yinuo_ULLA.jpg" width="90%"></center>
 
 **June 28th 2024** We say farewell to our visitor from the University of Sao Paulo, Wellington Da Silva, who has been working on marinoquinolines as part of Open Source Malaria. Wellington is going back to ace his PhD and hopefully we'll see him again.

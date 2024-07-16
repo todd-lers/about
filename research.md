@@ -175,13 +175,20 @@ _Contributions to this project are welcomed._
 </div>
 
 <div id="accordion7">
-<h2>PLCζ1 and ABHD2</h2>
+<h2>Non-hormonal Contraceptives</h2>
   <div id="link" markdown="1">
 
-  The wikis are [here](https://github.com/StructuralGenomicsConsortium/CNP5-PLCZ1/wiki) for PLCz1 and [here](https://github.com/StructuralGenomicsConsortium/CNP6-ABHD2/wiki) for ABHD2.
+The Structural Genomics Consortium (SGC) has been funded by the Bill & Melinda Gates Foundation to generate protein reagents and chemical probes for several potential drug targets for new, safe and effective non-hormonal contraceptives. Contraceptives allow informed choices about family planning. Research into non-hormonal contraceptives is important due to concerns over the safety and side effects of current hormonal methods.
+ 
+Two promising protein targets we are working on are phospholipase C zeta 1 (PLCζ1) and α/β hydrolase domain 2 (ABHD2). For both targets, we have successfully expressed and purified functional protein and developed a biochemical screening assay to identify inhibitors of activity.
+ 
+For PLCζ1, we are planning several screens including a DEL (DNA-encoded library) screen and ASMS (affinity selection mass spectrometry) screen, from which we hope to identify chemical probes.
+ 
+We have developed small molecule inhibitors of ABHD2 and are using these to investigate the mechanism of this protein.
 
-  Contraceptives allow informed choices about family planning. Research into non-hormonal contraceptives is important due to concerns over the safety and side effects of current hormonal methods. Two protein targets being investigated by the SGC at UCL are phospholipase C zeta 1 (PLCζ1) and α/β Hydrolase Domain 2 (ABHD2). The aim of this research is to develop small molecule chemical probes for these targets.
+The wikis are [here](https://github.com/StructuralGenomicsConsortium/CNP5-PLCZ1/wiki) for PLCz1 and [here](https://github.com/StructuralGenomicsConsortium/CNP6-ABHD2/wiki) for ABHD2.
 
+<center><img src="./pics/Non-hormonal_Contraceptives.png" width="90%"></center>
 
   </div>
 </div>

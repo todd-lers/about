@@ -45,11 +45,13 @@ There is no adequate licence to cover entire open source drug discovery projects
 <h2>Open Source Antivirus</h2>
   <div id="link" markdown="1">
 
-  READDI-AViDD Pipeline is up to date [here](https://docs.google.com/spreadsheets/d/1V8cX5bVjVRNazExtO6E8YCDZtm8nlSFoL-nHTYfqbeE/edit#gid=0).
+With an aim to identify orally available small organic molecule-based drugs for the treatment and prevention of viral infection, the Todd group/The Structural Genomics Consortium (SGC)@UCL is collaborating with the Rapidly Emerging Antiviral Drug Development Initiative (READDI). The collaboration is funded by the National Institute of Health (NIH) through the [READDI-AViDD project](https://readdi.org/stories/readdi-receives-65m-grant-from-nih-to-establish-an-antiviral-drug-discovery-avidd-center/), specifically focused on viruses with potential for large global negative impact.
 
-  The Structural Genomics Consortium (SGC) is collaborating with the Rapidly Emerging Antiviral Drug Development Initiative (READDI) to identify orally-available small molecular drugs that can treat and prevent viral infections. The collaboration is funded by the National Institute of Health (NIH) through the [READDI-AViDD project](https://readdi.org/stories/readdi-receives-65m-grant-from-nih-to-establish-an-antiviral-drug-discovery-avidd-center/), specifically focused on viruses with potential for large global negative impact.
+The collaboration is driven by identification and isolation of viral target proteins, establishing assays and high-throughput screening of various commercial, non-commercial and in-house libraries. We are leading the MedChem optimization campaigns with current focus on targeting viruses including SARS-Cov2, Dengue, Chikv. The aim is to identify hits that can act as starting points for further medicinal chemistry development, that can eventually lead to new drugs to combat viral infections of potential to spread widely and globally.
 
-  The collaboration is driven by identification and isolation of viral target proteins and establishing assays to conduct high-throughput screening of various commercial and non-commercial libraries. The aim is to identify hits that can act as starting points for further medicinal chemistry development, that can eventually lead to new drugs we can use to combat viral infections that have potential to spread widely globally. All generated data is available online and updated regularly.
+As with our other Open Science Projects, all generated data is available online and updated regularly. The [READDI-AViDD Pipeline](https://docs.google.com/spreadsheets/d/1TanvenS56FovmyT8BoxloH2iHP4jjVcusho2F5nwDeU/edit?gid=117188155#gid=117188155) provides the current status of various projects and links to repositories of individual projects.
+
+<center><img src="./pics/research/open_source_antivirus_graphic.png" width="90%"></center>  
 
   </div>
 </div>

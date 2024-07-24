@@ -2,7 +2,7 @@
 layout: default
 ---
 **July 24th 2024** As part of his project, Mohsen has been spending time with the SGC in Toronto. Here he is running an SPR using Biacore T200 to see if his compounds have a binder against a plasmodium WDR.
-<left><img src="./pics/Mohsen_SGC_news.jpg" width="58%"></left><right><img src="./pics/Mohsen_SPR_cropped.jpg" width="39%"></right>
+<left><img src="./pics/Mohsen_SGC_news.jpg" width="57%"></left><right><img src="./pics/Mohsen_SPR_cropped.jpg" width="38%"></right>
 
 **July 8th 2024** In line with our strong commitment to sustainability, we are pleased to announce that we have received the LEAF Bronze Award. Learn more about the UCL LEAF programme [here](https://www.ucl.ac.uk/sustainable/take-action/staff-action/leaf-laboratory-efficiency-assessment-framework).
 

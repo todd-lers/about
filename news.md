@@ -9,7 +9,7 @@ layout: default
 **July 6th 2024** Yinuo had a fantastic time at the ULLA  Summer School 2024 in Leiden University  — Shaping the Future of Drug Research: From Design to Therapy! It was an amazing week of talks and a great opportunity to network with a diverse range of PhD students from 10 different universities.
 <center><img src="./news items supporting info/Yinuo_ULLA2.png" width="90%"></center>
 
-**June 28th 2024** We say farewell to our visitor from the University of Sao Paulo, Wellington Da Silva, who has been working on marinoquinolines as part of Open Source Malaria. Wellington is going back to ace his PhD and hopefully we'll see him again.
+**June 28th 2024** We say farewell to our visitor from the State University of Campinas, Wellington Da Silva, who has been working on marinoquinolines as part of Open Source Malaria. Wellington is going back to ace his PhD in Brazil and hopefully we'll see him again.
 <center><img src="./news items supporting info/Goodbye_Wellington2.jpg" width="90%"></center>
 
 **June 3rd 2024** Yinuo has been awarded from the UCL FLS Conference Fund to present her research at the XXVIII EFMC International Symposium on Medicinal Chemistry in September.

@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+**July 24th 2024** As part of his project, Mohsen has been spending time with the SGC in Toronto. Here he is running an SPR using Biacore T200 to see if his compounds have a binder against a plasmodium WDR.
+<center><img src="./pics/Mohsen_SGC_news.jpg" width="50%"></center> <center><img src="./pics/Mohsen_SPR.jpg" width="50%"></center>
+
 **July 8th 2024** In line with our strong commitment to sustainability, we are pleased to announce that we have received the LEAF Bronze Award. Learn more about the UCL LEAF programme [here](https://www.ucl.ac.uk/sustainable/take-action/staff-action/leaf-laboratory-efficiency-assessment-framework).
 
 **July 6th 2024** Yinuo had a fantastic time at the ULLA  Summer School 2024 in Leiden University  — Shaping the Future of Drug Research: From Design to Therapy! It was an amazing week of talks and a great opportunity to network with a diverse range of PhD students from 10 different universities.

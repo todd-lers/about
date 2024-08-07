@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+**July 31st 2024** Wellington's supervisor from Unicamp, Brazil, Prof Carlos Roque Duarte Correia, dropped by to say hello and see the lab.
+<center><img src="./news items supporting info/Prof Carlos Roque Duarte Correia.jpg" width="60%"></center>
+
 **July 24th 2024** As part of his project, Mohsen has been spending time with the SGC in Toronto. Here he is running an SPR using Biacore T200 to see if his compounds have a binder against a plasmodium WDR.
 <center><img src="./news items supporting info/Mohsen_SGC.png" width="90%"></center>
 

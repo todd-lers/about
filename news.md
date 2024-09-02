@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**Sept 2nd 2024** Mat features in a [Chemistry World article](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article) about chemistry and the future of open science.
+**Sept 2nd 2024** Mat features in a [Chemistry World article](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article) entitled "Will Open Science Change Chemistry?".
 
 **July 31st 2024** Wellington's supervisor from Unicamp, Brazil, Prof Carlos Roque Duarte Correia, dropped by to say hello and see the lab.
 <center><img src="./news items supporting info/Prof Carlos Roque Duarte Correia.jpg" width="40%"></center>

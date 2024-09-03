@@ -7,7 +7,7 @@ layout: default
 <center><img src="./news items supporting info/Hadia 2nd annual conference-GP2A 2024.jpg" width="40%"></center>
 
 **August 20th 2024** Hadia presented her research at the PDRA Symposium at UCL Chemistry.
-<center><img src="./news items supporting info/Hadia PDRA Symposium at UCL Chemistry.jpg" width="40%"></center>
+<center><img src="./news items supporting info/Hadia PDRA Symposium at UCL Chemistry.jpg" width="90%"></center>
 
 **July 31st 2024** Wellington's supervisor from Unicamp, Brazil, Prof Carlos Roque Duarte Correia, dropped by to say hello and see the lab.
 <center><img src="./news items supporting info/Prof Carlos Roque Duarte Correia.jpg" width="40%"></center>

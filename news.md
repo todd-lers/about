@@ -24,12 +24,12 @@ layout: default
 <center><img src="./news items supporting info/Yinuo_ULLA2.png" width="90%"></center>
 
 **June 28th 2024** We say farewell to our visitor from the State University of Campinas, Wellington Da Silva, who has been working on marinoquinolines as part of Open Source Malaria. Wellington is going back to ace his PhD in Brazil and hopefully we'll see him again.
-<center><img src="./news items supporting info/Goodbye_Wellington2.jpg" width="90%"></center>
+<center><img src="./news items supporting info/Goodbye_Wellington2.jpg" width="75%"></center>
 
 **June 3rd 2024** Yinuo has been awarded from the UCL FLS Conference Fund to present her research at the XXVIII EFMC International Symposium on Medicinal Chemistry in September.
 
 **May 21st 2024** Today we said farewell to BVGH Fellow Evans Mainsah, and look forward to visiting him in his home town of Buea, Cameroon, where he is seeking new medicines for the treatment of river blindness (onchocerciasis).
-<center><img src="./pics/people/goodbye_evans.png" width="90%"></center>
+<center><img src="./pics/people/goodbye_evans.png" width="75%"></center>
 
 **Oct 26th 2023** An Open Science Award. The [MycetOS](https://github.com/OpenSourceMycetoma) drug discovery project, founded by Mat, was awarded the [Open Research prize by the Erasmus University of Rotterdam](https://www.eur.nl/en/news/winners-announced-eur-open-and-responsible-science-awards). The project uses open-source research methods to find new potential treatments for the neglected tropical disease, mycetoma, without secrecy or patents. Contributors to the project include Mat's PhD student Dmitrij Melechov, staff at Erasmus University and the Drugs for Neglected Diseases initiative and many others, such as the UK school children who have made new candidate molecules and, most recently, a cohort of our very own MSc Drug Discovery students in the School of Pharmacy in 2023.
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 **Sept 11th 2024** Congratulations to the group's cohort of MSc Drug Discovery and Pharma Management students (Xin, Annabella, Ulfa, Ryan, Natnaree and Marc) on their successful presentations and the end of their course! Good luck to them with whatever is next!
-<center><img src="./news items supporting info/MSc Drug Discovery.jpeg" width="40%"></center>
+<center><img src="./news items supporting info/MSc Drug Discovery2.jpeg" width="40%"></center>
 
 **Sept 2nd 2024** Mat features in a [Chemistry World article](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article) entitled "Will Open Science Change Chemistry?".
 

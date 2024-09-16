@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+**Sept 11th 2024** Congratulations to the group's cohort of MSc Drug Discovery and Pharma Management students (Xin, Annabella, Ulfa, Ryan, Natnaree and Marc) on their successful presentations and the end of their course! Good luck to them with whatever is next!
+<center><img src="./news items supporting info/MSC Drug Discovery.jpeg" width="75%"></center>
+
 **Sept 2nd 2024** Mat features in a [Chemistry World article](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article) entitled "Will Open Science Change Chemistry?".
 
 **August 28th 2024** Hadia presented her research at the [GP2A](https://gp2a.org/) 32nd annual conference hosted by the University of Coimbra.

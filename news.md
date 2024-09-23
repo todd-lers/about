@@ -7,7 +7,7 @@ layout: default
 <center><img src="./news items supporting info/MSc Drug Discovery2.jpeg" width="40%"></center>
 
 **Sept 5th 2024** Eve, Gui, Kangping, and Yinuo enjoyed presenting their work at the XXVIII EFMC International Symposium on Medicinal Chemistry ((EFMC-ISMC 2024))[https://www.efmc-ismc.org/], hosted in Rome, Italy.
-<center><img src="./news items supporting info/EFMC-ISMC2024.png" width="90%"></center>
+<center><img src="./news items supporting info/EFMC-ISMC2024.png" width="75%"></center>
 
 **Sept 2nd 2024** Mat features in a [Chemistry World article](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article) entitled "Will Open Science Change Chemistry?".
 

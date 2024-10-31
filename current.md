@@ -310,7 +310,7 @@ His lab motto is _To make the right molecule in the right place at the right tim
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Edward.jpeg" class="myimg">
+    <img src="./pics/people/Edward2.jpeg" class="myimg">
     <h4>Ruochong Xu</h4>
     <p class="title">MRes Pharmaceutical Research Student <br>2024-present</p>
     <p></p>

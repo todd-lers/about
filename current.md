@@ -307,3 +307,17 @@ His lab motto is _To make the right molecule in the right place at the right tim
 
 <h2>MRes Students</h2>
 
+<div class="row">
+<div class="column">
+  <div class="card">
+    <img src="./pics/people/Edward.jpg" class="myimg">
+    <h4>Ruochong Xu</h4>
+    <p class="title">MRes Pharmaceutical Research Student <br>2023-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://uk.linkedin.com/in/ruochong-xu-725a33334?original_referer=https%3A%2F%2Fwww.google.com%2F"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:ruochong.xu.24@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+     </div>
+   </div>
+  </div>
+</div>

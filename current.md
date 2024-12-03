@@ -44,23 +44,6 @@ His lab motto is _To make the right molecule in the right place at the right tim
    </div>
  </div>
 
-<h2>Lab Manager</h2>
-
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Ben_Rowsell2.jpeg" class="myimg">
-    <h4>Dr Ben Rowsell</h4>
-    <p class="title">Lab Manager (UCL) <br>2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://uk.linkedin.com/in/ben-rowsell"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:b.rowsell@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
-      </div>
-    </div>
-   </div>
- </div>
-
 <h2>Visiting Scientist</h2>
 
 <div class="row">

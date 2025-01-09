@@ -7,7 +7,9 @@ layout: default
 
 ### 2024
 
-1. Open Source Code Contributions to Global Health – the Case of Antimalarial Drug Discovery, G. Turon, E. G. Tse, M. H. Todd and M. Duran-Frigola, submitted. 
+1. ABHD2 Activity is Not Required for the Non-genomic Action of Progesterone on Human Sperm, O. Arnolds, E. M. Carter, M. Edwards, E. Wigren, E. Homan, P. Ribera, K. Bentley, M. Haraldsson, N. Theo-Emegano, P. Loppnau, M. M. Szewczyk, M. A. Cao, D. Barsyte-Lovejoy, K. Vester, A. Thrun, R. Lesche, J. Münchow, W. F. Zhu, L. Temme, C. Brenker, T. Strünker, M. Sundström, M. H. Todd, A. M. Edwards, C. Tredup, O. Gileadi, _submitted_. [Preprint](https://biorxiv.org/cgi/content/short/2024.12.17.628646v1)
+
+1. [Open Source Code Contributions to Global Health – the Case of Antimalarial Drug Discovery](https://doi.org/10.1021/acsmedchemlett.4c00131), G. Turon, E. G. Tse, X. Qiu, M. H. Todd and M. Duran-Frigola, _ACS Med. Chem. Lett._ **2024**, _15_ 1645–1650. DOI: 10.1021/acsmedchemlett.4c00131.
 
 1. [Identification of Dihydropyrazolo[1,5-a]pyrazin-4(5H)-ones as Cyclic Products of β-Amidomethyl Vinyl Sulfone Alphavirus Cysteine Protease Inhibitors](https://www.mdpi.com/1424-8247/17/7/836), A. Ghoshal, Á. F. Magalhães, K. H. Asressu, M. A. Hossain, M. H. Todd and T. M. Willson, _Pharmaceuticals_ **2024**, _17_(7), 836. [Preprint](https://doi.org/10.26434/chemrxiv-2024-wh6tp). DOI: 10.3390/ph17070836.
 

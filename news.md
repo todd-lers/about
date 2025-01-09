@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-**Dec 11th 2024** - We head to the British Museum for the Silk Roads exhibition, then to the pub for a Science Jeopardy quiz.
+**Dec 11th 2024** We head to the British Museum for the Silk Roads exhibition, then to the pub for a Science Jeopardy quiz.
 
-**Sept 19th 2024** - Eve Carter featured in an [article](https://www.thesgc.org/blogs/celebrating-impact-sgc-postdocs-open-science) from the Structural Genomics Consortium celebrating Postdoc Appreciation Week.
+**Nov 5th 2024** Mat hosted an SGC-Industry event at the Wellcome Trust on the potential future impact of AI and machine learning on drug discovery, written up [here](https://www.ucl.ac.uk/lifesciences-faculty/news/2024/dec/future-impact-machine-learning-drug-discovery).
+
+**Sept 19th 2024** Eve Carter featured in an [article](https://www.thesgc.org/blogs/celebrating-impact-sgc-postdocs-open-science) from the Structural Genomics Consortium celebrating Postdoc Appreciation Week.
 
 **Sept 11th 2024** Congratulations to the group's cohort of MSc Drug Discovery and Pharma Management students (Xin, Annabella, Ulfa, Ryan, Natnaree and Marc) on their successful presentations and the end of their course! Good luck to them with whatever is next!
 <center><img src="./news items supporting info/MSc Drug Discovery2.jpeg" width="40%"></center>

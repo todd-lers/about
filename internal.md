@@ -476,7 +476,8 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
   - Shared G25 Consumables: Project 577764, Award 156780, Task 100 (except for ISD projects (Tasks 2001, 2002C and 2002R) and buildings projects which are linked to Task 1000)
   - Evans Mainsah AREF Fellowship: Project 579579, Award 187158
   - PBC Dept (only for Mat, who keeps forgetting what this is): 502704.100.156780
-  - Faculty Fund Protein Science Initiative: Project 581304, Award 156780, Task 100  
+  - Faculty Fund Protein Science Initiative: Project 581304, Award 156780, Task 100
+  - New BMGF/SGC contraceptives grant: Project 589420 Award 190266
 
   </div>
 </div>

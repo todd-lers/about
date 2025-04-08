@@ -2,7 +2,7 @@
 layout: default
 ---
 **Dec 11th 2024** We head to the British Museum for the Silk Roads exhibition, then to the pub for a Science Jeopardy quiz.
-<center><img src="./news items supporting info/British Museum Trip 2024.jpg" width="50%"></center><img src="./news items supporting info/Jeopardy Pub Quiz.jpg" width="50%"></center>
+<center><img src="./news items supporting info/British Museum Trip 2024.jpg" width="50%"></center></center><img src="./news items supporting info/Jeopardy Pub Quiz.jpg" width="50%"></center>
 
 **Nov 5th 2024** Mat hosted an SGC-Industry event at the Wellcome Trust on the potential future impact of AI and machine learning on drug discovery, written up [here](https://www.ucl.ac.uk/lifesciences-faculty/news/2024/dec/future-impact-machine-learning-drug-discovery).
 

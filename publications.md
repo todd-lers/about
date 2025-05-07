@@ -5,6 +5,10 @@ layout: default
 [ORCID ID 0000-0001-7096-4751](https://orcid.org/0000-0001-7096-4751)  
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=a8lzGHEAAAAJ)
 
+### 2025
+
+1. Structure–activity Relationships of Fenarimol Analogues with Potent _in vitro_ and _in vivo_ Activity Against _Madurella mycetomatis_, the Main Causative Agent of Eumycetoma, H. P. Duong, D. Melechov, W. Lim, J. Ma, K. Scroggie, L. Rajendra, B. Perry, L. Cruz, P. Rutledge, A. Motion, W van de Sande and M. H. Todd, **2025**, _submitted_. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/68137329e561f77ed49a9afb)
+
 ### 2024
 
 1. ABHD2 Activity is Not Required for the Non-genomic Action of Progesterone on Human Sperm, O. Arnolds, E. M. Carter, M. Edwards, E. Wigren, E. Homan, P. Ribera, K. Bentley, M. Haraldsson, N. Theo-Emegano, P. Loppnau, M. M. Szewczyk, M. A. Cao, D. Barsyte-Lovejoy, K. Vester, A. Thrun, R. Lesche, J. Münchow, W. F. Zhu, L. Temme, C. Brenker, T. Strünker, M. Sundström, M. H. Todd, A. M. Edwards, C. Tredup, O. Gileadi, _submitted_. [Preprint](https://biorxiv.org/cgi/content/short/2024.12.17.628646v1)

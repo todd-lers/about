@@ -7,6 +7,8 @@ layout: default
 
 ### 2025
 
+1. Kinome Analysis of _Madurella mycetomatis_ Identified Kinases in the Cell Wall Integrity Pathway as Novel Potential Therapeutic Drug Targets in Eumycetoma Caused by _Madurella mycetomatis_, M. Konings, N. Strepis, R.-I. Manabe, A. Hasegawa, S. Chaudhari, S. du Pré, M. Schippers, M. Tagami, J. Ma, Y. Okazaki, M. H. Todd, B. Biersack, V. Masand, A. Verbon, T. Kasukawa, I. Abugessaisa, W. van de Sande, **2025**, _submitted_.
+
 1. Structure–activity Relationships of Fenarimol Analogues with Potent _in vitro_ and _in vivo_ Activity Against _Madurella mycetomatis_, the Main Causative Agent of Eumycetoma, H. P. Duong, D. Melechov, W. Lim, J. Ma, K. Scroggie, L. Rajendra, B. Perry, L. Cruz, P. Rutledge, A. Motion, W van de Sande and M. H. Todd, **2025**, _submitted_. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/68137329e561f77ed49a9afb)
 
 ### 2024

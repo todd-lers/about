@@ -6,25 +6,6 @@ title: Idler compounds
 
 <div id="idler-page">
 
-<style>
-#idler-page img { max-width: 100%; height: auto; display:block; margin: 0 auto; }
-#idler-page .lead { font-size: 1.05rem; color: #444; margin-top: .25rem; }
-#idler-page .cta { display:flex; flex-wrap:wrap; gap:.5rem; margin:.75rem 0 1rem; }
-#idler-page .btn { display:inline-block; padding:.5rem .85rem; border:1px solid #333; border-radius:999px; text-decoration:none; }
-#idler-page .btn-primary { background:#005eb8; color:#fff; border-color:#005eb8; }
-#idler-page .grid { list-style:none; padding:0; margin:0; display:grid; gap:.75rem;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
-#idler-page .card { border:1px solid #ddd; border-radius:12px; padding:.75rem 1rem; }
-#idler-page .card h3 { margin:.1rem 0 .35rem; font-size:1.02rem; }
-#idler-page .muted { color:#666; font-size:.92rem; }
-#idler-page details { border:1px solid #eee; border-radius:10px; padding:.5rem .9rem; background:#fafafa; }
-#idler-page .img-row {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: .75rem;
-}
-
-</style>
 
 # Idler compounds
 We’ve created the **Todd Idler Compound Library** to catalogue, share and make best use of compounds synthesised in the Todd Group. The setup and sharing process is summarised in the graphic below and described in the manuscript **“Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening”** (ChemRxiv DOI pending).

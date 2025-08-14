@@ -18,6 +18,9 @@ As proof-of-concept, compounds have been shared with **UKHSA**, generating new d
 - **Zenodo collection:** <https://zenodo.org/records/16793669>
 - **Preprint:** ChemRxiv DOI to be added here once available.
 
+## All Data (2025)
+
+[All_Data_MHT_0001.xlsx](https://github.com/user-attachments/files/21771479/All_Data_MHT_0001.xlsx)
 
 
 

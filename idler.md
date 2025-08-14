@@ -18,6 +18,12 @@ title: Idler compounds
 #idler-page .card h3 { margin:.1rem 0 .35rem; font-size:1.02rem; }
 #idler-page .muted { color:#666; font-size:.92rem; }
 #idler-page details { border:1px solid #eee; border-radius:10px; padding:.5rem .9rem; background:#fafafa; }
+#idler-page .img-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: .75rem;
+}
+
 </style>
 
 # Idler compounds
@@ -40,6 +46,17 @@ As proof-of-concept, compounds have been shared with **UKHSA**, generating new d
 4. **Receive results** → generate new data & starting points → feed back to projects.
 
 ![Idler Compounds overview](./pics/research/idleronlinegraphic.png)
+
+## Library composition properties & Screening overview and highlighted compounds
+
+<table>
+<tr>
+<td><img src="./pics/research/Idlercompounds.png" alt="Idler library composition"></td>
+<td><img src="./pics/research/Idlercompounds2.png" alt="Screening summary"></td>
+</tr>
+</table>
+
+
 
 ## All Data (2025)
 

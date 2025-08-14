@@ -9,7 +9,7 @@ We’ve created the **Todd Idler Compound Library** to catalogue, share and make
 
 As proof-of-concept, compounds have been shared with **UKHSA**, generating new data that now feeds into ongoing programmes and offers new starting points for projects. Results and underlying data are openly provided via the resources below.
 
-![Idler Compounds overview](./pics/research/idler/idler online graphic.png)
+![Idler Compounds overview](./pics/research/idleronlinegraphic.png)
 
 
 # Resources

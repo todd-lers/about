@@ -10,11 +10,17 @@ We’ve created the **Todd Idler Compound Library** to catalogue, share and make
 As proof-of-concept, compounds have been shared with **UKHSA**, generating new data that now feeds into ongoing programmes and offers new starting points for projects. Results and underlying data are openly provided via the resources below.
 
 ## Get started (Resources)
-- **Live inventory (Google Sheet):** <https://YOUR-SHEET-LINK>
-- **LabArchives notebook (overview):** <https://YOUR-LABARCHIVES-LINK>
-- **LabArchives notebook (data):** <https://YOUR-LABARCHIVES-DATA-LINK>
-- **Zenodo collection:** <https://YOUR-ZENODO-LINK>
-- **Preprint:** ChemRxiv DOI to be added here once available.
+
+- **Live inventory (Google Sheet):**  [Link to spreadsheet](https://uk-mynotebook.labarchives.com/doc/view/MTkyNS4zfDIxNzcxLzE0ODEvRW50cnlQYXJ0LzE0Mzg2NjQ4NDN8NDg4Ny4z?nb_id=MjgzMDIuM3wyMTc3MS8yMTc3MS9Ob3RlYm9vay8zODQ5MTQwNjQ0fDcxODQ0LjM%3D)
+
+- **LabArchives notebook (data):**  [View notebook](https://uk-mynotebook.labarchives.com/share/Todd%2520Group%2520Compound%2520Library/MC4wfDIxNzcxLzAvVHJlZU5vZGUvMTcyMDU1ODA0NHwwLjA=)  
+
+- **Zenodo collection:**   [https://zenodo.org/records/16793669](https://zenodo.org/records/16793669)
+
+
+
+
+
 
 ## How it works
 1. **Accumulate compounds** (purchased & synthesised).
@@ -24,14 +30,15 @@ As proof-of-concept, compounds have been shared with **UKHSA**, generating new d
 
 ![Idler Compounds overview](./pics/research/idleronlinegraphic.png)
 
-## Library composition properties & Screening overview and highlighted compounds
+### Library composition properties & Screening overview and highlighted compounds
 
-<table>
-<tr>
-<td><img src="./pics/research/Idlercompounds.png" alt="Idler library composition"></td>
-<td><img src="./pics/research/Idlercompounds2.png" alt="Screening summary"></td>
-</tr>
-</table>
+<p>
+  <img src="./pics/research/Idlercompounds.png"
+       alt="Idler library composition and property distributions" width="49%">
+  <img src="./pics/research/Idlercompounds2.png"
+       alt="Activity/solubility plate maps and highlighted compounds" width="49%">
+</p>
+
 
 
 

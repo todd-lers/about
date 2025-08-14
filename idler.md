@@ -9,14 +9,20 @@ We’ve created the **Todd Idler Compound Library** to catalogue, share and make
 
 As proof-of-concept, compounds have been shared with **UKHSA**, generating new data that now feeds into ongoing programmes and offers new starting points for projects. Results and underlying data are openly provided via the resources below.
 
-<center><img width="1280" height="720" alt="Online graphic" src="https://github.com/user-attachments/assets/df1fd5cc-69b7-4acb-8479-dba43566edfd" /></center>
+<img width="1280" height="720" alt="Online graphic" src="https://github.com/user-attachments/assets/df1fd5cc-69b7-4acb-8479-dba43566edfd" />
 
-## Resources
-- **Live inventory (Google Sheet):** <https://docs.google.com/spreadsheets/d/1heWWU_xi_NSQRvNA5_wRuw_vl9IhMzXtihmAKnpZMWw/edit?gid=0#gid=0>
-- **LabArchives notebook (overview):** <https://uk-mynotebook.labarchives.com/share/Todd%2520Group%2520Compound%2520Library/MC4wfDIxNzcxLzAvVHJlZU5vZGUvMTcyMDU1ODA0NHwwLjA=>
-- **LabArchives notebook (data):** <https://uk-mynotebook.labarchives.com/share/Todd%2520Group%2520Compound%2520Library/MC4wfDIxNzcxLzAvVHJlZU5vZGUvMTcyMDU1ODA0NHwwLjA=>
-- **Zenodo collection:** <https://zenodo.org/records/16793669>
+ ## Resources
+
+- **Live inventory (Google Sheet):**   [Link to spreadsheet](https://docs.google.com/spreadsheets/d/1heWWU_xi_NSQRvNA5_wRuw_vI9lhMzXithmAKnpZMWW/edit?gid=0)
+
+- **LabArchives notebook (overview):**  [View notebook](https://uk-mynotebook.labarchives.com/share/Todd%2520Group%2520Compound%2520Library/MC4wfDlxNzcxLzAvVHJIZU5vZGUvMTcyMDU1ODAOdHw=wL)  
+
+- **LabArchives notebook (data):**  [View notebook](https://uk-mynotebook.labarchives.com/share/Todd%2520Group%2520Compound%2520Library/MC4wfDlxNzcxLzAvVHJIZU5vZGUvMTcyMDU1ODAOdHw=wL)  
+
+- **Zenodo collection:**  [https://zenodo.org/records/16793669](https://zenodo.org/records/16793669)
+
 - **Preprint:** ChemRxiv DOI to be added here once available.
+
 
 ## All Data (2025)
 

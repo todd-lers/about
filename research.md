@@ -1,7 +1,7 @@
 ---
 layout: collapsible
 ---
-We are most known for the [Open Source Malaria](http://opensourcemalaria.org/#) project, our [open science](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html) work more generally and for the use of [click-derived triazoles in chemical sensing](http://dx.doi.org/10.1039/C0CS00143K). However, there are plenty of other projects that interest us.
+We are most known for the [Open Source Malaria](http://opensourcemalaria.org/#) project, our [open science](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html) work more generally and for the use of [click-derived triazoles in chemical sensing](http://dx.doi.org/10.1039/C0CS00143K). However, there are plenty of other projects that interest us. See our new [Idler compounds](./idler.html) section for the live library, protocol, and data resources.
 
 Click a research area to jump to the relevant section below:
 

@@ -34,7 +34,7 @@ As proof-of-concept, compounds have been shared with **UKHSA**, generating new d
 
 <p>
   <img src="./pics/research/Idlercompounds.png"
-       alt="Idler library composition and property distributions" width="49%">
+       alt="Idler library composition and property distributions" width="47%">
   <img src="./pics/research/Idlercompounds2.png"
        alt="Activity/solubility plate maps and highlighted compounds" width="49%">
 </p>

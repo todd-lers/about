@@ -4,7 +4,7 @@ title: Idler compounds
 ---
 
 
-<div id="idler-page">
+
 
 
 # Idler compounds
@@ -13,12 +13,11 @@ We’ve created the **Todd Idler Compound Library** to catalogue, share and make
 As proof-of-concept, compounds have been shared with **UKHSA**, generating new data that now feeds into ongoing programmes and offers new starting points for projects. Results and underlying data are openly provided via the resources below.
 
 ## Get started (Resources)
-<div class="cta">
-  <a class="btn btn-primary" href="https://docs.google.com/spreadsheets/d/1heWWU_xi_NSQRvNA5_wRuw_vI9lhMzXithmAKnpZMWW/edit?gid=0">Live Inventory</a>  
-  <a class="btn" href="https://uk-mynotebook.labarchives.com/share/Todd%2520Group%2520Compound%2520Library/MC4wfDlxNzcxLzAvVHJIZU5vZGUvMTcyMDU1ODAOdHw=wL">View Overview LabArchives Notebook</a>    
-  <a class="btn" href="https://uk-mynotebook.labarchives.com/share/Todd%2520Group%2520Compound%2520Library/MC4wfDlxNzcxLzAvVHJIZU5vZGUvMTcyMDU1ODAOdHw=wL" download>LabArchives notebook (data)</a>
-  <a class="btn" href=https://zenodo.org/records/16793669](https://zenodo.org/records/16793669">Zenodo collection</a>
-</div>
+- **Live inventory (Google Sheet):** <https://YOUR-SHEET-LINK>
+- **LabArchives notebook (overview):** <https://YOUR-LABARCHIVES-LINK>
+- **LabArchives notebook (data):** <https://YOUR-LABARCHIVES-DATA-LINK>
+- **Zenodo collection:** <https://YOUR-ZENODO-LINK>
+- **Preprint:** ChemRxiv DOI to be added here once available.
 
 ## How it works
 1. **Accumulate compounds** (purchased & synthesised).
@@ -49,14 +48,10 @@ Interested in using or contributing to the Idler library? Please get in touch wi
 
 ---
 Last updated: Aug 2025
-</div>
 
 
 
 
 
 
-
-
----
 

@@ -138,11 +138,10 @@ His lab motto is _To make the right molecule in the right place at the right tim
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/shayla-venkaya-357a84106/"><i class="fa fa-linkedin"></i></a>
       <a href="mailto:s.venkaya@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
     </div>
   </div>
 </div>
-
+</div>
 
 <h2>PhD Students</h2>
 
@@ -208,11 +207,10 @@ His lab motto is _To make the right molecule in the right place at the right tim
     <div style="margin: 15px 0;">
       <a href=""><i class="fa fa-linkedin"></i></a>
       <a href="mailto:"><i class="fa fa-envelope"></i></a>
-      </div>
     </div>
   </div>
 </div>
-
+</div>
 
 <h2>MRes Students</h2>
 

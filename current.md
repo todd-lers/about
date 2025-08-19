@@ -107,24 +107,22 @@ His lab motto is _To make the right molecule in the right place at the right tim
   <div class="card">
     <img src="" class="myimg" />
     <h4>Jodie Taylor</h4>
-    <p class="title">Research Assistant (UCL) <br />2023-present</p>
+    <p class="title">Research Assistant (UCL) <br />2024-present</p>
     <p></p>
     <div style="margin: 15px 0;">
-      <a href=""><i class="fa fa-linkedin"></i></a>
-       <a href=""><i class="fa fa-twitter"></i></a>
-       <a href=""><i class="fa fa-github"></i></a>
-      <a href="mailto:"><i class="fa fa-envelope"></i></a>
+      <a href="https://www.linkedin.com/in/jodie-taylor-457359180/"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:jodie.taylor@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
-    </div>
+  </div>
 </div>
 <div class="column">
   <div class="card">
     <img src="" class="myimg" />
     <h4>Shayla Venkaya</h4>
-    <p class="title">Research Assistant (UCL) <br />2023-present</p>
+    <p class="title">Research Assistant (UCL) <br />2024-present</p>
     <p></p>
     <div style="margin: 15px 0;">
-      <a href=""></i></a>
+      <a href="https://www.linkedin.com/in/shayla-venkaya-357a84106/"><i class="fa fa-linkedin"></i></a>
       <a href="mailto:s.venkaya@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
       </div>
     </div>

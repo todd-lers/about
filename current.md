@@ -153,9 +153,11 @@ His lab motto is _To make the right molecule in the right place at the right tim
       <a href="https://www.linkedin.com/in/mohsenalamoudi"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/Mo777sen"><i class="fa fa-twitter"></i></a>
       <a href="mailto:mohsen.alamoudi.22@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+      </div>
     </div>
   </div>
 </div>
+
 
 <h2>Research Assistant</h2>
 

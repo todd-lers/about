@@ -27,7 +27,7 @@ His lab motto is _To make the right molecule in the right place at the right tim
 
 <hr class="rule">
 
-<h2>Executive Assistant</h2>
+<h2>Research Support & Visitors</h2>
 
 <div class="row">
 <div class="column">
@@ -43,9 +43,6 @@ His lab motto is _To make the right molecule in the right place at the right tim
     </div>
    </div>
  </div>
-
-<h2>Visiting Scientist</h2>
-
 <div class="row">
 <div class="column">
   <div class="card">
@@ -56,23 +53,6 @@ His lab motto is _To make the right molecule in the right place at the right tim
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/nicola-burgess-brown-6488487/"><i class="fa fa-linkedin"></i></a>
       <a href="mailto:n.burgess-brown@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
-      </div>
-    </div>
-   </div>
- </div>
-
-<h2>Project Coordinator</h2>
-
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/RSaleem.jpg" class="myimg">
-    <h4>Dr Rahman Saleem </h4>
-    <p class="title">READDI-AViDD Project Coordinator <br>2024-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/rahman-shah-zaib-saleem-b0984734/?originalSubdomain=pk"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:r.saleem@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
       </div>
     </div>
    </div>
@@ -96,20 +76,6 @@ His lab motto is _To make the right molecule in the right place at the right tim
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Alvaro Magalhaes.jpg" class="myimg" />
-    <h4>Dr Alvaro Magalhaes</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/alvaro-magalhaes/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/alvarofmagalha"><i class="fa fa-twitter"></i></a>
-      <a href="https://github.com/alvaro-magalhaes"><i class="fa fa-github"></i></a>
-      <a href="mailto:a.magalhaes@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
-    </div>
-</div>
-<div class="column">
-  <div class="card">
     <img src="./pics/people/Rebecka_Isaksson2.jpg" class="myimg" />
     <h4>Dr Rebecka Isaksson</h4>
     <p class="title">Postdoc (UCL) <br />2023-present</p>
@@ -121,59 +87,7 @@ His lab motto is _To make the right molecule in the right place at the right tim
       <a href="mailto:r.isaksson@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
     </div>
-  </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Hadia Almahli.jpg" class="myimg" />
-    <h4>Dr Hadia Almahli</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/hadia-almahli-09588656/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/HAlmahli"><i class="fa fa-twitter"></i></a>
-      <a href="https://github.com/HadiaAmahli"><i class="fa fa-github"></i></a>
-      <a href="mailto:h.almahli@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
-    </div>
-  </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Xin.jpg" class="myimg" />
-    <h4>Dr Xin Qiu</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/昕-xin-邱-qiu-804a1314a/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://github.com/qxsml"><i class="fa fa-github"></i></a>
-      <a href="mailto:ucnvqiu@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-      </div>
-  </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Gui2.png" class="myimg" />
-    <h4>Dr Guilherme Fernandes</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/guilherme-fernandes-40400a93/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/guiiiifelipe"><i class="fa fa-twitter"></i></a>
-      <a href="https://github.com/gfsfernandes"><i class="fa fa-github"></i></a>
-      <a href="mailto:guilherme.fernandes@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-      </div>
-  </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/wenjie.jpg" class="myimg" />
-    <h4>Dr Wenjie Chen</h4>
-    <p class="title">Postdoc (UCL) <br />2024-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="mailto:wen.chen@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
-    </div>
-  </div>
+</div>
 <div class="column">
   <div class="card">
     <img src="./pics/people/Jelena2.jpeg" class="myimg" />
@@ -190,19 +104,6 @@ His lab motto is _To make the right molecule in the right place at the right tim
 
 <h2>PhD Students</h2>
 
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Dmitrij_Melechov.jpg" class="myimg">
-    <h4>Dmitrij Melechov</h4>
-    <p class="title">PhD Student (UCL) <br>2019-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://github.com/dmitrij176"><i class="fa fa-github"></i></a>
-      <a href="mailto:dmitrij.melechov.17@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
-    </div>
-</div>
 <div class="column">
   <div class="card">
     <img src="./pics/people/Yuhang_Wang3.jpg" class="myimg">
@@ -217,21 +118,7 @@ His lab motto is _To make the right molecule in the right place at the right tim
     </div>
   </div>
 </div>
- <div class="column">
-    <div class="card">
-       <img src="./pics/people/Tom_Knight.jpg" class="myimg">
-      <h4>Thomas Knight</h4>
-      <p class="title">PhD Student (UCL) <br>2021-present</p>
-      <p></p>
-      <div style="margin: 15px 0;">
-        <a href="https://www.linkedin.com/in/thomas-knight-340784151/"><i class="fa fa-linkedin"></i></a>  
-        <a href="https://twitter.com/tommbk97"><i class="fa fa-twitter"></i></a>
-        <a href="https://github.com/TomkUCL"><i class="fa fa-github"></i></a>
-        <a href="mailto:thomas.knight.21@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-    </div>
-  </div>
-  <div class="column">
+<div class="column">
     <div class="card">
        <img src="./pics/people/Yinuo3.jpg" class="myimg">
       <h4>Yinuo Wang</h4>

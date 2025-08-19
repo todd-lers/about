@@ -3,9 +3,11 @@ layout: default
 ---
 
 **July 31rd 2025** Yinuo passed her PhD Viva with minor corrections. Congrats Dr.Wang!
-
-
-
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="./news items supporting info/Yinuoviva1.jpeg" style="width: 30%;">
+  <img src="./news items supporting info/yinuoviva2.jpeg" style="width: 30%;">
+  <img src="./news items supporting info/YinuoExaminers.jpg" style="width: 30%;">
+</div>
 
 
 **Dec 11th 2024** We head to the British Museum for the Silk Roads exhibition, then to the pub for a Science Jeopardy quiz.

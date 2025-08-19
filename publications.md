@@ -7,6 +7,8 @@ layout: default
 
 ### 2025
 
+1. Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening, R. Isaksson, E. M. Carter, C. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, **2025**, _submitted_. Preprint.
+
 1. [Protein–ligand Data at Scale to Support Machine Learning](https://www.nature.com/articles/s41570-025-00737-z), A. M. Edwards _et al._, _Nat. Rev. Chem._ **2025**, _in press_. DOI: 10.1038/s41570-025-00737-z
 
 1. Kinome Analysis of _Madurella mycetomatis_ Identified Kinases in the Cell Wall Integrity Pathway as Novel Potential Therapeutic Drug Targets in Eumycetoma Caused by _Madurella mycetomatis_, M. Konings, N. Strepis, R.-I. Manabe, A. Hasegawa, S. Chaudhari, S. du Pré, M. Schippers, M. Tagami, J. Ma, Y. Okazaki, M. H. Todd, B. Biersack, V. Masand, A. Verbon, T. Kasukawa, I. Abugessaisa, W. van de Sande, _PLOS NTD_ **2025**, _in press_.

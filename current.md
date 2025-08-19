@@ -188,23 +188,6 @@ His lab motto is _To make the right molecule in the right place at the right tim
 </div>
 
 
-<h2>Research Assistant</h2>
-
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/K.Lister_photo.jpg" class="myimg">
-    <h4>Katie Lister</h4>
-    <p class="title">Research Assistant in Protein Science <br>2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/katieplister/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:k.lister@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-     </div>
-   </div>
-  </div>
-</div>
-
 <h2>MRes Students</h2>
 
 <div class="row">

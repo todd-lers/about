@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+**July 31rd 2025** Yinuo passed her PhD Viva with minor corrections. Congrats Dr.Wang!
+
+
+
+
+
 **Dec 11th 2024** We head to the British Museum for the Silk Roads exhibition, then to the pub for a Science Jeopardy quiz.
 <center><img src="./news items supporting info/British Museum Trip 2024.jpg" width="50%"><img src="./news items supporting info/Jeopardy Pub Quiz.jpg" width="50%"></center>
 

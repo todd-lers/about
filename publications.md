@@ -7,7 +7,7 @@ layout: default
 
 ### 2025
 
-1. Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening, R. Isaksson, E. M. Carter, C. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, **2025**, _submitted_. Preprint.
+1. Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening, R. Isaksson, E. M. Carter, C. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, **2025**, _submitted_. Preprint. 
 
 1. [Protein–ligand Data at Scale to Support Machine Learning](https://www.nature.com/articles/s41570-025-00737-z), A. M. Edwards _et al._, _Nat. Rev. Chem._ **2025**, _in press_. DOI: 10.1038/s41570-025-00737-z
 

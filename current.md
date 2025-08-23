@@ -116,7 +116,7 @@ His lab motto is _To make the right molecule in the right place at the right tim
       <a href="mailto:j.habjanic@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
       </div>
     </div>
-  </div>
+</div>
 <div class="column">
   <div class="card">
     <img src="" class="myimg" />

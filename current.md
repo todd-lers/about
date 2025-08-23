@@ -76,9 +76,9 @@ His lab motto is _To make the right molecule in the right place at the right tim
 </div>
 <div class="column">
   <div class="card">
-    <img src="" class="myimg" />
+    <img src="./pics/people/DanielleHanke.jpg" class="myimg" />
     <h4>Dr Danielle Hanke</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
+    <p class="title">Postdoc (UCL) <br />2025-present</p>
     <p></p>
     <div style="margin: 15px 0;">
       <a href=""><i class="fa fa-linkedin"></i></a>
@@ -227,4 +227,9 @@ His lab motto is _To make the right molecule in the right place at the right tim
      </div>
    </div>
   </div>
+<div class="column">
+  <div class="card" style="visibility: hidden;"></div>
+  </div>
+  </div>
+</div>
 </div>

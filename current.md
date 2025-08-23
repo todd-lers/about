@@ -230,6 +230,5 @@ His lab motto is _To make the right molecule in the right place at the right tim
 <div class="column">
   <div class="card" style="visibility: hidden;"></div>
   </div>
-  </div>
-</div>
+  
 </div>

@@ -145,6 +145,7 @@ His lab motto is _To make the right molecule in the right place at the right tim
 
 <h2>PhD Students</h2>
 
+<div class="row">
 <div class="column">
   <div class="card">
     <img src="./pics/people/Yuhang_Wang3.jpg" class="myimg">
@@ -213,21 +214,6 @@ His lab motto is _To make the right molecule in the right place at the right tim
 </div>
 
 <h2>MRes Students</h2>
-
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Fiona2.jpg" class="myimg">
-    <h4>Fiona Marquet</h4>
-    <p class="title">Executive Assistant (UCL) <br>2022-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/fiona-marquet-0b1ba62/"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:f.marquet@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
-      </div>
-    </div>
-</div>
-</div>
 
 <div class="row">
 <div class="column">

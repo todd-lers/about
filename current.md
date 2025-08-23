@@ -214,7 +214,7 @@ His lab motto is _To make the right molecule in the right place at the right tim
 
 <h2>MRes Students</h2>
 
-<div class="row">
+
 <div class="column">
   <div class="card">
     <img src="./pics/people/Edward2.jpeg" class="myimg">
@@ -227,8 +227,4 @@ His lab motto is _To make the right molecule in the right place at the right tim
      </div>
    </div>
   </div>
-<div class="column">
-  <div class="card" style="visibility: hidden;"></div>
-  </div>
-  
 </div>

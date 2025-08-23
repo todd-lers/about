@@ -207,8 +207,9 @@ His lab motto is _To make the right molecule in the right place at the right tim
     <div style="margin: 15px 0;">
       <a href=""><i class="fa fa-linkedin"></i></a>
       <a href="mailto:"><i class="fa fa-envelope"></i></a>
-    </div>
+     </div>
   </div>
+</div>
 </div>
 
 <h2>MRes Students</h2>

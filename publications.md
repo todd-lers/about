@@ -7,13 +7,15 @@ layout: default
 
 ### 2025
 
+1. Identification of Spirodioxolane nsP2 Helicase Inhibitors with Antialphaviral Activity, H. J. Oh, J. D. Sears, B. M. Ramalingam, R. S. Z. Saleem, Z. W. Davis-Gilbert, M. A. Hossain, S. R. Moorman, D. Ohja, S. A. Martinez, J. E. Burdick, R. M. Couñago, N. J. Moorman, M. T. Heise, M. H. Todd and T. M. Willson, 2025, _submitted_. [Preprint](https://doi.org/10.26434/chemrxiv-2025-mfts7).
+
 1. Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening, R. Isaksson, E. M. Carter, C. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, **2025**, _submitted_. [Preprint](https://doi.org/10.26434/chemrxiv-2025-nqjb4). 
 
 1. [Protein–ligand Data at Scale to Support Machine Learning](https://www.nature.com/articles/s41570-025-00737-z), A. M. Edwards _et al._, _Nat. Rev. Chem._ **2025**, _in press_. DOI: 10.1038/s41570-025-00737-z
 
 1. Kinome Analysis of _Madurella mycetomatis_ Identified Kinases in the Cell Wall Integrity Pathway as Novel Potential Therapeutic Drug Targets in Eumycetoma Caused by _Madurella mycetomatis_, M. Konings, N. Strepis, R.-I. Manabe, A. Hasegawa, S. Chaudhari, S. du Pré, M. Schippers, M. Tagami, J. Ma, Y. Okazaki, M. H. Todd, B. Biersack, V. Masand, A. Verbon, T. Kasukawa, I. Abugessaisa, W. van de Sande, _PLOS NTD_ **2025**, _in press_.
 
-1. Structure–activity Relationships of Fenarimol Analogues with Potent _in vitro_ and _in vivo_ Activity Against _Madurella mycetomatis_, the Main Causative Agent of Eumycetoma, H. P. Duong, D. Melechov, W. Lim, J. Ma, K. Scroggie, L. Rajendra, B. Perry, L. Cruz, P. Rutledge, A. Motion, W van de Sande and M. H. Todd, **2025**, _submitted_. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/68137329e561f77ed49a9afb)
+1. Structure–activity Relationships of Fenarimol Analogues with Potent _in vitro_ and _in vivo_ Activity Against _Madurella mycetomatis_, the Main Causative Agent of Eumycetoma, H. P. Duong, D. Melechov, W. Lim, J. Ma, K. Scroggie, L. Rajendra, B. Perry, L. Cruz, P. Rutledge, A. Motion, W van de Sande and M. H. Todd, **2025**, _in press_. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/68137329e561f77ed49a9afb)
 
 ### 2024
 

@@ -2,15 +2,15 @@
 layout: collapsible
 ---
 
-This page contains information for current members of the Todd group. Click a section to expand.
+**This page contains information for current members of the Todd group. Click a section to expand.**
 
 ### Getting Started
 
   The following is a checklist of key things to do and documents for new members of the group:
-  
+
   - Get a LabArchives account for experimental write-ups (invite from Mat Todd)
   - Get a ChemInventory account for chemical inventory management (invite from postdoc)
-  - Join the G25 MS Team (invite from postdoc), read through carefully Risk assessments and Standard Operating Procedures. 
+  - Join the G25 MS Team (invite from postdoc), read through carefully Risk assessments and Standard Operating Procedures.
   - Get authorisation to use myFinance to order chemicals/etc. (ask Mat Todd and Fiona Marquet) The guide on ordering is [here](https://docs.google.com/document/d/1xiQK2DAcGyJrknU-gTitQe31noiIFy5B0Vwbp6lttw0/edit).
   - Organise and complete NMR training (see NMR facility manager, Nikita Harvey)
   - Organise and complete LCMS training (see senior group member/postdoc) -- see below for guides on LCMS usage
@@ -169,13 +169,34 @@ As a scientist, it is very important that you have a strong sense of when accura
   _Transferring information from old website in progess_.
 
   Relevant page on the old website can be found [here](https://openwetware.org/wiki/Todd:Guidelines#Report_Write-up) in the meantime.
+
   </div>
+  </div>
+</div>
+
+### Checklist of Common Little Errors
+
+<div id="accordion3">
+<h3>Weird Hidden Formatting</h3>
+  <div id="link" markdown="1">
+
+Sometimes there is formatting in Word that you can't see. You can reveal formatting if you click the little backwards "P" that looks like this in Word Home Bar:
+
+  <center><img src="./pics/internal/Attachment 2.png" width="20%"></center>
+
+
+This can show that you've double spaces and other things. In particular it can reveal a spacing SNAFU that arises often when you copy from a non-Word source into Word, where the spaces appear as little blue circles, like this:
+
+  <center><img src="./pics/internal/Attachment 1.png" width="65%"></center>
+
+These can mess up spacing of your text and you should replace them with regular spaces. Usually if you paste into a simple text editor and then copy from that to Word, these odd spaces aren't carried over.
+
   </div>
 </div>
 
 ### General Writing Advice
 
-<div id="accordion3">
+<div id="accordion4">
 <h3>Writing Accurately vs Writing Well</h3>
   <div id="link" markdown="1">
 
@@ -263,13 +284,13 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ### General Lab Guidance
 
-<div id="accordion4">
+<div id="accordion5">
 <h3>Working Safely</h3>
   <div id="link" markdown="1">
 
   Everyone in the group (PDRAs and PhD students) will have certain responsibilities to maintain the lab to ensure that we all work as efficiently and safely as possible. A list of lab jobs can be found [here](https://github.com/todd-lers/techops/tree/master/Lab%20Rules) along with some general lab rules and guidance on the use of communal equipment.
 
-  **The lab jobs will be reviewed periodically and updated.** _Any issues, contact Dana._
+  **The lab jobs will be reviewed periodically and updated.** _Any issues, contact Eve._
 
   [Current waste rota](https://github.com/todd-lers/techops/blob/master/rotas/Waste%20%26%20solvent%20rota%20-%20Jan-Mar%202020.pdf)
 
@@ -355,7 +376,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ### How-To's and Manuals
 
-<div id="accordion5">
+<div id="accordion6">
 <h3>Using the LCMS</h3>
   <div id="link" markdown="1">
 
@@ -363,7 +384,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
   A general guide on using the Analytical LCMS in G25 can be found [here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-guide.pdf). The guide was prepared by Edwin G. Tse and Paul T. A. King and can be updated by anyone in the group. It serves as a walk-through for how to properly use the Analytical LCMS. _This is not a substitute for proper training_. _Please check the lab job table to find the proper person to train you._
 
-[here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-Sample-Prep.docx) is the LCMS sample preparation guide. 
+[here](https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-Sample-Prep.docx) is the LCMS sample preparation guide.
 
 ## Using the Preparative LCMS
 
@@ -383,7 +404,7 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
 
 ## Biotage Selekt
 
-  A general guide on using the Biotage Selekt in G25 can be found [here](https://docs.google.com/document/d/1DukynjPTQzADJwQ9lo0frDW3HpUIo0nuCj1LMpddTkA/edit). The guide was prepared by Yuhang Wang and can be updated by anyone in the group. 
+  A general guide on using the Biotage Selekt in G25 can be found [here](https://docs.google.com/document/d/1DukynjPTQzADJwQ9lo0frDW3HpUIo0nuCj1LMpddTkA/edit). The guide was prepared by Yuhang Wang and can be updated by anyone in the group.
 
   Biotage user manual can be found [here](https://github.com/todd-lers/techops/blob/master/Biotage/416183-C%20Selekt%20User%20Manual.pdf).
 
@@ -403,52 +424,69 @@ Does this take time? Yes, particularly to do it well. Is it worth it? Yes. Not i
   </div>
 </div>
 
-### Rotas
-
-Solvents
 
 ### Group Meetings
 
-Current Schedule
+<div id="accordion7">
+<h3>How We Do It</h3>
+  <div id="link" markdown="1">
+
+  Where: M1 (etc), in person. When: Fridays 1pm (mostly). Usually 60 to 90 mins. Fiona will send Outlook invites.
+
+  **Health and Safety/Lab Operations**. These meetings provide an excellent chance for us to talk about lab or admin issues that affect us all. We’ll start each meeting with this.
+
+  **Research Updates**: A description of where your project is up to. Minimise background and previous work (one slide maximum). Be clear on your long- and short-term aims. Describe key challenges you’re facing in more detail. Work hard on making clear, attractive slides. Include necessary references on each relevant slide, not at the end. Send your deck to Mat after the meeting, or upload directly to Github. 20 minutes, with 10 mins for any extra discussion. People should ask questions during the presentation. At the end, the Devil’s Advocate (DA – the person doing next week’s update) should lead any remaining questions.
+
+  **Lit Club**: A description of three recent papers published within a year. Two slides maximum (no animations) per paper. Include the citation and author names. Get across the key idea and key result of the paper – don’t get lost in the details or just paste in all the tables and diagrams. Pick any papers from any Nature of Science journal (i.e., including Nature Chem, Chem Bio, Science Translational Medicine etc), JACS, Angewandte, Chemical Science, ACS Central Science or PNAS. The papers do not have to be relevant to your work, or relevant to anything in the group. Pick papers because you find them interesting. 10 minutes, including questions. The Devil’s Advocate (DA – the person doing next week’s lit club) should lead the questions.
+
+  **MiniProblem**: If it’s your turn, distribute (by email, immediately after the previous meeting) a short problem or two or three on synthetic or medicinal chemistry. People should come prepared to discuss the solutions on a whiteboard. 10 minutes.
+
+  </div>
+</div>
 
 ### Grant Codes and Admin
 
-Click <a href="./docs/Onboarding/Contacts List.docx" download>here</a> to download the contacts list containing who to contact when:
-- encountering issues with instruments that you are unable to fix (i.e. Biotage and LCMS)
-- looking for quotes on lab equipment, etc.
-- you need help with NMR or mass spectrometry instruments in SoP
-- you need to replace the argon cylinder in the lab
-- you need to have hazardous chemical waste (including silica) removed
-- you need a 19F NMR spectra for a sample
+  Please ask **current postdocs** for more information when:
 
-<div id="accordion6">
-<h3>Project Codes</h3>
+  - encountering issues with instruments that you are unable to fix (i.e. Biotage and LCMS)
+  - looking for quotes on lab equipment, etc.
+  - you need help with NMR or mass spectrometry instruments in SoP
+  - you need to replace the argon cylinder in the lab
+  - you need to have hazardous chemical waste (including silica) removed
+  - you need a 19F NMR spectra for a sample
+
+<div id="accordion8">
+  <h3>Project Codes</h3>
   <div id="link" markdown="1">
 
-- Core: Project 549163, Award 156780 <-- don't use this from now on for consumables.  
-- Discretionary: Project 549163, Award 156782.  
-- Dmitrij: Project 552026, Award 156780, Task 100.  
-- Yuhang: Project 564082, Award 177365, Task 100.
-- Tom: Project: 566966, Award 180330. Now use 531853.100.156535 and quote "T.Knight (566966)"
-- Daniel: Project 570934, Award 184398, Task 100
-- Antibiotics UK: Project 568406, Award 183633
-- EPSRC/IAA/KEIF Generative (Ed): Project 571160, Award 174591
-- Yinuo: Project 571228, Award 177365, Task 100
-- Gates/SGC Contraceptives grant: Project 572553, Award 184940
-- Chemistry MRes Student Spending: Project 574868, Award 177365
-- READDI-AViDD: Project 575169 (SoP) or 575170 (LMCB), Award 185702
-- Kangping: Project 575864, Award 177365, Task 100
-- Mohsen: Project 575863, Award 177365, Task 100
-- Shared G25 Consumables: Project 577764, Award 156780, Task 100 (except for ISD projects (Tasks 2001, 2002C and 2002R) and buildings projects which are linked to Task 1000)
-- Evans Mainsah AREF Fellowship: Project 579579, Award 187158
-- PBC Dept (only for Mat, who keeps forgetting what this is): 502704.100.156780
+  - Core: Project 549163, Award 156780 <-- don't use this from now on for consumables.  
+  - Discretionary: Project 549163, Award 156782.  
+  - Dmitrij: Project 552026, Award 156780, Task 100.  
+  - Yuhang: Project 564082, Award 177365, Task 100.
+  - Tom: Project: 566966, Award 180330. Now use 531853.100.156535 and quote "T.Knight (566966)"
+  - Daniel: Project 570934, Award 184398, Task 100
+  - Antibiotics UK: Project 568406, Award 183633
+  - EPSRC/IAA/KEIF Generative (Ed): Project 571160, Award 174591
+  - Yinuo: Project 571228, Award 177365, Task 100
+  - Gates/SGC Contraceptives grant: Project 572553, Award 184940
+  - Chemistry MRes Student Spending: Project 574868, Award 177365
+  - READDI-AViDD: Project 575169 (SoP) or 575170 (LMCB), Award 185702
+  - Kangping: Project 575864, Award 177365, Task 100
+  - Mohsen: Project 575863, Award 177365, Task 100
+  - Shared G25 Consumables: Project 577764, Award 156780, Task 100 (except for ISD projects (Tasks 2001, 2002C and 2002R) and buildings projects which are linked to Task 1000)
+  - Evans Mainsah AREF Fellowship: Project 579579, Award 187158
+  - PBC Dept (only for Mat, who keeps forgetting what this is): 502704.100.156780
+  - Faculty Fund Protein Science Initiative: Project 581304, Award 156780, Task 100
+  - New BMGF/SGC contraceptives grant: Project 589420 Award 190266
+  - Ruochong: Project 593302, Award 177365, Task 100
+  - Tres Cantos Open Lab Foundation / Yinuo: Project 593446, Award 191532, Task 100
 
-</div>
+  </div>
 </div>
 
 ### Chemistry Resources
 
-<div id="accordion7">
+<div id="accordion9">
 <h3>Useful Web Resources</h3>
   <div id="link" markdown="1">
 

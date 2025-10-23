@@ -21,13 +21,13 @@ layout: profile
 
 Mat Todd was born in Manchester, England. He was educated at Cambridge University where he obtained an MA in Natural Sciences in 1995 and a PhD in organic chemistry (with Chris Abell) in 1999. He was then a Wellcome Trust postdoc at The University of California, Berkeley (99-00), a College Fellow back at New Hall (now Murray Edwards) College, Cambridge University (00-01), a Lecturer in Chemistry at Queen Mary, University of London (01-05) and between 2005 and 2018 was at the School of Chemistry, The University of Sydney where he moved from Lecturer to Associate Professor. He is now Professor and Chair of Drug Discovery at University College London (2018-present).
 
-His research interests include the development of new ways to make molecules, particularly how to make chiral molecules with new catalysts. He is also interested in making metal complexes that do unusual things when they meet biological molecules or metal ions. His lab motto is _To make the right molecule in the right place at the right time_, and his students are currently trying to work out what this means.
+He has a significant interest in open science, and how it may be used to accelerate research, with particular emphasis on open source discovery of new medicines. He founded and currently leads several open science consortia such as [Open Source Malaria (OSM)](http://opensourcemalaria.org/) (see the group's research page) and is a founder of a broader [Open Source Pharma](http://www.opensourcepharma.net/) movement. He is a member of the Structural Genomics Consortium and leads the Open Chemistry Networks initiative. With Tim Willson of UNC Chapel Hill he leads the medicinal chemistry core of the open [READDI-AViDD antiviral discovery project](https://readdi-ac.org/). In 2011 he was awarded a New South Wales Scientist of the Year award in the Emerging Research category for his work in open science and in 2012 the OSM consortium was awarded one of three Wellcome Trust/Google/PLoS Accelerating Science Awards. For his open source research, Mat was selected for the Medicine Maker's Power List in [2017](https://themedicinemaker.com/power-list/2017/) and 2018. He is on the Editorial Boards of PLoS One, ChemistryOpen and Nature Scientific Reports. He has been a sabbatical visitor at Stanford, UCSF, the Broad Institute and [Pembroke College, Oxford](https://www.pmb.ox.ac.uk/fellows-staff/profiles/dr-matthew-todd). He lives in Greenwich, London, with his wife and two children. He is related to [Trevor Horn](https://en.wikipedia.org/wiki/Trevor_Horn) and, apparently, [Samuel Crompton](https://en.wikipedia.org/wiki/Samuel_Crompton).
 
-He has a significant interest in open science, and how it may be used to accelerate research, with particular emphasis on open source discovery of new medicines. He founded and currently leads several open science consortia such as [Open Source Malaria (OSM)](http://opensourcemalaria.org/) (see the group's research page) and is a founder of a broader [Open Source Pharma](http://www.opensourcepharma.net/) movement. In 2011 he was awarded a New South Wales Scientist of the Year award in the Emerging Research category for his work in open science and in 2012 the OSM consortium was awarded one of three Wellcome Trust/Google/PLoS Accelerating Science Awards. For his open source research, Mat was selected for the Medicine Maker's Power List in [2017](https://themedicinemaker.com/power-list/2017/) and 2018. He is on the Editorial Boards of PLoS One, ChemistryOpen and Nature Scientific Reports. He has been a sabbatical visitor at Stanford, UCSF, the Broad Institute and [Pembroke College, Oxford](https://www.pmb.ox.ac.uk/fellows-staff/profiles/dr-matthew-todd). He lives in Greenwich, London, with his wife and two children. He is related to [Trevor Horn](https://en.wikipedia.org/wiki/Trevor_Horn) and, apparently, [Samuel Crompton](https://en.wikipedia.org/wiki/Samuel_Crompton).
+His lab motto is _To make the right molecule in the right place at the right time_, and his students are currently trying to work out what this means.
 
 <hr class="rule">
 
-<h2>Executive Assistant</h2>
+<h2>Research Support</h2>
 
 <div class="row">
 <div class="column">
@@ -41,26 +41,9 @@ He has a significant interest in open science, and how it may be used to acceler
       <a href="mailto:f.marquet@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
       </div>
     </div>
-   </div>
- </div>
-
-<h2>Lab Manager</h2>
-
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/.jpg" class="myimg">
-    <h4>Ben Rowsell</h4>
-    <p class="title">Lab Manager (UCL) <br>2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href=""><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:b.rowsell@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
-      </div>
-    </div>
-   </div>
- </div>
-
+</div>
+</div>
+ 
 <h2>Postdoctoral Research Associates</h2>
 
 <div class="row">
@@ -79,115 +62,93 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Alvaro Magalhaes.jpg" class="myimg" />
-    <h4>Dr Alvaro Magalhaes</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/alvaro-magalhaes/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/alvarofmagalha"><i class="fa fa-twitter"></i></a>
-      <a href="https://github.com/alvaro-magalhaes"><i class="fa fa-github"></i></a>
-      <a href="mailto:a.magalhaes@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
-    </div>
-</div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Rebecka Isaksson.jpg" class="myimg" />
+    <img src="./pics/people/Rebecka_Isaksson2.jpg" class="myimg" />
     <h4>Dr Rebecka Isaksson</h4>
     <p class="title">Postdoc (UCL) <br />2023-present</p>
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/rebecka-isaksson-74418618/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
        <a href="https://twitter.com/IsakssonRebecka"><i class="fa fa-twitter"></i></a>
-      <a href="mailto:r.isaksson@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+       <a href="https://github.com/RebeckaIsaksson"><i class="fa fa-github"></i></a>
+       <a href="mailto:r.isaksson@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+       </div>
     </div>
-    </div>
-  </div>
+</div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Hadia Almahli.jpg" class="myimg" />
-    <h4>Dr Hadia Almahli</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
+    <img src="./pics/people/DanielleHanke.jpg" class="myimg" />
+    <h4>Dr Danielle Hanke</h4>
+    <p class="title">Postdoc (UCL) <br />2025-present</p>
     <p></p>
     <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/hadia-almahli-09588656/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/HAlmahli"><i class="fa fa-twitter"></i></a>
-      <a href="mailto:h.almahli@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+      <a href=""><i class="fa fa-linkedin"></i></a>
+       <a href=""><i class="fa fa-twitter"></i></a>
+       <a href=""><i class="fa fa-github"></i></a>
+       <a href="mailto:"><i class="fa fa-envelope"></i></a>  
+      </div>
     </div>
-    </div>
   </div>
+</div>
+
+<h2>SGC Protein Science Team</h2>
+
+<div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Xin.jpg" class="myimg" />
-    <h4>Dr Xin Qiu</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
+    <img src="./pics/people/Nicola.jpeg" class="myimg">
+    <h4>Dr Nicola Burgess-Brown</h4>
+    <p class="title">Visiting Scientist <br>2024-present</p>
     <p></p>
     <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/昕-xin-邱-qiu-804a1314a/"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:ucnvqiu@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+      <a href="https://www.linkedin.com/in/nicola-burgess-brown-6488487/"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:n.burgess-brown@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
       </div>
-      </div>
-  </div>
+     </div>
+</div>
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Gui.png" class="myimg" />
-    <h4>Dr Guilherme Fernandes</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/guilherme-fernandes-40400a93/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/guiiiifelipe"><i class="fa fa-twitter"></i></a>
-      <a href="mailto:guilherme.fernandes@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-      </div>
-  </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Evan1.png" class="myimg" />
-    <h4>Dr Evans Mainsah Ngandung</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="mailto:e.ngandung@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-      </div>
-  </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Jelena.jpeg" class="myimg" />
+    <img src="./pics/people/Jelena2.jpeg" class="myimg" />
     <h4>Dr Jelena (Habjanič) Thies</h4>
     <p class="title">Postdoc (UCL) <br />2023-present</p>
     <p></p>
     <div style="margin: 15px 0;">
       <a href="https://www.linkedin.com/in/jelenathies/"><i class="fa fa-linkedin"></i></a>
       <a href="mailto:j.habjanic@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-     </div>
-   </div>
+      </div>
+    </div>
+</div>
+<div class="column">
+  <div class="card">
+    <img src="" class="myimg" />
+    <h4>Jodie Taylor         </h4>
+    <p class="title">Research Assistant (UCL) <br />2024-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/jodie-taylor-457359180/"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:jodie.taylor@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+    </div>
   </div>
 </div>
-
-
-
+<div class="column">
+  <div class="card">
+    <img src="" class="myimg" />
+    <h4>Shayla Venkaya</h4>
+    <p class="title">Research Assistant (UCL) <br />2024-present</p>
+    <p></p>
+    <div style="margin: 15px 0;">
+      <a href="https://www.linkedin.com/in/shayla-venkaya-357a84106/"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:s.venkaya@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+    </div>
+  </div>
+</div>
+</div>
 
 <h2>PhD Students</h2>
 
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Dmitrij_Melechov.jpg" class="myimg">
-    <h4>Dmitrij Melechov</h4>
-    <p class="title">PhD Student (UCL) <br>2019-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://github.com/dmitrij176"><i class="fa fa-github"></i></a>
-      <a href="mailto:dmitrij.melechov.17@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
-    </div>
-</div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Yuhang_Wang2.jpg" class="myimg">
+    <img src="./pics/people/Yuhang_Wang3.jpg" class="myimg">
     <h4>Yuhang Wang</h4>
     <p class="title">PhD Student (UCL) <br>2019-present</p>
     <p></p>
@@ -199,21 +160,7 @@ He has a significant interest in open science, and how it may be used to acceler
     </div>
   </div>
 </div>
- <div class="column">
-    <div class="card">
-       <img src="./pics/people/Tom_Knight.jpg" class="myimg">
-      <h4>Thomas Knight</h4>
-      <p class="title">PhD Student (UCL) <br>2021-present</p>
-      <p></p>
-      <div style="margin: 15px 0;">
-        <a href="https://www.linkedin.com/in/thomas-knight-340784151/"><i class="fa fa-linkedin"></i></a>  
-        <a href="https://twitter.com/tommbk97"><i class="fa fa-twitter"></i></a>
-        <a href="https://github.com/TomkUCL"><i class="fa fa-github"></i></a>
-        <a href="mailto:thomas.knight.21@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-    </div>
-  </div>
-  <div class="column">
+<div class="column">
     <div class="card">
        <img src="./pics/people/Yinuo3.jpg" class="myimg">
       <h4>Yinuo Wang</h4>
@@ -241,7 +188,7 @@ He has a significant interest in open science, and how it may be used to acceler
 </div>
   <div class="column">
   <div class="card">
-    <img src="./pics/people/Mohsen_Alamoudi.jpg" class="myimg">
+    <img src="./pics/people/Mohsen_Alamoudi2.jpg" class="myimg">
     <h4>Mohsen Alamoudi</h4>
     <p class="title">PhD Student (UCL) <br>2023-present</p>
     <p></p>
@@ -249,38 +196,30 @@ He has a significant interest in open science, and how it may be used to acceler
       <a href="https://www.linkedin.com/in/mohsenalamoudi"><i class="fa fa-linkedin"></i></a>
       <a href="https://twitter.com/Mo777sen"><i class="fa fa-twitter"></i></a>
       <a href="mailto:mohsen.alamoudi.22@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
+      </div>
+     </div>
   </div>
-</div>
-  <div class="column">
+<div class="column">
   <div class="card">
-    <img src="./pics/people/Wellington_TheToddGroup.jpg"  class="myimg">
-    <h4>Wellington da Silva</h4>
-    <p class="title">PhD Student (University of Campinas) <br>2023-present</p>
+    <img src="./pics/people/Edward2.jpeg" class="myimg">
+    <h4>Ruochong Xu</h4>
+    <p class="title">PhD Student (UCL) <br>2025-present</p>
     <p></p>
     <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/wellingtondasilva1804/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://github.com/wellingtondasilva1804"><i class="fa fa-github"></i></a>
-      <a href="mailto:wellington.silva@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-    </div>
+    <a href="https://uk.linkedin.com/in/ruochong-xu-725a33334?original_referer=https%3A%2F%2Fwww.google.com%2F"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:ruochong.xu.24@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+     </div>
   </div>
 </div>
-
+</div>
 
 <h2>MRes Students</h2>
 
 <div class="row">
 <div class="column">
   <div class="card">
-    <img src="./pics/people/Margo Valentine.jpg" class="myimg">
-    <h4>Margo Valentine</h4>
-    <p class="title">MRes Student (UCL) <br>2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/margarita-valentine-765903235/"><i class="fa fa-linkedin"></i></a>
-      <a href=""><i class="fa fa-github"></i></a>
-      <a href="mailto:mailto:margarita.valentine.23@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+    
+    
      </div>
    </div>
   </div>

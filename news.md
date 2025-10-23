@@ -2,6 +2,57 @@
 layout: default
 ---
 
+**July 31rd 2025** Yinuo passed her PhD Viva with minor corrections. Congrats Dr.Wang!
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="./news items supporting info/Yinuoviva1.jpeg" style="width: 30%;">
+  <img src="./news items supporting info/yinuoviva2.jpeg" style="width: 30%;">
+  <img src="./news items supporting info/YinuoExaminers.jpg" style="width: 30%;">
+</div>
+
+
+**Dec 11th 2024** We head to the British Museum for the Silk Roads exhibition, then to the pub for a Science Jeopardy quiz.
+<center><img src="./news items supporting info/British Museum Trip 2024.jpg" width="50%"><img src="./news items supporting info/Jeopardy Pub Quiz.jpg" width="50%"></center>
+
+**Nov 5th 2024** Mat hosted an SGC-Industry event at the Wellcome Trust on the potential future impact of AI and machine learning on drug discovery, written up [here](https://www.ucl.ac.uk/lifesciences-faculty/news/2024/dec/future-impact-machine-learning-drug-discovery).
+
+**Sept 19th 2024** Eve Carter featured in an [article](https://www.thesgc.org/blogs/celebrating-impact-sgc-postdocs-open-science) from the Structural Genomics Consortium celebrating Postdoc Appreciation Week.
+
+**Sept 11th 2024** Congratulations to the group's cohort of MSc Drug Discovery and Pharma Management students (Xin, Annabella, Ulfa, Ryan, Natnaree and Marc) on their successful presentations and the end of their course! Good luck to them with whatever is next!
+<center><img src="./news items supporting info/MSc Drug Discovery2.jpeg" width="40%"></center>
+
+**Sept 5th 2024** Eve, Gui, Kangping, and Yinuo enjoyed presenting their work at the XXVIII EFMC International Symposium on Medicinal Chemistry ([EFMC-ISMC 2024](https://www.efmc-ismc.org/)), hosted in Rome, Italy.
+<center><img src="./news items supporting info/EFMC-ISMC2024.png" width="75%"></center>
+
+**Sept 2nd 2024** Mat features in a [Chemistry World article](https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article) entitled "Will Open Science Change Chemistry?".
+
+**August 28th 2024** Hadia presented her research at the [GP2A](https://gp2a.org/) 32nd annual conference hosted by the University of Coimbra.
+<center><img src="./news items supporting info/Hadia 2nd annual conference-GP2A 2024.jpg" width="40%"></center>
+
+**August 20th 2024** Hadia presented her research at the PDRA Symposium at UCL Chemistry.
+<center><img src="./news items supporting info/Hadia PDRA Symposium at UCL Chemistry.jpg" width="75%"></center>
+
+**July 31st 2024** Wellington's supervisor from Unicamp, Brazil, Prof Carlos Roque Duarte Correia, dropped by to say hello and see the lab.
+<center><img src="./news items supporting info/Prof Carlos Roque Duarte Correia.jpg" width="40%"></center>
+
+**July 24th 2024** As part of his project, Mohsen has been spending time with the SGC in Toronto. Here he is running an SPR using Biacore T200 to see if his compounds have a binder against a plasmodium WDR.
+<center><img src="./news items supporting info/Mohsen_SGC.png" width="90%"></center>
+
+**July 20th 2024** Eve presented her research at the Gordon Research Seminar on Mammalian Reproduction in Barcelona.
+<center><img src="./news items supporting info/Eve-Gordon Research Seminar on Mammalian Reproduction.jpg" width="40%"></center>
+
+**July 8th 2024** In line with our strong commitment to sustainability, we are pleased to announce that we have received the LEAF Bronze Award. Learn more about the UCL LEAF programme [here](https://www.ucl.ac.uk/sustainable/take-action/staff-action/leaf-laboratory-efficiency-assessment-framework).
+
+**July 6th 2024** Yinuo had a fantastic time at the ULLA  Summer School 2024 in Leiden University  — Shaping the Future of Drug Research: From Design to Therapy! It was an amazing week of talks and a great opportunity to network with a diverse range of PhD students from 10 different universities.
+<center><img src="./news items supporting info/Yinuo_ULLA2.png" width="90%"></center>
+
+**June 28th 2024** We say farewell to our visitor from the State University of Campinas, Wellington Da Silva, who has been working on marinoquinolines as part of Open Source Malaria. Wellington is going back to ace his PhD in Brazil and hopefully we'll see him again.
+<center><img src="./news items supporting info/Goodbye_Wellington2.jpg" width="75%"></center>
+
+**June 3rd 2024** Yinuo has been awarded from the UCL FLS Conference Fund to present her research at the XXVIII EFMC International Symposium on Medicinal Chemistry in September.
+
+**May 21st 2024** Today we said farewell to BVGH Fellow Evans Mainsah, and look forward to visiting him in his home town of Buea, Cameroon, where he is seeking new medicines for the treatment of river blindness (onchocerciasis).
+<center><img src="./pics/people/goodbye_evans.png" width="75%"></center>
+
 **Oct 26th 2023** An Open Science Award. The [MycetOS](https://github.com/OpenSourceMycetoma) drug discovery project, founded by Mat, was awarded the [Open Research prize by the Erasmus University of Rotterdam](https://www.eur.nl/en/news/winners-announced-eur-open-and-responsible-science-awards). The project uses open-source research methods to find new potential treatments for the neglected tropical disease, mycetoma, without secrecy or patents. Contributors to the project include Mat's PhD student Dmitrij Melechov, staff at Erasmus University and the Drugs for Neglected Diseases initiative and many others, such as the UK school children who have made new candidate molecules and, most recently, a cohort of our very own MSc Drug Discovery students in the School of Pharmacy in 2023.
 
 **June 7th 2022** Mat contributed to a report on open data sharing practices during the COVID pandemic, that was [published today](https://zenodo.org/record/6620854#.YtknTZDMI-Q) by Wellcome, UKRI and the Bill and Melinda Gates Foundation.

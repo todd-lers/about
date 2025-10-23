@@ -19,7 +19,7 @@
   <img src="./pics/events/2023 Hyde and Holland Park trip/IMG_7401.jpeg" class="myimg" />
   </div>
 
-  </div>
+ </div>
 
 </div>
 

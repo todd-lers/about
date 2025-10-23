@@ -9,6 +9,16 @@ layout: profile
 
 |Name|Position|    Year    |Now|
 |:------:|:------:|:------:|:------:|
+|**Dr Dr Rahman Saleem** <br/><img src="./pics/people/RSaleem.jpg" class="myimga"> <br/>|READDI-AViDD Project Coordinator (UCL School of Pharmacy)|2023-2025|LUMS University, Pakistan|
+|**Dr Alvaro Magalhaes** <br/><img src="./pics/people/Alvaro Magalhaes.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/alvaro-magalhaes/"><i class="fa fa-linkedin"></i></a>|Postdoc (UCL School of Pharmacy)|2023-2025|
+|**Dr Hadia Almahli** <br/><img src="./pics/people/Hadia Almahli.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/hadia-almahli-09588656/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>|Postdoc (UCL School of Pharmacy)|2023-2025|Assistant Professor at Bangor University|
+|**Dr Xin Qiu** <br/><img src="./pics/people/Xin.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/昕-xin-邱-qiu-804a1314a/"><i class="fa fa-linkedin"></i></a>|Postdoc (UCL School of Pharmacy)|2023-2025|
+|**Dr Guilherme Fernandes** <br/><img src="./pics/people/Gui2.png" class="myimga"> <br/><a href="https://www.linkedin.com/in/guilherme-fernandes-40400a93/"><i class="fa fa-linkedin"></i></a>|Postdoc (UCL School of Pharmacy)|2023-2025|Senior Scientist at The Francis Crick Institute|
+|**Dr Wenjie Chen** <br/><img src="./pics/people/wenjie.jpg" class="myimga"> <br/>|Postdoc (UCL School of Pharmacy)|2023-2025|
+|**Dr Dmitrij Melechov** <br/><img src="./pics/people/Dmitrij_Melechov.jpg" class="myimga"> <br/>|PhD (UCL School of Pharmacy)|2019-2024|
+|**Thomas Knight** <br/><img src="./pics/people/Tom_Knight.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/thomas-knight-340784151/"><i class="fa fa-linkedin"></i></a>|PhD Student (UCL School of Pharmacy)|2021-2024|
+|**Wellington Da Silva** <br/><img src="./pics/people/Wellington_TheToddGroup.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/wellingtondasilva1804/"><i class="fa fa-linkedin"></i></a>|Visiting Researcher (UCL Pharmacy)|2023-2024|PhD Student, State University of Campinas|
+|**Dr Evans Mainsah Ngandung** <br/><img src="./pics/people/Evan1.png" class="myimga"> <br/>|Postdoctoral Research Associate (UCL School of Pharmacy)|2023-2024|Department of Chemistry and ANDI Centre of Excellence for Onchocerciasis Drug Research, University of Buea|
 |**Yewon Oh** <br/>|MPharm Student (UCL)|2022-2023|
 |**Ju Hyeong Kim (Andy)** <br/>|MPharm Student (UCL)|2022-2023|
 |**Zhaohang Feng** <br/><img src="./pics/people/Zhaohang Feng.jpg" class="myimga"> <br/><a href="https://www.linkedin.com/in/yiwei-wang-65aab6251"><i class="fa fa-linkedin"></i></a>|MRes Student (UCL Pharmacy)|2022-2023|

@@ -86,7 +86,7 @@ layout: profile
 |**Swapnil Anam**|PhD|||
 |**Jo Delbridge**|Honours|2014|Australian Government Department of Health|
 |**Katrina Badiola** <br/><a href="https://www.linkedin.com/in/katrina-badiola-3a949a47"><i class="fa fa-linkedin"></i></a>|Honours|2013|Senior Scientist, Pharmaron|
-|**Murray Robertson** <br/><a href="https://www.linkedin.com/in/murray-robertson-58b32939"><i class="fa fa-linkedin"></i></a>|Postdoctoral Fellow|2011-13|Research Fellow, CMAC Future Manufacturing Research Hub|
+|**Murray Robertson** <br/><a href="https://www.linkedin.com/in/murray-robertson-58b32939"><i class="fa fa-linkedin"></i></a>|Postdoctoral Fellow|2011-13|Associate Director for Digital CMC Research Operations, Continuous Manufacturing and Advanced Crystallisation (CMAC) Future Manufacturing Research Hub|
 |**Mingfeng Yu** <br/><a href="https://www.linkedin.com/in/mingfeng-felix-yu-b8591636/"><i class="fa fa-linkedin"></i></a>|PhD|2009-13|Postdoctoral Fellow, University of South Australia|
 |**Nilupa Amarasinghe** <br/><a href="https://www.linkedin.com/in/nilupa-amarasinghe-9476b515/"><i class="fa fa-linkedin"></i></a>|PhD|2009-13|Senior Lecturer, [University of Peradeniya](http://ahs.pdn.ac.lk/dept_and_unit/Pharmacy_/acd_staff/DrNilupaAmarasinghe)|
 |**Althea Tsang** <br/><a href="https://www.linkedin.com/in/althea-tsang-145a3382/"><i class="fa fa-linkedin"></i></a>|PhD|2009-13|Patent Attorney at [Davies Collison Cave]((http://www.davies.com.au/people/althea-tsang))|

@@ -91,21 +91,32 @@
     <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 flex-grow">
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
             
-            <!-- 侧边栏 (Sidebar) -->
+             <!-- 侧边栏 (Sidebar) -->
             <aside class="lg:col-span-3 space-y-8 border-r border-slate-100 pr-4 hidden lg:block">
+                
+                <!-- 模块 1: Contact (已替换 Affiliations) -->
                 <div>
-                    <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 border-b pb-2">Affiliations</h3>
-                    <ul class="space-y-3 text-sm text-slate-600">
-                        <li class="flex items-start gap-2"><span class="text-ucl-blue font-bold">›</span> UCL School of Pharmacy</li>
-                        <li class="flex items-start gap-2"><span class="text-ucl-blue font-bold">›</span> University of Sydney</li>
-                        <li class="flex items-start gap-2"><span class="text-ucl-blue font-bold">›</span> Open Source Malaria</li>
-                    </ul>
+                    <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 border-b pb-2">Contact</h3>
+                    <address class="text-sm text-slate-600 not-italic space-y-3">
+                        <div>
+                            <p class="font-bold text-slate-900">UCL School of Pharmacy</p>
+                            <p>29-39 Brunswick Square<br>London, WC1N 1AX<br>United Kingdom</p>
+                        </div>
+                        
+                        <div class="pt-2 border-t border-slate-100">
+                            <p class="text-xs text-slate-400 uppercase font-bold mb-1">Email</p>
+                            <a href="mailto:matthew.todd@ucl.ac.uk" class="text-ucl-blue hover:underline block truncate transition">matthew.todd@ucl.ac.uk</a>
+                        </div>
+                    </address>
                 </div>
+
+                <!-- 模块 2: Quick Links -->
                 <div>
                     <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 border-b pb-2">Quick Links</h3>
                     <div class="space-y-2">
-                        <a href="./current.html" class="block text-sm text-slate-600 hover:text-ucl-blue">Meet the Team</a>
-                        <a href="./publications.html" class="block text-sm text-slate-600 hover:text-ucl-blue">Selected Papers</a>
+                        <a href="./current.html" class="block text-sm text-slate-600 hover:text-ucl-blue transition">Meet the Team</a>
+                        <a href="./publications.html" class="block text-sm text-slate-600 hover:text-ucl-blue transition">Selected Papers</a>
+                        <a href="http://opensourcemalaria.org/" target="_blank" class="block text-sm text-slate-600 hover:text-ucl-blue transition">Open Source Malaria</a>
                     </div>
                 </div>
             </aside>

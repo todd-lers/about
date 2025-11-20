@@ -1,179 +1,137 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<style>
-
-hr.rule {
-    border: none;
-    height: 3px;
-    /* Set the hr color */
-    color: #bbb; /* old IE */
-    background-color: #bbb; /* Modern Browsers */
-}
-
-hr.rule2 {
-    border: none;
-    height: 2px;
-    /* Set the hr color */
-    color: #bbb; /* old IE */
-    background-color: #bbb; /* Modern Browsers */
-}
-
-#lastmodified {
-  color:white;
-}
-
-</style>
-
-{% seo %}
-  </head>
-
-  <body>
-
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-          {% endif %}
-
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-
-    <div class="navbar">
-      <a href="./">Home</a>
-      <a href="./research.html">Research</a>
-      <div class="dropdown">
-          <button class="dropbtn">People
-            <i class="fa fa-caret-down"></i>
-          </button>
-          <div class="dropdown-content">
-            <a href="./current.html">Current Members</a>
-            <a href="./past.html">Past Members</a>
-            <a href="./photo-gallery.html">Group Pictures</a>
-          </div>
-      </div>
-      <a href="./publications.html">Publications</a>
-      <a href="./idler.html">Idler Compounds</a>
-      <a href="./news.html">News</a>
-      <a href="./internal.html">Internal</a>
-    </div>
-
-        </header>
-    </div>
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: "The Todd Group" }}</title>
+    
+    <!-- Tailwind CSS (样式引擎) -->
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+    
+    <!-- Fonts: Merriweather (标题) & Lato (正文) -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+    
+    <style>
+        h1, h2, h3, h4, h5 { font-family: 'Merriweather', serif; }
+        body { font-family: 'Lato', sans-serif; }
+    </style>
+    
     <script>
-//Get the button
-var mybutton = document.getElementById("myBtn");
-
-// When the user scrolls down 100px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-</script>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-    <div id="lastmodified">
-        <script
-          type="text/JavaScript"
-          language="JavaScript">
-        <!--
-        //
-        // format date as dd-mmm-yy
-        // example: 12-Jan-99
-        //
-        function date_ddmmmyy(date)
-        {
-          var d = date.getDate();
-          var m = date.getMonth() + 1;
-          var y = date.getYear();
-          // handle different year values
-          // returned by IE and NS in
-          // the year 2000.
-          if(y >= 2000)
-          {
-            y -= 2000;
-          }
-          if(y >= 100)
-          {
-            y -= 100;
-          }
-          // could use splitString() here
-          // but the following method is
-          // more compatible
-          var mmm =
-            ( 1==m)?'Jan':( 2==m)?'Feb':(3==m)?'Mar':
-            ( 4==m)?'Apr':( 5==m)?'May':(6==m)?'Jun':
-            ( 7==m)?'Jul':( 8==m)?'Aug':(9==m)?'Sep':
-            (10==m)?'Oct':(11==m)?'Nov':'Dec';
-          return "" +
-            (d<10?"0"+d:d) + "-" +
-            mmm + "-" +
-            (y<10?"0"+y:y);
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'ucl-blue': '#002855', // UCL 深蓝
+                        'ucl-accent': '#D4AF37', // 金色点缀
+                        'ucl-dark': '#0d1117', 
+                    }
+                }
+            }
         }
-        //
-        // get last modified date of the
-        // current document.
-        //
-        function date_lastmodified()
-        {
-          var lmd = document.lastModified;
-          var s   = "Unknown";
-          var d1;
-          // check if we have a valid date
-          // before proceeding
-          if(0 != (d1=Date.parse(lmd)))
-          {
-            s = "" + date_ddmmmyy(new Date(d1));
-          }
-          return s;
-        }
-        //
-        // finally display the last modified date
-        // as DD-MMM-YY
-        //
-        document.write(
-          "This site was updated on " +
-          date_lastmodified() );
-        // -->
-        </script>
+    </script>
+</head>
+<body class="bg-white text-slate-800 flex flex-col min-h-screen border-t-4 border-ucl-blue">
+
+    <!-- 顶部工具栏 (Top Bar) -->
+    <div class="bg-slate-100 border-b border-slate-200 py-2 px-4 text-xs text-slate-600">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <span class="hidden sm:inline">University College London · School of Pharmacy</span>
+            <span class="sm:hidden">UCL School of Pharmacy</span>
+            <div class="flex gap-4">
+                <a href="https://www.ucl.ac.uk" class="hover:text-ucl-blue transition">UCL Home</a>
+                <a href="./internal.html" class="font-bold text-ucl-blue hover:text-ucl-accent transition">Internal (Intranet)</a>
+            </div>
+        </div>
     </div>
 
-      </footer>
-    </div>
+    <!-- 主导航栏 (Main Nav) -->
+    <nav class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-20">
+                <!-- Logo 和标题 -->
+                <div class="flex-shrink-0 flex items-center gap-3">
+                    <a href="./" class="flex items-center gap-3 group">
+                        <div class="h-10 w-10 bg-ucl-blue text-white flex items-center justify-center font-serif font-bold rounded-sm group-hover:bg-ucl-accent transition">T</div>
+                        <div class="flex flex-col">
+                            <span class="font-serif text-xl font-bold text-slate-900 leading-none">The Todd Group</span>
+                            <span class="text-xs uppercase tracking-widest text-slate-500 mt-1 hidden lg:block">Open Source Drug Discovery</span>
+                        </div>
+                    </a>
+                </div>
+                
+                <!-- 桌面菜单 (Desktop Menu) -->
+                <div class="hidden md:flex space-x-5 items-center">
+                    <a href="./" class="text-sm font-bold text-slate-700 hover:text-ucl-blue transition-all py-2">HOME</a>
+                    <a href="./research.html" class="text-sm font-medium text-slate-600 hover:text-ucl-blue transition-all py-2">RESEARCH</a>
+                    
+                    <!-- People 下拉菜单 -->
+                    <div class="relative group z-50">
+                        <button class="flex items-center gap-1 text-sm font-medium text-slate-600 hover:text-ucl-blue transition-all py-2 focus:outline-none">
+                            PEOPLE
+                            <svg class="w-3 h-3 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </button>
+                        <!-- 下拉内容 -->
+                        <div class="absolute left-0 w-48 bg-white border border-slate-200 shadow-xl rounded-sm hidden group-hover:block pt-1">
+                            <div class="bg-white">
+                                <a href="./current.html" class="block px-4 py-3 text-sm text-slate-600 hover:bg-slate-50 hover:text-ucl-blue border-b border-slate-100">Current Members</a>
+                                <a href="./past.html" class="block px-4 py-3 text-sm text-slate-600 hover:bg-slate-50 hover:text-ucl-blue">Past Members</a>
+                            </div>
+                        </div>
+                    </div>
 
-  </body>
+                    <a href="./publications.html" class="text-sm font-medium text-slate-600 hover:text-ucl-blue transition-all py-2">PUBLICATIONS</a>
+                    <a href="./news.html" class="text-sm font-medium text-slate-600 hover:text-ucl-blue transition-all py-2">NEWS</a>
+                    <a href="./idler.html" class="text-sm font-medium text-slate-600 hover:text-ucl-blue transition-all py-2">IDLER COMPOUNDS</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 主内容区 (Main Content) -->
+    <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 flex-grow">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+            
+            <!-- 侧边栏 (Sidebar) -->
+            <aside class="lg:col-span-3 space-y-8 border-r border-slate-100 pr-4 hidden lg:block">
+                <div>
+                    <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 border-b pb-2">Affiliations</h3>
+                    <ul class="space-y-3 text-sm text-slate-600">
+                        <li class="flex items-start gap-2"><span class="text-ucl-blue font-bold">›</span> UCL School of Pharmacy</li>
+                        <li class="flex items-start gap-2"><span class="text-ucl-blue font-bold">›</span> University of Sydney</li>
+                        <li class="flex items-start gap-2"><span class="text-ucl-blue font-bold">›</span> Open Source Malaria</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4 border-b pb-2">Quick Links</h3>
+                    <div class="space-y-2">
+                        <a href="./current.html" class="block text-sm text-slate-600 hover:text-ucl-blue">Meet the Team</a>
+                        <a href="./publications.html" class="block text-sm text-slate-600 hover:text-ucl-blue">Selected Papers</a>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- 文章内容区 (Article) -->
+            <div class="lg:col-span-9">
+                <!-- 这里的 class 负责排版你的 markdown 内容 -->
+                <article class="prose prose-slate max-w-none prose-headings:font-serif prose-headings:text-ucl-blue prose-a:text-ucl-blue prose-img:rounded-sm prose-img:shadow-sm">
+                    {{ content }}
+                </article>
+            </div>
+        </div>
+    </main>
+
+    <!-- 页脚 (Footer) -->
+    <footer class="bg-ucl-dark text-white py-8 border-t-4 border-ucl-accent mt-auto">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h5 class="font-serif text-lg font-bold mb-2">The Todd Group</h5>
+            <p class="text-sm text-slate-400 mb-6">
+                University College London · School of Pharmacy · 29-39 Brunswick Square · London
+            </p>
+            <p class="text-xs text-slate-600">
+                &copy; {{ site.time | date: '%Y' }} The Todd Group. Maintained by <a href="https://github.com/todd-lers" class="underline hover:text-white">todd-lers</a>.
+            </p>
+        </div>
+    </footer>
+
+</body>
 </html>

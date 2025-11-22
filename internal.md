@@ -19,7 +19,8 @@ title: Internal Portal
         <i class="fas fa-rocket text-brand-primary"></i>
         Getting Started Checklist
     </h2>
-    <div class="prose prose-slate max-w-none text-sm">
+    <!-- Removed text-sm, using default base size for readability -->
+    <div class="prose prose-slate max-w-none">
         <p>The following is a checklist of key things to do and documents for new members of the group:</p>
         <ul class="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-2">
             <li>Get a <strong>LabArchives</strong> account for experimental write-ups (invite from Mat Todd)</li>
@@ -54,11 +55,12 @@ title: Internal Portal
             <div class="space-y-4">
                 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Meetings and Reviews</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none animate-fadeIn">
+                    <!-- Changed text-sm to text-base, prose-sm to prose -->
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none animate-fadeIn">
                         <p>All students have weekly meetings with Mat in the lab. We have weekly group meetings during semester. Everyone should play an active role in any online open meetings relevant to their projects. Your lab co-workers are all fantastic sources of inspiration and ideas. All of these help with reviewing your progress, thinking about your objectives and devising experiments.</p>
                         <p>It's also important to have periodic strategy meetings where we examine the last few months' work and set targets for the coming few months. The timings of these meetings are set, approximately, by UCL Research Log. For these meetings you should come prepared with a maximum of three Powerpoint slides covering:</p>
                         <ol>
@@ -79,11 +81,11 @@ title: Internal Portal
                 </details>
 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Ways of Working</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p>Everyone has different ways of working. There are few rules.</p>
                         <p>Some people like the early morning, some people are night owls. Some people enjoy long hours, some people don’t. I’ve seen people put in long hours and get little done, and I’ve seen people do short, regimented hours (for example because of caring responsibilities) and be extraordinarily focussed and productive. I will never check on your hours, but it's my job to check on what you’ve achieved and what you’ve thought about in a given timeframe. There are some general things that can be said about working hours:</p>
                         <ol>
@@ -97,11 +99,11 @@ title: Internal Portal
                 </details>
 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Experimental Philosophy (TLC / Mass Balance / Outcomes)</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p><strong>Thin Layer Chromatography</strong></p>
                         <p>This is the most useful assay for reaction completion you will ever use. There are lots of guides online about how best to do a TLC. Remember that the chamber the plate is in needs to be saturated with solvent vapour (so put a filter paper in there), and the baseline needs to be above the level of solvent. Always do TLCs with multiple lanes (starting materials, reaction mixture and co-spots). Your spots should be small, and ideally applied with glass spotters, not plastic ones (in case plasticisers leak out). The ideal Rf values for distinguishing spots from each other and for accuracy are between values of 0.1 and 0.5. Rf values above 0.7 are useless, since spots run into each other and the Rfs just aren't accurate (because of solvent evaporation from the top of the plate). To translate a TLC into a chromatographic separation, you want your desired spot to have an Rf of 0.3-0.4. If you can separate spots on a TLC by 0.1 you should be able to isolate those spots 100% pure by either a manual column or the Biotage, with no mixed fractions. With experience you’ll get this number down from 0.1 to 0.05. Use TLC before LCMS.</p>
                         
@@ -125,11 +127,11 @@ title: Internal Portal
             <div class="space-y-4">
                 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Writing Accurately vs Writing Well</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p>When you join a lab, you will have been through a lot of education. You may feel that you can write. Most lab scientists are quickly disabused of this idea. Writing science is hard. You will find that your writing goes through a very large number of edits. Don't freak out. Don't lose confidence. We're always students of writing.</p>
                         <p>When you write something, the first thing to ensure is that it's error free. You can't be making little tiny errors that will distract your reader, like speling mistakes or annoying spaces where there shouldn't be any or repetition of words where words are not needed because words have appeared where edits should have been made. Generally speaking, don't submit anything for anyone to read (particularly Mat) if there are any simple errors in the document (i.e. things that Word can find and highlight). You may ask yourself "why do little tiny errors matter? Surely it's the substance of the writing, not the little things?" No. Errors are distracting and their presence suggests to the reader that the work has not been well thought through. It will appear cobbled together. The reader starts to doubt the quality of what they are reading.</p>
                         <p>The second thing to do when you're writing something is to make sure that the content is meaningful and correct. Sentences should appear in a logical order. Paragraphs should have a coherent theme, with new paragraphs being used for new thoughts. References should be used correctly (see elsewhere for more on this). Statements should be made that can be backed up with data. Words should be used precisely.</p>
@@ -138,11 +140,11 @@ title: Internal Portal
                 </details>
 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Consider Your Audience</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p>When you write, think about who is going to read it. How you write changes depending on your audience. For most student reports and theses your audience is someone of your level of education (e.g. another undergrad, or grad student) who is trained in your broad scientific discipline (chemistry) but who is totally unfamiliar with your project. We can call this a "same-level stranger."</p>
                         <p>Once you have a clear idea of your reader, you will be able to pitch the complexity and jargon suitably. There's no need to explain what a molecule is to a same-level stranger. But you might need to explain what a Minisci reaction is, or an alanine scan or a gametocyte.</p>
                         <p>Don't try to be too clever. Don't feel the need to include complicated terms in order to sound impressive. If your same-level stranger would not understand it, explain it. There is nothing more likely to switch your reader off than feeling confused by jargon.</p>
@@ -151,11 +153,11 @@ title: Internal Portal
                 </details>
 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Correctly Referencing the Literature</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p>You reference (or "cite") a paper so that your reader can get more details about the statement you've just made. You don't cite a paper so that your reader is taken to the paper where you got that statement from.</p>
                         <p>So for example, let's say that at the beginning of your report or thesis, you want to say "Acetyl CoA is a molecule that plays an important role in many biological processes." A statement like this really needs a reference. There are three options for you. The first is to reference a review which is on the subject of acetyl CoA and its role in biological processes. The second is to reference some major research paper, or series of papers, which have demonstrated that acetyl CoA is involved in biological processes, and which have been cited by others many times. The third is to reference a research paper which has in it the sentence "Acetyl CoA is a molecule that plays an important role in many biological processes" because that covers your ass. What's the best thing to do? 1 is better than 2, and you should NEVER do 3. The purpose is to direct the reader to a bigger source of information. If you did 3, and just reference some other paper that says something similar to what you're saying, then the reader has not been directed to a more comprehensive source, and has to go one step back, and look at the references in the paper you've cited in order to find more information.</p>
                         <p>If this is surprising or confusing to you, go and read the first few paragraphs of any research paper. Look at the references that are included there. They will be richer, bigger sources of information. They will not be references to other small research papers that just say the same thing.</p>
@@ -163,11 +165,11 @@ title: Internal Portal
                 </details>
 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Writing Living Papers (As You Go Along)</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p>This section is about a way of writing up your work as you go along, to improve your ability to plan your research and accelerate the submission of your papers. The upshot is: you need to be leading the writing of at least one so-called "living paper" at any one time.</p>
                         <p>During the course of a research project it can become easy to drown in experiments and data. You get caught up in finishing short-term goals and sometimes it's easy to neglect thinking about the big picture - the "Why am I doing this research?" or "What is my big aim?".</p>
                         <p>On the other hand, when you write up papers or write your thesis, the story of your project - why you did it and what's the impact - needs to be very clear. It's often the case that when you write up your work you realise that there are additional questions that need answering, or additional controls that were needed (which is why people writing up often need to come back into lab!).</p>
@@ -198,11 +200,11 @@ title: Internal Portal
                 </details>
 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Checklist of Common Little Errors</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p>Sometimes there is formatting in Word that you can't see. You can reveal formatting if you click the little backwards "P" that looks like this in Word Home Bar:</p>
                         <div class="flex justify-center my-4"><img src="./pics/internal/Attachment 2.png" width="20%" class="border rounded"></div>
                         <p>This can show that you've double spaces and other things. In particular it can reveal a spacing SNAFU that arises often when you copy from a non-Word source into Word, where the spaces appear as little blue circles, like this:</p>
@@ -229,11 +231,11 @@ title: Internal Portal
             <!-- Col 1 -->
             <div class="space-y-4">
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Reaction Numbering</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p>Reactions need to be given a unique identifier. The number takes the following form: <strong>YourInitialsX-Y</strong> where <strong>X</strong> is the <em>reaction type</em> and <strong>Y</strong> is the <em>attempt number</em>.</p>
                         <hr>
                         <p><strong><em>Reaction Type</em></strong></p>
@@ -250,11 +252,11 @@ title: Internal Portal
                 </details>
 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>ELN Write-Up</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p><strong>Accuracy</strong></p>
                         <p>As a scientist, it is very important that you have a strong sense of when accuracy in measurement is needed and when it is meaningful. Consider three things in particular:</p>
                         <ul>
@@ -271,11 +273,11 @@ title: Internal Portal
             <!-- Col 2 -->
             <div class="space-y-4">
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Sample Characterisation</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p>If you want to make a molecule, the first thing to do is check whether it’s been made before. Use SciFinder frequently (often you'll need to use it daily). You can access previously-used methods, characterisation data etc. It’s the most important resource we have. Besides being able to search for literature examples of reactions you may be attempting, it's also a very rapid way to find characterisation data for compounds you're making (from the "experimental properties" link).</p>
                         <p>If you want to know how to handle a reagent, check e-EROS online.</p>
                         <p>When you use a starting material for the first time, acquire a 1H NMR spectrum of it to check its purity and to compare with your reaction product.</p>
@@ -295,11 +297,11 @@ title: Internal Portal
                 </details>
 
                 <details class="group">
-                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition">
+                    <summary class="flex justify-between items-center font-medium cursor-pointer list-none text-slate-700 hover:text-brand-primary transition text-lg">
                         <span>Experimental Write-Up (for papers/reports)</span>
                         <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
                     </summary>
-                    <div class="text-slate-600 mt-4 text-sm leading-relaxed prose prose-sm max-w-none">
+                    <div class="text-slate-600 mt-4 leading-relaxed prose prose-slate max-w-none">
                         <p><em>Transferring information from old website in progess</em>.</p>
                         <p>Relevant page on the old website can be found <a href="https://openwetware.org/wiki/Todd:Guidelines#Report_Write-up" target="_blank">here</a> in the meantime.</p>
                     </div>
@@ -323,8 +325,8 @@ title: Internal Portal
             <div class="space-y-4">
                 <p class="text-sm font-bold text-brand-primary uppercase tracking-wider">General Guidance</p>
                 <details class="group">
-                    <summary class="text-sm text-slate-700 hover:text-brand-primary cursor-pointer list-none">Working Safely <span class="float-right">+</span></summary>
-                    <div class="text-xs text-slate-500 mt-2 space-y-2 prose prose-sm max-w-none">
+                    <summary class="text-slate-700 hover:text-brand-primary cursor-pointer list-none text-lg">Working Safely <span class="float-right">+</span></summary>
+                    <div class="text-slate-600 mt-2 space-y-2 prose prose-slate max-w-none">
                         <p>Everyone in the group (PDRAs and PhD students) will have certain responsibilities to maintain the lab to ensure that we all work as efficiently and safely as possible. A list of lab jobs can be found <a href="https://github.com/todd-lers/techops/tree/master/Lab%20Rules" target="_blank">here</a> along with some general lab rules and guidance on the use of communal equipment.</p>
                         <p><strong>The lab jobs will be reviewed periodically and updated.</strong> <em>Any issues, contact Eve.</em></p>
                         <p><a href="https://github.com/todd-lers/techops/blob/master/rotas/Waste%20%26%20solvent%20rota%20-%20Jan-Mar%202020.pdf" target="_blank">Current waste rota</a></p>
@@ -332,8 +334,8 @@ title: Internal Portal
                     </div>
                 </details>
                 <details class="group">
-                    <summary class="text-sm text-slate-700 hover:text-brand-primary cursor-pointer list-none">Housekeeping <span class="float-right">+</span></summary>
-                    <div class="text-xs text-slate-500 mt-2 space-y-2 prose prose-sm max-w-none">
+                    <summary class="text-slate-700 hover:text-brand-primary cursor-pointer list-none text-lg">Housekeeping <span class="float-right">+</span></summary>
+                    <div class="text-slate-600 mt-2 space-y-2 prose prose-slate max-w-none">
                         <p>It is imperative that communal areas and the apparatus stored within them are left clean for the next person to avoid contamination and risk of injury.</p>
                         <p><strong>Glassware</strong> is limited so promptly clear up after yourself, particularly with more specialist equipment such as columns and don’t hoard items you’re not using on a daily basis.</p>
                         <p><strong>Cleaning</strong> – Glassware should be cleaned thoroughly on BOTH the inside and outside. First, rinse with detergent/water and then with acetone. You may need to do this multiple times to remove stubborn stains. If it is not possible to get an item clean, it must be subjected to harsher cleaning agents (e.g. acid/base bath) or suitably disposed of. Rinse with acetone before drying.</p>
@@ -354,8 +356,8 @@ title: Internal Portal
             <div class="space-y-4">
                 <p class="text-sm font-bold text-brand-primary uppercase tracking-wider">Waste & Shutdown</p>
                 <details class="group">
-                    <summary class="text-sm text-slate-700 hover:text-brand-primary cursor-pointer list-none">Waste Disposal <span class="float-right">+</span></summary>
-                    <div class="text-xs text-slate-500 mt-2 space-y-2 prose prose-sm max-w-none">
+                    <summary class="text-slate-700 hover:text-brand-primary cursor-pointer list-none text-lg">Waste Disposal <span class="float-right">+</span></summary>
+                    <div class="text-slate-600 mt-2 space-y-2 prose prose-slate max-w-none">
                         <p>In general, small amounts of waste (acetone washings, used silica, sharps etc.) can be contained and stored in individual fumehoods and then transferred to the dedicated storage area. However, for particularly hazardous waste, you may need to quench these if appropriate and move them to the final storage area and arrange for their disposal.</p>
                         <ul>
                             <li><strong>Solvent waste</strong>– Waste should be separated into chlorinated or hydrocarbon (non-chlorinated) and transferred to 10 L plastic drums which are stored in the waste fumehood. Drums can be collected from stores, and it is our responsibility to clearly label these with the type of waste (non-chlorinated or chlorinated) and the lab number (i.e. G25). Once full, these will need to be taken outside to the storage facility, ready for collection. <strong>DO NOT TOTALLY FILL</strong> waste containers as the contents can potentially expand when warmed. This presents a danger to us and those collecting the waste. <strong>It is not one individual’s responsibility to collect waste drums from stores. Take initiative and collect more if needed.</strong></li>
@@ -367,8 +369,8 @@ title: Internal Portal
                     </div>
                 </details>
                 <details class="group">
-                    <summary class="text-sm text-slate-700 hover:text-brand-primary cursor-pointer list-none">Lab Shutdown <span class="float-right">+</span></summary>
-                    <div class="text-xs text-slate-500 mt-2 space-y-2 prose prose-sm max-w-none">
+                    <summary class="text-slate-700 hover:text-brand-primary cursor-pointer list-none text-lg">Lab Shutdown <span class="float-right">+</span></summary>
+                    <div class="text-slate-600 mt-2 space-y-2 prose prose-slate max-w-none">
                         <p>At the end of the day, everyone needs to ensure that their area is shut down before leaving. The last person to leave should double check that the UV lamps, Biotage, rotavaps, pumps and hi-vacs are turned off. Fume hood sashes should be closed when leaving the lab - at any time of day.</p>
                     </div>
                 </details>
@@ -378,8 +380,8 @@ title: Internal Portal
             <div class="space-y-4">
                 <p class="text-sm font-bold text-brand-primary uppercase tracking-wider">Inventory & Ordering</p>
                 <details class="group">
-                    <summary class="text-sm text-slate-700 hover:text-brand-primary cursor-pointer list-none">Ordering from Stores & MyFinance <span class="float-right">+</span></summary>
-                    <div class="text-xs text-slate-500 mt-2 space-y-2 prose prose-sm max-w-none">
+                    <summary class="text-slate-700 hover:text-brand-primary cursor-pointer list-none text-lg">Ordering from Stores & MyFinance <span class="float-right">+</span></summary>
+                    <div class="text-slate-600 mt-2 space-y-2 prose prose-slate max-w-none">
                         <p>The SoP stores stock list (sheet 1) and the MyFinance codes for MHT consumables, chemicals and solvents can be found (sheet 2) <a href="https://docs.google.com/spreadsheets/d/1tHAEN-7AiHbOAox7VEqo7jfNPbfShzumsx0Yuazv9GM/edit?usp=sharing" target="_blank">here</a>.</p>
                         <p>The MHT consumables and chemicals are <strong>everyone's responsibility</strong>. If something is about to run out please order some more from stores or from MyFinance.</p>
                         <p>If we get a new SoP stores stock list please update the one we have.</p>
@@ -387,8 +389,8 @@ title: Internal Portal
                     </div>
                 </details>
                 <details class="group">
-                    <summary class="text-sm text-slate-700 hover:text-brand-primary cursor-pointer list-none">Chemical Inventory <span class="float-right">+</span></summary>
-                    <div class="text-xs text-slate-500 mt-2 space-y-2 prose prose-sm max-w-none">
+                    <summary class="text-slate-700 hover:text-brand-primary cursor-pointer list-none text-lg">Chemical Inventory <span class="float-right">+</span></summary>
+                    <div class="text-slate-600 mt-2 space-y-2 prose prose-slate max-w-none">
                         <p>It is essential to manage reagents correctly to not adversely affect your chemistry or that of others.</p>
                         <p>All new compounds should be added onto <strong>ChemInventory</strong> immediately and assigned a suitable sub-location. <strong>If you don't have access to ChemInventory please contact <em>Ed</em> or <em>Jamie</em>.</strong> All empty reagent bottles should be removed from the inventory before disposal. Empty bottles, or reagents that have been deemed unusable should be labelled as such, removed from the database and disposed of. – <strong>This is the responsibility of everyone in the lab</strong>.</p>
                         <p>As a lab we will carry out an annual stock take (likely in December) to ensure that the inventory is up to date. It’s the responsibility of those assigned to managing the inventory to coordinate this and advise group members on appropriate locations for chemicals. <em>This needs to be in line with what’s expected by UCL and the UK in general.</em></p>
@@ -413,7 +415,7 @@ title: Internal Portal
             <!-- LCMS -->
             <div>
                 <h4 class="font-bold text-brand-dark mb-3">Using the LCMS</h4>
-                <div class="prose prose-sm max-w-none text-slate-600 text-sm">
+                <div class="prose prose-slate max-w-none text-slate-600">
                     <p><strong>Using the Analytical LCMS</strong></p>
                     <p>A general guide on using the Analytical LCMS in G25 can be found <a href="https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-guide.pdf" target="_blank">here</a>. The guide was prepared by Edwin G. Tse and Paul T. A. King and can be updated by anyone in the group. It serves as a walk-through for how to properly use the Analytical LCMS. <em>This is not a substitute for proper training</em>. <em>Please check the lab job table to find the proper person to train you.</em></p>
                     <p><a href="https://github.com/todd-lers/techops/blob/master/LCMS/1LCMS-Sample-Prep.docx" target="_blank">here</a> is the LCMS sample preparation guide.</p>
@@ -432,7 +434,7 @@ title: Internal Portal
             <!-- Biotage -->
             <div>
                 <h4 class="font-bold text-brand-dark mb-3">Using the Biotage</h4>
-                <div class="prose prose-sm max-w-none text-slate-600 text-sm">
+                <div class="prose prose-slate max-w-none text-slate-600">
                     <p><strong>Biotage Selekt</strong></p>
                     <p>A general guide on using the Biotage Selekt in G25 can be found <a href="https://docs.google.com/document/d/1DukynjPTQzADJwQ9lo0frDW3HpUIo0nuCj1LMpddTkA/edit" target="_blank">here</a>. The guide was prepared by Yuhang Wang and can be updated by anyone in the group.</p>
                     <p>Biotage user manual can be found <a href="https://github.com/todd-lers/techops/blob/master/Biotage/416183-C%20Selekt%20User%20Manual.pdf" target="_blank">here</a>.</p>
@@ -457,7 +459,7 @@ title: Internal Portal
             <i class="fas fa-users text-slate-400"></i>
             Group Meetings
         </h3>
-        <div class="prose prose-sm max-w-none text-slate-600">
+        <div class="prose prose-slate max-w-none text-slate-600">
             <p>Where: M1 (etc), in person. When: Fridays 1pm (mostly). Usually 60 to 90 mins. Fiona will send Outlook invites.</p>
             <p><strong>Health and Safety/Lab Operations</strong>. These meetings provide an excellent chance for us to talk about lab or admin issues that affect us all. We’ll start each meeting with this.</p>
             <p><strong>Research Updates</strong>: A description of where your project is up to. Minimise background and previous work (one slide maximum). Be clear on your long- and short-term aims. Describe key challenges you’re facing in more detail. Work hard on making clear, attractive slides. Include necessary references on each relevant slide, not at the end. Send your deck to Mat after the meeting, or upload directly to Github. 20 minutes, with 10 mins for any extra discussion. People should ask questions during the presentation. At the end, the Devil’s Advocate (DA – the person doing next week’s update) should lead any remaining questions.</p>
@@ -492,7 +494,7 @@ title: Internal Portal
                 <span>Project Codes</span>
                 <span class="transition group-open:rotate-180"><i class="fas fa-chevron-down text-xs"></i></span>
             </summary>
-            <div class="text-xs font-mono bg-slate-50 p-4 rounded mt-2 leading-relaxed text-slate-600 h-64 overflow-y-auto border border-slate-200">
+            <div class="text-sm font-mono bg-slate-50 p-4 rounded mt-2 leading-relaxed text-slate-600 h-64 overflow-y-auto border border-slate-200">
                 <ul class="space-y-1">
                     <li>Core: Project 549163, Award 156780 <-- don't use this from now on for consumables.</li>
                     <li>Discretionary: Project 549163, Award 156782.</li>
@@ -528,7 +530,7 @@ title: Internal Portal
             <i class="fas fa-globe text-slate-400"></i>
             Chemistry Resources
         </h3>
-        <div class="prose prose-sm max-w-none text-slate-600">
+        <div class="prose prose-slate max-w-none text-slate-600">
             <p>Fun site for exploring chemistry mechanisms via animations: <a href="https://www.chemtube3d.com/" target="_blank">Chemtube3d</a></p>
             <p>A useful online resource for general guidance on laboratory techniques <a href="http://chem.chem.rochester.edu/~nvd/" target="_blank">Not Voodoo</a></p>
             <p>An illustrative guide to using a Schlenk Line by Dr. Andryj Borys <a href="https://schlenklinesurvivalguide.com/" target="_blank">Schlenk Line Survival Guide</a></p>

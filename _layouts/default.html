@@ -3,29 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title | default: "The Todd Group" }}</title>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title | default: "The Todd Group" }}</title>
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     
-    
+    <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
     
     <style>
-        
+        /* 全局样式 */
         h1, h2, h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; letter-spacing: -0.02em; }
         body { font-family: 'Inter', sans-serif; }
         
-        
-        .image-card { transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
-        .image-card:hover { transform: translateY(-4px); box-shadow: 0 20px 25px -5px rgba(6, 182, 212, 0.15), 0 10px 10px -5px rgba(6, 182, 212, 0.04); }
-        
-       
+        /* 导航栏磨砂效果 */
         .glass-nav {
             background: rgba(255, 255, 255, 0.9);
             backdrop-filter: blur(8px);
             border-bottom: 1px solid rgba(241, 245, 249, 0.8);
         }
+        
+        /* 链接样式覆盖 (针对 Markdown 内容) */
+        .prose a { color: #06B6D4; text-decoration: none; font-weight: 500; }
+        .prose a:hover { text-decoration: underline; }
     </style>
     
     <script>
@@ -33,14 +33,11 @@
             theme: {
                 extend: {
                     colors: {
-                        // 回归方案: Biotech Authority
-                        
-                        'brand-dark': '#0F172A', // Slate 900
-                        
-                        'brand-primary': '#06B6D4', // Cyan 500 - 充满活力的生物科技色
-                        'brand-primary-dark': '#0891B2', // Cyan 600 - 用于文字和悬停
-                        'brand-accent': '#22D3EE', // Cyan 400 - 高光
-                        'brand-light': '#F8FAFC', // Slate 50
+                        'brand-dark': '#0F172A', 
+                        'brand-primary': '#06B6D4', 
+                        'brand-primary-dark': '#0891B2',
+                        'brand-accent': '#22D3EE',
+                        'brand-light': '#F8FAFC',
                     }
                 }
             }
@@ -49,26 +46,25 @@
 </head>
 <body class="bg-white text-slate-600 flex flex-col min-h-screen antialiased selection:bg-brand-primary/20 selection:text-brand-dark">
 
-    
+    <!-- Top Bar -->
     <div class="bg-brand-dark py-2.5 px-4 text-xs font-medium text-slate-400">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
             <span class="hidden sm:inline tracking-wide">University College London · School of Pharmacy</span>
             <span class="sm:hidden">UCL School of Pharmacy</span>
             <div class="flex gap-6">
                 <a href="https://github.com/todd-lers/about" class="hover:text-white transition duration-200">GitHub</a>    
-                <a href="./internal.md" class="text-brand-primary font-semibold hover:text-white transition duration-200">Internal Portal</a>
+                <a href="./internal.html" class="text-brand-primary font-semibold hover:text-white transition duration-200">Internal Portal</a>
             </div>
         </div>
     </div>
 
-    <!-- Main Nav -->
+    <!-- Main Nav (保持不变) -->
     <nav class="glass-nav sticky top-0 z-50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-24 items-center">
                 <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center gap-4">
                     <a href="./" class="flex items-center gap-3 group">
-                        
                         <div class="h-10 w-10 bg-brand-dark text-white flex items-center justify-center font-bold text-xl rounded-sm shadow-lg group-hover:bg-brand-primary transition duration-300">T</div>
                         <div class="flex flex-col">
                             <span class="font-bold text-2xl text-brand-dark leading-none tracking-tight">The Todd Group</span>
@@ -78,11 +74,9 @@
                 </div>
                 
                 <!-- Desktop Menu -->
-                
                 <div class="hidden md:flex space-x-8 items-center">
-                    <a href="research.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Research</a>
+                    <a href="./research.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Research</a>
                     
-                    <!-- People Dropdown -->
                     <div class="relative group z-50">
                         <button class="flex items-center gap-1 text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide focus:outline-none">
                             People
@@ -90,131 +84,32 @@
                         </button>
                         <div class="absolute left-0 w-52 bg-white border border-slate-100 shadow-xl rounded-sm hidden group-hover:block pt-2 mt-4">
                             <div class="bg-white py-1">
-                                <a href="current.md" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Current Members</a>
-                                <a href="past.md" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Past Members</a>
-                                <a href="photo-gallery.md" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Past Members</a>
+                                <a href="./current.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Current Members</a>
+                                <a href="./past.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Past Members</a>
+                                <a href="./photo-gallery.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Photo Gallery</a>
                             </div>
                         </div>
                     </div>
 
-                    <a href="publications.md" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Publications</a>
-                    <a href="news.md" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">News</a>
-                    <a href="idler.md" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">IDLER COMPOUNDS</a>
+                    <a href="./publications.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Publications</a>
+                    <a href="./news.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">News</a>
+                    <a href="./idler.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">IDLER COMPOUNDS</a>
                 </div>
             </div>
         </div>
     </nav>
 
-    <!-- Main Content Area -->
-    <main class="flex-grow">
-        
-        <!-- SECTION 1: Hero -->
-        <section class="bg-white py-24 md:py-32 relative overflow-hidden">
-            
-            <div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/3 w-[800px] h-[800px] bg-brand-primary/5 rounded-full blur-[120px] pointer-events-none"></div>
-            
-            <div class="max-w-5xl mx-auto px-4 text-center relative z-10">
-                <h1 class="text-5xl md:text-7xl font-extrabold text-brand-dark mb-10 leading-[1.1] tracking-tight">
-                    Accelerating drug discovery through <br>
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-primary-dark to-brand-accent">open source collaboration.</span>
-                </h1>
-                <div class="prose prose-xl text-slate-500 mx-auto max-w-3xl leading-relaxed">
-                    <p>
-                        We champion patent-free, borderless Open Source Drug Discovery. By sharing real-time data and crowdsourcing solutions, we break traditional silos to accelerate cures for neglected global health challenges.
-                    </p>
-                </div>
-                <div class="mt-14 flex flex-col sm:flex-row justify-center gap-5">
-                    
-                    <a href="./research.md" class="px-10 py-4 bg-brand-dark text-white font-bold rounded-full hover:bg-slate-800 transition shadow-xl shadow-brand-dark/20 hover:shadow-brand-dark/30 transform hover:-translate-y-1">
-                        Explore Our Research
-                    </a>
-
-                </div>
-            </div>
-        </section>
-
-        <!-- SECTION 2: Life at School of Pharmacy UCL -->
-        <section class="bg-brand-light py-24 border-t border-slate-200">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="flex flex-col md:flex-row justify-between items-end mb-12 gap-4">
-                    <div>
-                        <div class="w-12 h-1.5 bg-brand-primary mb-6 rounded-full"></div>
-                        <h3 class="text-4xl text-brand-dark font-bold tracking-tight">Life at the School of Pharmacy UCL</h3>
-                    </div>
-                    
-                </div>
-
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
-                    <!-- Picture 1: Brunswick Square -->
-                    <div class="image-card group cursor-pointer relative rounded-2xl overflow-hidden">
-                        <div class="relative aspect-[16/9]">
-                            <img src="https://images.unsplash.com/photo-1541339907198-e021fc9d13f1?auto=format&fit=crop&q=80&w=1200" alt="Brunswick Square" class="w-full h-full object-cover transition duration-700 group-hover:scale-105">
-                            <!-- 遮罩层：从深色渐变上来，保证文字可读性 -->
-                            <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90"></div>
-                            <div class="absolute bottom-0 left-0 p-8">
-                                <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Campus</span>
-                                <span class="text-white font-bold text-2xl tracking-tight">Brunswick Square</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Picture 2: The Lab -->
-                    <div class="image-card group cursor-pointer relative rounded-2xl overflow-hidden">
-                        <div class="relative aspect-[16/9]">
-                            <img src="https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=1200" alt="Laboratories" class="w-full h-full object-cover transition duration-700 group-hover:scale-105">
-                            <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90"></div>
-                            <div class="absolute bottom-0 left-0 p-8">
-                                <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Facilities</span>
-                                <span class="text-white font-bold text-2xl tracking-tight">State-of-the-art Laboratories</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- SECTION 3: External Partners -->
-        <section class="bg-white py-24 border-t border-slate-100">
-            <div class="max-w-7xl mx-auto px-4">
-                <p class="text-center text-xs font-bold text-slate-400 uppercase tracking-[0.25em] mb-16">Supported By & Partnering With</p>
-                
-                <div class="flex flex-wrap justify-center items-center gap-x-16 gap-y-12">
-                    
-                    <!-- Gates Foundation -->
-                    <div class="group cursor-pointer transition duration-300">
-                        <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Gates Foundation</span>
-                    </div>
-
-                    <!-- EPSRC -->
-                    <div class="group cursor-pointer transition duration-300">
-                        <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">EPSRC</span>
-                    </div>
-                    
-                    <!-- Wellcome -->
-                    <div class="group cursor-pointer transition duration-300">
-                         <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Wellcome</span>
-                    </div>
-
-                    <!-- MMV -->
-                    <div class="group cursor-pointer transition duration-300">
-                         <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">MMV</span>
-                    </div>
-
-                    <!-- SGC -->
-                    <div class="group cursor-pointer transition duration-300">
-                         <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">SGC</span>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+    <!-- Main Content Area (这里是核心区别) -->
+    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full">
+        <!-- prose 类负责把 markdown 的乱七八糟格式变成漂亮的排版 -->
+        <article class="prose prose-lg prose-slate max-w-none prose-headings:font-['Plus_Jakarta_Sans'] prose-headings:font-bold prose-h1:text-brand-dark prose-a:text-brand-primary">
+            {{ content }}
+        </article>
     </main>
 
     <!-- Footer -->
-    <footer class="bg-brand-dark text-white py-20">
+    <footer class="bg-brand-dark text-white py-20 mt-auto">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-12 gap-12">
-            
-            <!-- Brand -->
             <div class="md:col-span-5">
                 <div class="flex items-center gap-3 mb-6">
                     <div class="h-8 w-8 bg-brand-primary rounded flex items-center justify-center font-bold text-white shadow-lg shadow-brand-primary/40">T</div>
@@ -224,8 +119,6 @@
                     Pioneering open source methodologies in drug discovery. Making science accessible, transparent, and collaborative.
                 </p>
             </div>
-
-            <!-- Links -->
             <div class="md:col-span-3 md:col-start-7">
                 <h5 class="text-xs font-bold uppercase tracking-widest mb-6 text-slate-500">Location</h5>
                 <p class="text-sm text-slate-300 leading-relaxed">
@@ -236,13 +129,9 @@
                 </p>
                 <a href="mailto:matthew.todd@ucl.ac.uk" class="text-brand-primary hover:text-white mt-4 inline-block text-sm font-bold transition">matthew.todd@ucl.ac.uk</a>
             </div>
-
-           
-            
         </div>
-        
         <div class="max-w-7xl mx-auto px-4 mt-16 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-xs text-slate-500 font-medium">
-            <p>&copy; The Todd Group.</p>
+            <p>&copy; {{ site.time | date: '%Y' }} The Todd Group.</p>
             <p>Designed for Open Science.</p>
         </div>
     </footer>

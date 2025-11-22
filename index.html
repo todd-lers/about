@@ -118,7 +118,7 @@
     <!-- Main Content Area -->
     <main class="flex-grow">
         
-        <!-- SECTION 1: Hero -->
+ <!-- SECTION 1: Hero -->
         <section class="bg-white py-24 md:py-32 relative overflow-hidden">
             <!-- 极其微妙的背景装饰，增加空间感 -->
             <div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/3 w-[800px] h-[800px] bg-brand-primary/5 rounded-full blur-[120px] pointer-events-none"></div>
@@ -133,12 +133,18 @@
                         We champion patent-free, borderless Open Source Drug Discovery. By sharing real-time data and crowdsourcing solutions, we break traditional silos to accelerate cures for neglected global health challenges.
                     </p>
                 </div>
-                <div class="mt-14 flex flex-col sm:flex-row justify-center gap-5">
+                
+                <!-- 按钮容器 -->
+                <div class="mt-14 flex justify-center">
                     <!-- 链接指向 .html -->
                     <a href="./research.html" class="px-10 py-4 bg-brand-dark text-white font-bold rounded-full hover:bg-slate-800 transition shadow-xl shadow-brand-dark/20 hover:shadow-brand-dark/30 transform hover:-translate-y-1">
                         Explore Our Research
                     </a>
-                    <center><img src="./pics/Logos.png" width="70%" class="myimgb"></center>
+                </div>
+
+                <!-- 图片容器：这是添加图片的正确位置，独立于按钮容器 -->
+                <div class="mt-16 flex justify-center">
+                    <img src="./pics/Logos.png" alt="Partners and Logos" class="w-[80%] md:w-[70%] h-auto opacity-90 hover:opacity-100 transition-opacity duration-300">
                 </div>
             </div>
         </section>

@@ -163,4 +163,174 @@ title: Current Members
                 <h4 class="text-base font-bold text-brand-dark">Dr Nicola Burgess-Brown</h4>
                 <p class="text-xs font-medium text-slate-500 mb-3 uppercase tracking-wide">Visiting Scientist<br>2024-present</p>
                 <div class="flex justify-center gap-3 text-slate-400">
-                    <a href="
+                    <a href="https://www.linkedin.com/in/nicola-burgess-brown-6488487/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
+                    <a href="mailto:n.burgess-brown@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dr Jelena (Habjanič) Thies -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                <img src="./pics/people/Jelena2.jpeg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
+            </div>
+            <div class="p-5 text-center">
+                <h4 class="text-base font-bold text-brand-dark">Dr Jelena Thies</h4>
+                <p class="text-xs font-medium text-slate-500 mb-3 uppercase tracking-wide">Postdoc (UCL)<br>2023-present</p>
+                <div class="flex justify-center gap-3 text-slate-400">
+                    <a href="https://www.linkedin.com/in/jelenathies/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
+                    <a href="mailto:j.habjanic@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Jodie Taylor -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                <!-- 空 src，触发 onerror 显示备用图标 -->
+                <img src="" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300 bg-slate-50"><i class="fas fa-user text-5xl"></i></div>
+            </div>
+            <div class="p-5 text-center">
+                <h4 class="text-base font-bold text-brand-dark">Jodie Taylor</h4>
+                <p class="text-xs font-medium text-slate-500 mb-3 uppercase tracking-wide">Research Assistant<br>2024-present</p>
+                <div class="flex justify-center gap-3 text-slate-400">
+                    <a href="https://www.linkedin.com/in/jodie-taylor-457359180/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
+                    <a href="mailto:jodie.taylor@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Shayla Venkaya -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                <!-- 空 src，触发 onerror 显示备用图标 -->
+                <img src="" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300 bg-slate-50"><i class="fas fa-user text-5xl"></i></div>
+            </div>
+            <div class="p-5 text-center">
+                <h4 class="text-base font-bold text-brand-dark">Shayla Venkaya</h4>
+                <p class="text-xs font-medium text-slate-500 mb-3 uppercase tracking-wide">Research Assistant<br>2024-present</p>
+                <div class="flex justify-center gap-3 text-slate-400">
+                    <a href="https://www.linkedin.com/in/shayla-venkaya-357a84106/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
+                    <a href="mailto:s.venkaya@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+<!-- ==========================================================================
+     5. PHD STUDENTS
+     ========================================================================== -->
+<div class="mb-20">
+    <h2 class="text-2xl font-bold text-brand-dark mb-8 flex items-center gap-3">
+        <span class="w-8 h-1 bg-brand-primary rounded-full"></span>
+        PhD Students
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        
+        <!-- Yuhang Wang -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                <img src="./pics/people/Yuhang_Wang3.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
+            </div>
+            <div class="p-5 text-center">
+                <h4 class="text-base font-bold text-brand-dark">Yuhang Wang</h4>
+                <p class="text-xs font-medium text-slate-500 mb-3 uppercase tracking-wide">PhD Student<br>2019-present</p>
+                <div class="flex justify-center gap-3 text-slate-400">
+                    <a href="https://www.linkedin.com/in/wiesel-henson-0202/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
+                    <a href="https://twitter.com/ericwan59398945" class="hover:text-brand-primary transition"><i class="fab fa-twitter text-lg"></i></a>
+                    <a href="https://github.com/Yuhang-CADD" class="hover:text-brand-primary transition"><i class="fab fa-github text-lg"></i></a>
+                    <a href="mailto:yuhang.wang.19@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Yinuo Wang -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                <img src="./pics/people/Yinuo3.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
+            </div>
+            <div class="p-5 text-center">
+                <h4 class="text-base font-bold text-brand-dark">Yinuo Wang</h4>
+                <p class="text-xs font-medium text-slate-500 mb-3 uppercase tracking-wide">PhD Student<br>2022-present</p>
+                <div class="flex justify-center gap-3 text-slate-400">
+                    <a href="https://www.linkedin.com/in/yinuo-wang-849277171/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
+                    <a href="https://twitter.com/yinuo_w" class="hover:text-brand-primary transition"><i class="fab fa-twitter text-lg"></i></a>
+                    <a href="https://github.com/yinuowang0812" class="hover:text-brand-primary transition"><i class="fab fa-github text-lg"></i></a>
+                    <a href="mailto:yinuo.wang.20@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Kangping Liu -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                <img src="./pics/people/KangpingLiu.JPG" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
+            </div>
+            <div class="p-5 text-center">
+                <h4 class="text-base font-bold text-brand-dark">Kangping Liu</h4>
+                <p class="text-xs font-medium text-slate-500 mb-3 uppercase tracking-wide">PhD Student<br>2023-present</p>
+                <div class="flex justify-center gap-3 text-slate-400">
+                    <a href="https://github.com/KangpingL" class="hover:text-brand-primary transition"><i class="fab fa-github text-lg"></i></a>
+                    <a href="mailto:kangping.liu.21@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mohsen Alamoudi -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                <img src="./pics/people/Mohsen_Alamoudi2.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
+            </div>
+            <div class="p-5 text-center">
+                <h4 class="text-base font-bold text-brand-dark">Mohsen Alamoudi</h4>
+                <p class="text-xs font-medium text-slate-500 mb-3 uppercase tracking-wide">PhD Student<br>2023-present</p>
+                <div class="flex justify-center gap-3 text-slate-400">
+                    <a href="https://www.linkedin.com/in/mohsenalamoudi" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
+                    <a href="https://twitter.com/Mo777sen" class="hover:text-brand-primary transition"><i class="fab fa-twitter text-lg"></i></a>
+                    <a href="mailto:mohsen.alamoudi.22@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Ruochong Xu -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                <img src="./pics/people/Edward2.jpeg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
+            </div>
+            <div class="p-5 text-center">
+                <h4 class="text-base font-bold text-brand-dark">Ruochong Xu</h4>
+                <p class="text-xs font-medium text-slate-500 mb-3 uppercase tracking-wide">PhD Student<br>2025-present</p>
+                <div class="flex justify-center gap-3 text-slate-400">
+                    <a href="https://uk.linkedin.com/in/ruochong-xu-725a33334?original_referer=https%3A%2F%2Fwww.google.com%2F" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
+                    <a href="mailto:ruochong.xu.24@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+<!-- ==========================================================================
+     6. MRES STUDENTS
+     ========================================================================== -->
+<div class="mb-20">
+    <h2 class="text-2xl font-bold text-brand-dark mb-8 flex items-center gap-3">
+        <span class="w-8 h-1 bg-brand-primary rounded-full"></span>
+        MRes Students
+    </h2>
+    <div class="p-8 bg-slate-50 rounded-lg border border-slate-100 text-center">
+        <p class="text-slate-500 italic">Positions available. Please contact Mat Todd for opportunities.</p>
+    </div>
+</div>

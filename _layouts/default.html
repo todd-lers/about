@@ -58,7 +58,7 @@
         </div>
     </div>
 
-    <!-- Main Nav (保持不变) -->
+    <!-- Main Nav -->
     <nav class="glass-nav sticky top-0 z-50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-24 items-center">
@@ -77,13 +77,15 @@
                 <div class="hidden md:flex space-x-8 items-center">
                     <a href="./research.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Research</a>
                     
+                    <!-- People Dropdown (已包含防误触修复) -->
                     <div class="relative group z-50">
-                        <button class="flex items-center gap-1 text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide focus:outline-none">
+                        <button class="flex items-center gap-1 text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide focus:outline-none h-24">
                             People
                             <svg class="w-3 h-3 transition-transform group-hover:rotate-180 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
                         </button>
-                        <div class="absolute left-0 w-52 bg-white border border-slate-100 shadow-xl rounded-sm hidden group-hover:block pt-2 mt-4">
-                            <div class="bg-white py-1">
+                        
+                        <div class="absolute left-0 w-52 hidden group-hover:block pt-6 -mt-2">
+                            <div class="bg-white border border-slate-100 shadow-xl rounded-sm py-1">
                                 <a href="./current.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Current Members</a>
                                 <a href="./past.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Past Members</a>
                                 <a href="./photo-gallery.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Photo Gallery</a>
@@ -99,9 +101,8 @@
         </div>
     </nav>
 
-    <!-- Main Content Area (这里是核心区别) -->
+    <!-- Main Content Area (这里是核心区别，保留了 content 占位符) -->
     <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full">
-        <!-- prose 类负责把 markdown 的乱七八糟格式变成漂亮的排版 -->
         <article class="prose prose-lg prose-slate max-w-none prose-headings:font-['Plus_Jakarta_Sans'] prose-headings:font-bold prose-h1:text-brand-dark prose-a:text-brand-primary">
             {{ content }}
         </article>

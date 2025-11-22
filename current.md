@@ -1,226 +1,127 @@
 ---
-layout: profile
+layout: default
+title: People
 ---
 
-  <div class="card">
-    <img src="./pics/people/Meds_for_all.jpg" width="90%">
-    <h4>Professor Matthew Todd</h4>
-    <p class="title">Principal Investigator</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/matthew-todd-81633313/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/MatToddChem"><i class="fa fa-twitter"></i></a>  
-      <a href="https://intermolecular.wordpress.com/"><i class="fa fa-wordpress"></i></a>
-      <a href="https://en.wikipedia.org/wiki/Matthew_Todd_(chemist)"><i class="fa fa-wikipedia-w"></i></a>
-      <a href="https://github.com/mattodd"><i class="fa fa-github"></i></a>
-      <a href="mailto:matthew.todd@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
+<!-- 1. PI Section (权威感布局：左图右文) -->
+<div class="flex flex-col md:flex-row gap-10 items-start mb-20 border-b border-slate-100 pb-16">
+    <!-- 头像卡片 -->
+    <div class="w-full md:w-1/3 flex-shrink-0">
+        <div class="bg-white p-4 rounded-lg shadow-sm border border-slate-100">
+            <div class="aspect-[3/4] overflow-hidden rounded-md mb-4">
+                <img src="./pics/people/Meds_for_all.jpg" alt="Prof. Todd" class="w-full h-full object-cover hover:scale-105 transition duration-500">
+            </div>
+            <h3 class="text-xl font-bold text-brand-dark mb-1">Prof. Matthew Todd</h3>
+            <p class="text-brand-primary font-medium text-sm uppercase tracking-wider mb-4">Principal Investigator</p>
+            
+            <!-- 社交图标 -->
+            <div class="flex gap-4 text-slate-400">
+                <a href="https://www.linkedin.com/in/matthew-todd-81633313/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-xl"></i></a>
+                <a href="https://twitter.com/MatToddChem" class="hover:text-brand-primary transition"><i class="fab fa-twitter text-xl"></i></a>
+                <a href="https://github.com/mattodd" class="hover:text-brand-primary transition"><i class="fab fa-github text-xl"></i></a>
+                <a href="mailto:matthew.todd@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-xl"></i></a>
+            </div>
+        </div>
     </div>
-  </div>
 
-
-
-Mat Todd was born in Manchester, England. He was educated at Cambridge University where he obtained an MA in Natural Sciences in 1995 and a PhD in organic chemistry (with Chris Abell) in 1999. He was then a Wellcome Trust postdoc at The University of California, Berkeley (99-00), a College Fellow back at New Hall (now Murray Edwards) College, Cambridge University (00-01), a Lecturer in Chemistry at Queen Mary, University of London (01-05) and between 2005 and 2018 was at the School of Chemistry, The University of Sydney where he moved from Lecturer to Associate Professor. He is now Professor and Chair of Drug Discovery at University College London (2018-present).
-
-He has a significant interest in open science, and how it may be used to accelerate research, with particular emphasis on open source discovery of new medicines. He founded and currently leads several open science consortia such as [Open Source Malaria (OSM)](http://opensourcemalaria.org/) (see the group's research page) and is a founder of a broader [Open Source Pharma](http://www.opensourcepharma.net/) movement. He leads the Structural Genomics Consortium (SGC) at UCL and leads the SGC's Open Chemistry Networks initiative as part of Target 2035. With Tim Willson of UNC Chapel Hill he led the medicinal chemistry core of the open [READDI-AViDD antiviral discovery project](https://readdi-ac.org/). In 2011 he was awarded a New South Wales Scientist of the Year award in the Emerging Research category for his work in open science and in 2012 the OSM consortium was awarded one of three Wellcome Trust/Google/PLoS Accelerating Science Awards. For his open source research, Mat was selected for the Medicine Maker's Power List in [2017](https://themedicinemaker.com/power-list/2017/) and 2018. He is on the Editorial Boards of PLoS One, ChemistryOpen and Nature Scientific Reports. He has been a sabbatical visitor at Stanford, UCSF, the Broad Institute and [Pembroke College, Oxford](https://www.pmb.ox.ac.uk/fellows-staff/profiles/dr-matthew-todd). He lives in Greenwich, London, with his wife and two children. He is related to [Trevor Horn](https://en.wikipedia.org/wiki/Trevor_Horn) and, apparently, [Samuel Crompton](https://en.wikipedia.org/wiki/Samuel_Crompton).
-
-His lab motto is _To make the right molecule in the right place at the right time_, and his students are currently trying to work out what this means.
-
-<hr class="rule">
-
-<h2>Research Support</h2>
-
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Fiona2.jpg" class="myimg">
-    <h4>Fiona Marquet</h4>
-    <p class="title">Executive Assistant (UCL) <br>2022-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/fiona-marquet-0b1ba62/"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:f.marquet@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
-      </div>
+    <!-- 介绍文字 -->
+    <div class="w-full md:w-2/3 prose prose-slate text-slate-600">
+        <p>
+            Mat Todd was born in Manchester, England. He was educated at Cambridge University where he obtained an MA in Natural Sciences in 1995 and a PhD in organic chemistry in 1999. He was then a Wellcome Trust postdoc at UC Berkeley, a College Fellow at Cambridge University, and a Lecturer at Queen Mary, University of London. Between 2005 and 2018 he was at the School of Chemistry, The University of Sydney. He is now Professor and Chair of Drug Discovery at University College London (2018-present).
+        </p>
+        <p>
+            He has a significant interest in open science, and how it may be used to accelerate research, with particular emphasis on open source discovery of new medicines. He founded and currently leads several open science consortia such as <a href="http://opensourcemalaria.org/">Open Source Malaria (OSM)</a> and is a founder of a broader Open Source Pharma movement.
+        </p>
+        <p class="font-serif italic text-brand-dark border-l-4 border-brand-primary pl-4 bg-slate-50 py-2">
+            Lab Motto: "To make the right molecule in the right place at the right time."
+        </p>
     </div>
 </div>
-</div>
- 
-<h2>Postdoctoral Research Associates</h2>
 
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Eve.jpg" class="myimg">
-    <h4>Dr Eve Carter</h4>
-    <p class="title">Postdoc (UCL) <br>2022-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/eve-carter-a59576153/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://github.com/EveCarter"><i class="fa fa-github"></i></a>
-      <a href="mailto:eve.carter@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
-    </div>
-    </div>
-</div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Rebecka_Isaksson2.jpg" class="myimg" />
-    <h4>Dr Rebecka Isaksson</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/rebecka-isaksson-74418618/?originalSubdomain=uk"><i class="fa fa-linkedin"></i></a>
-       <a href="https://twitter.com/IsakssonRebecka"><i class="fa fa-twitter"></i></a>
-       <a href="https://github.com/RebeckaIsaksson"><i class="fa fa-github"></i></a>
-       <a href="mailto:r.isaksson@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-       </div>
-    </div>
-</div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/DanielleHanke.jpg" class="myimg" />
-    <h4>Dr Danielle Hanke</h4>
-    <p class="title">Postdoc (UCL) <br />2025-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href=""><i class="fa fa-linkedin"></i></a>
-       <a href=""><i class="fa fa-twitter"></i></a>
-       <a href=""><i class="fa fa-github"></i></a>
-       <a href="mailto:"><i class="fa fa-envelope"></i></a>  
-      </div>
-    </div>
-  </div>
-</div>
 
-<h2>SGC Protein Science Team</h2>
+<!-- 2. Postdoc Team (网格布局) -->
+<div class="mb-20">
+    <h2 class="text-2xl font-bold text-brand-dark mb-8 flex items-center gap-3">
+        <span class="w-8 h-1 bg-brand-primary rounded-full"></span>
+        Postdoctoral Research Associates
+    </h2>
 
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Nicola.jpeg" class="myimg">
-    <h4>Dr Nicola Burgess-Brown</h4>
-    <p class="title">Visiting Scientist <br>2024-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/nicola-burgess-brown-6488487/"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:n.burgess-brown@ucl.ac.uk"><i class="fa fa-envelope"></i></a>  
-      </div>
-     </div>
-</div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Jelena2.jpeg" class="myimg" />
-    <h4>Dr Jelena (Habjanič) Thies</h4>
-    <p class="title">Postdoc (UCL) <br />2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/jelenathies/"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:j.habjanic@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
+    <!-- Grid Container: 自动对齐的神器 -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        
+        <!-- Member Card 1 -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden">
+                <img src="./pics/people/Eve.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+            </div>
+            <div class="p-6 text-center">
+                <h4 class="text-lg font-bold text-brand-dark">Dr Eve Carter</h4>
+                <p class="text-sm text-slate-500 mb-4">Postdoc (UCL) • 2022-present</p>
+                <div class="flex justify-center gap-4 text-slate-400">
+                    <a href="https://github.com/EveCarter" class="hover:text-brand-primary"><i class="fab fa-github"></i></a>
+                    <a href="mailto:eve.carter@ucl.ac.uk" class="hover:text-brand-primary"><i class="fas fa-envelope"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Member Card 2 -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden">
+                <img src="./pics/people/Rebecka_Isaksson2.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+            </div>
+            <div class="p-6 text-center">
+                <h4 class="text-lg font-bold text-brand-dark">Dr Rebecka Isaksson</h4>
+                <p class="text-sm text-slate-500 mb-4">Postdoc (UCL) • 2023-present</p>
+                <div class="flex justify-center gap-4 text-slate-400">
+                    <a href="#" class="hover:text-brand-primary"><i class="fab fa-twitter"></i></a>
+                    <a href="mailto:r.isaksson@ucl.ac.uk" class="hover:text-brand-primary"><i class="fas fa-envelope"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Member Card 3 -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+            <div class="aspect-square overflow-hidden bg-slate-100 flex items-center justify-center">
+                <!-- 还没有照片时的占位符 -->
+                <img src="./pics/people/DanielleHanke.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                <i class="fas fa-user text-4xl text-slate-300 hidden"></i>
+            </div>
+            <div class="p-6 text-center">
+                <h4 class="text-lg font-bold text-brand-dark">Dr Danielle Hanke</h4>
+                <p class="text-sm text-slate-500 mb-4">Postdoc (UCL) • 2025-present</p>
+                <div class="flex justify-center gap-4 text-slate-400">
+                    <a href="mailto:example@ucl.ac.uk" class="hover:text-brand-primary"><i class="fas fa-envelope"></i></a>
+                </div>
+            </div>
+        </div>
+
     </div>
-</div>
-<div class="column">
-  <div class="card">
-    <img src="" class="myimg" />
-    <h4>Jodie Taylor         </h4>
-    <p class="title">Research Assistant (UCL) <br />2024-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/jodie-taylor-457359180/"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:jodie.taylor@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
-  </div>
-</div>
-<div class="column">
-  <div class="card">
-    <img src="" class="myimg" />
-    <h4>Shayla Venkaya</h4>
-    <p class="title">Research Assistant (UCL) <br />2024-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/shayla-venkaya-357a84106/"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:s.venkaya@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-    </div>
-  </div>
-</div>
 </div>
 
-<h2>PhD Students</h2>
+<!-- 3. PhD Students (复制上面的结构即可) -->
+<div class="mb-20">
+    <h2 class="text-2xl font-bold text-brand-dark mb-8 flex items-center gap-3">
+        <span class="w-8 h-1 bg-brand-primary rounded-full"></span>
+        PhD Students
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        
+        <!-- Student Card Example -->
+        <div class="group bg-white rounded-lg border border-slate-100 overflow-hidden hover:shadow-lg transition-all">
+            <div class="aspect-square overflow-hidden">
+                <img src="./pics/people/Yuhang_Wang3.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+            </div>
+            <div class="p-4 text-center">
+                <h4 class="font-bold text-brand-dark">Yuhang Wang</h4>
+                <p class="text-xs text-slate-500 mb-3">PhD Student • 2019-present</p>
+                <div class="flex justify-center gap-3 text-slate-400 text-sm">
+                    <a href="#" class="hover:text-brand-primary"><i class="fab fa-linkedin"></i></a>
+                    <a href="#" class="hover:text-brand-primary"><i class="fas fa-envelope"></i></a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 这里继续复制粘贴其他学生... -->
 
-<div class="row">
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Yuhang_Wang3.jpg" class="myimg">
-    <h4>Yuhang Wang</h4>
-    <p class="title">PhD Student (UCL) <br>2019-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/wiesel-henson-0202/"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/ericwan59398945"><i class="fa fa-twitter"></i></a>
-      <a href="https://github.com/Yuhang-CADD"><i class="fa fa-github"></i></a>
-      <a href="mailto:yuhang.wang.19@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
     </div>
-  </div>
-</div>
-<div class="column">
-    <div class="card">
-       <img src="./pics/people/Yinuo3.jpg" class="myimg">
-      <h4>Yinuo Wang</h4>
-      <p class="title">PhD Student (UCL) <br>2022-present</p>
-      <p></p>
-      <div style="margin: 15px 0;">
-        <a href="https://www.linkedin.com/in/yinuo-wang-849277171/"><i class="fa fa-linkedin"></i></a>
-        <a href="https://twitter.com/yinuo_w"><i class="fa fa-twitter"></i></a>
-        <a href="https://github.com/yinuowang0812"><i class="fa fa-github"></i></a>
-        <a href="mailto:yinuo.wang.20@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-    </div>
-  </div>
-   <div class="column">
-    <div class="card">
-       <img src="./pics/people/KangpingLiu.JPG" class="myimg">
-      <h4>Kangping Liu</h4>
-      <p class="title">PhD Student (UCL) <br>2023-present</p>
-      <p></p>
-      <div style="margin: 15px 0;">
-        <a href="https://github.com/KangpingL"><i class="fa fa-github"></i></a>
-        <a href="mailto:kangping.liu.21@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-    </div>
-</div>
-  <div class="column">
-  <div class="card">
-    <img src="./pics/people/Mohsen_Alamoudi2.jpg" class="myimg">
-    <h4>Mohsen Alamoudi</h4>
-    <p class="title">PhD Student (UCL) <br>2023-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-      <a href="https://www.linkedin.com/in/mohsenalamoudi"><i class="fa fa-linkedin"></i></a>
-      <a href="https://twitter.com/Mo777sen"><i class="fa fa-twitter"></i></a>
-      <a href="mailto:mohsen.alamoudi.22@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-      </div>
-     </div>
-  </div>
-<div class="column">
-  <div class="card">
-    <img src="./pics/people/Edward2.jpeg" class="myimg">
-    <h4>Ruochong Xu</h4>
-    <p class="title">PhD Student (UCL) <br>2025-present</p>
-    <p></p>
-    <div style="margin: 15px 0;">
-    <a href="https://uk.linkedin.com/in/ruochong-xu-725a33334?original_referer=https%3A%2F%2Fwww.google.com%2F"><i class="fa fa-linkedin"></i></a>
-      <a href="mailto:ruochong.xu.24@ucl.ac.uk"><i class="fa fa-envelope"></i></a>
-     </div>
-  </div>
-</div>
-</div>
-
-<h2>MRes Students</h2>
-
-<div class="row">
-<div class="column">
-  <div class="card">
-    
-    
-     </div>
-   </div>
-  </div>
 </div>

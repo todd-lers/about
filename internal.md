@@ -29,9 +29,9 @@ title: Internal Portal
             <li>Get authorisation to use <strong>myFinance</strong> to order chemicals/etc. (ask Mat Todd and Fiona Marquet). The guide on ordering is <a href="https://docs.google.com/document/d/1xiQK2DAcGyJrknU-gTitQe31noiIFy5B0Vwbp6lttw0/edit" target="_blank">here</a>.</li>
             <li>Organise and complete <strong>NMR training</strong> (see NMR facility manager, Nikita Harvey)</li>
             <li>Organise and complete <strong>LCMS training</strong> (see senior group member/postdoc) -- see below for guides on LCMS usage</li>
-            <li>Organise and complete the <strong>lab safety induction</strong> (see Eve Carter)</li>
+            <li>Organise and complete the <strong>lab safety induction</strong> </li>
             <li>Familiarise yourself with <strong>Risk Assessment</strong> forms for conducting reactions (on MS Teams)</li>
-            <li>Complete the <strong>Out of Hours form</strong> (ask Justine Newson) and get it signed by Mat Todd</li>
+            <li>Complete the <strong>Out of Hours form</strong> and get it signed by Mat Todd</li>
             <li>Complete safety training with Cory Beckwith</li>
             <li>Complete online training (list of courses <a href="https://www.grad.ucl.ac.uk/essinfo/training-for-doctoral-students/" target="_blank">here</a> for PhD students and <a href="https://www.ucl.ac.uk/human-resources/organisational-development/training-inductions-and-leadership/mandatory-training" target="_blank">here</a> for staff, plus <a href="https://www.ucl.ac.uk/safety-services/policies/2022/dec/liquid-nitrogen-workplace" target="_blank">liquid nitrogen</a> and <a href="https://www.ucl.ac.uk/safety-services/policies/2022/nov/using-gas-cylinders-safely-within-universities-training" target="_blank">gas cylinders</a> if you will be in the lab)</li>
         </ul>

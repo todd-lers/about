@@ -1,1 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Todd Group - Open Source Drug Discovery</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+    
+    <!-- Fonts -->
+    <!-- Inter: 极其冷静、客观的正文自提 -->
+    <!-- Plus Jakarta Sans: 现代、几何感强、医疗科技感的标题字体 -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        /* 字体策略：用几何字体替代衬线体，立刻摆脱“老旧学院派”的感觉 */
+        h1, h2, h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; letter-spacing: -0.02em; }
+        body { font-family: 'Inter', sans-serif; }
+        
+        /* 交互动效：克制而高级 */
+        .image-card { transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
+        .image-card:hover { transform: translateY(-4px); box-shadow: 0 20px 25px -5px rgba(6, 182, 212, 0.15), 0 10px 10px -5px rgba(6, 182, 212, 0.04); }
+        
+        /* 导航栏磨砂效果 */
+        .glass-nav {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(8px);
+            border-bottom: 1px solid rgba(241, 245, 249, 0.8);
+        }
 
+        /* Modal 动画 */
+        #imageModal { transition: opacity 0.3s ease-in-out; }
+        #imageModal.hidden { opacity: 0; pointer-events: none; }
+        #imageModal:not(.hidden) { opacity: 1; pointer-events: auto; }
+    </style>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        // 回归方案: Biotech Authority
+                        // 深空灰：权威、稳重、昂贵
+                        'brand-dark': '#0F172A', // Slate 900
+                        // 活力青：生命、科技、信号
+                        'brand-primary': '#06B6D4', // Cyan 500 - 充满活力的生物科技色
+                        'brand-primary-dark': '#0891B2', // Cyan 600 - 用于文字和悬停
+                        'brand-accent': '#22D3EE', // Cyan 400 - 高光
+                        'brand-light': '#F8FAFC', // Slate 50
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-white text-slate-600 flex flex-col min-h-screen antialiased selection:bg-brand-primary/20 selection:text-brand-dark">
+
+    <!-- Top Bar (深色背景 + 青色高亮，像专业仪表盘) -->
+    <div class="bg-brand-dark py-2.5 px-4 text-xs font-medium text-slate-400">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <span class="hidden sm:inline tracking-wide">University College London · School of Pharmacy</span>
+            <span class="sm:hidden">UCL School of Pharmacy</span>
+            <div class="flex gap-6">
+                <a href="https://github.com/todd-lers/about" class="hover:text-white transition duration-200">GitHub</a>    
+                <!-- 链接指向 .html -->
+                <a href="./internal.html" class="text-brand-primary font-semibold hover:text-white transition duration-200">Internal Portal</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Nav -->
+    <nav class="glass-nav sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-24 items-center">
+                <!-- Logo -->
+                <div class="flex-shrink-0 flex items-center gap-4">
+                    <a href="./" class="flex items-center gap-3 group">
+                        <!-- Logo: 深色方块 + 青色 T，经典的科技公司 Logo 设计 -->
+                        <div class="h-10 w-10 bg-brand-dark text-white flex items-center justify-center font-bold text-xl rounded-sm shadow-lg group-hover:bg-brand-primary transition duration-300">T</div>
+                        <div class="flex flex-col">
+                            <span class="font-bold text-2xl text-brand-dark leading-none tracking-tight">The Todd Group</span>
+                            <span class="text-[11px] uppercase tracking-[0.2em] text-slate-500 mt-1.5 hidden lg:block font-semibold">Open Source Drug Discovery</span>
+                        </div>
+                    </a>
+                </div>
+                
+                <!-- Desktop Menu -->
+                <div class="hidden md:flex space-x-8 items-center">
+                    <!-- 链接指向 .html -->
+                    <a href="research.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Research</a>
+                    
+                    <!-- People Dropdown -->
+                    <div class="relative group z-50">
+                        <button class="flex items-center gap-1 text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide focus:outline-none">
+                            People
+                            <svg class="w-3 h-3 transition-transform group-hover:rotate-180 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </button>
+                        <div class="absolute left-0 w-52 bg-white border border-slate-100 shadow-xl rounded-sm hidden group-hover:block pt-2 mt-4">
+                            <div class="bg-white py-1">
+                                <!-- 链接指向 .html -->
+                                <a href="current.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Current Members</a>
+                                <a href="past.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Past Members</a>
+                                <a href="photo-gallery.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Photo Gallery</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 链接指向 .html -->
+                    <a href="publications.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Publications</a>
+                    <a href="news.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">News</a>
+                    <a href="idler.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">IDLER COMPOUNDS</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main class="flex-grow">
+        
+        <!-- SECTION 1: Hero -->
+        <section class="bg-white py-24 md:py-32 relative overflow-hidden">
+            <!-- 极其微妙的背景装饰，增加空间感 -->
+            <div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/3 w-[800px] h-[800px] bg-brand-primary/5 rounded-full blur-[120px] pointer-events-none"></div>
+            
+            <div class="max-w-5xl mx-auto px-4 text-center relative z-10">
+                <h1 class="text-5xl md:text-7xl font-extrabold text-brand-dark mb-10 leading-[1.1] tracking-tight">
+                    Accelerating drug discovery through <br>
+                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-primary-dark to-brand-accent">open source collaboration.</span>
+                </h1>
+                <div class="prose prose-xl text-slate-500 mx-auto max-w-3xl leading-relaxed">
+                    <p>
+                        We champion patent-free, borderless Open Source Drug Discovery. By sharing real-time data and crowdsourcing solutions, we break traditional silos to accelerate cures for neglected global health challenges.
+                    </p>
+                </div>
+                <div class="mt-14 flex flex-col sm:flex-row justify-center gap-5">
+                    <!-- 链接指向 .html -->
+                    <a href="./research.html" class="px-10 py-4 bg-brand-dark text-white font-bold rounded-full hover:bg-slate-800 transition shadow-xl shadow-brand-dark/20 hover:shadow-brand-dark/30 transform hover:-translate-y-1">
+                        Explore Our Research
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: Life at School of Pharmacy UCL -->
+        <section class="bg-brand-light py-24 border-t border-slate-200">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex flex-col md:flex-row justify-between items-end mb-12 gap-4">
+                    <div>
+                        <div class="w-12 h-1.5 bg-brand-primary mb-6 rounded-full"></div>
+                        <h3 class="text-4xl text-brand-dark font-bold tracking-tight">Life at the School of Pharmacy UCL</h3>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
+                    <!-- Picture 1: Brunswick Square -->
+                    <div onclick="openModal(this.querySelector('img').src, 'Brunswick Square')" class="image-card group cursor-pointer relative rounded-2xl overflow-hidden">
+                        <div class="relative aspect-[16/9]">
+                            <img src="https://images.unsplash.com/photo-1541339907198-e021fc9d13f1?auto=format&fit=crop&q=80&w=1200" alt="Brunswick Square" class="w-full h-full object-cover transition duration-700 group-hover:scale-105">
+                            <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90 pointer-events-none"></div>
+                            <div class="absolute bottom-0 left-0 p-8">
+                                <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Campus</span>
+                                <span class="text-white font-bold text-2xl tracking-tight">Brunswick Square</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Picture 2: The Lab -->
+                    <div onclick="openModal(this.querySelector('img').src, 'State-of-the-art Laboratories')" class="image-card group cursor-pointer relative rounded-2xl overflow-hidden">
+                        <div class="relative aspect-[16/9]">
+                            <img src="https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=1200" alt="Laboratories" class="w-full h-full object-cover transition duration-700 group-hover:scale-105">
+                            <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90 pointer-events-none"></div>
+                            <div class="absolute bottom-0 left-0 p-8">
+                                <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Facilities</span>
+                                <span class="text-white font-bold text-2xl tracking-tight">State-of-the-art Laboratories</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 3: External Partners -->
+        <section class="bg-white py-24 border-t border-slate-100">
+            <div class="max-w-7xl mx-auto px-4">
+                <p class="text-center text-xs font-bold text-slate-400 uppercase tracking-[0.25em] mb-16">Supported By & Partnering With</p>
+                
+                <div class="flex flex-wrap justify-center items-center gap-x-16 gap-y-12">
+                    
+                    <!-- Gates Foundation -->
+                    <div class="group cursor-pointer transition duration-300">
+                        <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Gates Foundation</span>
+                    </div>
+
+                    <!-- EPSRC -->
+                    <div class="group cursor-pointer transition duration-300">
+                        <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">EPSRC</span>
+                    </div>
+                    
+                    <!-- Wellcome -->
+                    <div class="group cursor-pointer transition duration-300">
+                         <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Wellcome</span>
+                    </div>
+
+                    <!-- MMV -->
+                    <div class="group cursor-pointer transition duration-300">
+                         <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">MMV</span>
+                    </div>
+
+                    <!-- SGC -->
+                    <div class="group cursor-pointer transition duration-300">
+                         <span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">SGC</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-brand-dark text-white py-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-12 gap-12">
+            
+            <!-- Brand -->
+            <div class="md:col-span-5">
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="h-8 w-8 bg-brand-primary rounded flex items-center justify-center font-bold text-white shadow-lg shadow-brand-primary/40">T</div>
+                    <h5 class="text-xl font-bold text-white tracking-tight">The Todd Group</h5>
+                </div>
+                <p class="text-sm text-slate-400 leading-loose max-w-sm font-medium">
+                    Pioneering open source methodologies in drug discovery. Making science accessible, transparent, and collaborative.
+                </p>
+            </div>
+
+            <!-- Links -->
+            <div class="md:col-span-3 md:col-start-7">
+                <h5 class="text-xs font-bold uppercase tracking-widest mb-6 text-slate-500">Location</h5>
+                <p class="text-sm text-slate-300 leading-relaxed">
+                    UCL School of Pharmacy<br>
+                    29-39 Brunswick Square<br>
+                    London, WC1N 1AX<br>
+                    United Kingdom
+                </p>
+                <a href="mailto:matthew.todd@ucl.ac.uk" class="text-brand-primary hover:text-white mt-4 inline-block text-sm font-bold transition">matthew.todd@ucl.ac.uk</a>
+            </div>
+        </div>
+        
+        <div class="max-w-7xl mx-auto px-4 mt-16 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-xs text-slate-500 font-medium">
+            <p>&copy; The Todd Group.</p>
+            <p>Designed for Open Science.</p>
+        </div>
+    </footer>
+
+    <!-- Image Modal (Lightbox) -->
+    <div id="imageModal" class="fixed inset-0 z-[100] flex items-center justify-center bg-black/90 hidden backdrop-blur-sm p-4" onclick="closeModal()">
+        <div class="relative max-w-6xl w-full max-h-screen flex flex-col items-center">
+            <!-- Close Button -->
+            <button onclick="closeModal()" class="absolute -top-12 right-0 text-white hover:text-brand-primary transition p-2">
+                <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+            
+            <!-- Image Container -->
+            <img id="modalImage" src="" alt="Full View" class="max-h-[85vh] w-auto rounded-sm shadow-2xl object-contain" onclick="event.stopPropagation()">
+            
+            <!-- Caption -->
+            <p id="modalCaption" class="text-white/80 mt-4 font-bold text-lg tracking-wide"></p>
+        </div>
+    </div>
+
+    <!-- JavaScript for Modal -->
+    <script>
+        function openModal(imageSrc, caption) {
+            const modal = document.getElementById('imageModal');
+            const modalImg = document.getElementById('modalImage');
+            const modalText = document.getElementById('modalCaption');
+            
+            modalImg.src = imageSrc;
+            modalText.textContent = caption || '';
+            
+            modal.classList.remove('hidden');
+            document.body.style.overflow = 'hidden'; // Prevent background scrolling
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('imageModal');
+            modal.classList.add('hidden');
+            document.body.style.overflow = ''; // Restore background scrolling
+        }
+
+        // Close on Escape key
+        document.addEventListener('keydown', function(event) {
+            if (event.key === "Escape") {
+                closeModal();
+            }
+        });
+    </script>
+
+</body>
+</html>

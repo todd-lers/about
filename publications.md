@@ -1,284 +1,739 @@
----
-layout: default
----
-
-[ORCID ID 0000-0001-7096-4751](https://orcid.org/0000-0001-7096-4751)  
-[Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=a8lzGHEAAAAJ)
-
-### 2025
-
-1. Identification of Spirodioxolane nsP2 Helicase Inhibitors with Antialphaviral Activity, H. J. Oh, J. D. Sears, B. M. Ramalingam, R. S. Z. Saleem, Z. W. Davis-Gilbert, M. A. Hossain, S. R. Moorman, D. Ohja, S. A. Martinez, J. E. Burdick, R. M. Couñago, N. J. Moorman, M. T. Heise, M. H. Todd and T. M. Willson, 2025, _submitted_. [Preprint](https://doi.org/10.26434/chemrxiv-2025-mfts7).
-
-1. Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening, R. Isaksson, E. M. Carter, C. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, **2025**, _submitted_. [Preprint](https://doi.org/10.26434/chemrxiv-2025-nqjb4). 
-
-1. [Protein–ligand Data at Scale to Support Machine Learning](https://www.nature.com/articles/s41570-025-00737-z), A. M. Edwards _et al._, _Nat. Rev. Chem._ **2025**, _in press_. DOI: 10.1038/s41570-025-00737-z
-
-1. [Kinome Analysis of _Madurella mycetomatis_ Identified Kinases in the Cell Wall Integrity Pathway as Novel Potential Therapeutic Drug Targets in Eumycetoma Caused by _Madurella mycetomatis_](https://doi.org/10.1371/journal.pntd.0013482), M. Konings, N. Strepis, R.-I. Manabe, A. Hasegawa, S. Chaudhari, S. du Pré, M. Schippers, M. Tagami, J. Ma, Y. Okazaki, M. H. Todd, B. Biersack, V. Masand, A. Verbon, T. Kasukawa, I. Abugessaisa, W. van de Sande, _PLOS NTD_ **2025**, _in press_.
-
-1. [Structure–activity Relationships of Fenarimol Analogues with Potent _in vitro_ and _in vivo_ Activity Against _Madurella mycetomatis_, the Main Causative Agent of Eumycetoma](https://pubs.rsc.org/en/content/articlelanding/2025/md/d5md00427f), H. P. Duong, D. Melechov, W. Lim, J. Ma, K. Scroggie, L. Rajendra, B. Perry, L. Cruz, P. Rutledge, A. Motion, W van de Sande and M. H. Todd, _RSC Med. Chem._, **2025**, _in press_. DOI: 10.1039/D5MD00427F. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/68137329e561f77ed49a9afb)
-
-### 2024
-
-1. ABHD2 Activity is Not Required for the Non-genomic Action of Progesterone on Human Sperm, O. Arnolds, E. M. Carter, M. Edwards, E. Wigren, E. Homan, P. Ribera, K. Bentley, M. Haraldsson, N. Theo-Emegano, P. Loppnau, M. M. Szewczyk, M. A. Cao, D. Barsyte-Lovejoy, K. Vester, A. Thrun, R. Lesche, J. Münchow, W. F. Zhu, L. Temme, C. Brenker, T. Strünker, M. Sundström, M. H. Todd, A. M. Edwards, C. Tredup, O. Gileadi, _submitted_. [Preprint](https://biorxiv.org/cgi/content/short/2024.12.17.628646v1)
-
-1. [Open Source Code Contributions to Global Health – the Case of Antimalarial Drug Discovery](https://doi.org/10.1021/acsmedchemlett.4c00131), G. Turon, E. G. Tse, X. Qiu, M. H. Todd and M. Duran-Frigola, _ACS Med. Chem. Lett._ **2024**, _15_ 1645–1650. DOI: 10.1021/acsmedchemlett.4c00131.
-
-1. [Identification of Dihydropyrazolo[1,5-a]pyrazin-4(5H)-ones as Cyclic Products of β-Amidomethyl Vinyl Sulfone Alphavirus Cysteine Protease Inhibitors](https://www.mdpi.com/1424-8247/17/7/836), A. Ghoshal, Á. F. Magalhães, K. H. Asressu, M. A. Hossain, M. H. Todd and T. M. Willson, _Pharmaceuticals_ **2024**, _17_(7), 836. [Preprint](https://doi.org/10.26434/chemrxiv-2024-wh6tp). DOI: 10.3390/ph17070836.
-
-1. [Reaction Hijacking Inhibition of _Plasmodium falciparum_ Asparagine tRNA Synthetase](https://www.nature.com/articles/s41467-024-45224-z), S. C. Xie, Y. Wang, C. J. Morton, R. D. Metcalfe, C. Dogovski, C. F. A. Pasaje, E. Dunn, M. R. Luth, K. Kumpornsin, E. S Istvan, J. S. Park, K. J. Fairhurst, N. Ketprasit, T. Yeo, O. Yildirim, M. N. Bhebhe, D. M. Klug, P. J. Rutledge, L. C. Godoy, S. Dey, M. L. De
-Souza, J. L. Siqueira-Neto, Y. Du, T. Puhalovich, M. Amini, G. Shami, D. Loesbanluechai, S. Nie, N. Williamson, G. P. Jana, B. C. Maity, P. Thomson, T. Foley, D. S. Tan, J. C. Niles, B. W. Han, D. E Goldberg, J. Burrows, D. A. Fidock, M. C. S. Lee, E. A. Winzeler, M. D. W. Griffin, M. H. Todd and L. Tilley, _Nature Comms_. **2024**, _15_, 937. DOI: 10.1038/s41467-024-45224-z.
-
-### 2023
-
-1. [Open Source Antibiotics - Simple Diarylimidazoles are Potent Against Methicillin Resistant Staphylococcus Aureus](https://pubs.acs.org/doi/10.1021/acsinfecdis.3c00286), D. M. Klug, E. G. Tse, D. G. Silva, Y. Cao, S. A. Charman, J. Chauhan, E. Crighton, M. Dichiara, C. Drake, D. Drewry, F. da Silva Emery, L. Ferrins, L. Graves, E. Hopkins, T. A. C. Kresina, Á. Lorente-Macías, B. Perry, R. Phipps, B. Quiroga, A. Quotadamo, G. Sabatino, A. Sama, A. Schätzlein, Q. J. Simpson, J. Steele, J. Shanu-Wilson, P. Sjö, P. Stapleton, C. Swain, A. Vaideanu, H. Xie, W. Zuercher, M. H. Todd, _ACS Infect. Dis._ **2023**, _9_, 2423–2435. DOI: 10.1021/acsinfecdis.3c00286. 
-
-1. [Structure-property Optimization of a Series of Imidazopyridines for Visceral Leishmaniasis](https://dx.doi.org/10.1021/acsinfecdis.3c00040), M. Dichiara, Q. J. Simpson, A. Quotadamo, H. B. Jalani, A. X. Huang, C. C. Millard, D. M. Klug, E. G. Tse, M. H. Todd, D. Gedder, F. da Silva Emery, J. E. Carlson, S.-L. Zheng, M. Vleminckx, A. Matheeussen, G. Caljon, M. P. Pollastri, P. Sjö, B. Perry, L. Ferrins, _ACS Infect. Dis._ **2023**, _9_, 1470–1487. DOI: 10.1021/acsinfecdis.3c00040.
-
-1. [Perphenazine-macrocycle Conjugates Rapidly Sequester the Aβ42 Monomer and Prevent Formation of Toxic Oligomers and Amyloid](https://pubs.acs.org/doi/abs/10.1021/acschemneuro.2c00498), S. R. Ball, J. S. P. Adamson, M. A. Sullivan, M. R. Zimmermann, V. Lo, M. Sanz-Hernandez, X. Jiang, A. H. Kwan, A. D. J. McKenzie, E. L. Werry, T. P. J. Knowles, M. Kassiou, G. Meisl, M. H. Todd, P. J. Rutledge, M. Sunde, _ACS Chem. Neurosci._ **2023**, _14_, 87-98. DOI: 10.1021/acschemneuro.2c00498
-
-1. [Antifungal Activity of Natural Naphthoquinones and Anthraquinones against _Madurella mycetomatis_](https://onlinelibrary.wiley.com/doi/full/10.1002/cbdv.202300151), J. Ma, M. H. Todd, W. W. J. van de Sande and B. Biersack, _Chem. Biodiversity_ **2023**, _20_, e202300151. DOI: 10.1002/cbdv.202300151
-
-1. [Target 2035–an Update on Private Sector Contributions](https://pubs.rsc.org/en/content/articlelanding/2023/md/d2md00441k), S. Ackloo, A. A. Antolin, J. M. Bartolome, H. Beck, A. N Bullock, U. A. K. Betz, J. Böttcher, P. J. Brown, M. Chaturvedi, A. Crisp,  D. Daniels,  J. Dreher, K. Edfeldt, A. M. Edwards, U. Egner, J. Elkins, C. Fischer, T. Glendorf, S. Goldberg, I. V. Hartung, A. Hillisch, E. Homan, S. Knapp, M. Koester, A. Kraemer, J. Llaveria, U. Lessel, S. Lindemann, L. Linderoth, H. Matsui, M. Michel, F. Montel, A. Mueller-Fahrnow, S, Mueller, D. R. Owen, K. S. Saikatendu, V. Santhakumar, W. Sanderson, C. Scholten, M. Schapira, S. Sharma, B. Shireman, M. Sundström, M. H. Todd, C. Tredup, J. Veneble, T. M. Willson, and C. H Arrowsmith, _RSC Med. Chem._ **2023**, _advance article_. DOI: 10.1039/D2MD00441K
-
-1. Metallaphotoredox-Catalyzed Decarboxylative sp3–sp3 Coupling with Iso(thio)chroman and Tetrahydroisoquinoline Cores, P. A. King, P. J. Rutledge and M. H. Todd, _submitted_. [Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/62ab247f1fdc34fd493beda4).
-
-### 2022
-
-1. [CACHE (Critical Assessment of Computational Hit-finding Experiments): A Public-private Partnership Benchmarking Initiative to Enable the Development of Computational Methods for Hit-finding](https://doi.org/10.1038/s41570-022-00363-z), S. Ackloo, R. Al-awar, R. E. Amaro, C. H. Arrowsmith, H. Azevedo, R. A. Batey, Y. Bengio, U. A. K. Betz, C. G. Bologa, J. D. Chodera, W. D. Cornell, I. Dunham, G. F. Ecker, K. Edfeldt, A. M. Edwards, M. K. Gilson, C. R. Gordijo, G. Hessler, A. Hillisch, A. Hogner, J. J. Irwin, J. M. Jansen, D. Kuhn, A. R. Leach, A. A. Lee, U. Lessel, J. Moult, I. Muegge, T. I. Oprea, B. G. Perry, P. Riley, K. S. Saikatendu, V. Santhakumar, M. Schapira, C. Scholten, M. H. Todd, M. Vedadi, A. Volkamer, T. M. Willson, _Nat. Rev. Chem._ **2022**, DOI: 10.1038/s41570-022-00363-z ([Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/6168ba62f718dfc39bdee0db), DOI: 10.33774/chemrxiv-2021-rzq4n.)
-
-1. [Target 2035 – Update on the Quest for a Probe for every Protein](https://doi.org/10.1039/D1MD00228G), S. Müller, S. Ackloo, A. Al Chawaf, B. Al-Lazikani, A. Antolin, J. B Baell, H. Beck, S. Beedie, U. A. K. Betz, G. A. Bezerra, P. E Brennan, D. Brown, P. J Brown, A. N Bullock, A. J Carter, A. Chaikuad, M. Chaineau, A. Ciulli, I. Collins, J. Dreher, D. Drewry, K. Edfeldt, A. M. Edwards, U. Egner, S. V. Frye, S. M. Fuchs, M. D. Hall, I. V. Hartung, A. Hillisch, S. H. Hitchcock, E. Homan, N. Kannan, J. R. Kiefer, S. Knapp, M. Kostic, S. Kubicek, A. R. Leach, S. Lindemann, B. D. Marsden, H. Matsui, J. L. Meier, D. Merk, M. Michel, M. R. Morgan, A. Mueller-Fahrnow, D. R. Owen, B. G. Perry, S. H. Rosenberg, K. S. Saikatendu, M. Schapira, C. Scholten, S. Sharma, A. Simeonov, M. Sundström, G. Superti-Furga, M. H. Todd, C. Tredup, M. Vedadi, F. von Delft, T. M. Willson, G. E. Winter, P. Workman and C. H Arrowsmith, _RSC Med. Chem._ **2021**, _13_, 13-21. DOI: 10.1039/D1MD00228G
-
-1. [Screening the Pandemic Response Box Identified Benzimidazole Carbamates, Olorofim and Ravuconazole as Promising Drug Candidates for the Treatment of Eumycetoma](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010159), W. Lim, B. Nyuykonge, K. Eadie, M. Konings, J. Smeets, A. Fahal, A. Bonifaz, M. Todd, B. Perry, K. Samby, J. Burrows, A. Verbon and W. van de Sande _PLoS NTD_ **2022**, _16_, e0010159. DOI: 10.1371/journal.pntd.0010159
-
-### 2021
-
-1. [Platinum Binding Preferences Dominate the Binding of Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes to DNA](https://doi.org/10.1039/D1DT03539H), A. T. S. Lo, J. K. Chen, V. Murray, M. H. Todd and T. W. Hambley, _Dalton Trans._ **2021**, _50_, 17945-17952. DOI: 10.1039/D1DT03539H. _Selected as a Dalton Transactions HOT article._
-
-1. [An Open Drug Discovery Competition: Experimental Validation of Predictive Models in a Series of Novel Antimalarials](https://doi.org/10.1021/acs.jmedchem.1c00313), E. G. Tse, L. Aithani, M. Anderson, J. Cardoso-Silva, G. Cincilla, G. J. Conduit, M. Galushka, D. Guan, I. Hallyburton, B. W. J. Irwin, K. Kirk, A. M. Lehane, J. C. R. Lindblom, R. Lui, S. Matthews, J. McCulloch, A. Motion, H. L. Ng, M. Öeren, M. N. Robertson, V. Spadavecchio, V. A. Tatsis, W. P. van Hoorn, A. D. Wade, T. M. Whitehead, P. Willis and M. H. Todd, _J. Med. Chem._ **2021**, _64_, 16450-16463. DOI: 10.1021/acs.jmedchem.1c00313 ([Preprint](https://chemrxiv.org/engage/chemrxiv/article-details/60c751a59abda283a4f8dc53))
-
-1. [Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes: Cytotoxicity, Cellular Accumulation, and Fluorescence Distributions in 2D and 3D Cell Culture Models](https://doi.org/10.1007/s00775-020-01847-3), A, T. S. Lo, N. S. Bryce, A. V. Klein, M. H. Todd and T. W. Hambley, _J. Biol. Inorg. Chem._ **2021**, _26_, 217-233. DOI: 10.1007/s00775-020-01847-3
-
-1. [Copper(II) Complexes of _N_-Propargyl Cyclam Ligands Reveal a Range of Coordination Modes and Colours, and Unexpected Reactivity](http://dx.doi.org/10.1039/d0dt03736b), A. J. Counsell, M. Yu, M. Shi, A. T. Jones, J. M. Batten, P. Turner, M. H. Todd and P. J. Rutledge, _Dalton Trans._ **2021**, _50_, 3931-3942. DOI: 10.1039/D0DT03736B
-
-1. [Molecular Docking with Open Access Software: Development of an Online Laboratory Handbook and Remote Workflow for Chemistry and Pharmacy Master's Students to Undertake Computer-Aided Drug Design](https://doi.org/10.1021/acs.jchemed.1c00289). B. Clent, Y. Wang, H. Britton, F. Otto, C. Swain, M. H. Todd, J. Wilden and A. Tabor, _J. Chem. Ed._ **2021**, _98_, 2899-2905. DOI: 10.1021/acs.jchemed.1c00289
-
-1. [There is No Market for New Antibiotics: This Allows an Open Approach to Research and Development](https://wellcomeopenresearch.org/articles/6-146/v1), D. M. Klug, F. I. M. Idiris, M. A. T. Blaskovich, F. von Delft, C. G. Dowson, C. Kirchhelle, A. P. Roberts, A. C. Singer and M. H. Todd, _Wellcome Open Res._ **2021**, 6:146. DOI: 10.12688/wellcomeopenres.16847.1
-
-1. [A Critical Overview of Computational Approaches Employed for COVID-19 Drug Discovery](https://doi.org/10.1039/D0CS01065K), E. N. Muratov, R. Amaro, C. H. Andrade, N. Brown, S. Ekins, D. Fourches, O. Isayev, D. Kozakov, J. Medina-Franco, K. M. Merz, T. I. Oprea, V. Poroikov, G. Schneider, M. H. Todd, A. Varnek, D. A. Winkler, A. Zakharov, A. Cherkasov and A. Tropsha, _Chem. Soc. Rev._ **2021**, _50_, 9121-9151. DOI: 10.1039/D0CS01065K
-
-
-### 2020
-
-1. [Open Science Approaches to COVID-19](https://f1000research.com/articles/9-1043). E. G. Tse, D. M. Klug and M. H. Todd, _F1000Research_ **2020** 9:1043. DOI: 10.12688/f1000research.26084.1
-
-1. [tele-Substitution Reactions in the Synthesis of a Promising Class of 1,2,4-Triazolo(4,3-a)pyrazine-Based Antimalarials](https://pubs.acs.org/doi/10.1021/acs.joc.0c01045).     M. Korsik, E. G. Tse, D. G. Smith, W. Lewis, P. J. Rutledge, and M. H. Todd, _J. Org. Chem._ **2020**, 85, 13438-13452. DOI: 10.1021/acs.joc.0c01045
-
-1. [Non-Classical Phenyl Bioisosteres as Effective Replacements in a Series of Novel Open Source Antimalarials](https://doi.org/10.1021/acs.jmedchem.0c00746). E. G. Tse, S. D. Houston, C. M. Williams, G. P. Savage, L. M. Rendina, I. Hallyburton, M. Anderson, R. Sharma, G. S. Walker, R. S. Obach and M. H. Todd, _J. Med. Chem._ **2020**, _63_, 11585-11601. DOI: 10.1021/acs.jmedchem.0c00746
-
-1. [Metal Complexes as a Promising Source for New Antibiotics](https://doi.org/10.1039/C9SC06460E), A. Frei, J. Zuegg, A. G. Elliott, M. Baker, S. Braese, C. Brown, F. Chen, C. Dowson, G. Dujardin, N. Jung, A. P. King, A. M. Mansour, M. Massi, J. Moat, H. A. Mohamed, A. K. Renfrew, P. J. Rutledge, P. J. Sadler, M. H. Todd, C. E. Willans, J. J. Wilson, M. A. Cooper and M. A. T. Blaskovich, _Chem. Sci._ **2020**, _11_, 2627-2639. DOI: 10.1039/C9SC06460E
-
-### 2019
-
-1. [Six Laws of Open Source Drug Discovery](https://doi.org/10.1002/cmdc.201900565), M. H. Todd, _ChemMedChem_ **2019**, _14_, 1804–1809. DOI: 10.1002/cmdc.201900565 (Invited Guest Editorial)
-
-1. [The Past, Present and Future of Anti-Malarial Medicines](https://doi.org/10.1186/s12936-019-2724-z), E. G. Tse, M. Korsik and M. H. Todd, _Malaria J._ **2019**, _18_:93. DOI: 10.1186/s12936-019-2724-z ([Living Review Version](https://github.com/OpenSourceMalaria/pipeline_living_review))
-
-### 2018
-
-1. [Easy-to-Synthesize Spirocyclic Compounds Possess Remarkable _In Vivo_ Activity Against _Mycobacterium Tuberculosis_](https://doi.org/10.1021/acs.jmedchem.8b01533),
-A. Guardia, J. Baiget, M. Cacho, A. Pérez, M. Ortega-Guerra, W. Nxumalo, S. D. Khanye, J. Rullas, F. Ortega, E. Jiménez, E. Pérez-Herrán, M. T. Fraile-Gabaldón, J. Esquivias, R. Fernández, E. Porras-De Francisco, L. Encinas, M. Alonso, I. Giordano, C. Rivero, J. Miguel-Siles, J. G. Osende, K. A. Badiola, P. J. Rutledge, M. H. Todd, M. Remuiñán and C. Alemparte, _J. Med. Chem._ **2018**, _61_, 11327–11340. DOI: 10.1021/acs.jmedchem.8b01533
-
-1. [Experimentally Validated Pharmacoinformatics Approach to Predict hERG Inhibition Potential of New Chemical Entities](https://doi.org/10.3389/fphar.2018.01035), S. Munawar, M. J Windley, E. G. Tse, M. H. Todd, A. Hill, J. Vandenberg and I. Jabeen, _Frontiers Pharmacol._ **2018**, _9_:1035. DOI: 10.3389/fphar.2018.01035
-
-1. [Addressing the Most Neglected Diseases through an Open Research Model: the Discovery of Fenarimols as Novel Drug Candidates for Eumycetoma](https://doi.org/10.1371/journal.pntd.0006437), W. Lim, Y. Melse, M. Konings, H. P. Duong, K. Eadie, B. Laleu, B. Perry, M. H. Todd, J.-R. Ioset, W. W. J. van de Sande, _PLoS NTD_ **2018**, _12_(4): e0006437. DOI: 10.1371/journal.pntd.0006437 ([Preprint](https://www.biorxiv.org/content/early/2018/02/02/258905))
-
-1. [Anti-Tubercular _bis_-Substituted Cyclam Derivatives: Structure-Activity Relationships and _In Vivo_ Studies](https://doi.org/10.1021/acs.jmedchem.7b01569), M. Spain, J. K.-H. Wong, G. Nagalingam, J. M. Batten, E. Hortle, S. Oehlers, X.-F. Jiang, H. E. Murage, J. T. Orford, P. Crisologo, J. A. Triccas, P. J. Rutledge and M. H. Todd, _J. Med. Chem._ **2018**, _61_, 3595–3608. DOI: 10.1021/acs.jmedchem.7b01569
-
-1. [The C6H6 NMR Repository: an Integral Solution to Control the Flow of your Data from the Magnet to the Public](https://doi.org/10.1002/mrc.4669), L. Patiny, M. Zasso, D. Kostro, A. Bernal, A. M. Castillo, A. Bolaños, M. A. Asencio, N. Pellet, M. H. Todd, N. Schloerer, S. Kuhn, E. Holmes, S. Javor and J. Wist, _Mag. Res. Chem._ **2018**, _56_, 520-528. DOI: 10.1002/mrc.4669
-
-1. [Molecular Switches for any pH: A Systematic Study of the Versatile Coordination Behaviour of Cyclam Scorpionands](https://doi.org/10.1002/chem.201703488), Y. H. Lau, J. K. Clegg, J. R. Price, R. B. Marquart, M. H. Todd and P. J. Rutledge, _Chem. Eur. J._ **2018**, _24_, 1573-1585. DOI: 10.1002/chem.201703488
-
-### 2017
-
-1. [_N_-Aryl Groups are Ubiquitous in Cross Dehydrogenative Couplings Because They Stabilize Reactive Intermediates](https://doi.org/10.1002/chem.201700430), A. S.-K. Tsang, A. S. K. Hashmi, P. Comba, M. Kerscher, B. Chan and M. H. Todd, _Chem. Eur. J._ **2017**, _23_, 9313–9318. DOI: 10.1002/chem.201700430
-
-1. [An Open Source Pharma Roadmap](https://doi.org/10.1371/journal.pmed.1002276), M. Balasegaram, P. Kolb, J. McKew, J. Menon, P. Olliaro, T. Sablinski, Z. Thomas, M. H. Todd, E. Torreele and J. Wilbanks, _PLoS Med._ **2017**, _14_(4): e1002276. DOI: 10.1371/journal.pmed.1002276 ([Explainer piece in the Guardian](https://www.theguardian.com/commentisfree/2017/apr/19/why-open-source-pharma-is-the-path-to-both-cheaper-and-new-medicines))
-
-1. [Recent Advances in Macrocyclic Fluorescent Probes for Ion Sensing](https://doi.org/10.3390/molecules22020200), J. K.-H. Wong, M. H. Todd and P. J. Rutledge, _Molecules_ **2017**, _22_, 200. DOI: 10.3390/molecules22020200 (Invited Contribution to Special Issue on Molecular Imaging Probes)
-
-1. [Selective Displacement of a Scorpionand Triazole Ligand from Metallo-Cyclam Complexes Visualised Using NMR Spectroscopy](https://doi.org/10.1002/ejic.201601474), J. K.-H. Wong, N. Proschogo, M. H. Todd and P. J. Rutledge, _Eur. J. Inorg. Chem._ **2017**, _7_, 1075–1086. DOI: 10.1002/ejic.201601474 (Highlighted as a Very Important Paper)
-
-### 2016
-
-1. [Open Source Drug Discovery: Highly Potent Antimalarial Compounds Derived from the Tres Cantos Arylpyrroles](https://doi.org/10.1021/acscentsci.6b00086), A. E. Williamson, P. M. Ylioja, M. N. Robertson, Y. Antonova-Koch, V. Avery, J. B. Baell, H. Batchu, S. Batra, J. N. Burrows, S. Bhattacharyya, F. Calderon, S. A. Charman, J. Clark, B. Crespo, M. Dean, S. L. Debbert, M. Delves, A. S. M. Dennis, F. Deroose, S. Duffy, S. Fletcher, G. Giaever, I. Hallyburton, F.-J. Gamo, M. Gebbia, R. K. Guy, Z. Hungerford, K. Kirk, M. J. Lafuente-Monasterio, A. Lee, S. Meister, C. Nislow, J. P. Overington, G. Papadatos, L. Patiny, J. Pham, S. A. Ralph, A. Ruecker, E. Ryan, C. Southan, K. Srivastava, C. Swain, M. J. Tarnowski, P. Thomson, P. Turner, I. M. Wallace, T. N. C. Wells, K. White, L. White, P. Willis, E. A. Winzeler, S. Wittlin, and M. H. Todd, _ACS Cent. Sci._ **2016**, _2_, 687–701. DOI: 10.1021/acscentsci.6b00086 (Paper Featured in the [Sydney Morning Herald](https://www.smh.com.au/healthcare/scientists-turn-to-crowdsourcing-in-elusive-search-for-malaria-drug-20160914-grg22h.html), El Mundo (Spanish language newspaper), [IFL Science](https://www.iflscience.com/health-and-medicine/open-source-science-explores-malaria-drugs/all/), Campus Review, ABC TV and Radio, Channel 10 television news, Radio Adelaide and an interview for the 2016 shareholder video for the pharmaceutical company GlaxoSmithKline (collaborators on the project); led to invited lay summary in [The Conversation](https://theconversation.com/making-drug-development-less-secretive-could-lead-to-quicker-cheaper-therapies-64744) (Sept 14th 2016) and a Reddit Ask Me Anything online Q&A published in [The Winnower](https://doi.org/10.15200/winn.147558.85439))
-
-1. [A Direct Method for the _N_-Tetraalkylation of Azamacrocycles](https://doi.org/10.3762/bjoc.12.239), A. J. Counsell, A. T. Jones, M. H. Todd and P. J. Rutledge, _Beilstein J. Org. Chem._ **2016**, _12_, 2457-2461. DOI: 10.3762/bjoc.12.239
-
-1. [SCINDR - The SCience INtroDuction Robot that will Connect Open Scientists](https://doi.org/10.3897/rio.2.e9995), C. Smith, M. H. Todd, L. Patiny, C. Swain, C. Southan, A. E. Williamson and A. Clark, _Res. Ideas Outcomes_ **2016**, _2_:e9995. DOI: 10.3897/rio.2.e9995
-
-1. [Synthesis and Evaluation of 1,8-Disubstituted-cyclam/naphthalimide Conjugates as Probes for Metal Ions](https://doi.org/10.1002/open.201600010), J. K.-H. Wong, S. Ast, M. Yu, R. Flehr, A. J. Counsell, P. Turner, P. Crisologo, M. H. Todd and P. J. Rutledge, _ChemistryOpen_ **2016**, _5_, 375–385. DOI: 10.1002/open.201600010
-
-1. [Non-Toxic Metal-Cyclam Complexes, a New Class of Compounds with Potency Against Drug-Resistant _Mycobacterium tuberculosis_](https://doi.org/10.1021/acs.jmedchem.6b00432), M. Yu, G. Nagalingam, S. Ellis, E. Martinez, V. Sintchenko, M. Spain, P. J. Rutledge, M. H. Todd and J. Triccas, _J. Med. Chem._ **2016**, _59_, 5917–5921. DOI: 10.1021/acs.jmedchem.6b00432
-
-### 2015
-
-1. [Efficient Deprotection of _F_-BODIPY Derivatives: Removal of BF2 using Brønsted Acids](https://doi.org/10.3762/bjoc.11.6), M. Yu, J. K.-H. Wong, C. Tang, P. Turner, M. H. Todd and P. J. Rutledge, _Beilstein J. Org. Chem._ **2015**, _11_, 37–41. DOI: 10.3762/bjoc.11.6
-
-1. [Using Click Chemistry to Tune the Properties and the Fluorescence Response Mechanism of Structurally Similar Probes for Metal Ions](https://doi.org/10.1002/ejic.201402811), S. Ast, S. Kuke, P. J. Rutledge and M. H. Todd, _Eur. J. Inorg. Chem._ **2015**, 58-66. DOI: 10.1002/ejic.201402811
-
-1. [Experiences with LabTrove, a Researcher-Centric ELN](https://doi.org/10.1039/C4SC02128B), K. A. Badiola, C. Bird, W. S. Brocklesby, J. Casson, R. T. Chapman, S. J. Coles, J. R. Cronshaw, A. Fisher, J. G. Frey, D. Gloria, M. C. Grossel, D. B. Hibbert, L. K. Mapp, B. Matthews, A. Milsted, R. S. Minns, K. T. Mueller, K. Murphy, C. Neylon, T. Parkinson, R. Quinnell, J. S. Robinson, M. N. Robertson, M. Robins, E. Springate, G. Tizzard, M. H. Todd, A. E. Williamson, C. Willoughby, E. Yang and P. M. Ylioja, _Chem. Sci._ **2015**, _6_, 1614-1629. DOI: 10.1039/C4SC02128B
-
-### 2014
-
-1. [Efficient Synthesis and Anti-Tubercular Activity of a Series of Spirocycles: An Exercise in Open Science](https://doi.org/10.1371/journal.pone.0111782), K. A. Badiola, D. H. Quan, J. A. Triccas and M. H. Todd, _PLoS ONE_ **2014**, _9_(12): e111782. DOI: 10.1371/journal.pone.0111782
-
-1. [pH-Responsive Quantum Dots (RQDs) that Combine a Fluorescent Nanoparticle with a pH-Sensitive Dye](https://doi.org/10.1039/C4CP03914A), S. Ast, P. J. Rutledge and M. H. Todd, _Phys. Chem. Chem. Phys._ **2014**, _16_, 25255-25257. DOI: 10.1039/C4CP03914A
-
-1. [Neuroprotective Peptide-Macrocycle Conjugates Reveal Complex Structure-Activity Relationships in their Interactions with Amyloid ß](https://doi.org/10.1039/C4MT00122B), M. Yu, T. M. Ryan, S. Ellis, A. I. Bush, J. A. Triccas, P. J. Rutledge and M. H. Todd, _Metallomics_ **2014**, _6_, 1931-1940. DOI: 10.1039/C4MT00122B
-
-1. [The Properties and Performance of a pH-Responsive Functionalised Nanoparticle](https://doi.org/10.1039/C4FD00110A), S. Ast, P. J. Rutledge and M. H. Todd, _Faraday Discuss._ **2014**, _175_, 171-187. DOI: 10.1039/C4FD00110A ([paper associated discussion](https://doi.org/10.1039/C4FD90079K): _Faraday Discuss._ **2014**, _175_, 215-227. DOI: 10.1039/C4FD90079K)
-
-1. [Activity of Praziquantel Enantiomers and Main Metabolites against _Schistosoma mansoni_](https://doi.org/10.1128/AAC.02741-14), I. Meister, K. Ingram-Sieber, N. Cowan, M. H. Todd, M. N. Robertson, C. Meli, M. Patra, G. Gasser and J. Keiser, _Antimicrob. Ag. Chemother._ **2014**, _58_, 5466-5472. DOI: 10.1128/AAC.02741-14
-
-1. [Separation of Enantiomers: Synthetic Methods](http://au.wiley.com/WileyCDA/WileyTitle/productCd-3527330453.html), M. H. Todd, Ed. Wiley-VCH, **2014**. Includes:
-   * Chapter 1: Introduction: A Survey of How and Why to Separate Enantiomers, M. H. Todd, **2014**. ([Open Access](http://onlinelibrary.wiley.com/doi/10.1002/9783527650880.ch1/summary))
-   * Chapter 7: Rare, Neglected and Potential Synthetic Methods for the Separation of Enantiomers, M. H. Todd, **2014**. ([Closed Access](http://onlinelibrary.wiley.com/doi/10.1002/9783527650880.ch7/summary))
-   * [Review](http://dx.doi.org/10.1002/anie.201411359) by Richard Kellogg published in _Angewandte Chemie_ described it as "a thoughtfully constructed, and well-written book full of useful information"
-
-1. [Mechanisms of Cross-Dehydrogenative-Coupling Reactions](https://doi.org/10.1039/9781782620082-00254), A. S.-K. Tsang, S. J. Park and M. H. Todd, in _From C–H to C–C Bonds: Cross Dehydrogenative Coupling_, C.-J. Li, Ed., **2014**, Royal Society of Chemistry, Cambridge.
-
-1. [Incorporating a Piperidinyl Group in the Fluorophore Extends the Fluorescence Lifetime of Click-Derived Cyclam-Naphthalimide Conjugates](https://doi.org/10.1371/journal.pone.0100761), M. Yu, S. Ast, Q. Yu, A. T. S. Lo, R. Flehr, M. H. Todd and P. J. Rutledge, _PLoS ONE_ **2014**, 9(7):e100761. DOI: 10.1371/journal.pone.0100761
-
-1. [Open Source Drug Discovery – A Limited Tutorial](https://doi.org/10.1017/S0031182013001121), M. N. Robertson, P. M. Ylioja, A. E. Williamson, M. Woelfle, M. Robins, K. A. Badiola, P. Willis, P. Olliaro, T. N. C. Wells and M. H. Todd, _Parasitology_ **2014**, _141_, 148-157. DOI: 10.1017/S0031182013001121
-
-### 2013
-
-1. [_In Vitro_ Metabolic Profile and _In Vivo_ Antischistosomal Activity Studies of (η<sup>6</sup>-Praziquantel)Cr(CO)<sub>3</sub> Derivatives](https://doi.org/10.1021/jm401287m), M. Patra, K. Ingram, A. Leonidova, V. Pierroz, S. Ferrari, M. N. Robertson, M. H. Todd, J. Keiser and G. Gasser, _J. Med. Chem._ **2013**, _56_, 9192-9198. DOI: 10.1021/jm401287m
-
-1. [Synthesis of Elongated Cavitands via Click Reactions and their use as Chemosensors](https://doi.org/10.1016/j.tet.2013.07.044), Z. Csók, T. Kégl, Y. Li, R. Skoda-Földes, L. Kiss, S. Kunsági-Máté, M. H. Todd and L. Kollár, _Tetrahedron_ **2013**, _69_, 8186-8190. DOI: 10.1016/j.tet.2013.07.044
-
-1. [Ten Simple Rules for Cultivating Open Science and Collaborative R&D](https://doi.org/10.1371/journal.pcbi.1003244), H. Masum, A. Rao, B. M. Good, M. H. Todd, A. M. Edwards, L. Chan, B. A. Bunin, A. I. Su, Z. Thomas and P. E. Bourne, _PLoS Comp. Biol._ **2013**, _9_, e1003244. DOI: 10.1371/journal.pcbi.1003244
-
-1. [Enhancing the Usefulness of Cross Dehydrogenative Coupling Reactions with a Removable Protecting Group](https://doi.org/10.1039/C3OB40503F), A. S.-K. Tsang, K. Ingram, J. Keiser, B. Hibbert and M. H. Todd, _Org. Biomol. Chem._ **2013**, _11_, 4921-4924. DOI: 10.1039/C3OB40503F
-
-1. [Incorporation of Bulky and Cationic Cyclam-Triazole Moieties into Marimastat Can Generate Potent MMP Inhibitory Activity Without Inducing Cytotoxicity](https://doi.org/10.1002/open.201300014), M. Yu, N. H. Lim, S. Ellis, H. Nagase, J. A. Triccas, P. J. Rutledge and M. H. Todd, _ChemistryOpen_ **2013**, _2_, 99-105. DOI: 10.1002/open.201300014
-
-1. [A Fluorescent "Allosteric Scorpionate" Complex Visualizes a Biological Recognition Event](https://doi.org/10.1002/cbic.201200637), M. Yu, P. J. Rutledge and M. H. Todd, _ChemBioChem_ **2013**, _14_, 224-229. DOI: 10.1002/cbic.201200637
-
-1. The Synaptic Leap: Open Science Combating Disease, P. Parker, B. Schwendimann, K. Thompson and M. H. Todd, in _Architecture of Productive Learning Networks_, L. Carvalho and P. Goodyear, Eds., **2013**, Routledge (ISBN [978-0-415-81655-7](https://www.routledge.com/The-Architecture-of-Productive-Learning-Networks/Carvalho-Goodyear/p/book/9780415816557))
-
-### 2012
-
-1. [Reversing the Triazole Topology in a Cyclam-Triazole-Dye Ligand Gives a 10-fold Brighter Signal Response to Zn<sup>2+</sup> in Aqueous Solution](https://doi.org/10.1002/ejic.201201072), S. Ast, P. J. Rutledge and M. H. Todd, _Eur. J. Inorg. Chem._ **2012**, 5611-5615. DOI: 10.1002/ejic.201201072
-
-1. [The Outcome of the Oxidations of Unusual Enediamide Motifs is Governed by the Stabilities of the Intermediate Iminium Ions](https://doi.org/10.1371/journal.pone.0047224), M. Ahamed, B. Chan and M. H. Todd, _PLoS ONE_, **2012**, _7_(10):e47224. DOI: 10.1371/journal.pone.0047224
-
-1. [The First Catalytic, Enantioselective Aza-Henry Reaction of an Unactivated Cyclic Imine](https://doi.org/10.1002/adsc.201200558), N. R. Amarasinghe, P. Turner and M. H. Todd, _Adv. Synth. Catal._ **2012**, _354_, 2954-2958. DOI: 10.1002/adsc.201200558
-
-1. [Oxidative Arylation of Isochroman](https://doi.org/10.1021/jo2021373), S. J. Park, J. Price and M. H. Todd, _J. Org. Chem._ **2012**, _77_, 949-955. DOI: 10.1021/jo2021373
-
-### 2011
-
-1. [Copper, Nickel and Zinc Cyclam-Amino Acid and Cyclam-Peptide Complexes may be Synthesized with “Click” Chemistry and are Noncytotoxic](https://doi.org/10.1021/ic2020012), M. Yu, J. Price, P. Jensen, T. Shelper, C. Lovitt, S. Duffy, L. Windus, V. Avery, P. J. Rutledge and M. H. Todd, _Inorg. Chem._ **2011**, _50_, 12823-12835. DOI: 10.1021/ic2020012
-
-1. [Open Science is a Research Accelerator](https://doi.org/10.1038/nchem.1149), M. Woelfle, P. Olliaro and M. H. Todd, _Nat. Chem._ **2011**, _3_, 745-748. DOI: 10.1038/nchem.1149 (Mentioned on the [cover](https://www.nature.com/nchem/volumes/3/issues/10); Discussed [here](http://f1000.com/13352995) and [here](http://metarand.com/2012/03/11/ambitious-ideas-open-sourced-drug-discovery/))
-
-1. [Resolution of Praziquantel](https://doi.org/10.1371/journal.pntd.0001260), M. Woelfle, J.-P. Seerden, J. de Gooijer, K. Pouwer, P. Olliaro and M. H. Todd, _PLoS Negl. Trop. Dis._ **2011**, _5_(9):e1260. DOI: 10.1371/journal.pntd.0001260 (Picked up on the [WHO website](http://www.who.int/tdr/news/2011/open-source-schisto/en/) and evaluated on the [F1000](http://f1000.com/13328002) website; A thorough [meta-analysis of the project](https://doi.org/10.1371/journal.pntd.0001827) was published)
-
-1. [Polyamide-Scorpion Cyclam Lexitropsins Selectively Bind AT-Rich DNA Independently of the Nature of the Coordinated Metal](https://doi.org/10.1371/journal.pone.0017446), A. T. S. Lo, N. K. Salam, D. E. Hibbs, P. J. Rutledge and M. H. Todd, _PLoS One_ **2011**, _6_(5):e17446. DOI: 10.1371/journal.pone.0017446
-
-1. [Chemical Sensors that Incorporate Click-Derived Triazoles](https://doi.org/10.1039/C0CS00143K), Y. H. Lau, P. J. Rutledge, M. Watkinson and M. H. Todd, _Chem. Soc. Rev._ **2011**, _40_, 2848-2866. DOI: 10.1039/C0CS00143K
-
-1. [A Oxidative Carbon-Carbon Bond-Forming Reaction Proceeds via an Isolable Iminium Ion](https://doi.org/10.1351/PAC-CON-11-01-01), A. S.-K. Tsang, P. Jensen, J. M. Hook, A. S. K. Hashmi and M. H. Todd, _Pure Appl. Chem_. **2011**, _83_, 655-665. DOI: 10.1351/PAC-CON-11-01-01
-
-1. [A Treasure Hunt for Chemistry](https://doi.org/10.1021/ed100867m), A. J. Bridgeman, R. Connor, P. J. Rutledge and M. H. Todd, _J. Chem. Ed._ **2011**, _88_, 437-439. DOI: 10.1021/ed100867m (Featured in the [journal editorial](http://pubs.acs.org/doi/full/10.1021/ed2000654))
-
-1. [A Click Fluorophore Sensor that can Distinguish Cu<sup>II</sup> and Hg<sup>II</sup> via Selective Anion-Induced Demetallation](https://doi.org/10.1002/chem.201002477), Y. H. Lau, J. Price, M. H. Todd and P. J. Rutledge, _Chem. Eur. J._ **2011**, _17_, 2850-2858. DOI: 10.1002/chem.201002477 (Paper featured in [Chemistry Views](http://www.chemistryviews.org/details/ezine/1006343/The_Sensor-tive_Scorpian.html) and selected as the journal frontispiece)
-
-### 2010
-
-1. [Gold Catalysis: Reactions of Organogold Compounds with Electrophiles](https://doi.org/10.1071/CH10342), A. S. K. Hashmi, T. D. Ramamurthi, M. H. Todd, A. S.-K. Tsang and K. Graf, _Aust, J. Chem._ **2010**, _63_, 1619-1626. DOI: 10.1071/CH10342
-
-1. [Aza-Henry Reactions of 3,4-Dihydroisoquinoline](https://doi.org/10.1002/ejoc.201000955), M. Ahamed, T. Thirukkumaran, W. Y. Leung, P. Jensen, J. Schroers and M. H. Todd, _Eur. J. Org. Chem._ **2010**, 5980-5988. DOI: 10.1002/ejoc.201000955
-
-1. [Catalytic, Asymmetric Additions of Carbon-Centered Nucleophiles to Nitrogen-Containing Heterocycles](https://doi.org/10.1002/ejoc.201000877), M. Ahamed and M. H. Todd, _Eur. J. Org. Chem._ **2010**, 5935-5942. DOI: 10.1002/ejoc.201000877
-
-1. [Cyclam-based "Clickates": Homogeneous and Heterogeneous Fluorescent Sensors for Zn(II)](https://doi.org/10.1021/ic901939x), E. Tamanini, K. Flavin, M. Motevalli, S. Piperno, L. A. Gheber, M. H. Todd and M. Watkinson, _Inorg. Chem._ **2010**, _49_, 3789-3800. DOI: 10.1021/ic901939x
-
-### 2009
-
-1. [Can We Measure Catalyst Efficiency in Asymmetric Chemical Reactions? A Theoretical Approach](https://doi.org/10.3762/bjoc.5.67), S. El-Fayyoumy, M. H. Todd and C. J. Richards, _Beilstein J. Org. Chem._ **2009**, _5_, No. 67. DOI: 10.3762/bjoc.5.67 (The [Jones group](http://simon-jones.staff.shef.ac.uk/) at the University of Sheffield have set up an [ACES calculator](http://simon-jones.staff.shef.ac.uk/aces/))
-
-1. [Kernel for Tropical Disease Initiative](https://doi.org/10.1038/nbt0409-320), L. Ortí, R. J. Carbajo, U. Pieper, N. Eswar, S. M. Maurer, A. K. Rai, G. Taylor, M. H. Todd, A. Pineda-Lucena, A. Sali and M. A. Marti-Renom, _Nature Biotech._ **2009**, _27_, 320-321. DOI: 10.1038/nbt0409-320
-
-1. [Chemotherapeutic Development Strategies for Schistosomiasis](https://doi.org/10.1002/9783527626816.ch16), C. R. Caffrey, D. L. Williams, M. H. Todd, D. L. Nelson, J. Keiser and J. Utzinger, in _Drug Discovery in Infectious Diseases: from Molecular Targets to Drug Candidates_, P. M. Selzer, Ed., **2009**, Wiley-VCH, Weinheim.
-
-1. [Responsive Metal Complexes: A Click-Based "Allosteric Scorpionate" Complex Permits the Detection of a Biological Recognition Events by EPR/ENDOR Spectroscopy](https://doi.org/10.1002/chem.200802425), E. Tamanini, S. E. J. Rigby, M. Motevalli, M. H. Todd and M. Watkinson, _Chem. Eur. J._ **2009**, _15_, 3720-3728. DOI: 10.1002/chem.200802425
-
-1. [A Synthetically Simple, Click-generated Cyclam-based Zinc(II) Sensor](https://doi.org/10.1021/ic8017634), E. Tamanini, A. Katewa, L. M. Sedger, M. H. Todd and M. Watkinson, _Inorg. Chem._ **2009**, _48_, 319-324. DOI: 10.1021/ic8017634
-
-1. [A Kernel for Open Source Drug Discovery in Tropical Diseases](https://doi.org/10.1371/journal.pntd.0000418), L. Ortí, R. J. Carbajo, U. Pieper, N. Eswar, S. M. Maurer, A. K. Rai, G. Taylor, M. H. Todd, A. Pineda-Lucena, A. Sali and M. A. Marti-Renom, _PLoS Negl. Trop. Dis._ **2009**, _3_(4):e418. DOI: 10.1371/journal.pntd.0000418
-
-1. [Facile Synthesis of Vicinal Diamines via Oxidation of _N_-phenyltetrahydroisoquinolines with DDQ](https://doi.org/10.1016/j.tetlet.2008.12.101), A.-S. K. Tsang and M. H. Todd, _Tetrahedron Lett._ **2009**, _50_, 1199-1202. DOI: 10.1016/j.tetlet.2008.12.101
-
-### 2008
-
-1. [Synthesis and DNA Binding Ability of Cyclam-Amino Acid Conjugates](https://doi.org/10.1016/j.bmcl.2008.03.045), A. V. Ramana, M. Watkinson and M. H. Todd, _Bioorg. Med. Chem. Lett._ **2008**, _18_, 3007-3010. DOI: 10.1016/j.bmcl.2008.03.045
-
-### 2007
-
-1. [Effective Methods for the Biotinylation of Azamacrocycles](https://doi.org/10.1021/jo071175v), S. Krivickas, E. Tamanini, M. H. Todd and M. Watkinson, _J. Org. Chem._ **2007**, _72_, 8280-8289. DOI: 10.1021/jo071175v
-
-1. [Is Actin the Praziquantel Receptor?](https://doi.org/10.1016/j.ijantimicag.2007.05.004), A. R. Troiani, L. Pica-Mattoccia, C. Valle, D. Cioli, G. Mignogna, F. Ronketti and M. H. Todd, _Int. J. Antimicrob. Ag._ **2007**, _30_, 280-281. DOI: 10.1016/j.ijantimicag.2007.05.004
-
-1. [Praziquantel Derivatives I: Modification of the Aromatic Ring](https://doi.org/10.1016/j.bmcl.2007.05.063), F. E. Ronketti, A. V. Ramana, X. Chao-Ming, L. Pica-Mattoccia, D. Cioli and M. H. Todd, _Bioorg. Med. Chem. Lett._ **2007**, _17_, 4154-4157. DOI: 10.1016/j.bmcl.2007.05.063
-
-1. [Open Access and Open Source in Chemistry](https://doi.org/10.1186/1752-153X-1-3), M. H. Todd, _Chem. Central J._ **2007**, _1_:3. DOI: 10.1186/1752-153X-1-3
-
-### 2006
-
-1. [The Effects of Drugs, Ions and Poly-L-lysine on the Excretory System of _Schistosoma mansoni_](http://dx.doi.org/10.1590/S0074-02762006000900046), J. R. Kusel, F. Oliveira, M. H. Todd, F. Ronketti, S. Lima, A. C.- de Mattos, K. Teixeira, P. M. Z. Coelho, J. A. Thornhill and F. Ribeiro, _Mem. Inst. Oswaldo Cruz._ **2006**, _101_(Suppl 1), 293-298. DOI: 10.1590/S0074-02762006000900046
-
-1. [Improved Synthesis of the Valuable Peptidomimetic Intermediate 3-Azido-4-hydroxy Cyclopentanoic Acid](https://doi.org/10.1016/j.tetasy.2006.07.001), E. Tamanini, M. Watkinson and M. H. Todd, _Tetrahedron Asymmetry_ **2006**, _17_, 2235-2239. DOI: 10.1016/j.tetasy.2006.07.001
-
-1. [Open Source Research – the Power of Us](https://doi.org/10.1071/CH06095), T. B. Kepler, M. A. Marti-Renom, S. M. Maurer, A. K. Rai, G. Taylor and M. H. Todd, _Aust. J. Chem._ **2006**, _59_, 291-294. DOI: 10.1071/CH06095
-
-1. [Solid Phase Synthesis of Praziquantel](https://doi.org/10.1016/j.tetlet.2005.12.073), S. El-Fayoummy, W. Mansour and M. H. Todd, _Tetrahedron Lett._ **2006**, _47_, 1287-1290. DOI: 10.1016/j.tetlet.2005.12.073
-
-1. [(_R_)-2-Ferrocenyl-4-hy­droxy­methyl-4,5-di­hydro-1,3-oxazole](https://doi.org/10.1107/S1600536806006982), M. H. Todd, S. El-Fayyoumy, M. E. Motevalli and C. J. Richards, _Acta Cryst. E._ **2006**, _E62_, m719-m720. DOI: 10.1107/S1600536806006982
-
-1. [Design and Synthesis of New Tetrazolyl- and Carboxy-biphenylylmethyl-quinazolin-4-one Derivatives as Angiotensin II AT<sub>1</sub> Receptor Antagonists](https://doi.org/10.1021/jm050232e), M. A. H. Ismail, S. Barker, D. A. Abou El Ella, K. A. M. Abouzid and R. A. Toubar and M. H. Todd, _J. Med. Chem._ **2006**, _49_, 1526-1535. DOI: 10.1021/jm050232e
-
-### 2005
-
-1. [Computer-Aided Organic Synthesis](https://doi.org/10.1039/B104620A), M. H. Todd, _Chem. Soc. Rev._ **2005**, _34_, 247-266. DOI: 10.1039/B104620A
-
-### 2003
-
-1. [Drugs for the Control of Parasitic Diseases: Current Status and Development in Schistosomiasis](https://doi.org/10.1016/j.pt.2003.09.005), A. Fenwick, L. Savioli, D. Engels, R. Bergquist and M. H. Todd, _Trends Parasitol._ **2003**, _19_, 509-515. DOI: 10.1016/j.pt.2003.09.005
-
-### 2002
-
-1. [Asymmetric Autocatalysis: Product Recruitment for the Increase in the Chiral Environment (PRICE)](https://doi.org/10.1039/B104169J), M. H. Todd, _Chem. Soc. Rev._ **2002**, _31_, 211-222. DOI: 10.1039/B104169J
-
-1. [Use of FTICR-MS to Detect Chemical Tags from a Combinatorial Library](https://doi.org/10.1039/B203957P), M. H. Todd and C. Abell, _Analyst_ **2002**, _127_, 1399-1406. DOI: 10.1039/B203957P
-
-1. [Amino Acid-Derived Heterocycles: Lewis Acid Catalyzed and Radical Cyclizations from Peptide Acetals](https://doi.org/10.1021/jo010990m), M. H. Todd, C. O. Ndubaku and P. A. Bartlett, _J. Org. Chem._ **2002**, _67_, 3985-3988. DOI: 10.1021/jo010990m
-
-### 2001
-
-1. [Novel Chemical Tagging Method for Combinatorial Synthesis Utilizing Suzuki Chemistry and Fourier Transform Ion Cyclotron Resonance Mass Spectrometry](https://doi.org/10.1021/cc000112m), M. H. Todd and C. Abell, _J. Comb. Chem._ **2001**, _3_, 319-327. DOI: 10.1021/cc000112m
-
-### 2000
-
-1. [The Attachment and Cleavage of Phenols from Solid Supports and their Single Bead Mass Spectral Analysis](https://doi.org/10.1016/S0040-4039(00)01431-3), M. H. Todd and C. Abell, _Tetrahedron Lett._ **2000**, _41_, 8183-8187. DOI: 10.1016/S0040-4039(00)01431-3
-
-1. [Palladium-Catalyzed Carbon-Carbon Bond Formation on Solid Support](https://doi.org/10.1002/0471228249.ch2), M. H. Todd and C. Abell, in _Solid Phase Synthesis_, Burgess, K. (Ed.), Wiley-Interscience (New York), **2000**, 25-79.
-
-### 1999
-
-1. [A Novel Safety-Catch Linker for the Solid-Phase Synthesis of Amides and Esters](https://doi.org/10.1021/ol990785h), M. H. Todd, S. F. Oliver and C. Abell, _Org. Lett._ **1999**, _1_, 1149-1151. DOI: 10.1021/ol990785h
-
-### 1997
-
-1. [Studies on the Synthesis, Characterisation and Reactivity of Aromatic Diboronic Acids](https://doi.org/10.1016/S0040-4039(97)01552-9), M. H. Todd, S. Balasubramanian and C. Abell, _Tetrahedron Lett._ **1997**, _38_, 6781-6784. DOI: 10.1016/S0040-4039(97)01552-9
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications - The Todd Group</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        h1, h2, h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; letter-spacing: -0.02em; }
+        body { font-family: 'Inter', sans-serif; }
+        
+        .glass-nav {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(8px);
+            border-bottom: 1px solid rgba(241, 245, 249, 0.8);
+        }
+
+        /* Accordion Transitions */
+        .accordion-content {
+            transition: grid-template-rows 0.3s ease-out, opacity 0.3s ease;
+            display: grid;
+            grid-template-rows: 0fr;
+            opacity: 0;
+        }
+        .accordion-content.active {
+            grid-template-rows: 1fr;
+            opacity: 1;
+        }
+        .accordion-inner {
+            overflow: hidden;
+        }
+        
+        .chevron { transition: transform 0.3s ease; }
+        .chevron.rotate { transform: rotate(180deg); }
+        
+        /* Custom Scrollbar for long lists if needed, though currently auto height */
+    </style>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'brand-dark': '#0F172A', 
+                        'brand-primary': '#06B6D4', 
+                        'brand-primary-dark': '#0891B2',
+                        'brand-accent': '#22D3EE', 
+                        'brand-light': '#F8FAFC',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-white text-slate-600 flex flex-col min-h-screen antialiased selection:bg-brand-primary/20 selection:text-brand-dark">
+
+    <!-- Top Bar -->
+    <div class="bg-brand-dark py-2.5 px-4 text-xs font-medium text-slate-400">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <span class="hidden sm:inline tracking-wide">University College London · School of Pharmacy</span>
+            <span class="sm:hidden">UCL School of Pharmacy</span>
+            <div class="flex gap-6">
+                <a href="https://github.com/todd-lers" class="hover:text-white transition duration-200">GitHub</a>    
+                <a href="./internal.html" class="text-brand-primary font-semibold hover:text-white transition duration-200">Internal Portal</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Nav -->
+    <nav class="glass-nav sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-24 items-center">
+                <div class="flex-shrink-0 flex items-center gap-4">
+                    <a href="./index.html" class="flex items-center gap-3 group">
+                        <div class="h-10 w-10 bg-brand-dark text-white flex items-center justify-center font-bold text-xl rounded-sm shadow-lg group-hover:bg-brand-primary transition duration-300">T</div>
+                        <div class="flex flex-col">
+                            <span class="font-bold text-2xl text-brand-dark leading-none tracking-tight">The Todd Group</span>
+                            <span class="text-[11px] uppercase tracking-[0.2em] text-slate-500 mt-1.5 hidden lg:block font-semibold">Open Source Drug Discovery</span>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="hidden md:flex space-x-8 items-center">
+                    <a href="research.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Research</a>
+                    <div class="relative group z-50">
+                        <button class="flex items-center gap-1 text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide focus:outline-none h-24">
+                            People
+                            <svg class="w-3 h-3 transition-transform group-hover:rotate-180 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </button>
+                        <div class="absolute left-0 w-52 hidden group-hover:block pt-6 -mt-2">
+                            <div class="bg-white border border-slate-100 shadow-xl rounded-sm py-1">
+                                <a href="current.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Current Members</a>
+                                <a href="past.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Past Members</a>
+                                <a href="photo-gallery.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Photo Gallery</a>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="publications.html" class="text-sm font-bold text-brand-primary-dark transition-colors uppercase tracking-wide">Publications</a>
+                    <a href="news.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">News</a>
+                    <a href="idler.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">IDLER COMPOUNDS</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="flex-grow py-16">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            
+            <!-- Header Section -->
+            <div class="mb-12 border-b border-slate-200 pb-8">
+                <h1 class="text-4xl font-extrabold text-brand-dark mb-6">Publications</h1>
+                <div class="flex flex-wrap gap-4 items-center">
+                    <a href="https://orcid.org/0000-0001-7096-4751" target="_blank" class="inline-flex items-center px-4 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-sm text-sm font-semibold transition">
+                        <i class="fab fa-orcid text-brand-primary mr-2 text-lg"></i> ORCID: 0000-0001-7096-4751
+                    </a>
+                    <a href="https://scholar.google.co.uk/citations?hl=en&user=a8lzGHEAAAAJ" target="_blank" class="inline-flex items-center px-4 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-sm text-sm font-semibold transition">
+                        <i class="fas fa-graduation-cap text-brand-primary mr-2 text-lg"></i> Google Scholar
+                    </a>
+                    <div class="ml-auto flex gap-2">
+                        <button onclick="toggleAll(true)" class="text-xs font-bold text-brand-primary hover:text-brand-primary-dark uppercase tracking-wider">Expand All</button>
+                        <span class="text-slate-300">|</span>
+                        <button onclick="toggleAll(false)" class="text-xs font-bold text-slate-500 hover:text-slate-700 uppercase tracking-wider">Collapse All</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Publications List -->
+            <div class="space-y-3" id="publications-container">
+
+                <!-- Template for Year Block -->
+                <!-- 2025 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2025')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2025</h2>
+                        <i id="icon-2025" class="fas fa-chevron-down text-slate-400 chevron rotate"></i>
+                    </div>
+                    <div id="content-2025" class="accordion-content active">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li>
+                                    <span class="font-bold text-slate-900 block mb-1">Identification of Spirodioxolane nsP2 Helicase Inhibitors with Antialphaviral Activity</span>
+                                    H. J. Oh, J. D. Sears, B. M. Ramalingam, R. S. Z. Saleem, Z. W. Davis-Gilbert, M. A. Hossain, S. R. Moorman, D. Ohja, S. A. Martinez, J. E. Burdick, R. M. Couñago, N. J. Moorman, M. T. Heise, M. H. Todd and T. M. Willson, 2025, <em>submitted</em>. 
+                                    <a href="https://doi.org/10.26434/chemrxiv-2025-mfts7" class="text-brand-primary font-bold hover:underline ml-1">[Preprint]</a>
+                                </li>
+                                <li>
+                                    <span class="font-bold text-slate-900 block mb-1">Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening</span>
+                                    R. Isaksson, E. M. Carter, C. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, <strong>2025</strong>, <em>submitted</em>. 
+                                    <a href="https://doi.org/10.26434/chemrxiv-2025-nqjb4" class="text-brand-primary font-bold hover:underline ml-1">[Preprint]</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.nature.com/articles/s41570-025-00737-z" class="font-bold text-brand-primary hover:underline block mb-1">Protein–ligand Data at Scale to Support Machine Learning</a>
+                                    A. M. Edwards <em>et al.</em>, <em>Nat. Rev. Chem.</em> <strong>2025</strong>, <em>in press</em>.
+                                </li>
+                                <li>
+                                    <a href="https://doi.org/10.1371/journal.pntd.0013482" class="font-bold text-brand-primary hover:underline block mb-1">Kinome Analysis of <em>Madurella mycetomatis</em> Identified Kinases in the Cell Wall Integrity Pathway as Novel Potential Therapeutic Drug Targets in Eumycetoma Caused by <em>Madurella mycetomatis</em></a>
+                                    M. Konings, N. Strepis, R.-I. Manabe, A. Hasegawa, S. Chaudhari, S. du Pré, M. Schippers, M. Tagami, J. Ma, Y. Okazaki, M. H. Todd, B. Biersack, V. Masand, A. Verbon, T. Kasukawa, I. Abugessaisa, W. van de Sande, <em>PLOS NTD</em> <strong>2025</strong>, <em>in press</em>.
+                                </li>
+                                <li>
+                                    <a href="https://pubs.rsc.org/en/content/articlelanding/2025/md/d5md00427f" class="font-bold text-brand-primary hover:underline block mb-1">Structure–activity Relationships of Fenarimol Analogues with Potent <em>in vitro</em> and <em>in vivo</em> Activity Against <em>Madurella mycetomatis</em>, the Main Causative Agent of Eumycetoma</a>
+                                    H. P. Duong, D. Melechov, W. Lim, J. Ma, K. Scroggie, L. Rajendra, B. Perry, L. Cruz, P. Rutledge, A. Motion, W van de Sande and M. H. Todd, <em>RSC Med. Chem.</em>, <strong>2025</strong>, <em>in press</em>.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2024 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2024')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2024</h2>
+                        <i id="icon-2024" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2024" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li>
+                                    <span class="font-bold text-slate-900 block mb-1">ABHD2 Activity is Not Required for the Non-genomic Action of Progesterone on Human Sperm</span>
+                                    O. Arnolds, E. M. Carter, M. Edwards, E. Wigren, E. Homan, P. Ribera, K. Bentley, M. Haraldsson, N. Theo-Emegano, P. Loppnau, M. M. Szewczyk, M. A. Cao, D. Barsyte-Lovejoy, K. Vester, A. Thrun, R. Lesche, J. Münchow, W. F. Zhu, L. Temme, C. Brenker, T. Strünker, M. Sundström, M. H. Todd, A. M. Edwards, C. Tredup, O. Gileadi, <em>submitted</em>. 
+                                    <a href="https://biorxiv.org/cgi/content/short/2024.12.17.628646v1" class="text-brand-primary font-bold hover:underline ml-1">[Preprint]</a>
+                                </li>
+                                <li>
+                                    <a href="https://doi.org/10.1021/acsmedchemlett.4c00131" class="font-bold text-brand-primary hover:underline block mb-1">Open Source Code Contributions to Global Health – the Case of Antimalarial Drug Discovery</a>
+                                    G. Turon, E. G. Tse, X. Qiu, M. H. Todd and M. Duran-Frigola, <em>ACS Med. Chem. Lett.</em> <strong>2024</strong>, <em>15</em> 1645–1650.
+                                </li>
+                                <li>
+                                    <a href="https://www.mdpi.com/1424-8247/17/7/836" class="font-bold text-brand-primary hover:underline block mb-1">Identification of Dihydropyrazolo[1,5-a]pyrazin-4(5H)-ones as Cyclic Products of β-Amidomethyl Vinyl Sulfone Alphavirus Cysteine Protease Inhibitors</a>
+                                    A. Ghoshal, Á. F. Magalhães, K. H. Asressu, M. A. Hossain, M. H. Todd and T. M. Willson, <em>Pharmaceuticals</em> <strong>2024</strong>, <em>17</em>(7), 836.
+                                </li>
+                                <li>
+                                    <a href="https://www.nature.com/articles/s41467-024-45224-z" class="font-bold text-brand-primary hover:underline block mb-1">Reaction Hijacking Inhibition of <em>Plasmodium falciparum</em> Asparagine tRNA Synthetase</a>
+                                    S. C. Xie, Y. Wang, C. J. Morton, R. D. Metcalfe, C. Dogovski, C. F. A. Pasaje, E. Dunn, M. R. Luth, K. Kumpornsin, E. S Istvan, J. S. Park, K. J. Fairhurst, N. Ketprasit, T. Yeo, O. Yildirim, M. N. Bhebhe, D. M. Klug, P. J. Rutledge, L. C. Godoy, S. Dey, M. L. De Souza, J. L. Siqueira-Neto, Y. Du, T. Puhalovich, M. Amini, G. Shami, D. Loesbanluechai, S. Nie, N. Williamson, G. P. Jana, B. C. Maity, P. Thomson, T. Foley, D. S. Tan, J. C. Niles, B. W. Han, D. E Goldberg, J. Burrows, D. A. Fidock, M. C. S. Lee, E. A. Winzeler, M. D. W. Griffin, M. H. Todd and L. Tilley, <em>Nature Comms</em>. <strong>2024</strong>, <em>15</em>, 937.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2023 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2023')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2023</h2>
+                        <i id="icon-2023" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2023" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://pubs.acs.org/doi/10.1021/acsinfecdis.3c00286" class="font-bold text-brand-primary hover:underline">Open Source Antibiotics - Simple Diarylimidazoles are Potent Against Methicillin Resistant Staphylococcus Aureus</a><br>D. M. Klug, E. G. Tse, D. G. Silva, Y. Cao, S. A. Charman, J. Chauhan, E. Crighton, M. Dichiara, C. Drake, D. Drewry, F. da Silva Emery, L. Ferrins, L. Graves, E. Hopkins, T. A. C. Kresina, Á. Lorente-Macías, B. Perry, R. Phipps, B. Quiroga, A. Quotadamo, G. Sabatino, A. Sama, A. Schätzlein, Q. J. Simpson, J. Steele, J. Shanu-Wilson, P. Sjö, P. Stapleton, C. Swain, A. Vaideanu, H. Xie, W. Zuercher, M. H. Todd, <em>ACS Infect. Dis.</em> <strong>2023</strong>, <em>9</em>, 2423–2435.</li>
+                                <li><a href="https://dx.doi.org/10.1021/acsinfecdis.3c00040" class="font-bold text-brand-primary hover:underline">Structure-property Optimization of a Series of Imidazopyridines for Visceral Leishmaniasis</a><br>M. Dichiara, Q. J. Simpson, A. Quotadamo, H. B. Jalani, A. X. Huang, C. C. Millard, D. M. Klug, E. G. Tse, M. H. Todd, D. Gedder, F. da Silva Emery, J. E. Carlson, S.-L. Zheng, M. Vleminckx, A. Matheeussen, G. Caljon, M. P. Pollastri, P. Sjö, B. Perry, L. Ferrins, <em>ACS Infect. Dis.</em> <strong>2023</strong>, <em>9</em>, 1470–1487.</li>
+                                <li><a href="https://pubs.acs.org/doi/abs/10.1021/acschemneuro.2c00498" class="font-bold text-brand-primary hover:underline">Perphenazine-macrocycle Conjugates Rapidly Sequester the Aβ42 Monomer and Prevent Formation of Toxic Oligomers and Amyloid</a><br>S. R. Ball, J. S. P. Adamson, M. A. Sullivan, M. R. Zimmermann, V. Lo, M. Sanz-Hernandez, X. Jiang, A. H. Kwan, A. D. J. McKenzie, E. L. Werry, T. P. J. Knowles, M. Kassiou, G. Meisl, M. H. Todd, P. J. Rutledge, M. Sunde, <em>ACS Chem. Neurosci.</em> <strong>2023</strong>, <em>14</em>, 87-98.</li>
+                                <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cbdv.202300151" class="font-bold text-brand-primary hover:underline">Antifungal Activity of Natural Naphthoquinones and Anthraquinones against <em>Madurella mycetomatis</em></a><br>J. Ma, M. H. Todd, W. W. J. van de Sande and B. Biersack, <em>Chem. Biodiversity</em> <strong>2023</strong>, <em>20</em>, e202300151.</li>
+                                <li><a href="https://pubs.rsc.org/en/content/articlelanding/2023/md/d2md00441k" class="font-bold text-brand-primary hover:underline">Target 2035–an Update on Private Sector Contributions</a><br>S. Ackloo, A. A. Antolin, J. M. Bartolome, H. Beck, A. N Bullock, U. A. K. Betz, J. Böttcher, P. J. Brown, M. Chaturvedi, A. Crisp,  D. Daniels,  J. Dreher, K. Edfeldt, A. M. Edwards, U. Egner, J. Elkins, C. Fischer, T. Glendorf, S. Goldberg, I. V. Hartung, A. Hillisch, E. Homan, S. Knapp, M. Koester, A. Kraemer, J. Llaveria, U. Lessel, S. Lindemann, L. Linderoth, H. Matsui, M. Michel, F. Montel, A. Mueller-Fahrnow, S, Mueller, D. R. Owen, K. S. Saikatendu, V. Santhakumar, W. Sanderson, C. Scholten, M. Schapira, S. Sharma, B. Shireman, M. Sundström, M. H. Todd, C. Tredup, J. Veneble, T. M. Willson, and C. H Arrowsmith, <em>RSC Med. Chem.</em> <strong>2023</strong>.</li>
+                                <li>
+                                    <span class="font-bold text-slate-900">Metallaphotoredox-Catalyzed Decarboxylative sp3–sp3 Coupling with Iso(thio)chroman and Tetrahydroisoquinoline Cores</span><br>
+                                    P. A. King, P. J. Rutledge and M. H. Todd, <em>submitted</em>. 
+                                    <a href="https://chemrxiv.org/engage/chemrxiv/article-details/62ab247f1fdc34fd493beda4" class="text-brand-primary font-bold hover:underline">[Preprint]</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                 <!-- 2022 -->
+                 <div class="year-block group">
+                    <div onclick="toggleYear('2022')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2022</h2>
+                        <i id="icon-2022" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2022" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1038/s41570-022-00363-z" class="font-bold text-brand-primary hover:underline">CACHE (Critical Assessment of Computational Hit-finding Experiments): A Public-private Partnership Benchmarking Initiative to Enable the Development of Computational Methods for Hit-finding</a><br>S. Ackloo, R. Al-awar, R. E. Amaro, C. H. Arrowsmith, H. Azevedo, R. A. Batey, Y. Bengio, U. A. K. Betz, C. G. Bologa, J. D. Chodera, W. D. Cornell, I. Dunham, G. F. Ecker, K. Edfeldt, A. M. Edwards, M. K. Gilson, C. R. Gordijo, G. Hessler, A. Hillisch, A. Hogner, J. J. Irwin, J. M. Jansen, D. Kuhn, A. R. Leach, A. A. Lee, U. Lessel, J. Moult, I. Muegge, T. I. Oprea, B. G. Perry, P. Riley, K. S. Saikatendu, V. Santhakumar, M. Schapira, C. Scholten, M. H. Todd, M. Vedadi, A. Volkamer, T. M. Willson, <em>Nat. Rev. Chem.</em> <strong>2022</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/D1MD00228G" class="font-bold text-brand-primary hover:underline">Target 2035 – Update on the Quest for a Probe for every Protein</a><br>S. Müller, S. Ackloo, A. Al Chawaf, B. Al-Lazikani, A. Antolin, J. B Baell, H. Beck, S. Beedie, U. A. K. Betz, G. A. Bezerra, P. E Brennan, D. Brown, P. J Brown, A. N Bullock, A. J Carter, A. Chaikuad, M. Chaineau, A. Ciulli, I. Collins, J. Dreher, D. Drewry, K. Edfeldt, A. M. Edwards, U. Egner, S. V. Frye, S. M. Fuchs, M. D. Hall, I. V. Hartung, A. Hillisch, S. H. Hitchcock, E. Homan, N. Kannan, J. R. Kiefer, S. Knapp, M. Kostic, S. Kubicek, A. R. Leach, S. Lindemann, B. D. Marsden, H. Matsui, J. L. Meier, D. Merk, M. Michel, M. R. Morgan, A. Mueller-Fahrnow, D. R. Owen, B. G. Perry, S. H. Rosenberg, K. S. Saikatendu, M. Schapira, C. Scholten, S. Sharma, A. Simeonov, M. Sundström, G. Superti-Furga, M. H. Todd, C. Tredup, M. Vedadi, F. von Delft, T. M. Willson, G. E. Winter, P. Workman and C. H Arrowsmith, <em>RSC Med. Chem.</em> <strong>2021</strong>.</li>
+                                <li><a href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010159" class="font-bold text-brand-primary hover:underline">Screening the Pandemic Response Box Identified Benzimidazole Carbamates, Olorofim and Ravuconazole as Promising Drug Candidates for the Treatment of Eumycetoma</a><br>W. Lim, B. Nyuykonge, K. Eadie, M. Konings, J. Smeets, A. Fahal, A. Bonifaz, M. Todd, B. Perry, K. Samby, J. Burrows, A. Verbon and W. van de Sande <em>PLoS NTD</em> <strong>2022</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2021 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2021')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2021</h2>
+                        <i id="icon-2021" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2021" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1039/D1DT03539H" class="font-bold text-brand-primary hover:underline">Platinum Binding Preferences Dominate the Binding of Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes to DNA</a><br>A. T. S. Lo, J. K. Chen, V. Murray, M. H. Todd and T. W. Hambley, <em>Dalton Trans.</em> <strong>2021</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/acs.jmedchem.1c00313" class="font-bold text-brand-primary hover:underline">An Open Drug Discovery Competition: Experimental Validation of Predictive Models in a Series of Novel Antimalarials</a><br>E. G. Tse, L. Aithani, M. Anderson, J. Cardoso-Silva, G. Cincilla, G. J. Conduit, M. Galushka, D. Guan, I. Hallyburton, B. W. J. Irwin, K. Kirk, A. M. Lehane, J. C. R. Lindblom, R. Lui, S. Matthews, J. McCulloch, A. Motion, H. L. Ng, M. Öeren, M. N. Robertson, V. Spadavecchio, V. A. Tatsis, W. P. van Hoorn, A. D. Wade, T. M. Whitehead, P. Willis and M. H. Todd, <em>J. Med. Chem.</em> <strong>2021</strong>.</li>
+                                <li><a href="https://doi.org/10.1007/s00775-020-01847-3" class="font-bold text-brand-primary hover:underline">Novel Polyamide Amidine Anthraquinone Platinum(II) Complexes: Cytotoxicity, Cellular Accumulation, and Fluorescence Distributions in 2D and 3D Cell Culture Models</a><br>A, T. S. Lo, N. S. Bryce, A. V. Klein, M. H. Todd and T. W. Hambley, <em>J. Biol. Inorg. Chem.</em> <strong>2021</strong>.</li>
+                                <li><a href="http://dx.doi.org/10.1039/d0dt03736b" class="font-bold text-brand-primary hover:underline">Copper(II) Complexes of <em>N</em>-Propargyl Cyclam Ligands Reveal a Range of Coordination Modes and Colours, and Unexpected Reactivity</a><br>A. J. Counsell, M. Yu, M. Shi, A. T. Jones, J. M. Batten, P. Turner, M. H. Todd and P. J. Rutledge, <em>Dalton Trans.</em> <strong>2021</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/acs.jchemed.1c00289" class="font-bold text-brand-primary hover:underline">Molecular Docking with Open Access Software: Development of an Online Laboratory Handbook and Remote Workflow for Chemistry and Pharmacy Master's Students to Undertake Computer-Aided Drug Design</a><br>B. Clent, Y. Wang, H. Britton, F. Otto, C. Swain, M. H. Todd, J. Wilden and A. Tabor, <em>J. Chem. Ed.</em> <strong>2021</strong>.</li>
+                                <li><a href="https://wellcomeopenresearch.org/articles/6-146/v1" class="font-bold text-brand-primary hover:underline">There is No Market for New Antibiotics: This Allows an Open Approach to Research and Development</a><br>D. M. Klug, F. I. M. Idiris, M. A. T. Blaskovich, F. von Delft, C. G. Dowson, C. Kirchhelle, A. P. Roberts, A. C. Singer and M. H. Todd, <em>Wellcome Open Res.</em> <strong>2021</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/D0CS01065K" class="font-bold text-brand-primary hover:underline">A Critical Overview of Computational Approaches Employed for COVID-19 Drug Discovery</a><br>E. N. Muratov, R. Amaro, C. H. Andrade, N. Brown, S. Ekins, D. Fourches, O. Isayev, D. Kozakov, J. Medina-Franco, K. M. Merz, T. I. Oprea, V. Poroikov, G. Schneider, M. H. Todd, A. Varnek, D. A. Winkler, A. Zakharov, A. Cherkasov and A. Tropsha, <em>Chem. Soc. Rev.</em> <strong>2021</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2020 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2020')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2020</h2>
+                        <i id="icon-2020" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2020" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://f1000research.com/articles/9-1043" class="font-bold text-brand-primary hover:underline">Open Science Approaches to COVID-19</a><br>E. G. Tse, D. M. Klug and M. H. Todd, <em>F1000Research</em> <strong>2020</strong>.</li>
+                                <li><a href="https://pubs.acs.org/doi/10.1021/acs.joc.0c01045" class="font-bold text-brand-primary hover:underline">tele-Substitution Reactions in the Synthesis of a Promising Class of 1,2,4-Triazolo(4,3-a)pyrazine-Based Antimalarials</a><br>M. Korsik, E. G. Tse, D. G. Smith, W. Lewis, P. J. Rutledge, and M. H. Todd, <em>J. Org. Chem.</em> <strong>2020</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/acs.jmedchem.0c00746" class="font-bold text-brand-primary hover:underline">Non-Classical Phenyl Bioisosteres as Effective Replacements in a Series of Novel Open Source Antimalarials</a><br>E. G. Tse, S. D. Houston, C. M. Williams, G. P. Savage, L. M. Rendina, I. Hallyburton, M. Anderson, R. Sharma, G. S. Walker, R. S. Obach and M. H. Todd, <em>J. Med. Chem.</em> <strong>2020</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/C9SC06460E" class="font-bold text-brand-primary hover:underline">Metal Complexes as a Promising Source for New Antibiotics</a><br>A. Frei, J. Zuegg, A. G. Elliott, M. Baker, S. Braese, C. Brown, F. Chen, C. Dowson, G. Dujardin, N. Jung, A. P. King, A. M. Mansour, M. Massi, J. Moat, H. A. Mohamed, A. K. Renfrew, P. J. Rutledge, P. J. Sadler, M. H. Todd, C. E. Willans, J. J. Wilson, M. A. Cooper and M. A. T. Blaskovich, <em>Chem. Sci.</em> <strong>2020</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2019 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2019')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2019</h2>
+                        <i id="icon-2019" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2019" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1002/cmdc.201900565" class="font-bold text-brand-primary hover:underline">Six Laws of Open Source Drug Discovery</a><br>M. H. Todd, <em>ChemMedChem</em> <strong>2019</strong>.</li>
+                                <li><a href="https://doi.org/10.1186/s12936-019-2724-z" class="font-bold text-brand-primary hover:underline">The Past, Present and Future of Anti-Malarial Medicines</a><br>E. G. Tse, M. Korsik and M. H. Todd, <em>Malaria J.</em> <strong>2019</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2018 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2018')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2018</h2>
+                        <i id="icon-2018" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2018" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1021/acs.jmedchem.8b01533" class="font-bold text-brand-primary hover:underline">Easy-to-Synthesize Spirocyclic Compounds Possess Remarkable <em>In Vivo</em> Activity Against <em>Mycobacterium Tuberculosis</em></a><br>A. Guardia, J. Baiget, M. Cacho, A. Pérez, M. Ortega-Guerra, W. Nxumalo, S. D. Khanye, J. Rullas, F. Ortega, E. Jiménez, E. Pérez-Herrán, M. T. Fraile-Gabaldón, J. Esquivias, R. Fernández, E. Porras-De Francisco, L. Encinas, M. Alonso, I. Giordano, C. Rivero, J. Miguel-Siles, J. G. Osende, K. A. Badiola, P. J. Rutledge, M. H. Todd, M. Remuiñán and C. Alemparte, <em>J. Med. Chem.</em> <strong>2018</strong>.</li>
+                                <li><a href="https://doi.org/10.3389/fphar.2018.01035" class="font-bold text-brand-primary hover:underline">Experimentally Validated Pharmacoinformatics Approach to Predict hERG Inhibition Potential of New Chemical Entities</a><br>S. Munawar, M. J Windley, E. G. Tse, M. H. Todd, A. Hill, J. Vandenberg and I. Jabeen, <em>Frontiers Pharmacol.</em> <strong>2018</strong>.</li>
+                                <li><a href="https://doi.org/10.1371/journal.pntd.0006437" class="font-bold text-brand-primary hover:underline">Addressing the Most Neglected Diseases through an Open Research Model: the Discovery of Fenarimols as Novel Drug Candidates for Eumycetoma</a><br>W. Lim, Y. Melse, M. Konings, H. P. Duong, K. Eadie, B. Laleu, B. Perry, M. H. Todd, J.-R. Ioset, W. W. J. van de Sande, <em>PLoS NTD</em> <strong>2018</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/acs.jmedchem.7b01569" class="font-bold text-brand-primary hover:underline">Anti-Tubercular <em>bis</em>-Substituted Cyclam Derivatives: Structure-Activity Relationships and <em>In Vivo</em> Studies</a><br>M. Spain, J. K.-H. Wong, G. Nagalingam, J. M. Batten, E. Hortle, S. Oehlers, X.-F. Jiang, H. E. Murage, J. T. Orford, P. Crisologo, J. A. Triccas, P. J. Rutledge and M. H. Todd, <em>J. Med. Chem.</em> <strong>2018</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/mrc.4669" class="font-bold text-brand-primary hover:underline">The C6H6 NMR Repository: an Integral Solution to Control the Flow of your Data from the Magnet to the Public</a><br>L. Patiny, M. Zasso, D. Kostro, A. Bernal, A. M. Castillo, A. Bolaños, M. A. Asencio, N. Pellet, M. H. Todd, N. Schloerer, S. Kuhn, E. Holmes, S. Javor and J. Wist, <em>Mag. Res. Chem.</em> <strong>2018</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/chem.201703488" class="font-bold text-brand-primary hover:underline">Molecular Switches for any pH: A Systematic Study of the Versatile Coordination Behaviour of Cyclam Scorpionands</a><br>Y. H. Lau, J. K. Clegg, J. R. Price, R. B. Marquart, M. H. Todd and P. J. Rutledge, <em>Chem. Eur. J.</em> <strong>2018</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2017 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2017')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2017</h2>
+                        <i id="icon-2017" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2017" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1002/chem.201700430" class="font-bold text-brand-primary hover:underline"><em>N</em>-Aryl Groups are Ubiquitous in Cross Dehydrogenative Couplings Because They Stabilize Reactive Intermediates</a><br>A. S.-K. Tsang, A. S. K. Hashmi, P. Comba, M. Kerscher, B. Chan and M. H. Todd, <em>Chem. Eur. J.</em> <strong>2017</strong>.</li>
+                                <li><a href="https://doi.org/10.1371/journal.pmed.1002276" class="font-bold text-brand-primary hover:underline">An Open Source Pharma Roadmap</a><br>M. Balasegaram, P. Kolb, J. McKew, J. Menon, P. Olliaro, T. Sablinski, Z. Thomas, M. H. Todd, E. Torreele and J. Wilbanks, <em>PLoS Med.</em> <strong>2017</strong>.</li>
+                                <li><a href="https://doi.org/10.3390/molecules22020200" class="font-bold text-brand-primary hover:underline">Recent Advances in Macrocyclic Fluorescent Probes for Ion Sensing</a><br>J. K.-H. Wong, M. H. Todd and P. J. Rutledge, <em>Molecules</em> <strong>2017</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/ejic.201601474" class="font-bold text-brand-primary hover:underline">Selective Displacement of a Scorpionand Triazole Ligand from Metallo-Cyclam Complexes Visualised Using NMR Spectroscopy</a><br>J. K.-H. Wong, N. Proschogo, M. H. Todd and P. J. Rutledge, <em>Eur. J. Inorg. Chem.</em> <strong>2017</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2016 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2016')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2016</h2>
+                        <i id="icon-2016" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2016" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1021/acscentsci.6b00086" class="font-bold text-brand-primary hover:underline">Open Source Drug Discovery: Highly Potent Antimalarial Compounds Derived from the Tres Cantos Arylpyrroles</a><br>A. E. Williamson, P. M. Ylioja, M. N. Robertson, Y. Antonova-Koch, V. Avery, J. B. Baell, H. Batchu, S. Batra, J. N. Burrows, S. Bhattacharyya, F. Calderon, S. A. Charman, J. Clark, B. Crespo, M. Dean, S. L. Debbert, M. Delves, A. S. M. Dennis, F. Deroose, S. Duffy, S. Fletcher, G. Giaever, I. Hallyburton, F.-J. Gamo, M. Gebbia, R. K. Guy, Z. Hungerford, K. Kirk, M. J. Lafuente-Monasterio, A. Lee, S. Meister, C. Nislow, J. P. Overington, G. Papadatos, L. Patiny, J. Pham, S. A. Ralph, A. Ruecker, E. Ryan, C. Southan, K. Srivastava, C. Swain, M. J. Tarnowski, P. Thomson, P. Turner, I. M. Wallace, T. N. C. Wells, K. White, L. White, P. Willis, E. A. Winzeler, S. Wittlin, and M. H. Todd, <em>ACS Cent. Sci.</em> <strong>2016</strong>.</li>
+                                <li><a href="https://doi.org/10.3762/bjoc.12.239" class="font-bold text-brand-primary hover:underline">A Direct Method for the <em>N</em>-Tetraalkylation of Azamacrocycles</a><br>A. J. Counsell, A. T. Jones, M. H. Todd and P. J. Rutledge, <em>Beilstein J. Org. Chem.</em> <strong>2016</strong>.</li>
+                                <li><a href="https://doi.org/10.3897/rio.2.e9995" class="font-bold text-brand-primary hover:underline">SCINDR - The SCience INtroDuction Robot that will Connect Open Scientists</a><br>C. Smith, M. H. Todd, L. Patiny, C. Swain, C. Southan, A. E. Williamson and A. Clark, <em>Res. Ideas Outcomes</em> <strong>2016</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/open.201600010" class="font-bold text-brand-primary hover:underline">Synthesis and Evaluation of 1,8-Disubstituted-cyclam/naphthalimide Conjugates as Probes for Metal Ions</a><br>J. K.-H. Wong, S. Ast, M. Yu, R. Flehr, A. J. Counsell, P. Turner, P. Crisologo, M. H. Todd and P. J. Rutledge, <em>ChemistryOpen</em> <strong>2016</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/acs.jmedchem.6b00432" class="font-bold text-brand-primary hover:underline">Non-Toxic Metal-Cyclam Complexes, a New Class of Compounds with Potency Against Drug-Resistant <em>Mycobacterium tuberculosis</em></a><br>M. Yu, G. Nagalingam, S. Ellis, E. Martinez, V. Sintchenko, M. Spain, P. J. Rutledge, M. H. Todd and J. Triccas, <em>J. Med. Chem.</em> <strong>2016</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2015 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2015')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2015</h2>
+                        <i id="icon-2015" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2015" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.3762/bjoc.11.6" class="font-bold text-brand-primary hover:underline">Efficient Deprotection of <em>F</em>-BODIPY Derivatives: Removal of BF2 using Brønsted Acids</a><br>M. Yu, J. K.-H. Wong, C. Tang, P. Turner, M. H. Todd and P. J. Rutledge, <em>Beilstein J. Org. Chem.</em> <strong>2015</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/ejic.201402811" class="font-bold text-brand-primary hover:underline">Using Click Chemistry to Tune the Properties and the Fluorescence Response Mechanism of Structurally Similar Probes for Metal Ions</a><br>S. Ast, S. Kuke, P. J. Rutledge and M. H. Todd, <em>Eur. J. Inorg. Chem.</em> <strong>2015</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/C4SC02128B" class="font-bold text-brand-primary hover:underline">Experiences with LabTrove, a Researcher-Centric ELN</a><br>K. A. Badiola, C. Bird, W. S. Brocklesby, J. Casson, R. T. Chapman, S. J. Coles, J. R. Cronshaw, A. Fisher, J. G. Frey, D. Gloria, M. C. Grossel, D. B. Hibbert, L. K. Mapp, B. Matthews, A. Milsted, R. S. Minns, K. T. Mueller, K. Murphy, C. Neylon, T. Parkinson, R. Quinnell, J. S. Robinson, M. N. Robertson, M. Robins, E. Springate, G. Tizzard, M. H. Todd, A. E. Williamson, C. Willoughby, E. Yang and P. M. Ylioja, <em>Chem. Sci.</em> <strong>2015</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2014 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2014')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2014</h2>
+                        <i id="icon-2014" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2014" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1371/journal.pone.0111782" class="font-bold text-brand-primary hover:underline">Efficient Synthesis and Anti-Tubercular Activity of a Series of Spirocycles: An Exercise in Open Science</a><br>K. A. Badiola, D. H. Quan, J. A. Triccas and M. H. Todd, <em>PLoS ONE</em> <strong>2014</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/C4CP03914A" class="font-bold text-brand-primary hover:underline">pH-Responsive Quantum Dots (RQDs) that Combine a Fluorescent Nanoparticle with a pH-Sensitive Dye</a><br>S. Ast, P. J. Rutledge and M. H. Todd, <em>Phys. Chem. Chem. Phys.</em> <strong>2014</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/C4MT00122B" class="font-bold text-brand-primary hover:underline">Neuroprotective Peptide-Macrocycle Conjugates Reveal Complex Structure-Activity Relationships in their Interactions with Amyloid ß</a><br>M. Yu, T. M. Ryan, S. Ellis, A. I. Bush, J. A. Triccas, P. J. Rutledge and M. H. Todd, <em>Metallomics</em> <strong>2014</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/C4FD00110A" class="font-bold text-brand-primary hover:underline">The Properties and Performance of a pH-Responsive Functionalised Nanoparticle</a><br>S. Ast, P. J. Rutledge and M. H. Todd, <em>Faraday Discuss.</em> <strong>2014</strong>.</li>
+                                <li><a href="https://doi.org/10.1128/AAC.02741-14" class="font-bold text-brand-primary hover:underline">Activity of Praziquantel Enantiomers and Main Metabolites against <em>Schistosoma mansoni</em></a><br>I. Meister, K. Ingram-Sieber, N. Cowan, M. H. Todd, M. N. Robertson, C. Meli, M. Patra, G. Gasser and J. Keiser, <em>Antimicrob. Ag. Chemother.</em> <strong>2014</strong>.</li>
+                                <li>
+                                    <a href="http://au.wiley.com/WileyCDA/WileyTitle/productCd-3527330453.html" class="font-bold text-brand-primary hover:underline">Separation of Enantiomers: Synthetic Methods</a><br>M. H. Todd, Ed. Wiley-VCH, <strong>2014</strong>.
+                                    <ul class="list-disc pl-5 mt-2 space-y-1 text-xs">
+                                        <li>Chapter 1: Introduction: A Survey of How and Why to Separate Enantiomers, M. H. Todd.</li>
+                                        <li>Chapter 7: Rare, Neglected and Potential Synthetic Methods for the Separation of Enantiomers, M. H. Todd.</li>
+                                        <li>Review by Richard Kellogg in <em>Angewandte Chemie</em> described it as "a thoughtfully constructed, and well-written book full of useful information"</li>
+                                    </ul>
+                                </li>
+                                <li><a href="https://doi.org/10.1039/9781782620082-00254" class="font-bold text-brand-primary hover:underline">Mechanisms of Cross-Dehydrogenative-Coupling Reactions</a><br>A. S.-K. Tsang, S. J. Park and M. H. Todd, in <em>From C–H to C–C Bonds: Cross Dehydrogenative Coupling</em>, C.-J. Li, Ed., <strong>2014</strong>, Royal Society of Chemistry, Cambridge.</li>
+                                <li><a href="https://doi.org/10.1371/journal.pone.0100761" class="font-bold text-brand-primary hover:underline">Incorporating a Piperidinyl Group in the Fluorophore Extends the Fluorescence Lifetime of Click-Derived Cyclam-Naphthalimide Conjugates</a><br>M. Yu, S. Ast, Q. Yu, A. T. S. Lo, R. Flehr, M. H. Todd and P. J. Rutledge, <em>PLoS ONE</em> <strong>2014</strong>.</li>
+                                <li><a href="https://doi.org/10.1017/S0031182013001121" class="font-bold text-brand-primary hover:underline">Open Source Drug Discovery – A Limited Tutorial</a><br>M. N. Robertson, P. M. Ylioja, A. E. Williamson, M. Woelfle, M. Robins, K. A. Badiola, P. Willis, P. Olliaro, T. N. C. Wells and M. H. Todd, <em>Parasitology</em> <strong>2014</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2013 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2013')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2013</h2>
+                        <i id="icon-2013" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2013" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1021/jm401287m" class="font-bold text-brand-primary hover:underline"><em>In Vitro</em> Metabolic Profile and <em>In Vivo</em> Antischistosomal Activity Studies of (η<sup>6</sup>-Praziquantel)Cr(CO)<sub>3</sub> Derivatives</a><br>M. Patra, K. Ingram, A. Leonidova, V. Pierroz, S. Ferrari, M. N. Robertson, M. H. Todd, J. Keiser and G. Gasser, <em>J. Med. Chem.</em> <strong>2013</strong>.</li>
+                                <li><a href="https://doi.org/10.1016/j.tet.2013.07.044" class="font-bold text-brand-primary hover:underline">Synthesis of Elongated Cavitands via Click Reactions and their use as Chemosensors</a><br>Z. Csók, T. Kégl, Y. Li, R. Skoda-Földes, L. Kiss, S. Kunsági-Máté, M. H. Todd and L. Kollár, <em>Tetrahedron</em> <strong>2013</strong>.</li>
+                                <li><a href="https://doi.org/10.1371/journal.pcbi.1003244" class="font-bold text-brand-primary hover:underline">Ten Simple Rules for Cultivating Open Science and Collaborative R&D</a><br>H. Masum, A. Rao, B. M. Good, M. H. Todd, A. M. Edwards, L. Chan, B. A. Bunin, A. I. Su, Z. Thomas and P. E. Bourne, <em>PLoS Comp. Biol.</em> <strong>2013</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/C3OB40503F" class="font-bold text-brand-primary hover:underline">Enhancing the Usefulness of Cross Dehydrogenative Coupling Reactions with a Removable Protecting Group</a><br>A. S.-K. Tsang, K. Ingram, J. Keiser, B. Hibbert and M. H. Todd, <em>Org. Biomol. Chem.</em> <strong>2013</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/open.201300014" class="font-bold text-brand-primary hover:underline">Incorporation of Bulky and Cationic Cyclam-Triazole Moieties into Marimastat Can Generate Potent MMP Inhibitory Activity Without Inducing Cytotoxicity</a><br>M. Yu, N. H. Lim, S. Ellis, H. Nagase, J. A. Triccas, P. J. Rutledge and M. H. Todd, <em>ChemistryOpen</em> <strong>2013</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/cbic.201200637" class="font-bold text-brand-primary hover:underline">A Fluorescent "Allosteric Scorpionate" Complex Visualizes a Biological Recognition Event</a><br>M. Yu, P. J. Rutledge and M. H. Todd, <em>ChemBioChem</em> <strong>2013</strong>.</li>
+                                <li><span class="font-bold text-slate-900">The Synaptic Leap: Open Science Combating Disease</span><br>P. Parker, B. Schwendimann, K. Thompson and M. H. Todd, in <em>Architecture of Productive Learning Networks</em>, L. Carvalho and P. Goodyear, Eds., <strong>2013</strong>, Routledge (ISBN 978-0-415-81655-7)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2012 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2012')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2012</h2>
+                        <i id="icon-2012" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2012" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1002/ejic.201201072" class="font-bold text-brand-primary hover:underline">Reversing the Triazole Topology in a Cyclam-Triazole-Dye Ligand Gives a 10-fold Brighter Signal Response to Zn<sup>2+</sup> in Aqueous Solution</a><br>S. Ast, P. J. Rutledge and M. H. Todd, <em>Eur. J. Inorg. Chem.</em> <strong>2012</strong>.</li>
+                                <li><a href="https://doi.org/10.1371/journal.pone.0047224" class="font-bold text-brand-primary hover:underline">The Outcome of the Oxidations of Unusual Enediamide Motifs is Governed by the Stabilities of the Intermediate Iminium Ions</a><br>M. Ahamed, B. Chan and M. H. Todd, <em>PLoS ONE</em>, <strong>2012</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/adsc.201200558" class="font-bold text-brand-primary hover:underline">The First Catalytic, Enantioselective Aza-Henry Reaction of an Unactivated Cyclic Imine</a><br>N. R. Amarasinghe, P. Turner and M. H. Todd, <em>Adv. Synth. Catal.</em> <strong>2012</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/jo2021373" class="font-bold text-brand-primary hover:underline">Oxidative Arylation of Isochroman</a><br>S. J. Park, J. Price and M. H. Todd, <em>J. Org. Chem.</em> <strong>2012</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2011 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2011')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2011</h2>
+                        <i id="icon-2011" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2011" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1021/ic2020012" class="font-bold text-brand-primary hover:underline">Copper, Nickel and Zinc Cyclam-Amino Acid and Cyclam-Peptide Complexes may be Synthesized with “Click” Chemistry and are Noncytotoxic</a><br>M. Yu, J. Price, P. Jensen, T. Shelper, C. Lovitt, S. Duffy, L. Windus, V. Avery, P. J. Rutledge and M. H. Todd, <em>Inorg. Chem.</em> <strong>2011</strong>.</li>
+                                <li><a href="https://doi.org/10.1038/nchem.1149" class="font-bold text-brand-primary hover:underline">Open Science is a Research Accelerator</a><br>M. Woelfle, P. Olliaro and M. H. Todd, <em>Nat. Chem.</em> <strong>2011</strong>.</li>
+                                <li><a href="https://doi.org/10.1371/journal.pntd.0001260" class="font-bold text-brand-primary hover:underline">Resolution of Praziquantel</a><br>M. Woelfle, J.-P. Seerden, J. de Gooijer, K. Pouwer, P. Olliaro and M. H. Todd, <em>PLoS Negl. Trop. Dis.</em> <strong>2011</strong>.</li>
+                                <li><a href="https://doi.org/10.1371/journal.pone.0017446" class="font-bold text-brand-primary hover:underline">Polyamide-Scorpion Cyclam Lexitropsins Selectively Bind AT-Rich DNA Independently of the Nature of the Coordinated Metal</a><br>A. T. S. Lo, N. K. Salam, D. E. Hibbs, P. J. Rutledge and M. H. Todd, <em>PLoS One</em> <strong>2011</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/C0CS00143K" class="font-bold text-brand-primary hover:underline">Chemical Sensors that Incorporate Click-Derived Triazoles</a><br>Y. H. Lau, P. J. Rutledge, M. Watkinson and M. H. Todd, <em>Chem. Soc. Rev.</em> <strong>2011</strong>.</li>
+                                <li><a href="https://doi.org/10.1351/PAC-CON-11-01-01" class="font-bold text-brand-primary hover:underline">A Oxidative Carbon-Carbon Bond-Forming Reaction Proceeds via an Isolable Iminium Ion</a><br>A. S.-K. Tsang, P. Jensen, J. M. Hook, A. S. K. Hashmi and M. H. Todd, <em>Pure Appl. Chem</em>. <strong>2011</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/ed100867m" class="font-bold text-brand-primary hover:underline">A Treasure Hunt for Chemistry</a><br>A. J. Bridgeman, R. Connor, P. J. Rutledge and M. H. Todd, <em>J. Chem. Ed.</em> <strong>2011</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/chem.201002477" class="font-bold text-brand-primary hover:underline">A Click Fluorophore Sensor that can Distinguish Cu<sup>II</sup> and Hg<sup>II</sup> via Selective Anion-Induced Demetallation</a><br>Y. H. Lau, J. Price, M. H. Todd and P. J. Rutledge, <em>Chem. Eur. J.</em> <strong>2011</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2010 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2010')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2010</h2>
+                        <i id="icon-2010" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2010" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1071/CH10342" class="font-bold text-brand-primary hover:underline">Gold Catalysis: Reactions of Organogold Compounds with Electrophiles</a><br>A. S. K. Hashmi, T. D. Ramamurthi, M. H. Todd, A. S.-K. Tsang and K. Graf, <em>Aust, J. Chem.</em> <strong>2010</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/ejoc.201000955" class="font-bold text-brand-primary hover:underline">Aza-Henry Reactions of 3,4-Dihydroisoquinoline</a><br>M. Ahamed, T. Thirukkumaran, W. Y. Leung, P. Jensen, J. Schroers and M. H. Todd, <em>Eur. J. Org. Chem.</em> <strong>2010</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/ejoc.201000877" class="font-bold text-brand-primary hover:underline">Catalytic, Asymmetric Additions of Carbon-Centered Nucleophiles to Nitrogen-Containing Heterocycles</a><br>M. Ahamed and M. H. Todd, <em>Eur. J. Org. Chem.</em> <strong>2010</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/ic901939x" class="font-bold text-brand-primary hover:underline">Cyclam-based "Clickates": Homogeneous and Heterogeneous Fluorescent Sensors for Zn(II)</a><br>E. Tamanini, K. Flavin, M. Motevalli, S. Piperno, L. A. Gheber, M. H. Todd and M. Watkinson, <em>Inorg. Chem.</em> <strong>2010</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2009 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2009')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2009</h2>
+                        <i id="icon-2009" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2009" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.3762/bjoc.5.67" class="font-bold text-brand-primary hover:underline">Can We Measure Catalyst Efficiency in Asymmetric Chemical Reactions? A Theoretical Approach</a><br>S. El-Fayyoumy, M. H. Todd and C. J. Richards, <em>Beilstein J. Org. Chem.</em> <strong>2009</strong>.</li>
+                                <li><a href="https://doi.org/10.1038/nbt0409-320" class="font-bold text-brand-primary hover:underline">Kernel for Tropical Disease Initiative</a><br>L. Ortí, R. J. Carbajo, U. Pieper, N. Eswar, S. M. Maurer, A. K. Rai, G. Taylor, M. H. Todd, A. Pineda-Lucena, A. Sali and M. A. Marti-Renom, <em>Nature Biotech.</em> <strong>2009</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/9783527626816.ch16" class="font-bold text-brand-primary hover:underline">Chemotherapeutic Development Strategies for Schistosomiasis</a><br>C. R. Caffrey, D. L. Williams, M. H. Todd, D. L. Nelson, J. Keiser and J. Utzinger, in <em>Drug Discovery in Infectious Diseases: from Molecular Targets to Drug Candidates</em>, P. M. Selzer, Ed., <strong>2009</strong>, Wiley-VCH, Weinheim.</li>
+                                <li><a href="https://doi.org/10.1002/chem.200802425" class="font-bold text-brand-primary hover:underline">Responsive Metal Complexes: A Click-Based "Allosteric Scorpionate" Complex Permits the Detection of a Biological Recognition Events by EPR/ENDOR Spectroscopy</a><br>E. Tamanini, S. E. J. Rigby, M. Motevalli, M. H. Todd and M. Watkinson, <em>Chem. Eur. J.</em> <strong>2009</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/ic8017634" class="font-bold text-brand-primary hover:underline">A Synthetically Simple, Click-generated Cyclam-based Zinc(II) Sensor</a><br>E. Tamanini, A. Katewa, L. M. Sedger, M. H. Todd and M. Watkinson, <em>Inorg. Chem.</em> <strong>2009</strong>.</li>
+                                <li><a href="https://doi.org/10.1371/journal.pntd.0000418" class="font-bold text-brand-primary hover:underline">A Kernel for Open Source Drug Discovery in Tropical Diseases</a><br>L. Ortí, R. J. Carbajo, U. Pieper, N. Eswar, S. M. Maurer, A. K. Rai, G. Taylor, M. H. Todd, A. Pineda-Lucena, A. Sali and M. A. Marti-Renom, <em>PLoS Negl. Trop. Dis.</em> <strong>2009</strong>.</li>
+                                <li><a href="https://doi.org/10.1016/j.tetlet.2008.12.101" class="font-bold text-brand-primary hover:underline">Facile Synthesis of Vicinal Diamines via Oxidation of <em>N</em>-phenyltetrahydroisoquinolines with DDQ</a><br>A.-S. K. Tsang and M. H. Todd, <em>Tetrahedron Lett.</em> <strong>2009</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2008 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2008')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2008</h2>
+                        <i id="icon-2008" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2008" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1016/j.bmcl.2008.03.045" class="font-bold text-brand-primary hover:underline">Synthesis and DNA Binding Ability of Cyclam-Amino Acid Conjugates</a><br>A. V. Ramana, M. Watkinson and M. H. Todd, <em>Bioorg. Med. Chem. Lett.</em> <strong>2008</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2007 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2007')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2007</h2>
+                        <i id="icon-2007" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2007" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1021/jo071175v" class="font-bold text-brand-primary hover:underline">Effective Methods for the Biotinylation of Azamacrocycles</a><br>S. Krivickas, E. Tamanini, M. H. Todd and M. Watkinson, <em>J. Org. Chem.</em> <strong>2007</strong>.</li>
+                                <li><a href="https://doi.org/10.1016/j.ijantimicag.2007.05.004" class="font-bold text-brand-primary hover:underline">Is Actin the Praziquantel Receptor?</a><br>A. R. Troiani, L. Pica-Mattoccia, C. Valle, D. Cioli, G. Mignogna, F. Ronketti and M. H. Todd, <em>Int. J. Antimicrob. Ag.</em> <strong>2007</strong>.</li>
+                                <li><a href="https://doi.org/10.1016/j.bmcl.2007.05.063" class="font-bold text-brand-primary hover:underline">Praziquantel Derivatives I: Modification of the Aromatic Ring</a><br>F. E. Ronketti, A. V. Ramana, X. Chao-Ming, L. Pica-Mattoccia, D. Cioli and M. H. Todd, <em>Bioorg. Med. Chem. Lett.</em> <strong>2007</strong>.</li>
+                                <li><a href="https://doi.org/10.1186/1752-153X-1-3" class="font-bold text-brand-primary hover:underline">Open Access and Open Source in Chemistry</a><br>M. H. Todd, <em>Chem. Central J.</em> <strong>2007</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2006 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2006')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2006</h2>
+                        <i id="icon-2006" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2006" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="http://dx.doi.org/10.1590/S0074-02762006000900046" class="font-bold text-brand-primary hover:underline">The Effects of Drugs, Ions and Poly-L-lysine on the Excretory System of <em>Schistosoma mansoni</em></a><br>J. R. Kusel, F. Oliveira, M. H. Todd, F. Ronketti, S. Lima, A. C.- de Mattos, K. Teixeira, P. M. Z. Coelho, J. A. Thornhill and F. Ribeiro, <em>Mem. Inst. Oswaldo Cruz.</em> <strong>2006</strong>.</li>
+                                <li><a href="https://doi.org/10.1016/j.tetasy.2006.07.001" class="font-bold text-brand-primary hover:underline">Improved Synthesis of the Valuable Peptidomimetic Intermediate 3-Azido-4-hydroxy Cyclopentanoic Acid</a><br>E. Tamanini, M. Watkinson and M. H. Todd, <em>Tetrahedron Asymmetry</em> <strong>2006</strong>.</li>
+                                <li><a href="https://doi.org/10.1071/CH06095" class="font-bold text-brand-primary hover:underline">Open Source Research – the Power of Us</a><br>T. B. Kepler, M. A. Marti-Renom, S. M. Maurer, A. K. Rai, G. Taylor and M. H. Todd, <em>Aust. J. Chem.</em> <strong>2006</strong>.</li>
+                                <li><a href="https://doi.org/10.1016/j.tetlet.2005.12.073" class="font-bold text-brand-primary hover:underline">Solid Phase Synthesis of Praziquantel</a><br>S. El-Fayoummy, W. Mansour and M. H. Todd, <em>Tetrahedron Lett.</em> <strong>2006</strong>.</li>
+                                <li><a href="https://doi.org/10.1107/S1600536806006982" class="font-bold text-brand-primary hover:underline">(<em>R</em>)-2-Ferrocenyl-4-hy­droxy­methyl-4,5-di­hydro-1,3-oxazole</a><br>M. H. Todd, S. El-Fayyoumy, M. E. Motevalli and C. J. Richards, <em>Acta Cryst. E.</em> <strong>2006</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/jm050232e" class="font-bold text-brand-primary hover:underline">Design and Synthesis of New Tetrazolyl- and Carboxy-biphenylylmethyl-quinazolin-4-one Derivatives as Angiotensin II AT<sub>1</sub> Receptor Antagonists</a><br>M. A. H. Ismail, S. Barker, D. A. Abou El Ella, K. A. M. Abouzid and R. A. Toubar and M. H. Todd, <em>J. Med. Chem.</em> <strong>2006</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2005 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2005')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2005</h2>
+                        <i id="icon-2005" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2005" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1039/B104620A" class="font-bold text-brand-primary hover:underline">Computer-Aided Organic Synthesis</a><br>M. H. Todd, <em>Chem. Soc. Rev.</em> <strong>2005</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2003 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2003')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2003</h2>
+                        <i id="icon-2003" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2003" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1016/j.pt.2003.09.005" class="font-bold text-brand-primary hover:underline">Drugs for the Control of Parasitic Diseases: Current Status and Development in Schistosomiasis</a><br>A. Fenwick, L. Savioli, D. Engels, R. Bergquist and M. H. Todd, <em>Trends Parasitol.</em> <strong>2003</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2002 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2002')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2002</h2>
+                        <i id="icon-2002" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2002" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1039/B104169J" class="font-bold text-brand-primary hover:underline">Asymmetric Autocatalysis: Product Recruitment for the Increase in the Chiral Environment (PRICE)</a><br>M. H. Todd, <em>Chem. Soc. Rev.</em> <strong>2002</strong>.</li>
+                                <li><a href="https://doi.org/10.1039/B203957P" class="font-bold text-brand-primary hover:underline">Use of FTICR-MS to Detect Chemical Tags from a Combinatorial Library</a><br>M. H. Todd and C. Abell, <em>Analyst</em> <strong>2002</strong>.</li>
+                                <li><a href="https://doi.org/10.1021/jo010990m" class="font-bold text-brand-primary hover:underline">Amino Acid-Derived Heterocycles: Lewis Acid Catalyzed and Radical Cyclizations from Peptide Acetals</a><br>M. H. Todd, C. O. Ndubaku and P. A. Bartlett, <em>J. Org. Chem.</em> <strong>2002</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2001 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2001')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2001</h2>
+                        <i id="icon-2001" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2001" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1021/cc000112m" class="font-bold text-brand-primary hover:underline">Novel Chemical Tagging Method for Combinatorial Synthesis Utilizing Suzuki Chemistry and Fourier Transform Ion Cyclotron Resonance Mass Spectrometry</a><br>M. H. Todd and C. Abell, <em>J. Comb. Chem.</em> <strong>2001</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2000 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('2000')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">2000</h2>
+                        <i id="icon-2000" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-2000" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1016/S0040-4039(00)01431-3" class="font-bold text-brand-primary hover:underline">The Attachment and Cleavage of Phenols from Solid Supports and their Single Bead Mass Spectral Analysis</a><br>M. H. Todd and C. Abell, <em>Tetrahedron Lett.</em> <strong>2000</strong>.</li>
+                                <li><a href="https://doi.org/10.1002/0471228249.ch2" class="font-bold text-brand-primary hover:underline">Palladium-Catalyzed Carbon-Carbon Bond Formation on Solid Support</a><br>M. H. Todd and C. Abell, in <em>Solid Phase Synthesis</em>, Burgess, K. (Ed.), Wiley-Interscience (New York), <strong>2000</strong>, 25-79.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 1999 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('1999')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">1999</h2>
+                        <i id="icon-1999" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-1999" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1021/ol990785h" class="font-bold text-brand-primary hover:underline">A Novel Safety-Catch Linker for the Solid-Phase Synthesis of Amides and Esters</a><br>M. H. Todd, S. F. Oliver and C. Abell, <em>Org. Lett.</em> <strong>1999</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 1997 -->
+                <div class="year-block group">
+                    <div onclick="toggleYear('1997')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
+                        <h2 class="text-xl font-bold text-brand-dark">1997</h2>
+                        <i id="icon-1997" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                    </div>
+                    <div id="content-1997" class="accordion-content">
+                        <div class="accordion-inner">
+                            <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
+                                <li><a href="https://doi.org/10.1016/S0040-4039(97)01552-9" class="font-bold text-brand-primary hover:underline">Studies on the Synthesis, Characterisation and Reactivity of Aromatic Diboronic Acids</a><br>M. H. Todd, S. Balasubramanian and C. Abell, <em>Tetrahedron Lett.</em> <strong>1997</strong>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-brand-dark text-white py-20 mt-auto">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-12 gap-12">
+            <div class="md:col-span-5">
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="h-8 w-8 bg-brand-primary rounded flex items-center justify-center font-bold text-white shadow-lg shadow-brand-primary/40">T</div>
+                    <h5 class="text-xl font-bold text-white tracking-tight">The Todd Group</h5>
+                </div>
+                <p class="text-sm text-slate-400 leading-loose max-w-sm font-medium">
+                    Pioneering open source methodologies in drug discovery. Making science accessible, transparent, and collaborative.
+                </p>
+            </div>
+            <div class="md:col-span-3 md:col-start-7">
+                <h5 class="text-xs font-bold uppercase tracking-widest mb-6 text-slate-500">Location</h5>
+                <p class="text-sm text-slate-300 leading-relaxed">
+                    UCL School of Pharmacy<br>
+                    29-39 Brunswick Square<br>
+                    London, WC1N 1AX
+                </p>
+            </div>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 mt-16 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-xs text-slate-500 font-medium">
+            <p>&copy; The Todd Group.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script>
+        function toggleYear(year) {
+            const content = document.getElementById(`content-${year}`);
+            const icon = document.getElementById(`icon-${year}`);
+            
+            // Toggle active classes
+            if (content.classList.contains('active')) {
+                content.classList.remove('active');
+                icon.classList.remove('rotate');
+                // Adjust styling for inactive border
+                icon.parentElement.classList.remove('border-brand-primary');
+                icon.parentElement.classList.add('border-slate-200');
+            } else {
+                content.classList.add('active');
+                icon.classList.add('rotate');
+                // Adjust styling for active border
+                icon.parentElement.classList.remove('border-slate-200');
+                icon.parentElement.classList.add('border-brand-primary');
+            }
+        }
+
+        function toggleAll(expand) {
+            const contents = document.querySelectorAll('.accordion-content');
+            const icons = document.querySelectorAll('.chevron');
+            
+            contents.forEach((content, index) => {
+                if (expand) {
+                    content.classList.add('active');
+                    icons[index].classList.add('rotate');
+                    icons[index].parentElement.classList.add('border-brand-primary');
+                    icons[index].parentElement.classList.remove('border-slate-200');
+                } else {
+                    content.classList.remove('active');
+                    icons[index].classList.remove('rotate');
+                    icons[index].parentElement.classList.remove('border-brand-primary');
+                    icons[index].parentElement.classList.add('border-slate-200');
+                }
+            });
+        }
+    </script>
+</body>
+</html>

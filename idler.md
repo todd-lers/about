@@ -2,7 +2,7 @@
 layout: default
 title: Idler compounds
 ---
-
+ 
 <style>
     .content-img {
         border-radius: 0.25rem;

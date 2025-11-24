@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: publication
+---
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com?plugins=typography"></script>

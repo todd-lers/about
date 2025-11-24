@@ -3,11 +3,6 @@ layout: default
 title: Publications
 ---
 
-<!-- 
-    注意：这里不需要 <!DOCTYPE html>, <head>, <body>, <nav>, <footer>
-    因为 _layouts/default.html 已经帮你处理了这些。
-    这里只放这一页特有的内容。
--->
 
 <style>
     /* Accordion Transitions - 仅针对此页面的样式 */
@@ -27,9 +22,10 @@ title: Publications
     .chevron { transition: transform 0.3s ease; }
     .chevron.rotate { transform: rotate(180deg); }
     
-    /* 修复 prose 样式可能对布局造成的干扰 (如果你 default.html 用了 prose) */
+    /* 修复 prose 样式可能对布局造成的干扰 */
     .prose .year-block { margin-bottom: 1rem; }
     .prose a { text-decoration: none; }
+    .prose ul > li { margin-top: 0.5em; margin-bottom: 0.5em; }
 </style>
 
 <div class="max-w-4xl mx-auto">
@@ -97,7 +93,7 @@ title: Publications
                 <h2 class="text-xl font-bold text-brand-dark m-0">2024</h2>
                 <i id="icon-2024" class="fas fa-chevron-down text-slate-400 chevron"></i>
             </div>
-            <div id="content-2024" class="accordion-content">
+            <div id="content-2024" class="accordion-content active">
                 <div class="accordion-inner">
                     <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600 list-none pl-0">
                         <li>
@@ -309,9 +305,9 @@ title: Publications
                         <li>
                             <a href="http://au.wiley.com/WileyCDA/WileyTitle/productCd-3527330453.html" class="font-bold text-brand-primary hover:underline">Separation of Enantiomers: Synthetic Methods</a><br>M. H. Todd, Ed. Wiley-VCH, <strong>2014</strong>.
                             <ul class="list-disc pl-5 mt-2 space-y-1 text-xs">
-                                <li>Chapter 1: Introduction: A Survey of How and Why to Separate Enantiomers, M. H. Todd.</li>
-                                <li>Chapter 7: Rare, Neglected and Potential Synthetic Methods for the Separation of Enantiomers, M. H. Todd.</li>
-                                <li>Review by Richard Kellogg in <em>Angewandte Chemie</em> described it as "a thoughtfully constructed, and well-written book full of useful information"</li>
+                                <li><a href="http://onlinelibrary.wiley.com/doi/10.1002/9783527650880.ch1/summary" class="text-brand-primary font-bold hover:underline">Chapter 1: Introduction: A Survey of How and Why to Separate Enantiomers</a>, M. H. Todd.</li>
+                                <li><a href="http://onlinelibrary.wiley.com/doi/10.1002/9783527650880.ch7/summary" class="text-brand-primary font-bold hover:underline">Chapter 7: Rare, Neglected and Potential Synthetic Methods for the Separation of Enantiomers</a>, M. H. Todd.</li>
+                                <li><a href="http://dx.doi.org/10.1002/anie.201411359" class="text-brand-primary font-bold hover:underline">Review</a> by Richard Kellogg in <em>Angewandte Chemie</em> described it as "a thoughtfully constructed, and well-written book full of useful information"</li>
                             </ul>
                         </li>
                         <li><a href="https://doi.org/10.1039/9781782620082-00254" class="font-bold text-brand-primary hover:underline">Mechanisms of Cross-Dehydrogenative-Coupling Reactions</a><br>A. S.-K. Tsang, S. J. Park and M. H. Todd, in <em>From C–H to C–C Bonds: Cross Dehydrogenative Coupling</em>, C.-J. Li, Ed., <strong>2014</strong>, Royal Society of Chemistry, Cambridge.</li>

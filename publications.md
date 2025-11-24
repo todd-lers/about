@@ -5,7 +5,7 @@ title: Publications
 
 
 <style>
-    /* Accordion Transitions - 仅针对此页面的样式 */
+    /* Accordion Transitions */
     .accordion-content {
         transition: grid-template-rows 0.3s ease-out, opacity 0.3s ease;
         display: grid;
@@ -22,7 +22,7 @@ title: Publications
     .chevron { transition: transform 0.3s ease; }
     .chevron.rotate { transform: rotate(180deg); }
     
-    /* 修复 prose 样式可能对布局造成的干扰 */
+    
     .prose .year-block { margin-bottom: 1rem; }
     .prose a { text-decoration: none; }
     .prose ul > li { margin-top: 0.5em; margin-bottom: 0.5em; }

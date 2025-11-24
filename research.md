@@ -55,7 +55,7 @@ title: Research
     <!-- Intro -->
     <div class="text-lg text-slate-600 leading-relaxed">
         <p>
-            We are most known for the <a href="http://opensourcemalaria.org/#" class="text-brand-primary hover:underline font-bold">Open Source Malaria</a> project, our <a href="http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html" class="text-brand-primary hover:underline font-bold">open science</a> work more generally and for the use of <a href="http://dx.doi.org/10.1039/C0CS00143K" class="text-brand-primary hover:underline font-bold">click-derived triazoles in chemical sensing</a>. However, there are plenty of other projects that interest us. See our new <a href="./idler.html" class="text-brand-primary hover:underline font-bold">Idler compounds</a> section for the live library, protocol, and data resources.
+            We are most known for the <a href="https://github.com/OpenSourceMalaria" class="text-brand-primary hover:underline font-bold">Open Source Malaria</a> project, our <a href="http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html" class="text-brand-primary hover:underline font-bold">open science</a> work more generally and for the use of <a href="http://dx.doi.org/10.1039/C0CS00143K" class="text-brand-primary hover:underline font-bold">click-derived triazoles in chemical sensing</a>. However, there are plenty of other projects that interest us. See our new <a href="./idler.html" class="text-brand-primary hover:underline font-bold">Idler compounds</a> section for the live library, protocol, and data resources.
         </p>
         
         <p class="font-bold mt-6 mb-4">Click a research area to jump to the relevant section below:</p>

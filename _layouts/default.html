@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,20 +14,19 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
     
     <style>
-        /* 全局样式 */
-        h1, h2, h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; letter-spacing: -0.02em; }
+        /* 全局样式统一 */
+        h1, h2, h3, h4, h5, h6 { font-family: 'Plus Jakarta Sans', sans-serif; letter-spacing: -0.02em; }
         body { font-family: 'Inter', sans-serif; }
         
         /* 导航栏磨砂效果 */
         .glass-nav {
-            background: rgba(255, 255, 255, 0.9);
-            backdrop-filter: blur(8px);
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(12px);
             border-bottom: 1px solid rgba(241, 245, 249, 0.8);
         }
         
-        /* 链接样式覆盖 (针对 Markdown 内容) */
-        .prose a { color: #06B6D4; text-decoration: none; font-weight: 500; }
-        .prose a:hover { text-decoration: underline; }
+        /* 链接交互微调 */
+        a { text-decoration-skip-ink: auto; }
     </style>
     
     <script>
@@ -54,8 +53,8 @@
             <span class="hidden sm:inline tracking-wide">University College London · School of Pharmacy</span>
             <span class="sm:hidden">UCL School of Pharmacy</span>
             <div class="flex gap-6">
-                <a href="https://github.com/todd-lers/about" class="hover:text-white transition duration-200">GitHub</a>    
-                <a href="./internal.html" class="text-brand-primary font-semibold hover:text-white transition duration-200">Internal Portal</a>
+                <a href="https://github.com/todd-lers/about" class="hover:text-white transition duration-200"><i class="fab fa-github mr-1"></i> GitHub</a>    
+                <a href="{{ site.baseurl }}/internal.html" class="text-brand-primary font-semibold hover:text-white transition duration-200">Internal Portal</a>
             </div>
         </div>
     </div>
@@ -66,7 +65,7 @@
             <div class="flex justify-between h-24 items-center">
                 <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center gap-4">
-                    <a href="./" class="flex items-center gap-3 group">
+                    <a href="{{ site.baseurl }}/" class="flex items-center gap-3 group no-underline">
                         <div class="h-10 w-10 bg-brand-dark text-white flex items-center justify-center font-bold text-xl rounded-sm shadow-lg group-hover:bg-brand-primary transition duration-300">T</div>
                         <div class="flex flex-col">
                             <span class="font-bold text-2xl text-brand-dark leading-none tracking-tight">The Todd Group</span>
@@ -75,39 +74,68 @@
                     </a>
                 </div>
                 
-                <!-- Desktop Menu -->
+                <!-- Desktop Menu (电脑端菜单 - 保持不变) -->
                 <div class="hidden md:flex space-x-8 items-center">
-                    <a href="./research.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Research</a>
+                    <a href="{{ site.baseurl }}/research.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">Research</a>
                     
-                    <!-- People Dropdown (已包含防误触修复) -->
+                    <!-- People Dropdown -->
                     <div class="relative group z-50">
                         <button class="flex items-center gap-1 text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide focus:outline-none h-24">
                             People
                             <svg class="w-3 h-3 transition-transform group-hover:rotate-180 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
                         </button>
-                        
                         <div class="absolute left-0 w-52 hidden group-hover:block pt-6 -mt-2">
                             <div class="bg-white border border-slate-100 shadow-xl rounded-sm py-1">
-                                <a href="./current.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Current Members</a>
-                                <a href="./past.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Past Members</a>
-                                <a href="./photo-gallery.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition">Photo Gallery</a>
+                                <a href="{{ site.baseurl }}/current.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition no-underline">Current Members</a>
+                                <a href="{{ site.baseurl }}/past.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition no-underline">Past Members</a>
+                                <a href="{{ site.baseurl }}/photo-gallery.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition no-underline">Photo Gallery</a>
                             </div>
                         </div>
                     </div>
 
-                    <a href="./publications.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">Publications</a>
-                    <a href="./news.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">News</a>
-                    <a href="./idler.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide">IDLER COMPOUNDS</a>
+                    <a href="{{ site.baseurl }}/publications.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">Publications</a>
+                    <a href="{{ site.baseurl }}/news.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">News</a>
+                    <a href="{{ site.baseurl }}/idler.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">IDLER COMPOUNDS</a>
                 </div>
+
+                <!-- Mobile Menu Button (新增：手机端汉堡按钮) -->
+                <div class="flex items-center md:hidden">
+                    <button onclick="toggleMobileMenu()" type="button" class="text-slate-500 hover:text-brand-primary focus:outline-none focus:text-brand-primary p-2" aria-label="Toggle menu">
+                        <svg class="h-8 w-8" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Menu Panel (新增：手机端下拉菜单) -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-slate-100 shadow-lg absolute w-full top-24 left-0 z-40 overflow-y-auto max-h-[calc(100vh-6rem)]">
+            <div class="px-4 pt-4 pb-8 space-y-2">
+                <a href="{{ site.baseurl }}/research.html" class="block px-3 py-3 rounded-md text-base font-bold text-slate-700 hover:text-brand-primary hover:bg-slate-50 border-b border-slate-50">Research</a>
+                
+                <!-- Mobile People Submenu -->
+                <div class="border-b border-slate-50 pb-2">
+                    <p class="px-3 py-2 text-xs font-bold text-slate-400 uppercase tracking-wider mt-2">People</p>
+                    <a href="{{ site.baseurl }}/current.html" class="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-brand-primary hover:bg-slate-50 pl-6">Current Members</a>
+                    <a href="{{ site.baseurl }}/past.html" class="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-brand-primary hover:bg-slate-50 pl-6">Past Members</a>
+                    <a href="{{ site.baseurl }}/photo-gallery.html" class="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-brand-primary hover:bg-slate-50 pl-6">Photo Gallery</a>
+                </div>
+
+                <a href="{{ site.baseurl }}/publications.html" class="block px-3 py-3 rounded-md text-base font-bold text-slate-700 hover:text-brand-primary hover:bg-slate-50 border-b border-slate-50">Publications</a>
+                <a href="{{ site.baseurl }}/news.html" class="block px-3 py-3 rounded-md text-base font-bold text-slate-700 hover:text-brand-primary hover:bg-slate-50 border-b border-slate-50">News</a>
+                <a href="{{ site.baseurl }}/idler.html" class="block px-3 py-3 rounded-md text-base font-bold text-slate-700 hover:text-brand-primary hover:bg-slate-50 border-b border-slate-50">IDLER COMPOUNDS</a>
+                
+                <a href="{{ site.baseurl }}/internal.html" class="block px-3 py-3 rounded-md text-base font-bold text-brand-primary bg-brand-light mt-4 border border-brand-primary/10">
+                    <i class="fas fa-lock mr-2 text-xs"></i> Internal Portal
+                </a>
             </div>
         </div>
     </nav>
 
-    <!-- Main Content Area (这里是核心区别，保留了 content 占位符) -->
-    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full">
-        <article class="prose prose-lg prose-slate max-w-none prose-headings:font-['Plus_Jakarta_Sans'] prose-headings:font-bold prose-h1:text-brand-dark prose-a:text-brand-primary">
-            {{ content }}
-        </article>
+    <!-- Main Content Area -->
+    <main class="flex-grow w-full">
+        {{ content }}
     </main>
 
     <!-- Footer -->
@@ -138,6 +166,18 @@
             <p>Designed for Open Science.</p>
         </div>
     </footer>
+
+    <!-- Script for Mobile Menu Toggle (新增) -->
+    <script>
+        function toggleMobileMenu() {
+            const menu = document.getElementById('mobile-menu');
+            if (menu.classList.contains('hidden')) {
+                menu.classList.remove('hidden');
+            } else {
+                menu.classList.add('hidden');
+            }
+        }
+    </script>
 
 </body>
 </html>

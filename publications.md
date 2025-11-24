@@ -63,7 +63,7 @@ title: Publications
                     <ul class="space-y-6 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
                         <li>
                             <span class="font-bold text-slate-900 block mb-1">Identification of Spirodioxolane nsP2 Helicase Inhibitors with Antialphaviral Activity</span>
-                            H. J. Oh, J. D. Sears, B. M. Ramalingam, R. S. Z. Saleem, Z. W. Davis-Gilbert, M. A. Hossain, S. R. Moorman, D. Ohja, S. A. Martinez, J. E. Burdick, R. M. Couñago, N. J. Moorman, M. T. Heise, M. H. Todd and T. M. Willson, 2025, <em>submitted</em>. 
+                            H. J. Oh, J. D. Sears, B. M. Ramalingam, R. S. Z. Saleem, Z. W. Davis-Gilbert, M. A. Hossain, S. R. Moorman, D. Ohja, S. A. Martinez, J. E. Burdick, R. M. Couñago, N. J. Moorman, M. T. Heise, M. H. Todd and T. M. Willson, <em>RSC Med. Chem.</em> <strong>2025</strong>, <em>in press</em>. 
                             <a href="https://doi.org/10.26434/chemrxiv-2025-mfts7" class="text-brand-primary font-bold hover:underline ml-1">[Preprint]</a>
                         </li>
                         <li>

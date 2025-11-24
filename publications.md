@@ -1,7 +1,9 @@
----
-layout: default
-title: publication
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications - The Todd Group</title>
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
@@ -173,9 +175,9 @@ title: publication
                 <div class="year-block group">
                     <div onclick="toggleYear('2024')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
                         <h2 class="text-xl font-bold text-brand-dark">2024</h2>
-                        <i id="icon-2024" class="fas fa-chevron-down text-slate-400 chevron"></i>
+                        <i id="icon-2024" class="fas fa-chevron-down text-slate-400 chevron rotate"></i>
                     </div>
-                    <div id="content-2024" class="accordion-content">
+                    <div id="content-2024" class="accordion-content active">
                         <div class="accordion-inner">
                             <ul class="space-y-6 py-6 px-2 text-sm leading-relaxed text-slate-600">
                                 <li>

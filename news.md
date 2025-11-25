@@ -3,10 +3,8 @@ layout: default
 title: News
 ---
 
-
-
 <style>
-
+    /* Accordion Transitions */
     .accordion-content {
         transition: grid-template-rows 0.3s ease-out, opacity 0.3s ease;
         display: grid;
@@ -23,22 +21,46 @@ title: News
     .chevron { transition: transform 0.3s ease; }
     .chevron.rotate { transform: rotate(180deg); }
     
-    
+    /* Fix prose image margins */
     .prose img { margin: 0; }
     
-    /* Image adjustments */
+    /* Custom Image Styles for News */
     .news-img {
-        border-radius: 0.25rem; /* rounded-sm */
-        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); /* shadow-md */
+        border-radius: 0.5rem; /* rounded-lg */
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
         object-fit: cover;
+        height: 250px; /* 固定高度确保排版整齐 */
+        width: 100%;
+        transition: transform 0.3s ease;
+        display: block;
+    }
+    .news-img:hover {
+        transform: scale(1.02);
+    }
+
+    /* Grid layout for image galleries within news items */
+    .news-gallery-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1rem;
+        margin-top: 1rem;
+    }
+    @media (min-width: 768px) {
+        .news-gallery-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .news-gallery-grid.three-cols {
+            grid-template-columns: repeat(3, 1fr);
+        }
     }
 </style>
 
-<div class="max-w-4xl mx-auto">
+<div class="max-w-4xl mx-auto px-4 py-12">
     
     <!-- Header Section -->
     <div class="mb-12 border-b border-slate-200 pb-8">
         <h1 class="text-4xl font-extrabold text-brand-dark mb-6">News</h1>
+        <p class="text-lg text-slate-500 mb-6">Latest updates, events, and milestones from The Todd Group.</p>
         <div class="flex flex-wrap gap-4 items-center justify-end">
             <div class="ml-auto flex gap-2">
                 <button onclick="toggleAll(true)" class="text-xs font-bold text-brand-primary hover:text-brand-primary-dark uppercase tracking-wider">Expand All</button>
@@ -49,25 +71,24 @@ title: News
     </div>
 
     <!-- News List -->
-    <div class="space-y-3" id="news-container">
+    <div class="space-y-4" id="news-container">
 
         <!-- 2025 -->
         <div class="year-block group">
-            <div onclick="toggleYear('2025')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2025</h2>
-                <i id="icon-2025" class="fas fa-chevron-down text-slate-400 chevron rotate"></i>
+            <div onclick="toggleYear('2025')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2025</h2>
+                <i id="icon-2025" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2025" class="accordion-content active">
-                <div class="accordion-inner">
-                    <!-- Font size updated to text-base -->
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-10 list-none pl-0">
                         <li>
-                            <strong class="text-brand-dark block mb-2">July 31rd 2025</strong>
-                            Yinuo passed her PhD Viva with minor corrections. Congrats Dr.Wang!
-                            <div class="flex justify-center gap-3 flex-wrap mt-4">
-                                <img src="./news items supporting info/Yinuoviva1.jpeg" class="w-[30%] news-img" alt="Yinuo Viva 1">
-                                <img src="./news items supporting info/yinuoviva2.jpeg" class="w-[30%] news-img" alt="Yinuo Viva 2">
-                                <img src="./news items supporting info/YinuoExaminers.jpg" class="w-[30%] news-img" alt="Yinuo Examiners">
+                            <strong class="text-brand-dark block mb-2 text-lg">July 31st 2025</strong>
+                            Yinuo passed her PhD Viva with minor corrections. Congrats Dr. Wang!
+                            <div class="news-gallery-grid three-cols">
+                                <img src="./news items supporting info/Yinuoviva1.jpeg" class="news-img" alt="Yinuo Viva 1">
+                                <img src="./news items supporting info/yinuoviva2.jpeg" class="news-img" alt="Yinuo Viva 2">
+                                <img src="./news items supporting info/YinuoExaminers.jpg" class="news-img" alt="Yinuo Examiners">
                             </div>
                         </li>
                     </ul>
@@ -77,109 +98,109 @@ title: News
 
         <!-- 2024 -->
         <div class="year-block group">
-            <div onclick="toggleYear('2024')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2024</h2>
-                <i id="icon-2024" class="fas fa-chevron-down text-slate-400 chevron rotate"></i>
+            <div onclick="toggleYear('2024')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2024</h2>
+                <i id="icon-2024" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2024" class="accordion-content active">
-                <div class="accordion-inner">
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-10 list-none pl-0">
                         <li>
-                            <strong class="text-brand-dark block mb-2">Dec 11th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Dec 11th 2024</strong>
                             We head to the British Museum for the Silk Roads exhibition, then to the pub for a Science Jeopardy quiz.
-                            <div class="flex justify-center gap-4 mt-4">
-                                <img src="./news items supporting info/British Museum Trip 2024.jpg" class="w-1/2 news-img" alt="British Museum Trip">
-                                <img src="./news items supporting info/Jeopardy Pub Quiz.jpg" class="w-1/2 news-img" alt="Jeopardy Pub Quiz">
+                            <div class="news-gallery-grid">
+                                <img src="./news items supporting info/British Museum Trip 2024.jpg" class="news-img" alt="British Museum Trip">
+                                <img src="./news items supporting info/Jeopardy Pub Quiz.jpg" class="news-img" alt="Jeopardy Pub Quiz">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Nov 5th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Nov 5th 2024</strong>
                             Mat hosted an SGC-Industry event at the Wellcome Trust on the potential future impact of AI and machine learning on drug discovery, written up <a href="https://www.ucl.ac.uk/lifesciences-faculty/news/2024/dec/future-impact-machine-learning-drug-discovery" class="text-brand-primary font-bold hover:underline">here</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Sept 19th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Sept 19th 2024</strong>
                             Eve Carter featured in an <a href="https://www.thesgc.org/blogs/celebrating-impact-sgc-postdocs-open-science" class="text-brand-primary font-bold hover:underline">article</a> from the Structural Genomics Consortium celebrating Postdoc Appreciation Week.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Sept 11th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Sept 11th 2024</strong>
                             Congratulations to the group's cohort of MSc Drug Discovery and Pharma Management students (Xin, Annabella, Ulfa, Ryan, Natnaree and Marc) on their successful presentations and the end of their course! Good luck to them with whatever is next!
-                            <div class="mt-4 flex justify-center">
-                                <img src="./news items supporting info/MSc Drug Discovery2.jpeg" class="w-[40%] news-img" alt="MSc Students">
+                            <div class="mt-4 max-w-md">
+                                <img src="./news items supporting info/MSc Drug Discovery2.jpeg" class="news-img" alt="MSc Students">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Sept 5th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Sept 5th 2024</strong>
                             Eve, Gui, Kangping, and Yinuo enjoyed presenting their work at the XXVIII EFMC International Symposium on Medicinal Chemistry (<a href="https://www.efmc-ismc.org/" class="text-brand-primary font-bold hover:underline">EFMC-ISMC 2024</a>), hosted in Rome, Italy.
-                            <div class="mt-4 flex justify-center">
-                                <img src="./news items supporting info/EFMC-ISMC2024.png" class="w-[75%] news-img" alt="EFMC Conference">
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./news items supporting info/EFMC-ISMC2024.png" class="news-img" alt="EFMC Conference">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Sept 2nd 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Sept 2nd 2024</strong>
                             Mat features in a <a href="https://www.chemistryworld.com/careers/will-open-science-change-chemistry/4020023.article" class="text-brand-primary font-bold hover:underline">Chemistry World article</a> entitled "Will Open Science Change Chemistry?".
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">August 28th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">August 28th 2024</strong>
                             Hadia presented her research at the <a href="https://gp2a.org/" class="text-brand-primary font-bold hover:underline">GP2A</a> 32nd annual conference hosted by the University of Coimbra.
-                            <div class="mt-4 flex justify-center">
-                                <img src="./news items supporting info/Hadia 2nd annual conference-GP2A 2024.jpg" class="w-[40%] news-img" alt="Hadia GP2A">
+                            <div class="mt-4 max-w-md">
+                                <img src="./news items supporting info/Hadia 2nd annual conference-GP2A 2024.jpg" class="news-img" alt="Hadia GP2A">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">August 20th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">August 20th 2024</strong>
                             Hadia presented her research at the PDRA Symposium at UCL Chemistry.
-                            <div class="mt-4 flex justify-center">
-                                <img src="./news items supporting info/Hadia PDRA Symposium at UCL Chemistry.jpg" class="w-[75%] news-img" alt="Hadia PDRA">
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./news items supporting info/Hadia PDRA Symposium at UCL Chemistry.jpg" class="news-img" alt="Hadia PDRA">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">July 31st 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">July 31st 2024</strong>
                             Wellington's supervisor from Unicamp, Brazil, Prof Carlos Roque Duarte Correia, dropped by to say hello and see the lab.
-                            <div class="mt-4 flex justify-center">
-                                <img src="./news items supporting info/Prof Carlos Roque Duarte Correia.jpg" class="w-[40%] news-img" alt="Prof Correia">
+                            <div class="mt-4 max-w-md">
+                                <img src="./news items supporting info/Prof Carlos Roque Duarte Correia.jpg" class="news-img" alt="Prof Correia">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">July 24th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">July 24th 2024</strong>
                             As part of his project, Mohsen has been spending time with the SGC in Toronto. Here he is running an SPR using Biacore T200 to see if his compounds have a binder against a plasmodium WDR.
-                            <div class="mt-4 flex justify-center">
-                                <img src="./news items supporting info/Mohsen_SGC.png" class="w-[90%] news-img" alt="Mohsen SGC">
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./news items supporting info/Mohsen_SGC.png" class="news-img" alt="Mohsen SGC">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">July 20th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">July 20th 2024</strong>
                             Eve presented her research at the Gordon Research Seminar on Mammalian Reproduction in Barcelona.
-                            <div class="mt-4 flex justify-center">
-                                <img src="./news items supporting info/Eve-Gordon Research Seminar on Mammalian Reproduction.jpg" class="w-[40%] news-img" alt="Eve Gordon Seminar">
+                            <div class="mt-4 max-w-md">
+                                <img src="./news items supporting info/Eve-Gordon Research Seminar on Mammalian Reproduction.jpg" class="news-img" alt="Eve Gordon Seminar">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">July 8th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">July 8th 2024</strong>
                             In line with our strong commitment to sustainability, we are pleased to announce that we have received the LEAF Bronze Award. Learn more about the UCL LEAF programme <a href="https://www.ucl.ac.uk/sustainable/take-action/staff-action/leaf-laboratory-efficiency-assessment-framework" class="text-brand-primary font-bold hover:underline">here</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">July 6th 2024</strong>
-                            Yinuo had a fantastic time at the ULLA  Summer School 2024 in Leiden University  — Shaping the Future of Drug Research: From Design to Therapy! It was an amazing week of talks and a great opportunity to network with a diverse range of PhD students from 10 different universities.
-                            <div class="mt-4 flex justify-center">
-                                <img src="./news items supporting info/Yinuo_ULLA2.png" class="w-[90%] news-img" alt="Yinuo ULLA">
+                            <strong class="text-brand-dark block mb-2 text-lg">July 6th 2024</strong>
+                            Yinuo had a fantastic time at the ULLA Summer School 2024 in Leiden University — Shaping the Future of Drug Research: From Design to Therapy! It was an amazing week of talks and a great opportunity to network with a diverse range of PhD students from 10 different universities.
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./news items supporting info/Yinuo_ULLA2.png" class="news-img" alt="Yinuo ULLA">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">June 28th 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">June 28th 2024</strong>
                             We say farewell to our visitor from the State University of Campinas, Wellington Da Silva, who has been working on marinoquinolines as part of Open Source Malaria. Wellington is going back to ace his PhD in Brazil and hopefully we'll see him again.
-                            <div class="mt-4 flex justify-center">
-                                <img src="./news items supporting info/Goodbye_Wellington2.jpg" class="w-[75%] news-img" alt="Goodbye Wellington">
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./news items supporting info/Goodbye_Wellington2.jpg" class="news-img" alt="Goodbye Wellington">
                             </div>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">June 3rd 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">June 3rd 2024</strong>
                             Yinuo has been awarded from the UCL FLS Conference Fund to present her research at the XXVIII EFMC International Symposium on Medicinal Chemistry in September.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">May 21st 2024</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">May 21st 2024</strong>
                             Today we said farewell to BVGH Fellow Evans Mainsah, and look forward to visiting him in his home town of Buea, Cameroon, where he is seeking new medicines for the treatment of river blindness (onchocerciasis).
-                            <div class="mt-4 flex justify-center">
-                                <img src="./pics/people/goodbye_evans.png" class="w-[75%] news-img" alt="Goodbye Evans">
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./pics/people/goodbye_evans.png" class="news-img" alt="Goodbye Evans">
                             </div>
                         </li>
                     </ul>
@@ -187,19 +208,74 @@ title: News
             </div>
         </div>
 
-        <!-- 2023 -->
+        <!-- 2023 (MERGED: News Text + Photo Gallery Events) -->
         <div class="year-block group">
-            <div onclick="toggleYear('2023')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2023</h2>
-                <i id="icon-2023" class="fas fa-chevron-down text-slate-400 chevron rotate"></i>
+            <div onclick="toggleYear('2023')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2023</h2>
+                <i id="icon-2023" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2023" class="accordion-content">
-                <div class="accordion-inner">
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-12 list-none pl-0">
+                        
+                        <!-- Oct: MycetOS Award -->
                         <li>
-                            <strong class="text-brand-dark block mb-2">Oct 26th 2023</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Oct 26th 2023</strong>
                             An Open Science Award. The <a href="https://github.com/OpenSourceMycetoma" class="text-brand-primary font-bold hover:underline">MycetOS</a> drug discovery project, founded by Mat, was awarded the <a href="https://www.eur.nl/en/news/winners-announced-eur-open-and-responsible-science-awards" class="text-brand-primary font-bold hover:underline">Open Research prize by the Erasmus University of Rotterdam</a>. The project uses open-source research methods to find new potential treatments for the neglected tropical disease, mycetoma, without secrecy or patents. Contributors to the project include Mat's PhD student Dmitrij Melechov, staff at Erasmus University and the Drugs for Neglected Diseases initiative and many others, such as the UK school children who have made new candidate molecules and, most recently, a cohort of our very own MSc Drug Discovery students in the School of Pharmacy in 2023.
                         </li>
+
+                        <!-- Summer: Hyde Park Trip -->
+                        <li>
+                            <strong class="text-brand-dark block mb-2 text-lg">Summer 2023</strong>
+                            <span class="text-brand-primary font-bold uppercase tracking-wider text-xs mb-2 block">Group Social</span>
+                            Hyde and Holland Park trip.
+                            <div class="news-gallery-grid three-cols">
+                                <img src="./pics/events/2023 Hyde and Holland Park trip/IMG_7402.jpeg" class="news-img" alt="Hyde Park Trip 1">
+                                <img src="./pics/events/2023 Hyde and Holland Park trip/IMG_7408.jpeg" class="news-img" alt="Hyde Park Trip 2">
+                                <img src="./pics/events/2023 Hyde and Holland Park trip/IMG_7401.jpeg" class="news-img" alt="Hyde Park Trip 3">
+                            </div>
+                        </li>
+
+                        <!-- July: Group Lunch -->
+                        <li>
+                            <strong class="text-brand-dark block mb-2 text-lg">July 2023</strong>
+                            <span class="text-brand-primary font-bold uppercase tracking-wider text-xs mb-2 block">Group Lunch</span>
+                            Summer group lunch gathering.
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./pics/events/2023 July Group Lunch/Group lunch 2.jpg" class="news-img" alt="Group Lunch">
+                            </div>
+                        </li>
+
+                        <!-- Early 2023: Daniel Leaving -->
+                        <li>
+                            <strong class="text-brand-dark block mb-2 text-lg">Early 2023</strong>
+                            <span class="text-brand-primary font-bold uppercase tracking-wider text-xs mb-2 block">Farewell</span>
+                            Daniel Silva Leaving Do - Daniel and Mat.
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./pics/events/2023 Daniel Silva Leaving Do/Daniel Silva and Mat.jpeg" class="news-img" alt="Daniel and Mat">
+                            </div>
+                        </li>
+
+                        <!-- Feb: Women in Science -->
+                        <li>
+                            <strong class="text-brand-dark block mb-2 text-lg">Feb 11th 2023</strong>
+                            <span class="text-brand-primary font-bold uppercase tracking-wider text-xs mb-2 block">Event</span>
+                            Women in Science Day 2023 celebration.
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./pics/events/2023 Women in Science Day/Women in Science Day 2023.jpg" class="news-img" alt="Women in Science Day">
+                            </div>
+                        </li>
+
+                        <!-- Jan: New Year Lunch -->
+                        <li>
+                            <strong class="text-brand-dark block mb-2 text-lg">Jan 2023</strong>
+                            <span class="text-brand-primary font-bold uppercase tracking-wider text-xs mb-2 block">Group Lunch</span>
+                            Toddlers New Year Lunch.
+                            <div class="mt-4 max-w-2xl">
+                                <img src="./pics/events/2023 New Year Lunch/Toddlers New Year Lunch Jan 2023.jpeg" class="news-img" alt="New Year Lunch">
+                            </div>
+                        </li>
+
                     </ul>
                 </div>
             </div>
@@ -207,39 +283,39 @@ title: News
 
         <!-- 2022 -->
         <div class="year-block group">
-            <div onclick="toggleYear('2022')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2022</h2>
-                <i id="icon-2022" class="fas fa-chevron-down text-slate-400 chevron"></i>
+            <div onclick="toggleYear('2022')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2022</h2>
+                <i id="icon-2022" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2022" class="accordion-content">
-                <div class="accordion-inner">
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-8 list-none pl-0">
                         <li>
-                            <strong class="text-brand-dark block mb-2">June 7th 2022</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">June 7th 2022</strong>
                             Mat contributed to a report on open data sharing practices during the COVID pandemic, that was <a href="https://zenodo.org/record/6620854#.YtknTZDMI-Q" class="text-brand-primary font-bold hover:underline">published today</a> by Wellcome, UKRI and the Bill and Melinda Gates Foundation.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">May 20th 2022</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">May 20th 2022</strong>
                             The group receives about £2M from the National Institutes of Health as part of a $63M award to an antiviral drug discovery centre, <a href="https://uncnews.unc.edu/2022/05/20/unc-chapel-hill-receives-65m-from-nih-for-antiviral-drug-development-center/" class="text-brand-primary font-bold hover:underline">READDI-AViDD</a>, based at the University of North Carolina, Chapel Hill. Mat's group will work on the medicinal chemistry of multiple projects and will share all findings publicly in real time, in line with the group's open science principles. The aim is to work together to improve our pandemic preparedness. <a href="https://www.ucl.ac.uk/lifesciences-faculty/news/2022/jun/professor-matthew-todd-and-professor-robin-ketteler-awarded-grant" class="text-brand-primary font-bold hover:underline">UCL news item</a>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Mar 28th 2022</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Mar 28th 2022</strong>
                             Mat is awarded £10,000 from the Rosetrees Trust following a successful application for funding led by the open science non-profit, Ersilia.io. The project will allow iterative design-synthesis-test cycles for the leading project in Open Source Malaria, where new potential antimalarials will be designed using Ersilia's AI/ML methods and evaluated in blood stage potency assays.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Mar 28th 2022</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Mar 28th 2022</strong>
                             Mat is awarded $250K from the Bill and Melinda Gates Foundation and the Structural Genomics Consortium as part of an $5M consortium aimed at finding new non-hormonal female contraceptives. This major open science initiative, running for three years, will have project champions across UCL, Toronto, University of North Carolina Chapel Hill, Frankfurt, McGill and Karolinska. The UCL team's job is to find potent, selective, cell-penetrant inhibitors of phospholipase C zeta 1, an under-explored target central to human fertilisation. <a href="https://github.com/StructuralGenomicsConsortium/CNP5-PLCZ1" class="text-brand-primary font-bold hover:underline">Science details</a>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Mar 15th 2022</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Mar 15th 2022</strong>
                             The group's research is mentioned in the Financial Times' article <a href="https://www.ft.com/content/61e1d51e-b415-4161-b157-032e5207ab7f" class="text-brand-primary font-bold hover:underline">"Will ‘open-source’ vaccines narrow the inequality gap exposed by Covid?"</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Feb 14th 2022</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Feb 14th 2022</strong>
                             Mat wins £35,604 from the EPSRC Impact Acceleration Account/Knowledge Exchange and Innovation Funding scheme to run an AI/ML open science challenge to find new starting points for antibiotics. With Brooks Paige (Turing Institute) and Peter Coveney (Chemistry), a protein target is being provided, and AI/ML researchers who use "generative" methods for molecule generation can predict compounds that will bind that protein. Mat's lab will make or buy the molecules, which will be evaluated at the University of Warwick, with all data being shared in real time. You can find details <a href="https://github.com/opensourceantibiotics/murligase/issues/69" class="text-brand-primary font-bold hover:underline">here</a>
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Feb 3rd 2022</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Feb 3rd 2022</strong>
                             Tom and Mat featured in a <a href="https://www.chemistryworld.com/opinion/a-call-for-open-science-student-leaders/4015107.article" class="text-brand-primary font-bold hover:underline">Chemistry World article</a> about the <a href="https://github.com/mattodd/blog/issues/6" class="text-brand-primary font-bold hover:underline">Sir James Murray Student Champion</a> concept.
                         </li>
                     </ul>
@@ -249,23 +325,23 @@ title: News
 
         <!-- 2020 -->
         <div class="year-block group">
-            <div onclick="toggleYear('2020')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2020</h2>
-                <i id="icon-2020" class="fas fa-chevron-down text-slate-400 chevron"></i>
+            <div onclick="toggleYear('2020')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2020</h2>
+                <i id="icon-2020" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2020" class="accordion-content">
-                <div class="accordion-inner">
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-8 list-none pl-0">
                         <li>
-                            <strong class="text-brand-dark block mb-2">Mar 26th 2020</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Mar 26th 2020</strong>
                             Mat is named in the <a href="https://themedicinemaker.com/power-list/2020" class="text-brand-primary font-bold hover:underline">Medicine Maker 2020 Power List</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Feb 11th 2020</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Feb 11th 2020</strong>
                             Mat co-founds the company <a href="https://www.m4idpharma.com/" class="text-brand-primary font-bold hover:underline">M4ID Pharma</a>, with a mission to develop medicines for infectious disease using open science.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Feb 10th 2020</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Feb 10th 2020</strong>
                             Congratulations to Edwin as he submits his corrected PhD thesis, to become Dr Tse.
                         </li>
                     </ul>
@@ -275,35 +351,35 @@ title: News
 
         <!-- 2019 -->
         <div class="year-block group">
-            <div onclick="toggleYear('2019')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2019</h2>
-                <i id="icon-2019" class="fas fa-chevron-down text-slate-400 chevron"></i>
+            <div onclick="toggleYear('2019')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2019</h2>
+                <i id="icon-2019" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2019" class="accordion-content">
-                <div class="accordion-inner">
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-8 list-none pl-0">
                         <li>
-                            <strong class="text-brand-dark block mb-2">Dec 6th 2019</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Dec 6th 2019</strong>
                             Open Source Malaria's computational modelling competition (funded by the AI3SD network) <a href="https://www.news-medical.net/news/20191206/Intellegens-and-Optibrium-announce-success-in-the-Open-Source-Malaria-global-initiative.aspx" class="text-brand-primary font-bold hover:underline">attracts a winning entry from the private sector firms Optibrium and Intellegens</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Nov 27th 2019</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Nov 27th 2019</strong>
                             Mat talks at the Innovation Lecture hosted by UCL's Institute of Brand and Innovation Law, entitled "<a href="https://www.ucl.ac.uk/ibil/events/past-events/events-2019" class="text-brand-primary font-bold hover:underline">Patents vs Open Innovation: Incentivising 'Medicines for the Many'</a>" hosted by Sir Robin Jacob and The Hon. Mr Justice Birss.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Sept 24th 2019</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Sept 24th 2019</strong>
                             Mat is mentioned in the new Labour Party policy document "<a href="https://labour.org.uk/press/labour-will-take-pharmaceutical-companies-put-public-health-private-profit-corbyn/" class="text-brand-primary font-bold hover:underline">Medicines for the Many</a>" as an example of new approaches to the development of affordable medicines.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">June 25th 2019</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">June 25th 2019</strong>
                             With Sevenoaks school we're awarded a <a href="https://www.sevenoaksschool.org/news/science/article/news/royal-society-partnership-grant-funds-new-pharma-research/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=9d3259d5503ca90dcef8bfbdf546af05" class="text-brand-primary font-bold hover:underline">Royal Society partnership grant</a> to work <a href="https://github.com/OpenSourceMycetoma" class="text-brand-primary font-bold hover:underline">open source on new medicines for mycetoma</a>, a fungal infection for which there are no drugs. The research will involve 6th-form school students generating new molecules. If it works, we can use the project as a guide for others. See also <a href="https://github.com/TheBreakingGoodProject" class="text-brand-primary font-bold hover:underline">Breaking Good</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Mar 22nd 2019</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Mar 22nd 2019</strong>
                             Edwin's review on the past, present and future of anti-malarial medicines is <a href="https://malariajournal.biomedcentral.com/articles/10.1186/s12936-019-2724-z" class="text-brand-primary font-bold hover:underline">published</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Jan 18th 2019</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Jan 18th 2019</strong>
                             Mat delivers TedX talk entitled "<a href="https://www.youtube.com/watch?v=DeC0YS3j2E4" class="text-brand-primary font-bold hover:underline">Can Openness Pay?</a>", detailing the possible use of regulatory data exclusivity to help fund open source drug discovery.
                         </li>
                     </ul>
@@ -313,19 +389,19 @@ title: News
 
         <!-- 2018 -->
         <div class="year-block group">
-            <div onclick="toggleYear('2018')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2018</h2>
-                <i id="icon-2018" class="fas fa-chevron-down text-slate-400 chevron"></i>
+            <div onclick="toggleYear('2018')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2018</h2>
+                <i id="icon-2018" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2018" class="accordion-content">
-                <div class="accordion-inner">
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-8 list-none pl-0">
                         <li>
-                            <strong class="text-brand-dark block mb-2">Aug 8th 2018</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Aug 8th 2018</strong>
                             Congratulations to Edwin for being selected as one of the three Sydney University Chemical Society Le Fevre Lecturers for 2018.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Jan 23rd 2018</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Jan 23rd 2018</strong>
                             Mat delivers <a href="https://www.youtube.com/watch?v=VBodnd68iwU" class="text-brand-primary font-bold hover:underline">a keynote on open drug discovery at linux.con.au in Sydney</a>.
                         </li>
                     </ul>
@@ -335,43 +411,43 @@ title: News
 
         <!-- 2017 -->
         <div class="year-block group">
-            <div onclick="toggleYear('2017')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2017</h2>
-                <i id="icon-2017" class="fas fa-chevron-down text-slate-400 chevron"></i>
+            <div onclick="toggleYear('2017')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2017</h2>
+                <i id="icon-2017" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2017" class="accordion-content">
-                <div class="accordion-inner">
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-8 list-none pl-0">
                         <li>
-                            <strong class="text-brand-dark block mb-2">Nov 2017</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Nov 2017</strong>
                             Mat joins Expert Advisory Committee of the <a href="http://www.guidetopharmacology.org/" class="text-brand-primary font-bold hover:underline">IUPHAR/BPS Guide to PHARMACOLOGY database</a> malaria project.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Oct 19th 2017</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Oct 19th 2017</strong>
                             Yu Heng's work on <a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201703488/abstract" class="text-brand-primary font-bold hover:underline">the coordinating ability of cyclam scorpionands</a> is finally published.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Aug 31st 2017</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Aug 31st 2017</strong>
                             Mat, Alice, the Sydney Grammar School students and Open Source Malaria are featured on <a href="http://www.comedycentral.com.au/the-daily-show-with-trevor-noah/videos/august-31-2017-australian-students-stick-it-to-martin-shkreli#australian-students-stick-it-to-martin-shkreli" class="text-brand-primary font-bold hover:underline">The Daily Show with Trevor Noah</a> (US only <a href="https://www.youtube.com/watch?v=G4up_3JhNIQ&feature=youtu.be" class="text-brand-primary font-bold hover:underline">Youtube video</a>).
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">June 22nd 2017</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">June 22nd 2017</strong>
                             Mat interviewed for <a href="http://www.beilstein.tv/video/the-open-source-chemistry-lab/" class="text-brand-primary font-bold hover:underline">Beilstein TV</a> on whether the chemistry community is embracing open science and open data.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">June 21st 2017</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">June 21st 2017</strong>
                             Althea Tsang's paper on <a href="http://onlinelibrary.wiley.com/doi/10.1002/chem.201700430/abstract" class="text-brand-primary font-bold hover:underline">the mechanism of CDC reactions</a> finally comes out.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">May 4th 2017</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">May 4th 2017</strong>
                             Mat is one of 100 people named on the <a href="https://themedicinemaker.com/power-list/2017/" class="text-brand-primary font-bold hover:underline">Medicine Maker Power List 2017</a>, as a Champion of Change, for his work on Open Source Malaria.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Apr 19th 2017</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Apr 19th 2017</strong>
                             Paper published that describes a <a href="http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276" class="text-brand-primary font-bold hover:underline">roadmap for open source pharma</a>, with an associated <a href="https://www.theguardian.com/commentisfree/2017/apr/19/why-open-source-pharma-is-the-path-to-both-cheaper-and-new-medicines" class="text-brand-primary font-bold hover:underline">explainer in the Guardian</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Feb 8th 2017</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Feb 8th 2017</strong>
                             The collaboration between Sydney Grammar School and Open Source Malaria is <a href="https://www.teachermagazine.com.au/articles/daraprim-students-a-lesson-in-perseverance?utm_source=Gonski&utm_medium=article&utm_content=Part1" class="text-brand-primary font-bold hover:underline">featured in Teacher Magazine</a>.
                         </li>
                     </ul>
@@ -381,31 +457,31 @@ title: News
 
         <!-- 2016 -->
         <div class="year-block group">
-            <div onclick="toggleYear('2016')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2016</h2>
-                <i id="icon-2016" class="fas fa-chevron-down text-slate-400 chevron"></i>
+            <div onclick="toggleYear('2016')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2016</h2>
+                <i id="icon-2016" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2016" class="accordion-content">
-                <div class="accordion-inner">
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-8 list-none pl-0">
                         <li>
-                            <strong class="text-brand-dark block mb-2">Dec 1 2016</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Dec 1 2016</strong>
                             Alice Williamson and Mat <a href="https://hitachi-social-innovation-awards.thinkable.org/winners" class="text-brand-primary font-bold hover:underline">win the Jury Prize of the Hitachi Innovation Award</a> with a pitch on "Breaking Good" - how to involve students and the public in the synthesis of much-needed medicines.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Nov 30th 2016</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Nov 30th 2016</strong>
                             Sydney Grammar School completes the synthesis of Daraprim using Open Source Malaria's platform. <a href="https://github.com/OpenSourceMalaria/OSM_To_Do_List/issues/472" class="text-brand-primary font-bold hover:underline">The story goes viral</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Sept 14th 2016</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Sept 14th 2016</strong>
                             The <a href="https://github.com/OpenSourceMalaria/OSM_To_Do_List/issues/434" class="text-brand-primary font-bold hover:underline">first Open Source Malaria paper</a> is published.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">June 2nd 2016</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">June 2nd 2016</strong>
                             Open Source Malaria <a href="http://parasite.org.au/wp-content/uploads/2010/05/ASPnewsletterVol27No1lores.pdf" class="text-brand-primary font-bold hover:underline">featured in the Newsletter of the Australian Society for Parasitology</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">May 13th 2016</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">May 13th 2016</strong>
                             Mat's work on schistosomiasis, Open Source Malaria and the Open Source Pharma Foundation featured in both <a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2816%2930518-9/abstract" class="text-brand-primary font-bold hover:underline">The Lancet</a> and <a href="http://www.nature.com/nature/journal/v533/n7602_supp/full/533S68a.html" class="text-brand-primary font-bold hover:underline">Nature</a>.
                         </li>
                     </ul>
@@ -415,64 +491,64 @@ title: News
 
         <!-- 2015 -->
         <div class="year-block group">
-            <div onclick="toggleYear('2015')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-slate-200 hover:border-brand-primary transition select-none">
-                <h2 class="text-xl font-bold text-brand-dark m-0">2015</h2>
-                <i id="icon-2015" class="fas fa-chevron-down text-slate-400 chevron"></i>
+            <div onclick="toggleYear('2015')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2015</h2>
+                <i id="icon-2015" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
             </div>
             <div id="content-2015" class="accordion-content">
-                <div class="accordion-inner">
-                    <ul class="space-y-8 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+                    <ul class="space-y-8 list-none pl-0">
                         <li>
-                            <strong class="text-brand-dark block mb-2">Nov 17th 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Nov 17th 2015</strong>
                             Mat wins in the <a href="http://www.socmedawards.com/malaria2015/page/winner" class="text-brand-primary font-bold hover:underline">Malaria Innovator category of the Social Media Awards</a> (<a href="http://www.socmedawards.com/malaria2015/page/content/41" class="text-brand-primary font-bold hover:underline">Article</a>, <a href="https://www.youtube.com/watch?v=LlGXz2bxcUI" class="text-brand-primary font-bold hover:underline">interview</a> and even <a href="http://www.socmedawards.com/malaria2015/page/content/47" class="text-brand-primary font-bold hover:underline">artwork</a>).
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Oct 30th 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Oct 30th 2015</strong>
                             The Open Source Malaria consortium is <a href="http://ands.us7.list-manage.com/track/click?u=b542ef52e49302569068046d9&id=6ef868a690&e=77cd7367f5" class="text-brand-primary font-bold hover:underline">featured in <em>Share</em></a>, the newsletter of the Australian National Data Service.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Oct 28th 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Oct 28th 2015</strong>
                             Mat delivers one of the NSW Chief Scientist's <a href="http://www.sonicinteractive.com.au/srdt_edms/srdt-invite-todd.html" class="text-brand-primary font-bold hover:underline">Breakfast Seminars</a> on <em>Openness Boosts Research</em> (<a href="http://www.slideshare.net/MatthewTodd5/nsw-chief-scientist-breakfast-seminar" class="text-brand-primary font-bold hover:underline">Slides</a>).
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Oct 23rd 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Oct 23rd 2015</strong>
                             Mat writes about <a href="http://blogs.plos.org/yoursay/2015/10/22/talking-drug-prices-pt-6-openness-vs-secrecy-in-drug-development-by-mat-todd/" class="text-brand-primary font-bold hover:underline">openness vs. secrecy in drug development</a> as part of a series on this topic at PLoS Blogs.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Oct 20th 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Oct 20th 2015</strong>
                             The fantastic work of Erin Sheridan and the boys at Sydney Grammar as part of the Open Source Malaria consortium is featured in the <a href="http://www.sydgram.nsw.edu.au/files/sgsmagazine/SGSmagazine_iss1_Winter2015.pdf" class="text-brand-primary font-bold hover:underline">school's winter newsletter</a> (p36). You can read their <a href="http://figshare.com/articles/Open_Source_Malaria_2015/1513845" class="text-brand-primary font-bold hover:underline">research reports</a> directly, too.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Oct 1st 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Oct 1st 2015</strong>
                             Mat is part of a team of four awarded $3M by the Tata Trusts to create the Open Source Pharma Foundation. Here is the <a href="http://www.tatatrusts.org/article/inside/Tata-Trusts-support-the-creation-of-the-Open-Source-Pharma-Foundation" class="text-brand-primary font-bold hover:underline">press release</a> and articles: <a href="http://spicyip.com/2015/09/creation-of-linux-for-drugs-gets-support-from-tata-trusts.html" class="text-brand-primary font-bold hover:underline">1</a>, <a href="https://d.wifo.org/t/open-source-pharma-foundation/161" class="text-brand-primary font-bold hover:underline">2</a>, <a href="http://www.thehindubusinessline.com/economy/tata-trusts-support-creation-of-open-source-pharma-foundation/article7703087.ece" class="text-brand-primary font-bold hover:underline">3</a>. The aspect of prizes as part of OSP is picked up by the <a href="http://www.economist.com/news/business/21679203-high-cost-rd-used-explain-why-drugs-giants-merge-and-why-they-must-charge" class="text-brand-primary font-bold hover:underline">Economist</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Sept 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Sept 2015</strong>
                             Mat helps create and then run the <a href="http://www.opensourcepharma.net/germany-2015.html" class="text-brand-primary font-bold hover:underline">Second Open Source Pharma Conference</a> in Marburg, Germany. The meeting's <a href="http://tinyurl.com/OSP2Final" class="text-brand-primary font-bold hover:underline">To Do list</a> is available. An <a href="http://www.consortiuminfo.org/standardsblog/article.php?story=20150904123645851" class="text-brand-primary font-bold hover:underline">article</a> about the meeting from one of the participants sparks a <a href="http://blogs.sciencemag.org/pipeline/archives/2015/09/08/magic-open-source-savings-await" class="text-brand-primary font-bold hover:underline">lengthy debate on the merits of OSP at Derek Lowe's blog</a> and <a href="http://esr.ibiblio.org/?p=6837" class="text-brand-primary font-bold hover:underline">further debate on Eric Raymond's blog</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">July 31st 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">July 31st 2015</strong>
                             Alice Williamson leads a team that includes Mat in a successful application for a University of Sydney Small Educational Innovation Grant on Open Research in the Undergraduate Laboratory, following <a href="http://malaria.ourexperiment.org/the_osm_blog/11566/Alice_Williamsons_Open_Source_Undergrad_Lab_Course.html" class="text-brand-primary font-bold hover:underline">Alice's pilot of this idea</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">July 7th 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">July 7th 2015</strong>
                             The group is awarded a 3-year ARC Linkage Grant (LP150101226) with the <a href="http://www.mmv.org/" class="text-brand-primary font-bold hover:underline">Medicines for Malaria Venture</a> and <a href="http://biology.anu.edu.au/research/labs/kirk-lab-membrane-transport-parasites" class="text-brand-primary font-bold hover:underline">Kiaran Kirk</a> to use the <a href="http://opensourcemalaria.org/" class="text-brand-primary font-bold hover:underline">Open Source Malaria</a> platform to make new compounds that will reveal the details of an important antimalarial target, PfATP4.
                             <br>June 29th 2015: Alice Williamson writes about open science and the OSM consortium in a <a href="http://www.abc.net.au/science/articles/2015/06/29/4254093.htm" class="text-brand-primary font-bold hover:underline">piece for ABC Science</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">May 22nd 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">May 22nd 2015</strong>
                             Mat <a href="http://www.future-science.com/doi/full/10.4155/fmc.15.28" class="text-brand-primary font-bold hover:underline">interviewed</a> in Future Medicinal Chemistry about the use of open source research models, and is part of an <a href="http://www.future-science.com/doi/full/10.4155/fmc.15.29" class="text-brand-primary font-bold hover:underline">Ask the Experts</a> panel on Rethinking the Drug Discovery Model in neglected tropical diseases. These articles were part of an <a href="http://www.future-science.com/toc/fmc/7/6" class="text-brand-primary font-bold hover:underline">open access special issue on schistosomiasis</a>.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">May 20th 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">May 20th 2015</strong>
                             Mat talks on "<a href="http://www.isntd.org/#/isntd-d-2015-todd/4589881721" class="text-brand-primary font-bold hover:underline">The Six Principles of Open Source Drug Discovery</a>" and chairs a panel session on "<a href="http://www.isntd.org/#/isntd-d-15-panel-14/4589888426" class="text-brand-primary font-bold hover:underline">Open Source: Models for Collaboration</a>" at the <a href="http://www.isntdd3.com/" class="text-brand-primary font-bold hover:underline">ISNTD-D3</a> meeting at the Wellcome Trust in London.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Apr 30th 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Apr 30th 2015</strong>
                             OSM's <a href="https://www.youtube.com/watch?v=o29cq7uYWFc" class="text-brand-primary font-bold hover:underline">introductory video</a> comes an honorable 7th in the <a href="https://www.thinkable.org/competition/6" class="text-brand-primary font-bold hover:underline">Thinkable Open Innovation competition</a> - well done to the winners.
                         </li>
                         <li>
-                            <strong class="text-brand-dark block mb-2">Mar 7th 2015</strong>
+                            <strong class="text-brand-dark block mb-2 text-lg">Mar 7th 2015</strong>
                             Alice Williamson is <a href="https://www.unsw.edu.au/top5under40" class="text-brand-primary font-bold hover:underline">one of the winners of the ABC's Top 5 Under 40 competition!</a> Here's a <a href="http://www.abc.net.au/radionational/programs/scienceshow/alice-williamson/6283462" class="text-brand-primary font-bold hover:underline">video</a> she made in the competition. She now gets to make a full radio show on a subject of her choosing.
                         </li>
                     </ul>
@@ -778,38 +854,40 @@ title: News
     function toggleYear(year) {
         const content = document.getElementById(`content-${year}`);
         const icon = document.getElementById(`icon-${year}`);
+        const header = icon.parentElement;
         
         // Toggle active classes
         if (content.classList.contains('active')) {
             content.classList.remove('active');
             icon.classList.remove('rotate');
             // Adjust styling for inactive border
-            icon.parentElement.classList.remove('border-brand-primary');
-            icon.parentElement.classList.add('border-slate-200');
+            header.classList.remove('border-brand-primary');
+            header.classList.add('border-slate-200');
         } else {
             content.classList.add('active');
             icon.classList.add('rotate');
             // Adjust styling for active border
-            icon.parentElement.classList.remove('border-slate-200');
-            icon.parentElement.classList.add('border-brand-primary');
+            header.classList.remove('border-slate-200');
+            header.classList.add('border-brand-primary');
         }
     }
 
     function toggleAll(expand) {
         const contents = document.querySelectorAll('.accordion-content');
         const icons = document.querySelectorAll('.chevron');
+        const headers = document.querySelectorAll('.year-block > div');
         
         contents.forEach((content, index) => {
             if (expand) {
                 content.classList.add('active');
                 icons[index].classList.add('rotate');
-                icons[index].parentElement.classList.add('border-brand-primary');
-                icons[index].parentElement.classList.remove('border-slate-200');
+                headers[index].classList.add('border-brand-primary');
+                headers[index].classList.remove('border-slate-200');
             } else {
                 content.classList.remove('active');
                 icons[index].classList.remove('rotate');
-                icons[index].parentElement.classList.remove('border-brand-primary');
-                icons[index].parentElement.classList.add('border-slate-200');
+                headers[index].classList.remove('border-brand-primary');
+                headers[index].classList.add('border-slate-200');
             }
         });
     }

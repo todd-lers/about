@@ -31,9 +31,9 @@ title: Research
         height: auto;
     }
     
-    /* Scroll Margin for Sticky Header - 关键修复 */
+    /* Scroll Margin for Sticky Header 
     .anchor-offset {
-        scroll-margin-top: 8rem; /* 确保点击链接跳转时，标题不会被导航栏挡住 */
+        scroll-margin-top: 8rem; 
     }
 
     /* Note styling for "Old" content */
@@ -290,7 +290,7 @@ title: Research
 
         </div>
 
-        <hr class="rule">
+       
 
         <div id="synthetic_methodology" class="anchor-offset mb-24">
             <div class="flex items-center gap-4 mb-6">
@@ -305,7 +305,7 @@ title: Research
             </div>
         </div>
 
-        <hr class="rule">
+      
 
         <div id="asymmetric_catalysis" class="anchor-offset mb-24">
             <div class="flex items-center gap-4 mb-6">
@@ -321,7 +321,7 @@ title: Research
             </div>
         </div>
 
-        <hr class="rule">
+       
 
         <div id="chemical_education" class="anchor-offset mb-24">
             <div class="flex items-center gap-4 mb-6">
@@ -338,7 +338,7 @@ title: Research
             </div>
         </div>
 
-        <hr class="rule">
+      
 
         <div id="automated_synthesis_planning" class="anchor-offset mb-24">
             <div class="flex items-center gap-4 mb-6">

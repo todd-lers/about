@@ -162,13 +162,16 @@
             </div>
         </div>
         <div class="max-w-7xl mx-auto px-4 mt-16 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-xs text-slate-500 font-medium">
-            <p>&copy; {{ site.time | date: '%Y' }} The Todd Group.</p>
+            <p>&copy; <span id="current-year">2025</span> The Todd Group.</p>
             <p>Designed for Open Science.</p>
         </div>
     </footer>
 
-    <!-- Script for Mobile Menu Toggle (新增) -->
+    <!-- Script for Mobile Menu Toggle -->
     <script>
+        
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+
         function toggleMobileMenu() {
             const menu = document.getElementById('mobile-menu');
             if (menu.classList.contains('hidden')) {
@@ -178,6 +181,5 @@
             }
         }
     </script>
-
 </body>
 </html>

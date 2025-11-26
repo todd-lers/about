@@ -5,7 +5,7 @@ title: Publications
 
 
 <style>
-    /* Accordion Transitions - 仅针对此页面的样式 */
+    /* Accordion Transitions 
     .accordion-content {
         transition: grid-template-rows 0.3s ease-out, opacity 0.3s ease;
         display: grid;
@@ -59,7 +59,6 @@ title: Publications
             </div>
             <div id="content-2025" class="accordion-content active">
                 <div class="accordion-inner">
-                    <!-- 这里改为了 text-base (16px)，之前是 text-sm -->
                     <ul class="space-y-6 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
                         <li>
                             <span class="font-bold text-slate-900 block mb-1">Identification of Spirodioxolane nsP2 Helicase Inhibitors with Antialphaviral Activity</span>

@@ -1,197 +1,295 @@
-<!DOCTYPE html>
-<html lang="en-US">
+---
+layout: default
+title: Home
+---
+    
+ <style>
+    /* Homepage specific styles */
+    .image-card { transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
+    .image-card:hover { transform: translateY(-4px); box-shadow: 0 20px 25px -5px rgba(6, 182, 212, 0.15), 0 10px 10px -5px rgba(6, 182, 212, 0.04); }
+    
+    /* Gallery Modal Styles */
+    #galleryModal { transition: opacity 0.3s ease-in-out; }
+    #galleryModal.hidden { opacity: 0; pointer-events: none; }
+    #galleryModal:not(.hidden) { opacity: 1; pointer-events: auto; }
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=f9654c48b20a608a0db0462edd3f4d16ff29b7ec">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    .gallery-btn {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background: rgba(255, 255, 255, 0.1);
+        color: white;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.2s;
+        z-index: 110;
+        backdrop-filter: blur(4px);
+    }
+    .gallery-btn:hover { 
+        background: rgba(6, 182, 212, 0.9); /* brand-primary */
+        border-color: rgba(6, 182, 212, 0.9);
+        color: white;
+    }
+    .prev-btn { left: 1.5rem; }
+    .next-btn { right: 1.5rem; }
 
-<style>
-
-hr.rule {
-    border: none;
-    height: 3px;
-    /* Set the hr color */
-    color: #bbb; /* old IE */
-    background-color: #bbb; /* Modern Browsers */
-}
-
-hr.rule2 {
-    border: none;
-    height: 2px;
-    /* Set the hr color */
-    color: #bbb; /* old IE */
-    background-color: #bbb; /* Modern Browsers */
-}
-
-#lastmodified {
-  color:white;
-}
-
+    @media (max-width: 640px) {
+        .prev-btn { left: 0.5rem; }
+        .next-btn { right: 0.5rem; }
+    }
 </style>
+        
+        <!-- SECTION 1: Hero -->
+        <section class="bg-white py-24 md:py-32 relative overflow-hidden">
+            <div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/3 w-[800px] h-[800px] bg-brand-primary/5 rounded-full blur-[120px] pointer-events-none"></div>
+            
+            <div class="max-w-5xl mx-auto px-4 text-center relative z-10">
+                <h1 class="text-5xl md:text-7xl font-extrabold text-brand-dark mb-10 leading-[1.1] tracking-tight">
+                    Accelerating drug discovery through <br>
+                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-primary-dark to-brand-accent">open source collaboration.</span>
+                </h1>
+                <div class="prose prose-xl text-slate-500 mx-auto max-w-3xl leading-relaxed">
+                    <p>
+                        We champion patent-free, borderless Open Source Drug Discovery. By sharing real-time data and crowdsourcing solutions, we break traditional silos to accelerate cures for neglected global health challenges.
+                    </p>
+                </div>
+                
+                <div class="mt-14 flex justify-center">
+                    <a href="./research.html" class="px-10 py-4 bg-brand-dark text-white font-bold rounded-full hover:bg-slate-800 transition shadow-xl shadow-brand-dark/20 hover:shadow-brand-dark/30 transform hover:-translate-y-1 no-underline">
+                        Explore Our Research
+                    </a>
+                </div>
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>The Todd Group | What we are</title>
-<meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="The Todd Group" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="What we are" />
-<meta property="og:description" content="What we are" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="The Todd Group" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="The Todd Group" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"What we are","headline":"The Todd Group","name":"The Todd Group","url":"http://localhost:4000/"}</script>
-<!-- End Jekyll SEO tag -->
+                <div class="mt-16 flex justify-center">
+                    <img src="./pics/Logos.png" alt="Partners and Logos" class="w-[80%] md:w-[70%] h-auto opacity-90 hover:opacity-100 transition-opacity duration-300">
+                </div>
+            </div>
+        </section>
 
-  </head>
+        <!-- SECTION 2: Life at School of Pharmacy UCL (Gallery Section) -->
+        <section class="bg-brand-light py-24 border-t border-slate-200">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex flex-col md:flex-row justify-between items-end mb-12 gap-4">
+                    <div>
+                        <div class="w-12 h-1.5 bg-brand-primary mb-6 rounded-full"></div>
+                        <h3 class="text-4xl text-brand-dark font-bold tracking-tight">Life at the School of Pharmacy UCL</h3>
+                    </div>
+                    <div class="text-sm text-slate-400 font-medium">
+                        <i class="fas fa-images mr-2 text-brand-primary"></i> Click cards to view gallery
+                    </div>
+                </div>
 
-  <body>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
+                    
+                    <!-- Picture 1: Brunswick Square (Opens Gallery) -->
+                    <!-- 修改点：openGallery('brunswick') -->
+                    <div onclick="openGallery('brunswick')" class="image-card group cursor-pointer relative rounded-2xl overflow-hidden bg-brand-dark shadow-lg">
+                        <div class="relative aspect-[16/9]">
+                            <img src="pics/sop_pic_2.jpg" alt="Brunswick Square" class="w-full h-full object-cover transition duration-700 group-hover:scale-105 opacity-90 group-hover:opacity-100">
+                            <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90 pointer-events-none"></div>
+                            <div class="absolute bottom-0 left-0 p-8 w-full">
+                                <div class="flex justify-between items-end">
+                                    <div>
+                                        <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Campus</span>
+                                        <span class="text-white font-bold text-2xl tracking-tight">Brunswick Square</span>
+                                    </div>
+                                    <div class="w-10 h-10 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center text-white group-hover:bg-brand-primary transition-colors">
+                                        <i class="fas fa-images"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+                    <!-- Picture 2: The Lab (Opens Gallery) -->
+                    <!-- 修改点：openGallery('lab') -->
+                    <div onclick="openGallery('lab')" class="image-card group cursor-pointer relative rounded-2xl overflow-hidden bg-brand-dark shadow-lg">
+                        <div class="relative aspect-[16/9]">
+                            <img src="https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=1200" alt="Laboratories" class="w-full h-full object-cover transition duration-700 group-hover:scale-105 opacity-90 group-hover:opacity-100">
+                            <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90 pointer-events-none"></div>
+                            <div class="absolute bottom-0 left-0 p-8 w-full">
+                                <div class="flex justify-between items-end">
+                                    <div>
+                                        <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Facilities</span>
+                                        <span class="text-white font-bold text-2xl tracking-tight">G25 Lab</span>
+                                    </div>
+                                    <div class="w-10 h-10 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center text-white group-hover:bg-brand-primary transition-colors">
+                                        <i class="fas fa-images"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          
-            <a id="forkme_banner" href="https://github.com/todd-lers/about">View on GitHub</a>
-          
+                </div>
+            </div>
+        </section>
 
-          <h1 id="project_title">The Todd Group</h1>
+        <!-- SECTION 3: External Partners -->
+        <section class="bg-white py-24 border-t border-slate-100">
+            <div class="max-w-7xl mx-auto px-4">
+                <p class="text-center text-xs font-bold text-slate-400 uppercase tracking-[0.25em] mb-16">Supported By & Partnering With</p>
+                <div class="flex flex-wrap justify-center items-center gap-x-16 gap-y-12">
+                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Gates Foundation</span></div>
+                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">EPSRC</span></div>
+                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Wellcome</span></div>
+                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">MMV</span></div>
+                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">SGC</span></div>
+                </div>
+            </div>
+        </section>
 
-    <div class="navbar">
-      <a href="./">Home</a>
-      <a href="./research.html">Research</a>
-      <div class="dropdown">
-          <button class="dropbtn">People
-            <i class="fa fa-caret-down"></i>
-          </button>
-          <div class="dropdown-content">
-            <a href="./current.html">Current Members</a>
-            <a href="./past.html">Past Members</a>
-            <a href="./photo-gallery.html">Group Pictures</a>
-          </div>
-      </div>
-      <a href="./publications.html">Publications</a>
-      <a href="./news.html">News</a>
-      <a href="./internal.html">Internal</a>
-    </div>
+    </main>
 
-        </header>
-    </div>
+    <!-- Footer -->
+    <footer class="bg-brand-dark text-white py-20 mt-auto">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-12 gap-12">
+            <div class="md:col-span-5">
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="h-8 w-8 bg-brand-primary rounded flex items-center justify-center font-bold text-white shadow-lg shadow-brand-primary/40">T</div>
+                    <h5 class="text-xl font-bold text-white tracking-tight">The Todd Group</h5>
+                </div>
+                <p class="text-sm text-slate-400 leading-loose max-w-sm font-medium">
+                    Pioneering open source methodologies in drug discovery. Making science accessible, transparent, and collaborative.
+                </p>
+            </div>
+            <div class="md:col-span-3 md:col-start-7">
+                <h5 class="text-xs font-bold uppercase tracking-widest mb-6 text-slate-500">Location</h5>
+                <p class="text-sm text-slate-300 leading-relaxed">
+                    UCL School of Pharmacy<br>
+                    29-39 Brunswick Square<br>
+                    London, WC1N 1AX<br>
+                    United Kingdom
+                </p>
+                <a href="mailto:matthew.todd@ucl.ac.uk" class="text-brand-primary hover:text-white mt-4 inline-block text-sm font-bold transition">matthew.todd@ucl.ac.uk</a>
+            </div>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 mt-16 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-xs text-slate-500 font-medium">
+            <p>&copy; {{ site.time | date: '%Y' }} The Todd Group.</p>
+            <p>Designed for Open Science.</p>
+        </div>
+    </footer>
 
-    <script>
-//Get the button
-var mybutton = document.getElementById("myBtn");
+    <!-- Gallery Modal (Lightbox) -->
+    <div id="galleryModal" class="fixed inset-0 z-[100] flex items-center justify-center bg-black/95 hidden backdrop-blur-sm" onclick="closeGallery()">
+        
+        <!-- Navigation Buttons -->
+        <button class="gallery-btn prev-btn" onclick="event.stopPropagation(); changeImage(-1)">
+            <i class="fas fa-chevron-left text-2xl"></i>
+        </button>
+        <button class="gallery-btn next-btn" onclick="event.stopPropagation(); changeImage(1)">
+            <i class="fas fa-chevron-right text-2xl"></i>
+        </button>
 
-// When the user scrolls down 100px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
+        <!-- Close Button -->
+        <button onclick="closeGallery()" class="absolute top-6 right-6 text-white/50 hover:text-white transition p-2 z-[120]">
+            <svg class="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+        </button>
+        
+        <!-- Content -->
+        <div class="relative max-w-7xl w-full h-full flex flex-col items-center justify-center p-4">
+            <img id="galleryImage" src="" alt="Full View" class="max-h-[80vh] max-w-full object-contain shadow-2xl rounded-sm" onclick="event.stopPropagation()">
+            <div class="text-center mt-6">
+                <h3 id="galleryTitle" class="text-white text-2xl font-bold tracking-wide mb-2"></h3>
+                <p id="galleryCounter" class="text-brand-primary font-mono text-sm tracking-widest">1 / 6</p>
+            </div>
+        </div>
+    </div>
 
-function scrollFunction() {
-  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
+    <script>
+        // 手机菜单控制
+        function toggleMobileMenu() {
+            const menu = document.getElementById('mobile-menu');
+            if (menu.classList.contains('hidden')) {
+                menu.classList.remove('hidden');
+            } else {
+                menu.classList.add('hidden');
+            }
+        }
 
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-</script>
+        // 画廊数据配置 (请修改这里的图片路径)
+        const galleries = {
+            'brunswick': {
+                title: 'Brunswick Square Campus',
+                images: [
+                    // 填入你的 6 张 Brunswick 图片路径
+                    'pics/sop_pic_2.jpg', // 第1张 (封面)
+                    'pics/sop_pic_1.jpg', 
+                    'pics/sop_pic_3.jpg', 
+                    'pics/sop_pic_4.jpg', 
+                    'pics/sop_pic_5.jpg', 
+                    'pics/sop_pic_6.jpg'
+                ]
+            },
+            'lab': {
+                title: 'G25 Lab',
+                images: [
+                    // 填入你的 6 张 Lab 图片路径
+                    'https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=1200', // 第1张 (封面)
+                    './pics/lab_2.jpg',
+                    './pics/lab_3.jpg',
+                    './pics/lab_4.jpg',
+                    './pics/lab_5.jpg',
+                    './pics/lab_6.jpg'
+                ]
+            }
+        };
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <p>We are a group of scientists interested in chemistry, biology and drug discovery. We can be found mostly at University College London in the School of Pharmacy, 29-39 Brunswick Square, London WC1N 1AX, UK. There are still some group members at Mat’s previous institution, The University of Sydney, Australia.</p>
+        let currentGalleryId = null;
+        let currentIndex = 0;
 
-<center><img src="./pics/Logos.png" width="70%" class="myimgb" /></center>
+        function openGallery(galleryId) {
+            if (!galleries[galleryId]) return;
+            
+            currentGalleryId = galleryId;
+            currentIndex = 0;
+            updateGalleryView();
+            
+            const modal = document.getElementById('galleryModal');
+            modal.classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
 
-      </section>
-    </div>
+        function closeGallery() {
+            const modal = document.getElementById('galleryModal');
+            modal.classList.add('hidden');
+            document.body.style.overflow = '';
+        }
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        
-        <p class="copyright">The Todd Group maintained by <a href="https://github.com/todd-lers">todd-lers</a></p>
-        
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-    <div id="lastmodified">
-        <script
-          type="text/JavaScript"
-          language="JavaScript">
-        <!--
-        //
-        // format date as dd-mmm-yy
-        // example: 12-Jan-99
-        //
-        function date_ddmmmyy(date)
-        {
-          var d = date.getDate();
-          var m = date.getMonth() + 1;
-          var y = date.getYear();
-          // handle different year values
-          // returned by IE and NS in
-          // the year 2000.
-          if(y >= 2000)
-          {
-            y -= 2000;
-          }
-          if(y >= 100)
-          {
-            y -= 100;
-          }
-          // could use splitString() here
-          // but the following method is
-          // more compatible
-          var mmm =
-            ( 1==m)?'Jan':( 2==m)?'Feb':(3==m)?'Mar':
-            ( 4==m)?'Apr':( 5==m)?'May':(6==m)?'Jun':
-            ( 7==m)?'Jul':( 8==m)?'Aug':(9==m)?'Sep':
-            (10==m)?'Oct':(11==m)?'Nov':'Dec';
-          return "" +
-            (d<10?"0"+d:d) + "-" +
-            mmm + "-" +
-            (y<10?"0"+y:y);
-        }
-        //
-        // get last modified date of the
-        // current document.
-        //
-        function date_lastmodified()
-        {
-          var lmd = document.lastModified;
-          var s   = "Unknown";
-          var d1;
-          // check if we have a valid date
-          // before proceeding
-          if(0 != (d1=Date.parse(lmd)))
-          {
-            s = "" + date_ddmmmyy(new Date(d1));
-          }
-          return s;
-        }
-        //
-        // finally display the last modified date
-        // as DD-MMM-YY
-        //
-        document.write(
-          "This site was updated on " +
-          date_lastmodified() );
-        // -->
-        </script>
-    </div>
+        function changeImage(direction) {
+            if (!currentGalleryId) return;
+            
+            const images = galleries[currentGalleryId].images;
+            currentIndex = (currentIndex + direction + images.length) % images.length;
+            updateGalleryView();
+        }
 
-      </footer>
-    </div>
+        function updateGalleryView() {
+            const data = galleries[currentGalleryId];
+            const img = document.getElementById('galleryImage');
+            const title = document.getElementById('galleryTitle');
+            const counter = document.getElementById('galleryCounter');
+            
+            img.src = data.images[currentIndex];
+            title.textContent = data.title;
+            counter.textContent = `${currentIndex + 1} / ${data.images.length}`;
+        }
 
-  </body>
+        // 键盘支持
+        document.addEventListener('keydown', function(event) {
+            if (document.getElementById('galleryModal').classList.contains('hidden')) return;
+            
+            if (event.key === "Escape") closeGallery();
+            if (event.key === "ArrowLeft") changeImage(-1);
+            if (event.key === "ArrowRight") changeImage(1);
+        });
+    </script>
+
+</body>
 </html>

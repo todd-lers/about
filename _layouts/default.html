@@ -14,18 +14,18 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
     
     <style>
-        /* 全局样式统一 */
+       
         h1, h2, h3, h4, h5, h6 { font-family: 'Plus Jakarta Sans', sans-serif; letter-spacing: -0.02em; }
         body { font-family: 'Inter', sans-serif; }
         
-        /* 导航栏磨砂效果 */
+        
         .glass-nav {
             background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(12px);
             border-bottom: 1px solid rgba(241, 245, 249, 0.8);
         }
         
-        /* 链接交互微调 */
+        
         a { text-decoration-skip-ink: auto; }
     </style>
     
@@ -74,7 +74,7 @@
                     </a>
                 </div>
                 
-                <!-- Desktop Menu (电脑端菜单 - 保持不变) -->
+                <!-- Desktop Menu  -->
                 <div class="hidden md:flex space-x-8 items-center">
                     <a href="{{ site.baseurl }}/research.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">Research</a>
                     
@@ -88,7 +88,6 @@
                             <div class="bg-white border border-slate-100 shadow-xl rounded-sm py-1">
                                 <a href="{{ site.baseurl }}/current.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition no-underline">Current Members</a>
                                 <a href="{{ site.baseurl }}/past.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition no-underline">Past Members</a>
-                                <a href="{{ site.baseurl }}/photo-gallery.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition no-underline">Photo Gallery</a>
                             </div>
                         </div>
                     </div>
@@ -98,7 +97,7 @@
                     <a href="{{ site.baseurl }}/idler.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">IDLER COMPOUNDS</a>
                 </div>
 
-                <!-- Mobile Menu Button (新增：手机端汉堡按钮) -->
+                <!-- Mobile Menu Button  -->
                 <div class="flex items-center md:hidden">
                     <button onclick="toggleMobileMenu()" type="button" class="text-slate-500 hover:text-brand-primary focus:outline-none focus:text-brand-primary p-2" aria-label="Toggle menu">
                         <svg class="h-8 w-8" stroke="currentColor" fill="none" viewBox="0 0 24 24">

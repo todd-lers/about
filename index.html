@@ -1,408 +1,252 @@
 ---
 layout: default
-title: index
+title: Home
 ---
+
+<!-- 
+    CLEANUP NOTE: 
+    Removed <html>, <head>, <body>, <nav>, <footer> to prevent duplication.
+    This file now only contains the unique content for the Homepage.
+-->
+
+<style>
+    /* Homepage specific styles */
+    .image-card { transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
+    .image-card:hover { transform: translateY(-4px); box-shadow: 0 20px 25px -5px rgba(6, 182, 212, 0.15), 0 10px 10px -5px rgba(6, 182, 212, 0.04); }
     
-    <style>
-        /* Global Styles */
-        h1, h2, h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; letter-spacing: -0.02em; }
-        body { font-family: 'Inter', sans-serif; }
-        
-        /* Card Hover Effects */
-        .image-card { transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
-        .image-card:hover { transform: translateY(-4px); box-shadow: 0 20px 25px -5px rgba(6, 182, 212, 0.15), 0 10px 10px -5px rgba(6, 182, 212, 0.04); }
-        
-        /* Glass Navigation */
-        .glass-nav {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(12px);
-            border-bottom: 1px solid rgba(241, 245, 249, 0.8);
-        }
+    /* Gallery Modal Styles */
+    #galleryModal { transition: opacity 0.3s ease-in-out; }
+    #galleryModal.hidden { opacity: 0; pointer-events: none; }
+    #galleryModal:not(.hidden) { opacity: 1; pointer-events: auto; }
 
-        /* Gallery Modal Styles */
-        #galleryModal { transition: opacity 0.3s ease-in-out; }
-        #galleryModal.hidden { opacity: 0; pointer-events: none; }
-        #galleryModal:not(.hidden) { opacity: 1; pointer-events: auto; }
+    .gallery-btn {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background: rgba(255, 255, 255, 0.1);
+        color: white;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.2s;
+        z-index: 110;
+        backdrop-filter: blur(4px);
+    }
+    .gallery-btn:hover { 
+        background: rgba(6, 182, 212, 0.9); /* brand-primary */
+        border-color: rgba(6, 182, 212, 0.9);
+        color: white;
+    }
+    .prev-btn { left: 1.5rem; }
+    .next-btn { right: 1.5rem; }
 
-        .gallery-btn {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            background: rgba(255, 255, 255, 0.1);
-            color: white;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            width: 3rem;
-            height: 3rem;
-            border-radius: 50%;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.2s;
-            z-index: 110;
-            backdrop-filter: blur(4px);
-        }
-        .gallery-btn:hover { 
-            background: rgba(6, 182, 212, 0.9); /* brand-primary */
-            border-color: rgba(6, 182, 212, 0.9);
-            color: white;
-        }
-        .prev-btn { left: 1.5rem; }
-        .next-btn { right: 1.5rem; }
+    @media (max-width: 640px) {
+        .prev-btn { left: 0.5rem; }
+        .next-btn { right: 0.5rem; }
+    }
+</style>
 
-        /* Mobile optimizations for gallery buttons */
-        @media (max-width: 640px) {
-            .prev-btn { left: 0.5rem; }
-            .next-btn { right: 0.5rem; }
-        }
-    </style>
+<!-- SECTION 1: Hero -->
+<section class="bg-white py-24 md:py-32 relative overflow-hidden">
+    <div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/3 w-[800px] h-[800px] bg-brand-primary/5 rounded-full blur-[120px] pointer-events-none"></div>
     
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        'brand-dark': '#0F172A', 
-                        'brand-primary': '#06B6D4', 
-                        'brand-primary-dark': '#0891B2',
-                        'brand-accent': '#22D3EE', 
-                        'brand-light': '#F8FAFC',
-                    }
-                }
-            }
-        }
-    </script>
-</head>
-<body class="bg-white text-slate-600 flex flex-col min-h-screen antialiased selection:bg-brand-primary/20 selection:text-brand-dark">
+    <div class="max-w-5xl mx-auto px-4 text-center relative z-10">
+        <h1 class="text-5xl md:text-7xl font-extrabold text-brand-dark mb-10 leading-[1.1] tracking-tight">
+            Accelerating drug discovery through <br>
+            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-primary-dark to-brand-accent">open source collaboration.</span>
+        </h1>
+        <div class="prose prose-xl text-slate-500 mx-auto max-w-3xl leading-relaxed">
+            <p>
+                We champion patent-free, borderless Open Source Drug Discovery. By sharing real-time data and crowdsourcing solutions, we break traditional silos to accelerate cures for neglected global health challenges.
+            </p>
+        </div>
+        
+        <div class="mt-14 flex justify-center">
+            <a href="{{ site.baseurl }}/research.html" class="px-10 py-4 bg-brand-dark text-white font-bold rounded-full hover:bg-slate-800 transition shadow-xl shadow-brand-dark/20 hover:shadow-brand-dark/30 transform hover:-translate-y-1 no-underline">
+                Explore Our Research
+            </a>
+        </div>
 
-    <!-- Top Bar -->
-    <div class="bg-brand-dark py-2.5 px-4 text-xs font-medium text-slate-400">
-        <div class="max-w-7xl mx-auto flex justify-between items-center">
-            <span class="hidden sm:inline tracking-wide">University College London · School of Pharmacy</span>
-            <span class="sm:hidden">UCL School of Pharmacy</span>
-            <div class="flex gap-6">
-                <a href="https://github.com/todd-lers/about" class="hover:text-white transition duration-200"><i class="fab fa-github mr-1"></i> GitHub</a>    
-                <a href="./internal.html" class="text-brand-primary font-semibold hover:text-white transition duration-200">Internal Portal</a>
-            </div>
+        <div class="mt-16 flex justify-center">
+            <img src="./pics/Logos.png" alt="Partners and Logos" class="w-[80%] md:w-[70%] h-auto opacity-90 hover:opacity-100 transition-opacity duration-300">
         </div>
     </div>
+</section>
 
-    <!-- Main Nav -->
-    <nav class="glass-nav sticky top-0 z-50">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between h-24 items-center">
-                <!-- Logo -->
-                <div class="flex-shrink-0 flex items-center gap-4">
-                    <a href="./" class="flex items-center gap-3 group no-underline">
-                        <div class="h-10 w-10 bg-brand-dark text-white flex items-center justify-center font-bold text-xl rounded-sm shadow-lg group-hover:bg-brand-primary transition duration-300">T</div>
-                        <div class="flex flex-col">
-                            <span class="font-bold text-2xl text-brand-dark leading-none tracking-tight">The Todd Group</span>
-                            <span class="text-[11px] uppercase tracking-[0.2em] text-slate-500 mt-1.5 hidden lg:block font-semibold">Open Source Drug Discovery</span>
-                        </div>
-                    </a>
-                </div>
-                
-                <!-- Desktop Menu -->
-                <div class="hidden md:flex space-x-8 items-center">
-                    <a href="./research.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">Research</a>
-                    
-                    <!-- People Dropdown -->
-                    <div class="relative group z-50">
-                        <button class="flex items-center gap-1 text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide focus:outline-none h-24">
-                            People
-                            <svg class="w-3 h-3 transition-transform group-hover:rotate-180 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                        </button>
-                        <div class="absolute left-0 w-52 hidden group-hover:block pt-6 -mt-2">
-                            <div class="bg-white border border-slate-100 shadow-xl rounded-sm py-1">
-                                <a href="./current.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition no-underline">Current Members</a>
-                                <a href="./past.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition no-underline">Past Members</a>
-                                <a href="./photo-gallery.html" class="block px-6 py-3 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-brand-primary-dark transition no-underline">Photo Gallery</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <a href="./publications.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">Publications</a>
-                    <a href="./news.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">News</a>
-                    <a href="./idler.html" class="text-sm font-bold text-slate-600 hover:text-brand-primary-dark transition-colors uppercase tracking-wide no-underline">IDLER COMPOUNDS</a>
-                </div>
-                
-                <!-- Mobile Menu Button (Visible only on Mobile) -->
-                <div class="flex items-center md:hidden">
-                    <button onclick="toggleMobileMenu()" type="button" class="text-slate-500 hover:text-brand-primary focus:outline-none focus:text-brand-primary p-2" aria-label="Toggle menu">
-                        <svg class="h-8 w-8" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-                        </svg>
-                    </button>
-                </div>
+<!-- SECTION 2: Life at School of Pharmacy UCL (Gallery Trigger) -->
+<section class="bg-brand-light py-24 border-t border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex flex-col md:flex-row justify-between items-end mb-12 gap-4">
+            <div>
+                <div class="w-12 h-1.5 bg-brand-primary mb-6 rounded-full"></div>
+                <h3 class="text-4xl text-brand-dark font-bold tracking-tight">Life at the School of Pharmacy UCL</h3>
+            </div>
+            <div class="text-sm text-slate-400 font-medium">
+                <i class="fas fa-images mr-2 text-brand-primary"></i> Click cards to view full gallery
             </div>
         </div>
-        
-        <!-- Mobile Menu Panel -->
-        <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-slate-100 shadow-lg absolute w-full top-24 left-0 z-40 overflow-y-auto max-h-[calc(100vh-6rem)]">
-            <div class="px-4 pt-4 pb-8 space-y-2">
-                <a href="./research.html" class="block px-3 py-3 rounded-md text-base font-bold text-slate-700 hover:text-brand-primary hover:bg-slate-50 border-b border-slate-50">Research</a>
-                <div class="border-b border-slate-50 pb-2">
-                    <p class="px-3 py-2 text-xs font-bold text-slate-400 uppercase tracking-wider mt-2">People</p>
-                    <a href="./current.html" class="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-brand-primary hover:bg-slate-50 pl-6">Current Members</a>
-                    <a href="./past.html" class="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-brand-primary hover:bg-slate-50 pl-6">Past Members</a>
-                    <a href="./photo-gallery.html" class="block px-3 py-2 rounded-md text-base font-medium text-slate-600 hover:text-brand-primary hover:bg-slate-50 pl-6">Photo Gallery</a>
-                </div>
-                <a href="./publications.html" class="block px-3 py-3 rounded-md text-base font-bold text-slate-700 hover:text-brand-primary hover:bg-slate-50 border-b border-slate-50">Publications</a>
-                <a href="./news.html" class="block px-3 py-3 rounded-md text-base font-bold text-slate-700 hover:text-brand-primary hover:bg-slate-50 border-b border-slate-50">News</a>
-                <a href="./idler.html" class="block px-3 py-3 rounded-md text-base font-bold text-slate-700 hover:text-brand-primary hover:bg-slate-50 border-b border-slate-50">IDLER COMPOUNDS</a>
-                <a href="./internal.html" class="block px-3 py-3 rounded-md text-base font-bold text-brand-primary bg-brand-light mt-4 border border-brand-primary/10">Internal Portal</a>
-            </div>
-        </div>
-    </nav>
 
-    <!-- Main Content Area -->
-    <main class="flex-grow">
-        
-        <!-- SECTION 1: Hero -->
-        <section class="bg-white py-24 md:py-32 relative overflow-hidden">
-            <div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/3 w-[800px] h-[800px] bg-brand-primary/5 rounded-full blur-[120px] pointer-events-none"></div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
             
-            <div class="max-w-5xl mx-auto px-4 text-center relative z-10">
-                <h1 class="text-5xl md:text-7xl font-extrabold text-brand-dark mb-10 leading-[1.1] tracking-tight">
-                    Accelerating drug discovery through <br>
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-primary-dark to-brand-accent">open source collaboration.</span>
-                </h1>
-                <div class="prose prose-xl text-slate-500 mx-auto max-w-3xl leading-relaxed">
-                    <p>
-                        We champion patent-free, borderless Open Source Drug Discovery. By sharing real-time data and crowdsourcing solutions, we break traditional silos to accelerate cures for neglected global health challenges.
-                    </p>
-                </div>
-                
-                <div class="mt-14 flex justify-center">
-                    <a href="./research.html" class="px-10 py-4 bg-brand-dark text-white font-bold rounded-full hover:bg-slate-800 transition shadow-xl shadow-brand-dark/20 hover:shadow-brand-dark/30 transform hover:-translate-y-1 no-underline">
-                        Explore Our Research
-                    </a>
-                </div>
-
-                <div class="mt-16 flex justify-center">
-                    <img src="./pics/Logos.png" alt="Partners and Logos" class="w-[80%] md:w-[70%] h-auto opacity-90 hover:opacity-100 transition-opacity duration-300">
-                </div>
-            </div>
-        </section>
-
-        <!-- SECTION 2: Life at School of Pharmacy UCL (Gallery Section) -->
-        <section class="bg-brand-light py-24 border-t border-slate-200">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="flex flex-col md:flex-row justify-between items-end mb-12 gap-4">
-                    <div>
-                        <div class="w-12 h-1.5 bg-brand-primary mb-6 rounded-full"></div>
-                        <h3 class="text-4xl text-brand-dark font-bold tracking-tight">Life at the School of Pharmacy UCL</h3>
-                    </div>
-                    <div class="text-sm text-slate-400 font-medium">
-                        <i class="fas fa-images mr-2 text-brand-primary"></i> Click cards to view gallery
-                    </div>
-                </div>
-
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
-                    
-                    <!-- Picture 1: Brunswick Square (Opens Gallery) -->
-                    <!-- 修改点：openGallery('brunswick') -->
-                    <div onclick="openGallery('brunswick')" class="image-card group cursor-pointer relative rounded-2xl overflow-hidden bg-brand-dark shadow-lg">
-                        <div class="relative aspect-[16/9]">
-                            <img src="pics/sop_pic_2.jpg" alt="Brunswick Square" class="w-full h-full object-cover transition duration-700 group-hover:scale-105 opacity-90 group-hover:opacity-100">
-                            <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90 pointer-events-none"></div>
-                            <div class="absolute bottom-0 left-0 p-8 w-full">
-                                <div class="flex justify-between items-end">
-                                    <div>
-                                        <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Campus</span>
-                                        <span class="text-white font-bold text-2xl tracking-tight">Brunswick Square</span>
-                                    </div>
-                                    <div class="w-10 h-10 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center text-white group-hover:bg-brand-primary transition-colors">
-                                        <i class="fas fa-images"></i>
-                                    </div>
-                                </div>
+            <!-- Gallery Card 1: Brunswick Square -->
+            <div onclick="openGallery('brunswick')" class="image-card group cursor-pointer relative rounded-2xl overflow-hidden bg-brand-dark shadow-lg h-80">
+                <div class="relative w-full h-full">
+                    <!-- Cover Image: Update src to your first image -->
+                    <img src="./pics/brunswick_1.jpg" alt="Brunswick Square" class="w-full h-full object-cover transition duration-700 group-hover:scale-105 opacity-90 group-hover:opacity-100">
+                    <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90 pointer-events-none"></div>
+                    <div class="absolute bottom-0 left-0 p-8 w-full">
+                        <div class="flex justify-between items-end">
+                            <div>
+                                <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Campus</span>
+                                <span class="text-white font-bold text-2xl tracking-tight">Brunswick Square</span>
+                            </div>
+                            <div class="w-10 h-10 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center text-white group-hover:bg-brand-primary transition-colors">
+                                <i class="fas fa-images"></i>
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
 
-                    <!-- Picture 2: The Lab (Opens Gallery) -->
-                    <!-- 修改点：openGallery('lab') -->
-                    <div onclick="openGallery('lab')" class="image-card group cursor-pointer relative rounded-2xl overflow-hidden bg-brand-dark shadow-lg">
-                        <div class="relative aspect-[16/9]">
-                            <img src="https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=1200" alt="Laboratories" class="w-full h-full object-cover transition duration-700 group-hover:scale-105 opacity-90 group-hover:opacity-100">
-                            <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90 pointer-events-none"></div>
-                            <div class="absolute bottom-0 left-0 p-8 w-full">
-                                <div class="flex justify-between items-end">
-                                    <div>
-                                        <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Facilities</span>
-                                        <span class="text-white font-bold text-2xl tracking-tight">G25 Lab</span>
-                                    </div>
-                                    <div class="w-10 h-10 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center text-white group-hover:bg-brand-primary transition-colors">
-                                        <i class="fas fa-images"></i>
-                                    </div>
-                                </div>
+            <!-- Gallery Card 2: The Lab -->
+            <div onclick="openGallery('lab')" class="image-card group cursor-pointer relative rounded-2xl overflow-hidden bg-brand-dark shadow-lg h-80">
+                <div class="relative w-full h-full">
+                    <!-- Cover Image: Update src to your first image -->
+                    <img src="./pics/lab_1.jpg" alt="Laboratories" class="w-full h-full object-cover transition duration-700 group-hover:scale-105 opacity-90 group-hover:opacity-100">
+                    <div class="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-brand-dark/20 to-transparent opacity-90 pointer-events-none"></div>
+                    <div class="absolute bottom-0 left-0 p-8 w-full">
+                        <div class="flex justify-between items-end">
+                            <div>
+                                <span class="text-brand-accent font-bold tracking-widest text-xs uppercase mb-2 block">Facilities</span>
+                                <span class="text-white font-bold text-2xl tracking-tight">State-of-the-art Lab</span>
+                            </div>
+                            <div class="w-10 h-10 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center text-white group-hover:bg-brand-primary transition-colors">
+                                <i class="fas fa-images"></i>
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
-        </section>
 
-        <!-- SECTION 3: External Partners -->
-        <section class="bg-white py-24 border-t border-slate-100">
-            <div class="max-w-7xl mx-auto px-4">
-                <p class="text-center text-xs font-bold text-slate-400 uppercase tracking-[0.25em] mb-16">Supported By & Partnering With</p>
-                <div class="flex flex-wrap justify-center items-center gap-x-16 gap-y-12">
-                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Gates Foundation</span></div>
-                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">EPSRC</span></div>
-                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Wellcome</span></div>
-                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">MMV</span></div>
-                    <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">SGC</span></div>
-                </div>
-            </div>
-        </section>
-
-    </main>
-
-    <!-- Footer -->
-    <footer class="bg-brand-dark text-white py-20 mt-auto">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-12 gap-12">
-            <div class="md:col-span-5">
-                <div class="flex items-center gap-3 mb-6">
-                    <div class="h-8 w-8 bg-brand-primary rounded flex items-center justify-center font-bold text-white shadow-lg shadow-brand-primary/40">T</div>
-                    <h5 class="text-xl font-bold text-white tracking-tight">The Todd Group</h5>
-                </div>
-                <p class="text-sm text-slate-400 leading-loose max-w-sm font-medium">
-                    Pioneering open source methodologies in drug discovery. Making science accessible, transparent, and collaborative.
-                </p>
-            </div>
-            <div class="md:col-span-3 md:col-start-7">
-                <h5 class="text-xs font-bold uppercase tracking-widest mb-6 text-slate-500">Location</h5>
-                <p class="text-sm text-slate-300 leading-relaxed">
-                    UCL School of Pharmacy<br>
-                    29-39 Brunswick Square<br>
-                    London, WC1N 1AX<br>
-                    United Kingdom
-                </p>
-                <a href="mailto:matthew.todd@ucl.ac.uk" class="text-brand-primary hover:text-white mt-4 inline-block text-sm font-bold transition">matthew.todd@ucl.ac.uk</a>
-            </div>
-        </div>
-        <div class="max-w-7xl mx-auto px-4 mt-16 pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-xs text-slate-500 font-medium">
-            <p>&copy; {{ site.time | date: '%Y' }} The Todd Group.</p>
-            <p>Designed for Open Science.</p>
-        </div>
-    </footer>
-
-    <!-- Gallery Modal (Lightbox) -->
-    <div id="galleryModal" class="fixed inset-0 z-[100] flex items-center justify-center bg-black/95 hidden backdrop-blur-sm" onclick="closeGallery()">
-        
-        <!-- Navigation Buttons -->
-        <button class="gallery-btn prev-btn" onclick="event.stopPropagation(); changeImage(-1)">
-            <i class="fas fa-chevron-left text-2xl"></i>
-        </button>
-        <button class="gallery-btn next-btn" onclick="event.stopPropagation(); changeImage(1)">
-            <i class="fas fa-chevron-right text-2xl"></i>
-        </button>
-
-        <!-- Close Button -->
-        <button onclick="closeGallery()" class="absolute top-6 right-6 text-white/50 hover:text-white transition p-2 z-[120]">
-            <svg class="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
-        </button>
-        
-        <!-- Content -->
-        <div class="relative max-w-7xl w-full h-full flex flex-col items-center justify-center p-4">
-            <img id="galleryImage" src="" alt="Full View" class="max-h-[80vh] max-w-full object-contain shadow-2xl rounded-sm" onclick="event.stopPropagation()">
-            <div class="text-center mt-6">
-                <h3 id="galleryTitle" class="text-white text-2xl font-bold tracking-wide mb-2"></h3>
-                <p id="galleryCounter" class="text-brand-primary font-mono text-sm tracking-widest">1 / 6</p>
-            </div>
         </div>
     </div>
+</section>
 
-    <script>
-        // 手机菜单控制
-        function toggleMobileMenu() {
-            const menu = document.getElementById('mobile-menu');
-            if (menu.classList.contains('hidden')) {
-                menu.classList.remove('hidden');
-            } else {
-                menu.classList.add('hidden');
-            }
+<!-- SECTION 3: External Partners -->
+<section class="bg-white py-24 border-t border-slate-100">
+    <div class="max-w-7xl mx-auto px-4">
+        <p class="text-center text-xs font-bold text-slate-400 uppercase tracking-[0.25em] mb-16">Supported By & Partnering With</p>
+        
+        <div class="flex flex-wrap justify-center items-center gap-x-16 gap-y-12">
+            <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Gates Foundation</span></div>
+            <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">EPSRC</span></div>
+            <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">Wellcome</span></div>
+            <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">MMV</span></div>
+            <div class="group cursor-pointer transition duration-300"><span class="text-xl font-bold text-slate-400 group-hover:text-brand-primary transition-colors">SGC</span></div>
+        </div>
+    </div>
+</section>
+
+<!-- Gallery Modal (Lightbox) -->
+<div id="galleryModal" class="fixed inset-0 z-[100] flex items-center justify-center bg-black/95 hidden backdrop-blur-sm" onclick="closeGallery()">
+    
+    <button class="gallery-btn prev-btn" onclick="event.stopPropagation(); changeImage(-1)">
+        <i class="fas fa-chevron-left text-2xl"></i>
+    </button>
+    <button class="gallery-btn next-btn" onclick="event.stopPropagation(); changeImage(1)">
+        <i class="fas fa-chevron-right text-2xl"></i>
+    </button>
+
+    <button onclick="closeGallery()" class="absolute top-6 right-6 text-white/50 hover:text-white transition p-2 z-[120]">
+        <svg class="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+    </button>
+    
+    <div class="relative max-w-7xl w-full h-full flex flex-col items-center justify-center p-4">
+        <img id="galleryImage" src="" alt="Full View" class="max-h-[80vh] max-w-full object-contain shadow-2xl rounded-sm" onclick="event.stopPropagation()">
+        <div class="text-center mt-6">
+            <h3 id="galleryTitle" class="text-white text-2xl font-bold tracking-wide mb-2"></h3>
+            <p id="galleryCounter" class="text-brand-primary font-mono text-sm tracking-widest">1 / 6</p>
+        </div>
+    </div>
+</div>
+
+<script>
+    // DATA CONFIGURATION: Update your image paths here
+    const galleries = {
+        'brunswick': {
+            title: 'Brunswick Square Campus',
+            images: [
+                './pics/brunswick_1.jpg',
+                './pics/brunswick_2.jpg',
+                './pics/brunswick_3.jpg',
+                './pics/brunswick_4.jpg',
+                './pics/brunswick_5.jpg',
+                './pics/brunswick_6.jpg'
+            ]
+        },
+        'lab': {
+            title: 'State-of-the-art Laboratories',
+            images: [
+                './pics/lab_1.jpg',
+                './pics/lab_2.jpg',
+                './pics/lab_3.jpg',
+                './pics/lab_4.jpg',
+                './pics/lab_5.jpg',
+                './pics/lab_6.jpg'
+            ]
         }
+    };
 
-        // 画廊数据配置 (请修改这里的图片路径)
-        const galleries = {
-            'brunswick': {
-                title: 'Brunswick Square Campus',
-                images: [
-                    // 填入你的 6 张 Brunswick 图片路径
-                    'pics/sop_pic_2.jpg', // 第1张 (封面)
-                    'pics/sop_pic_1.jpg', 
-                    'pics/sop_pic_3.jpg', 
-                    'pics/sop_pic_4.jpg', 
-                    'pics/sop_pic_5.jpg', 
-                    'pics/sop_pic_6.jpg'
-                ]
-            },
-            'lab': {
-                title: 'G25 Lab',
-                images: [
-                    // 填入你的 6 张 Lab 图片路径
-                    'https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=1200', // 第1张 (封面)
-                    './pics/lab_2.jpg',
-                    './pics/lab_3.jpg',
-                    './pics/lab_4.jpg',
-                    './pics/lab_5.jpg',
-                    './pics/lab_6.jpg'
-                ]
-            }
-        };
+    let currentGalleryId = null;
+    let currentIndex = 0;
 
-        let currentGalleryId = null;
-        let currentIndex = 0;
+    function openGallery(galleryId) {
+        if (!galleries[galleryId]) return;
+        
+        currentGalleryId = galleryId;
+        currentIndex = 0;
+        updateGalleryView();
+        
+        const modal = document.getElementById('galleryModal');
+        modal.classList.remove('hidden');
+        document.body.style.overflow = 'hidden';
+    }
 
-        function openGallery(galleryId) {
-            if (!galleries[galleryId]) return;
-            
-            currentGalleryId = galleryId;
-            currentIndex = 0;
-            updateGalleryView();
-            
-            const modal = document.getElementById('galleryModal');
-            modal.classList.remove('hidden');
-            document.body.style.overflow = 'hidden';
-        }
+    function closeGallery() {
+        const modal = document.getElementById('galleryModal');
+        modal.classList.add('hidden');
+        document.body.style.overflow = '';
+    }
 
-        function closeGallery() {
-            const modal = document.getElementById('galleryModal');
-            modal.classList.add('hidden');
-            document.body.style.overflow = '';
-        }
+    function changeImage(direction) {
+        if (!currentGalleryId) return;
+        
+        const images = galleries[currentGalleryId].images;
+        currentIndex = (currentIndex + direction + images.length) % images.length;
+        updateGalleryView();
+    }
 
-        function changeImage(direction) {
-            if (!currentGalleryId) return;
-            
-            const images = galleries[currentGalleryId].images;
-            currentIndex = (currentIndex + direction + images.length) % images.length;
-            updateGalleryView();
-        }
+    function updateGalleryView() {
+        const data = galleries[currentGalleryId];
+        const img = document.getElementById('galleryImage');
+        const title = document.getElementById('galleryTitle');
+        const counter = document.getElementById('galleryCounter');
+        
+        img.src = data.images[currentIndex];
+        title.textContent = data.title;
+        counter.textContent = `${currentIndex + 1} / ${data.images.length}`;
+    }
 
-        function updateGalleryView() {
-            const data = galleries[currentGalleryId];
-            const img = document.getElementById('galleryImage');
-            const title = document.getElementById('galleryTitle');
-            const counter = document.getElementById('galleryCounter');
-            
-            img.src = data.images[currentIndex];
-            title.textContent = data.title;
-            counter.textContent = `${currentIndex + 1} / ${data.images.length}`;
-        }
-
-        // 键盘支持
-        document.addEventListener('keydown', function(event) {
-            if (document.getElementById('galleryModal').classList.contains('hidden')) return;
-            
-            if (event.key === "Escape") closeGallery();
-            if (event.key === "ArrowLeft") changeImage(-1);
-            if (event.key === "ArrowRight") changeImage(1);
-        });
-    </script>
-
-</body>
-</html>
+    document.addEventListener('keydown', function(event) {
+        if (document.getElementById('galleryModal').classList.contains('hidden')) return;
+        
+        if (event.key === "Escape") closeGallery();
+        if (event.key === "ArrowLeft") changeImage(-1);
+        if (event.key === "ArrowRight") changeImage(1);
+    });
+</script>

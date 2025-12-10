@@ -80,7 +80,7 @@ title: Publications
                         </li>
                         <li>
                             <a href="https://pubs.rsc.org/en/content/articlelanding/2025/md/d5md00427f" class="font-bold text-brand-primary hover:underline block mb-1">Structure–activity Relationships of Fenarimol Analogues with Potent <em>in vitro</em> and <em>in vivo</em> Activity Against <em>Madurella mycetomatis</em>, the Main Causative Agent of Eumycetoma</a>
-                            H. P. Duong, D. Melechov, W. Lim, J. Ma, K. Scroggie, L. Rajendra, B. Perry, L. Cruz, P. Rutledge, A. Motion, W van de Sande and M. H. Todd, <em>RSC Med. Chem.</em>, <strong>2025</strong>, <em>in press</em>.
+                            H. P. Duong, D. Melechov, W. Lim, J. Ma, K. Scroggie, L. Rajendra, B. Perry, L. Cruz, P. Rutledge, A. Motion, W van de Sande and M. H. Todd, <em>RSC Med. Chem.</em>, <strong>2025</strong>, <em>16</em>, 6094 - 6108.
                         </li>
                     </ul>
                 </div>

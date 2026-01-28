@@ -51,6 +51,33 @@ title: Publications
     <!-- Publications List -->
     <div class="space-y-3" id="publications-container">
 
+
+      <!-- 2026 -->
+        <div class="year-block group">
+            <div onclick="toggleYear('2026')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-brand-primary transition select-none">
+                <h2 class="text-xl font-bold text-brand-dark m-0">2026</h2>
+                <i id="icon-2026" class="fas fa-chevron-down text-slate-400 chevron rotate"></i>
+            </div>
+            <div id="content-2026" class="accordion-content active">
+                <div class="accordion-inner">
+                    <ul class="space-y-6 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
+                        <li>
+                    
+    
+                        <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c02354" class="font-bold text-brand-primary hover:underline block mb-1">Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening</a>
+                            R. Isaksson, E. M. Carter, C. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, <em>J. Med. Chem.</em> <strong>2026</strong>.
+                        </li>
+                        
+    
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        
+
+    
+
         <!-- 2025 -->
         <div class="year-block group">
             <div onclick="toggleYear('2025')" class="flex justify-between items-center bg-slate-50 group-hover:bg-slate-100 p-4 rounded-sm cursor-pointer border-l-4 border-brand-primary transition select-none">

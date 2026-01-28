@@ -93,10 +93,7 @@ title: Publications
                             H. J. Oh, J. D. Sears, B. M. Ramalingam, R. S. Z. Saleem, Z. W. Davis-Gilbert, M. A. Hossain, S. R. Moorman, D. Ohja, S. A. Martinez, J. E. Burdick, R. M. Couñago, N. J. Moorman, M. T. Heise, M. H. Todd and T. M. Willson, <em>RSC Med. Chem.</em> <strong>2025</strong>, <em>in press</em>. 
                         </li>
                         <li>
-                        <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c02354" class="font-bold text-brand-primary hover:underline block mb-1">Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening</a>
-                            R. Isaksson, E. M. Carter, C. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, <em>J. Med. Chem.</em> <strong>2026</strong>.
-                        </li>
-                        <li>
+                       
                             <a href="https://www.nature.com/articles/s41570-025-00737-z" class="font-bold text-brand-primary hover:underline block mb-1">Protein–ligand Data at Scale to Support Machine Learning</a>
                             A. M. Edwards <em>et al.</em>, <em>Nat. Rev. Chem.</em> <strong>2025</strong>, <em>in press</em>.
                         </li>

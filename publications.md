@@ -64,7 +64,6 @@ title: Publications
 
                         <a href="https://pubs.rsc.org/en/content/articlelanding/2026/md/d5md00772k" class="font-bold text-brand-primary hover:underline block mb-1">Identification of Spirodioxolane nsP2 Helicase Inhibitors with Antialphaviral Activity</a>
                             H. J. Oh, J. D. Sears, B. M. Ramalingam, R. S. Z. Saleem, Z. W. Davis-Gilbert, M. A. Hossain, S. R. Moorman, D. Ohja, S. A. Martinez, J. E. Burdick, R. M. Couñago, N. J. Moorman, M. T. Heise, M. H. Todd and T. M. Willson, <em>RSC Med. Chem.</em> <strong>2025</strong>, <em>in press</em>. 
-                            <a href="https://doi.org/10.26434/chemrxiv-2025-mfts7" class="text-brand-primary font-bold hover:underline ml-1">[Preprint]</a>
                         </li>
                         <li>
                         <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c02354" class="font-bold text-brand-primary hover:underline block mb-1">Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening</a>

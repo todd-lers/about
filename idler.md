@@ -26,7 +26,7 @@ title: Idler compounds
     <!-- Intro Text -->
     <div class="prose prose-lg max-w-none text-slate-600 mb-12">
         <p class="text-lg leading-relaxed mb-6">
-            We’ve created the <strong>Todd Idler Compound Library</strong> to catalogue, share and make best use of compounds synthesised in the Todd Group. The setup and sharing process is summarised in the graphic below and described in the manuscript <strong>“Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening”</strong> (DOI: <a href="https://chemrxiv.org/engage/chemrxiv/article-details/689f3121a94eede154e5ce6a" class="text-brand-primary hover:underline font-bold">10.26434/chemrxiv-2025-nqjb4</a>).
+            We’ve created the <strong>Todd Idler Compound Library</strong> to catalogue, share and make best use of compounds synthesised in the Todd Group. The setup and sharing process is summarised in the graphic below and described in the manuscript <strong>“Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening”</strong> (DOI: <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c02354" class="text-brand-primary hover:underline font-bold">10.1021/acs.jmedchem.5c02354</a>).
         </p>
 
         <p class="text-lg leading-relaxed">

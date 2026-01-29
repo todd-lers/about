@@ -62,10 +62,12 @@ title: Publications
                 <div class="accordion-inner">
                     <ul class="space-y-6 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
                         <li>
-                    
-    
-                        <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c02354" class="font-bold text-brand-primary hover:underline block mb-1">Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening</a>
-                            R. Isaksson, E. M. Carter, C. K. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, <em>J. Med. Chem.</em> <strong>2026</strong>, in press. ACS Editor's Choice Article. Featured in [C&ENews](https://cen.acs.org/pharmaceuticals/drug-discovery/put-drug-leads-forgotten-freezer/104/web/2026/01)
+                        <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c02354" class="font-bold text-brand-primary hover:underline block mb-1">
+                        Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening
+                    </a>
+                    R. Isaksson, E. M. Carter, C. K. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, <em>J. Med. Chem.</em> <strong>2026</strong>, in press. ACS Editor's Choice Article. 
+                    Featured in <a href="https://cen.acs.org/pharmaceuticals/drug-discovery/put-drug-leads-forgotten-freezer/104/web/2026/01" class="text-brand-primary hover:underline">C&ENews</a>.
+                
                         </li>
                         
     

@@ -73,6 +73,28 @@ title: News
     <!-- News List -->
     <div class="space-y-4" id="news-container">
 
+         <!-- 2026 -->
+        <div class="year-block group">
+    <div onclick="toggleYear('2026')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">
+        <h2 class="text-xl font-bold text-brand-dark m-0 group-hover:text-brand-primary transition-colors">2026</h2>
+        <i id="icon-2026" class="fas fa-chevron-down text-slate-400 chevron group-hover:text-brand-primary"></i>
+    </div>
+
+    <div id="content-2026" class="accordion-content active">
+        <div class="accordion-inner p-6 bg-slate-50 border-x border-b border-slate-200 rounded-b-lg text-base leading-relaxed text-slate-600">
+            <ul class="space-y-10 list-none pl-0">
+                
+                <li>
+                    <strong class="text-brand-dark block mb-2 text-lg">January 20th 2026</strong>
+                    The group leads the UK part of a major new EU project in the area of hit finding enabled by AI and machine learning. 
+                    Read the full announcement at <a href="https://www.ucl.ac.uk/news/2026/jan/ai-driven-drug-discovery-project-launches-eu60m-budget" class="text-brand-primary hover:underline font-bold">UCL News</a>.
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
         <!-- 2025 -->
         <div class="year-block group">
             <div onclick="toggleYear('2025')" class="flex justify-between items-center bg-white border border-slate-200 group-hover:border-brand-primary p-5 rounded-lg cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md select-none">

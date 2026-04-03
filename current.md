@@ -97,41 +97,7 @@ title: Current Members
             Postdoctoral Research Associates
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-            
-            <!-- Dr Eve Carter -->
-            <div class="group bg-white rounded-xl border border-slate-200 overflow-hidden hover:shadow-xl hover:border-brand-primary transition-all duration-300">
-                <div class="aspect-square overflow-hidden bg-slate-100 relative">
-                    <img src="./pics/people/Eve.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
-                    <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
-                </div>
-                <div class="p-6 text-center">
-                    <h4 class="text-xl font-bold text-brand-dark mb-1">Dr Eve Carter</h4>
-                    <p class="text-xs font-bold text-brand-primary mb-4 uppercase tracking-widest">Postdoc (UCL)</p>
-                    <div class="flex justify-center gap-4 text-slate-400">
-                        <a href="https://www.linkedin.com/in/eve-carter-a59576153/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
-                        <a href="https://github.com/EveCarter" class="hover:text-brand-primary transition"><i class="fab fa-github text-lg"></i></a>
-                        <a href="mailto:eve.carter@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
-                    </div>
-                </div>
-            </div>
 
-            <!-- Dr Rebecka Isaksson -->
-            <div class="group bg-white rounded-xl border border-slate-200 overflow-hidden hover:shadow-xl hover:border-brand-primary transition-all duration-300">
-                <div class="aspect-square overflow-hidden bg-slate-100 relative">
-                    <img src="./pics/people/Rebecka_Isaksson2.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
-                    <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
-                </div>
-                <div class="p-6 text-center">
-                    <h4 class="text-xl font-bold text-brand-dark mb-1">Dr Rebecka Isaksson</h4>
-                    <p class="text-xs font-bold text-brand-primary mb-4 uppercase tracking-widest">Postdoc (UCL)</p>
-                    <div class="flex justify-center gap-4 text-slate-400">
-                        <a href="https://www.linkedin.com/in/rebecka-isaksson-74418618/?originalSubdomain=uk" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
-                        <a href="https://twitter.com/IsakssonRebecka" class="hover:text-brand-primary transition"><i class="fab fa-twitter text-lg"></i></a>
-                        <a href="https://github.com/RebeckaIsaksson" class="hover:text-brand-primary transition"><i class="fab fa-github text-lg"></i></a>
-                        <a href="mailto:r.isaksson@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
-                    </div>
-                </div>
-            </div>
 
             <!-- Dr Danielle Hanke -->
             <div class="group bg-white rounded-xl border border-slate-200 overflow-hidden hover:shadow-xl hover:border-brand-primary transition-all duration-300">
@@ -148,6 +114,24 @@ title: Current Members
                         <i class="fab fa-twitter text-lg"></i>
                         <i class="fab fa-github text-lg"></i>
                         <i class="fas fa-envelope text-lg"></i>
+                    </div>
+                </div>
+            </div>
+
+                 <!-- Dr Yinuo Wang -->
+            <div class="group bg-white rounded-xl border border-slate-200 overflow-hidden hover:shadow-xl hover:border-brand-primary transition-all duration-300">
+                <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                    <img src="./pics/people/Yinuo3.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                    <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
+                </div>
+                <div class="p-6 text-center">
+                    <h4 class="text-lg font-bold text-brand-dark mb-1">Yinuo Wang</h4>
+                    <p class="text-xs font-bold text-brand-primary mb-4 uppercase tracking-widest">Postdoc (UCL-GSK)</p>
+                    <div class="flex justify-center gap-4 text-slate-400">
+                        <a href="https://www.linkedin.com/in/yinuo-wang-849277171/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
+                        <a href="https://twitter.com/yinuo_w" class="hover:text-brand-primary transition"><i class="fab fa-twitter text-lg"></i></a>
+                        <a href="https://github.com/yinuowang0812" class="hover:text-brand-primary transition"><i class="fab fa-github text-lg"></i></a>
+                        <a href="mailto:yinuo.wang.20@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
                     </div>
                 </div>
             </div>
@@ -262,23 +246,7 @@ title: Current Members
                 </div>
             </div>
 
-            <!-- Yinuo Wang -->
-            <div class="group bg-white rounded-xl border border-slate-200 overflow-hidden hover:shadow-xl hover:border-brand-primary transition-all duration-300">
-                <div class="aspect-square overflow-hidden bg-slate-100 relative">
-                    <img src="./pics/people/Yinuo3.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
-                    <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
-                </div>
-                <div class="p-6 text-center">
-                    <h4 class="text-lg font-bold text-brand-dark mb-1">Yinuo Wang</h4>
-                    <p class="text-xs font-bold text-brand-primary mb-4 uppercase tracking-widest">PhD Student</p>
-                    <div class="flex justify-center gap-4 text-slate-400">
-                        <a href="https://www.linkedin.com/in/yinuo-wang-849277171/" class="hover:text-brand-primary transition"><i class="fab fa-linkedin text-lg"></i></a>
-                        <a href="https://twitter.com/yinuo_w" class="hover:text-brand-primary transition"><i class="fab fa-twitter text-lg"></i></a>
-                        <a href="https://github.com/yinuowang0812" class="hover:text-brand-primary transition"><i class="fab fa-github text-lg"></i></a>
-                        <a href="mailto:yinuo.wang.20@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
-                    </div>
-                </div>
-            </div>
+           
 
             <!-- Kangping Liu -->
             <div class="group bg-white rounded-xl border border-slate-200 overflow-hidden hover:shadow-xl hover:border-brand-primary transition-all duration-300">
@@ -336,14 +304,46 @@ title: Current Members
     <!-- ==========================================================================
          6. MRES STUDENTS
          ========================================================================== -->
-    <div class="mb-20">
-        <h2 class="text-3xl font-bold text-brand-dark mb-8 flex items-center gap-4">
+
+  <div class="mb-24">
+        <h2 class="text-3xl font-bold text-brand-dark mb-10 flex items-center gap-4">
             <span class="w-2 h-8 bg-brand-primary rounded-full"></span>
-            MRes Students
+            PhD Students
         </h2>
-        <div class="p-12 bg-slate-50 rounded-xl border border-slate-100 text-center">
-            <p class="text-slate-500 italic text-lg">Positions available. Please contact Mat Todd for opportunities.</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            
+    
+            <!-- Mary Ross -->
+            <div class="group bg-white rounded-xl border border-slate-200 overflow-hidden hover:shadow-xl hover:border-brand-primary transition-all duration-300">
+                <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                    <img src="" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                    <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
+                </div>
+                <div class="p-6 text-center">
+                    <h4 class="text-lg font-bold text-brand-dark mb-1">Mary Ross</h4>
+                    <p class="text-xs font-bold text-brand-primary mb-4 uppercase tracking-widest">Mres Student</p>
+                    <div class="flex justify-center gap-4 text-slate-400">
+                        <a href="mailto:mary.ross.25@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Thomas Rees -->
+            <div class="group bg-white rounded-xl border border-slate-200 overflow-hidden hover:shadow-xl hover:border-brand-primary transition-all duration-300">
+                <div class="aspect-square overflow-hidden bg-slate-100 relative">
+                    <img src="" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden')">
+                    <div class="hidden absolute inset-0 flex items-center justify-center text-slate-300"><i class="fas fa-user text-6xl"></i></div>
+                </div>
+                <div class="p-6 text-center">
+                    <h4 class="text-lg font-bold text-brand-dark mb-1">Thomas Rees</h4>
+                    <p class="text-xs font-bold text-brand-primary mb-4 uppercase tracking-widest">Mres Student</p>
+                    <div class="flex justify-center gap-4 text-slate-400">
+                        <a href="mailto:thomas.rees.24@ucl.ac.uk" class="hover:text-brand-primary transition"><i class="fas fa-envelope text-lg"></i></a>
+                    </div>
+                </div>
+            </div>
+
+           
+
         </div>
     </div>
-
-</div>

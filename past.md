@@ -3,7 +3,7 @@ layout: default
 title: Alumni
 ---
 
-<!-- 顶部标题 -->
+<!-- Top tittle -->
 <div class="mb-16 text-center">
     <h1 class="text-4xl font-bold text-brand-dark mb-4">Todd Group Alumni</h1>
     <p class="text-slate-500 text-lg max-w-2xl mx-auto">
@@ -45,6 +45,41 @@ title: Alumni
                         <td class="px-6 py-3 text-slate-500 font-mono text-xs">2023-2025</td>
                         <td class="px-6 py-3 text-slate-600">LUMS University, Pakistan</td>
                     </tr>
+
+
+                    <!-- Dr Rebecka Isaksson -->
+                    <tr class="hover:bg-slate-50 transition">
+                        <td class="px-6 py-3">
+                            <div class="flex items-center gap-4">
+                                <img src="./pics/people/Rebecka_Isaksson2.jpg" class="w-12 h-12 rounded-full object-cover border border-slate-200" onerror="this.style.display='none'">
+                                <div>
+                                    <span class="font-medium text-slate-900 block">DDr Rebecka Isaksson</span>
+                                    <a href="https://www.linkedin.com/in/rebecka-isaksson-74418618/?originalSubdomain=uk" class="text-slate-400 hover:text-brand-primary"><i class="fab fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="px-6 py-3 text-slate-600">Postdoc</td>
+                        <td class="px-6 py-3 text-slate-500 font-mono text-xs">2023-2025</td>
+                        <td class="px-6 py-3 text-slate-600">-</td>
+                    </tr>
+
+
+                    <!-- Dr Eve Carter -->
+                    <tr class="hover:bg-slate-50 transition">
+                        <td class="px-6 py-3">
+                            <div class="flex items-center gap-4">
+                                <img src="./pics/people/Eve.jpg" class="w-12 h-12 rounded-full object-cover border border-slate-200" onerror="this.style.display='none'">
+                                <div>
+                                    <span class="font-medium text-slate-900 block">Dr Eve Carter</span>
+                                    <a href="https://www.linkedin.com/in/eve-carter-a59576153/" class="text-slate-400 hover:text-brand-primary"><i class="fab fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="px-6 py-3 text-slate-600">Postdoc</td>
+                        <td class="px-6 py-3 text-slate-500 font-mono text-xs">2022-2025</td>
+                        <td class="px-6 py-3 text-slate-600">-</td>
+                    </tr>
+                    
 
                     <!-- Dr Alvaro Magalhaes -->
                     <tr class="hover:bg-slate-50 transition">

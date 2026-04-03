@@ -33,18 +33,6 @@ title: Alumni
                     </tr>
                 </thead>
                 <tbody class="divide-y divide-slate-100 align-middle">
-                    <!-- Dr Rahman Saleem -->
-                    <tr class="hover:bg-slate-50 transition">
-                        <td class="px-6 py-3">
-                            <div class="flex items-center gap-4">
-                                <img src="./pics/people/RSaleem.jpg" class="w-12 h-12 rounded-full object-cover border border-slate-200" onerror="this.style.display='none'">
-                                <span class="font-medium text-slate-900">Dr Rahman Saleem</span>
-                            </div>
-                        </td>
-                        <td class="px-6 py-3 text-slate-600">READDI-AViDD Project Coordinator</td>
-                        <td class="px-6 py-3 text-slate-500 font-mono text-xs">2023-2025</td>
-                        <td class="px-6 py-3 text-slate-600">LUMS University, Pakistan</td>
-                    </tr>
 
 
                     <!-- Dr Rebecka Isaksson -->
@@ -60,7 +48,7 @@ title: Alumni
                         </td>
                         <td class="px-6 py-3 text-slate-600">Postdoc</td>
                         <td class="px-6 py-3 text-slate-500 font-mono text-xs">2023-2025</td>
-                        <td class="px-6 py-3 text-slate-600">-</td>
+                        <td class="px-6 py-3 text-slate-600">Project coordinator AI, Medical Products Agency Läkemedelsverket</td>
                     </tr>
 
 
@@ -77,7 +65,21 @@ title: Alumni
                         </td>
                         <td class="px-6 py-3 text-slate-600">Postdoc</td>
                         <td class="px-6 py-3 text-slate-500 font-mono text-xs">2022-2025</td>
-                        <td class="px-6 py-3 text-slate-600">-</td>
+                        <td class="px-6 py-3 text-slate-600">Postdoctoral Research Fellow, Imperial College London</td>
+                    </tr>
+
+                    
+                    <!-- Dr Rahman Saleem -->
+                    <tr class="hover:bg-slate-50 transition">
+                        <td class="px-6 py-3">
+                            <div class="flex items-center gap-4">
+                                <img src="./pics/people/RSaleem.jpg" class="w-12 h-12 rounded-full object-cover border border-slate-200" onerror="this.style.display='none'">
+                                <span class="font-medium text-slate-900">Dr Rahman Saleem</span>
+                            </div>
+                        </td>
+                        <td class="px-6 py-3 text-slate-600">READDI-AViDD Project Coordinator</td>
+                        <td class="px-6 py-3 text-slate-500 font-mono text-xs">2023-2025</td>
+                        <td class="px-6 py-3 text-slate-600">LUMS University, Pakistan</td>
                     </tr>
                     
 

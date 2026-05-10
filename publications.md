@@ -72,7 +72,7 @@ title: Publications
                         </li>
 
                         <li>
-                            <a href="https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002535/v1" class="font-bold text-brand-primary hover:underline block mb-1">An Integrated Workflow Comprising AI, Physics and Experiment: Discovery of Nanomolar-Potent Inhibitors, A. P. Bhati, S. Wan, H. H. Loeffler, M. Klähn, M. Bieniek, K. Liu, S. Ahmad, L. Halabelian, J. Dong, X. Zhang, M. Schapira, C. V. Simoben, J. Wozniak, K. Maheshwari, E. Stahlberg, D. V. Green, M. H. Todd, and P. V Coveney, <strong>2026</strong>, <em>(Preprint)</em>.
+                            <a href="https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002535/v1" class="font-bold text-brand-primary hover:underline block mb-1">An Integrated Workflow Comprising AI, Physics and Experiment: Discovery of Nanomolar-Potent Inhibitors</a>, A. P. Bhati, S. Wan, H. H. Loeffler, M. Klähn, M. Bieniek, K. Liu, S. Ahmad, L. Halabelian, J. Dong, X. Zhang, M. Schapira, C. V. Simoben, J. Wozniak, K. Maheshwari, E. Stahlberg, D. V. Green, M. H. Todd, and P. V Coveney, <strong>2026</strong>, <em>(Preprint)</em>.
                         </li>
                         
                         <li>

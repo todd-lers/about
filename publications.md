@@ -66,13 +66,13 @@ title: Publications
                         <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c02354" class="font-bold text-brand-primary hover:underline block mb-1">
                         Idler Compounds: A Simple Protocol for Openly Sharing Fridge Contents for Cross-Screening
                     </a>
-                    R. Isaksson, E. M. Carter, C. K. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, <em>J. Med. Chem.</em> <strong>2026</strong>, in press. ACS Editor's Choice Article. 
+                    R. Isaksson, E. M. Carter, C. K. Hind, J. M. Sutton, H. Rudgyard, A. H. Roberts, C. W. Moon, Y. Wang, Todd Group Researchers, S. Codony, A. L. Martínez, J. Bacon and M. H. Todd, <em>J. Med. Chem.</em> <strong>2026</strong>, <em>69</em>, 2453–2461. ACS Editor's Choice Article. 
                     Featured in <a href="https://cen.acs.org/pharmaceuticals/drug-discovery/put-drug-leads-forgotten-freezer/104/web/2026/01" class="text-brand-primary hover:underline">C&ENews</a>.
                 
                         </li>
 
                         <li>
-                            An Integrated Workflow Comprising AI, Physics and Experiment: Discovery of Nanomolar-Potent Inhibitors, A. P. Bhati, S. Wan, H. H. Loeffler, M. Klähn, M. Bieniek, K. Liu, S. Ahmad, L. Halabelian, J. Dong, X. Zhang, M. Schapira, C. V. Simoben, J. Wozniak, K. Maheshwari, E. Stahlberg, D. V. Green, M. H. Todd, and P. V Coveney, <strong>2026</strong>, <em>[Preprint](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002535/v1)</em>.
+                            <a href="https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002535/v1" class="font-bold text-brand-primary hover:underline block mb-1">An Integrated Workflow Comprising AI, Physics and Experiment: Discovery of Nanomolar-Potent Inhibitors, A. P. Bhati, S. Wan, H. H. Loeffler, M. Klähn, M. Bieniek, K. Liu, S. Ahmad, L. Halabelian, J. Dong, X. Zhang, M. Schapira, C. V. Simoben, J. Wozniak, K. Maheshwari, E. Stahlberg, D. V. Green, M. H. Todd, and P. V Coveney, <strong>2026</strong>, <em>(Preprint)</em>.
                         </li>
                         
                         <li>

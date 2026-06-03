@@ -70,7 +70,13 @@ title: Publications
                     Featured in <a href="https://cen.acs.org/pharmaceuticals/drug-discovery/put-drug-leads-forgotten-freezer/104/web/2026/01" class="text-brand-primary hover:underline">C&ENews</a>.
                 
                         </li>
-
+                        <li>
+                            <a href="[https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c02354](https://doi.org/10.1093/humrep/deag085)" class="font-bold text-brand-primary hover:underline block mb-1">
+                        ABHD2 activity is Not Required for the Non-genomic Action of Progesterone on Human Sperm
+                    </a>
+                            M. Edwards, A. Amaral, E. M. Carter, O. Arnolds, K. Vester, A. Thrun, E. Wigren, E. Homan, P. Ribera, K. Bentley, M. Haraldsson, N. Theo-Emegano, P. Loppnau, M. M. Szewczyk, M. A. Cao, D. Barsyte-Lovejoy, N. Dittmar, A. Hans, M. Weber, J. Münchow, W. F. Zhu, L. Temme, C. Brenker, T. Strünker, M. Sundström, M. H. Todd, A. M. Edwards, R. Lesche, O. Gileadi, C. Tredup, <em>Human Reprod.</em> <strong>2026</strong>, <em>deag085</em>.
+                            <a href="https://biorxiv.org/cgi/content/short/2024.12.17.628646v1" class="text-brand-primary font-bold hover:underline ml-1">[Preprint]</a>
+                        </li>
                         <li>
                             <a href="https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002535/v1" class="font-bold text-brand-primary hover:underline block mb-1">An Integrated Workflow Comprising AI, Physics and Experiment: Discovery of Nanomolar-Potent Inhibitors</a>, A. P. Bhati, S. Wan, H. H. Loeffler, M. Klähn, M. Bieniek, K. Liu, S. Ahmad, L. Halabelian, J. Dong, X. Zhang, M. Schapira, C. V. Simoben, J. Wozniak, K. Maheshwari, E. Stahlberg, D. V. Green, M. H. Todd, and P. V Coveney, <strong>2026</strong>, <em>(Preprint)</em>.
                         </li>
@@ -135,11 +141,6 @@ title: Publications
             <div id="content-2024" class="accordion-content active">
                 <div class="accordion-inner">
                     <ul class="space-y-6 py-6 px-2 text-base leading-relaxed text-slate-600 list-none pl-0">
-                        <li>
-                            <span class="font-bold text-slate-900 block mb-1">ABHD2 Activity is Not Required for the Non-genomic Action of Progesterone on Human Sperm</span>
-                            O. Arnolds, E. M. Carter, M. Edwards, E. Wigren, E. Homan, P. Ribera, K. Bentley, M. Haraldsson, N. Theo-Emegano, P. Loppnau, M. M. Szewczyk, M. A. Cao, D. Barsyte-Lovejoy, K. Vester, A. Thrun, R. Lesche, J. Münchow, W. F. Zhu, L. Temme, C. Brenker, T. Strünker, M. Sundström, M. H. Todd, A. M. Edwards, C. Tredup, O. Gileadi, <em>submitted</em>. 
-                            <a href="https://biorxiv.org/cgi/content/short/2024.12.17.628646v1" class="text-brand-primary font-bold hover:underline ml-1">[Preprint]</a>
-                        </li>
                         <li>
                             <a href="https://doi.org/10.1021/acsmedchemlett.4c00131" class="font-bold text-brand-primary hover:underline block mb-1">Open Source Code Contributions to Global Health – the Case of Antimalarial Drug Discovery</a>
                             G. Turon, E. G. Tse, X. Qiu, M. H. Todd and M. Duran-Frigola, <em>ACS Med. Chem. Lett.</em> <strong>2024</strong>, <em>15</em> 1645–1650.
